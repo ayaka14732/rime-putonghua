@@ -1,0 +1,169 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: putonghua
+  name: 普通话拼音
+  version: "2020.08.13"
+  author:
+    - Ayaka Mikazuki <ayaka@mail.shn.hk>
+  description: |-
+    普通话拼音，有声调版。
+    本方案特性如下。
+    基本输入：按照标准普通话拼音输入
+    声调输入：输入拼音后可加 [, ], ;, / 表示四声，降低重码率
+    Emoji 输入：在选单中选择「有 Emoji」模式开启
+    流行语输入：预置中国大陆网络流行语，如「蓝瘦香菇」、「吃枣药丸」
+    符号输入：预置特殊符号，如 ⅓（三分之一）、¥（人民币）
+    简繁转换：利用 OpenCC 进行基本的简繁转换，在选单中选择「繁體」模式开启
+    百度云输入：按 Ctrl + t 触发，不按键时不触发
+    两分反查：按 ` 键进入两分输入，如 caofu 输入「苻」
+    笔画反查：按 v 键进入笔画输入，以横竖撇捺折 (hspnz) 五键输入汉字
+  dependencies:
+    - liangfen
+    - stroke
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 简体, 繁體 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  - name: emoji_suggestion
+    states: [ 无 Emoji, 有 Emoji ]
+  - name: symbolic_simp
+    reset: 1
+    states: [ 无符号, 有符号 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+    - lua_processor@baidu_processor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@liangfen
+    - affix_segmentor@stroke
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - script_translator@liangfen
+    - table_translator@stroke
+    - lua_translator@baidu_translator
+  filters:
+    - simplifier
+    - simplifier@emoji_suggestion
+    - simplifier@symbolic_simp
+    - uniquifier
+    - reverse_lookup_filter@reverse_lookup_filter_main
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba[];/
+  initials: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - derive/[1-4]//                      # 忽略聲調
+    - abbrev ^([a-z]).+$ $1               # 首字母簡拼
+    - abbrev ^(zh|ch|sh).+$ $1            # 首2字母簡拼
+    - abbrev ^([a-z]).+([1234])$ $1$2     # 首字母+声调簡拼
+    - abbrev ^(zh|ch|sh).+([1234])$ $1$2  # 首2字母+声调簡拼
+    - xlit 1234 [];/                      # 将声调对应到键位
+
+translator:
+  dictionary: putonghua
+  spelling_hints: 1
+  preedit_format:
+    - xlit [];/ ˉˊˇˋ
+  comment_format: &comment_format
+    - "xform (?<![1-4])$ \u200b"  # 强制同形字符串显示拼音
+
+    - xform ([aeiou])(ng?|r)([1234]) $1$3$2
+    - xform ([aeo])([iuo])([1234]) $1$3$2
+    - xform a1 ā
+    - xform a2 á
+    - xform a3 ǎ
+    - xform a4 à
+    - xform e1 ē
+    - xform e2 é
+    - xform e3 ě
+    - xform e4 è
+    - xform o1 ō
+    - xform o2 ó
+    - xform o3 ǒ
+    - xform o4 ò
+    - xform i1 ī
+    - xform i2 í
+    - xform i3 ǐ
+    - xform i4 ì
+    - xform u1 ū
+    - xform u2 ú
+    - xform u3 ǔ
+    - xform u4 ù
+    - xform v1 ǖ
+    - xform v2 ǘ
+    - xform v3 ǚ
+    - xform v4 ǜ
+    - xform (?<=[nljqx])v ü
+
+liangfen:
+  tag: liangfen
+  dictionary: liangfen
+  prefix: "`"
+  suffix: ";"
+  tips: 〔两分〕
+
+stroke:
+  tag: stroke
+  dictionary: stroke
+  prefix: "v"
+  suffix: ";"
+  tips: 〔笔画〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+
+reverse_lookup_filter_main:
+  tags: [ liangfen, stroke ]
+  overwrite_comment: false
+  dictionary: putonghua
+  comment_format: *comment_format
+
+simplifier:
+  option_name: simplification
+  opencc_config: s2hk.json
+  tags: [ abc ]
+
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: all
+
+symbolic_simp:
+  opencc_config: symbolic_simp.json
+  option_name: symbolic_simp
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+    liangfen: "`[a-z']*;?$"
+    stroke: "^v[hspnz]*;?$"

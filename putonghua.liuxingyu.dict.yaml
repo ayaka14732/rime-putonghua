@@ -1,0 +1,1808 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 数据来源：
+# 参考了维基百科 (https://zh.wikipedia.org/zh-cn/中国大陆网络用语列表)，
+# 使用 pypinyin 标注拼音
+
+---
+name: putonghua.liuxingyu
+version: "2020.08.13"
+sort: by_weight
+...
+
+阿短	a1 duan3
+阿莲	a1 lian2
+阿亮	a1 liang4
+哀殿	ai1 dian4
+挨踢	ai1 ti1
+矮凳	ai3 deng4
+矮油	ai3 you2
+爱疯	ai4 feng1
+艾玛	ai4 ma3
+安吧	an1 ba
+安胖	an1 pang4
+俺也	an3 ye3
+暗耻	an4 chi3
+暗荣	an4 rong2
+奥黑	ao4 hei1
+奥胖	ao4 pang4
+白给	bai2 gei3
+白毛	bai2 mao2
+白左	bai2 zuo3
+百毒	bai3 du2
+版宠	ban3 chong3
+板斧	ban3 fu3
+版聊	ban3 liao2
+半羽	ban4 yu3
+包皇	bao1 huang2
+包圣	bao1 sheng4
+薄督	bao2 du1
+爆吧	bao4 ba
+暴兵	bao4 bing1
+爆尿	bao4 niao4
+北鼻	bei3 bi2
+背杀	bei4 sha1
+奔三	ben1 san1
+本攻	ben3 gong1
+逼乎	bi1 hu1
+碧池	bi4 chi2
+鞭尸	bian1 shi1
+婊吧	biao3 ba
+冰镐	bing1 gao3
+饼王	bing3 wang2
+不薄	bu4 bao2
+不厚	bu4 hou4
+擦航	ca1 hang2
+才帝	cai2 di4
+彩蛋	cai3 dan4
+菜包	cai4 bao1
+菜航	cai4 hang2
+曹总	cao2 zong3
+草包	cao3 bao1
+层主	ceng2 zhu3
+叉屁	cha1 pi4
+拆吧	chai1 ba
+常公	chang2 gong1
+厂公	chang3 gong1
+炒鸡	chao3 ji1
+车吧	che1 ba
+车神	che1 shen2
+车震	che1 zhen4
+撤硕	che4 shuo4
+撤锁	che4 suo3
+陈睿	chen2 rui4
+橙厂	cheng2 chang3
+吃鸡	chi1 ji1
+虫也	chong2 ye3
+川普	chuan1 pu3
+穿墙	chuan1 qiang2
+床破	chuang2 po4
+锤锤	chui2 chui2
+锤神	chui2 shen2
+蠢妃	chun3 fei1
+次奥	ci4 ao4
+催更	cui1 geng4
+龘龘	da2 da2
+打脸	da3 lian3
+大触	da4 chu4
+大贞	da4 zhen1
+蛋定	dan4 ding4
+蛋拐	dan4 guai3
+蛋疼	dan4 teng2
+德棍	de2 gun4
+登哥	deng1 ge1
+帝吧	di4 ba
+点艹	dian3 cao3
+电鱼	dian4 yu2
+刁总	diao1 zong3
+屌丝	diao3 si1
+东哥	dong1 ge1
+东尼	dong1 ni2
+懂帝	dong3 di4
+懂王	dong3 wang2
+冻蒜	dong4 suan4
+豆奶	dou4 nai3
+毒菜	du2 cai4
+毒奶	du2 nai3
+度娘	du4 niang2
+度熊	du4 xiong2
+惇哥	dun1 ge1
+多龙	duo1 long2
+鹅厂	e2 chang3
+厄祖	e4 zu3
+二吧	er4 ba
+二凤	er4 feng4
+二共	er4 gong4
+二狗	er4 gou3
+二哈	er4 ha1
+二毛	er4 mao2
+法克	fa3 ke4
+翻墙	fan1 qiang2
+反王	fan3 wang2
+饭大	fan4 da4
+房叔	fang2 shu1
+非酋	fei1 qiu2
+非提	fei1 ti2
+肥电	fei2 dian4
+肥蓬	fei2 peng2
+肥仔	fei2 zai3
+废萌	fei4 meng2
+废青	fei4 qing1
+废渣	fei4 zha1
+坟帖	fen2 tie1
+粪坑	fen4 keng1
+钙片	gai4 pian4
+赶脚	gan3 jiao3
+杠精	gang1 jing1
+港残	gang3 can2
+港灿	gang3 can4
+港咸	gang3 xian2
+葛贼	ge2 zei2
+给跪	gei3 gui4
+宫吧	gong1 ba
+工口	gong1 kou3
+工千	gong1 qian1
+工贼	gong1 zei2
+狗带	gou3 dai4
+狗游	gou3 you2
+辜狗	gu1 gou3
+瓜屌	gua1 diao3
+瓜爹	gua1 die1
+观海	guan1 hai3
+光腚	guang1 ding4
+广隶	guang3 li4
+龟安	gui1 an1
+龟少	gui1 shao3
+龟刷	gui1 shua1
+国粉	guo2 fen3
+国母	guo2 mu3
+国师	guo2 shi1
+国猪	guo2 zhu1
+果党	guo3 dang3
+果粉	guo3 fen3
+裹足	guo3 zu2
+哈维	ha1 wei2
+蛤蛤	ha2 ha2
+嗨森	hai1 sen1
+韩导	han2 dao3
+韩秃	han2 tu1
+航妈	hang2 ma1
+郝董	hao3 dong3
+赫姐	he4 jie3
+黑鬼	hei1 gui3
+黑丝	hei1 si1
+黑鱼	hei1 yu2
+亨队	heng1 dui4
+猴版	hou2 ban3
+猴大	hou2 da4
+猴二	hou2 er4
+猴米	hou2 mi3
+胡哥	hu2 ge1
+花驰	hua1 chi2
+花帅	hua1 shuai4
+嬛嬛	huan2 huan2
+缓则	huan3 ze2
+皇汉	huang2 han4
+蝗旱	huang2 han4
+蝗汉	huang2 han4
+黄尸	huang2 shi1
+黄丝	huang2 si1
+黄易	huang2 yi4
+黄章	huang2 zhang1
+婚驴	hun1 lv2
+魂淡	hun2 dan4
+鸡动	ji1 dong4
+基三	ji1 san1
+基友	ji1 you3
+姬友	ji1 you3
+季鹍	ji4 kun1
+妓者	ji4 zhe3
+夹狗	jia1 gou3
+夹总	jia1 zong3
+监国	jian1 guo2
+舰娘	jian4 niang2
+蒋匪	jiang3 fei3
+蒋公	jiang3 gong1
+叫兽	jiao4 shou4
+今上	jin1 shang4
+精分	jing1 fen1
+精日	jing1 ri4
+井蛙	jing3 wa1
+巨硬	ju4 ying4
+爵爷	jue2 ye2
+卡婊	ka3 biao3
+糠稀	kang1 xi1
+氪金	ke4 jin1
+抠抠	kou1 kou1
+口胡	kou3 hu2
+口球	kou3 qiu2
+口区	kou3 qu1
+扣扣	kou4 kou4
+库昊	ku4 hao4
+阔以	kuo4 yi3
+拉影	la1 ying3
+蓝苹	lan2 ping2
+烂党	lan4 dang3
+烂铁	lan4 tie3
+烂尾	lan4 wei3
+狼厂	lang2 chang3
+狼族	lang2 zu2
+浪国	lang4 guo2
+牢厂	lao2 chang3
+老逼	lao3 bi1
+老滚	lao3 gun3
+勒妈	lei1 ma1
+李屌	li3 diao3
+李二	li3 er4
+莲妹	lian2 mei4
+蠊相	lian2 xiang1
+脸刹	lian3 sha1
+炼铜	lian4 tong2
+两洞	liang3 dong4
+刘耷	liu2 da1
+流啤	liu2 pi2
+六龙	liu4 long2
+六字	liu4 zi4
+撸瑟	lu1 se4
+卢瑟	lu2 se4
+罗屌	luo2 diao3
+罗总	luo2 zong3
+驴能	lv2 neng2
+绿地	lv4 de
+绿教	lv4 jiao4
+绿绿	lv4 lv4
+绿毛	lv4 mao2
+绿蛆	lv4 qu1
+马润	ma3 run4
+卖肉	mai4 rou4
+满塞	man3 sai1
+满遗	man3 yi2
+螨遗	man3 yi2
+曼狗	man4 gou3
+曼抬	man4 tai2
+毛轮	mao2 lun2
+毛妹	mao2 mei4
+毛修	mao2 xiu1
+毛子	mao2 zi
+毛左	mao2 zuo3
+耄修	mao4 xiu1
+霉狗	mei2 gou3
+霉霉	mei2 mei2
+煤球	mei2 qiu2
+霉体	mei2 ti3
+梅姨	mei2 yi2
+美狗	mei3 gou3
+镁铝	mei3 lv3
+美提	mei3 ti2
+媚娘	mei4 niang2
+妹纸	mei4 zhi3
+萌神	meng2 shen2
+萌新	meng2 xin1
+米屌	mi3 diao3
+免煮	mian3 zhu3
+庙大	miao4 da4
+岷王	min2 wang2
+民猪	min2 zhu1
+民煮	min2 zhu3
+皿煮	min3 zhu3
+魔笛	mo2 di2
+莫妈	mo4 ma1
+某宝	mou3 bao3
+木仓	mu4 cang1
+木口	mu4 kou3
+木鸟	mu4 niao3
+拿皇	na2 huang2
+拿三	na2 san1
+纳吧	na4 ba
+娜四	na4 si4
+纳杂	na4 za2
+男票	nan2 piao4
+脑补	nao3 bu3
+脑斧	nao3 fu3
+内少	nei4 shao3
+倪哥	ni2 ge1
+尼哥	ni2 ge1
+泥煤	ni2 mei2
+你管	ni3 guan3
+逆袭	ni4 xi2
+娘炮	niang2 pao4
+鸟妃	niao3 fei1
+鸟叔	niao3 shu1
+鸟台	niao3 tai2
+牛屄	niu2 bi1
+牛村	niu2 cun1
+牛剑	niu2 jian4
+牛叡	niu2 rui4
+农企	nong2 qi3
+挊管	nong4 guan3
+暖男	nuan3 nan2
+哦呦	o2 you1
+欧巴	ou1 ba1
+欧皇	ou1 huang2
+欧提	ou1 ti2
+胖达	pang4 da2
+抛砖	pao1 zhuan1
+炮党	pao4 dang3
+炮哥	pao4 ge1
+炮姐	pao4 jie3
+炮狙	pao4 ju1
+喷子	pen1 zi
+盆大	pen2 da4
+盆友	pen2 you3
+批站	pi1 zhan4
+痞大	pi3 da4
+屁民	pi4 min2
+平成	ping2 cheng2
+弃坑	qi4 keng1
+泣台	qi4 tai2
+拤管	qia2 guan3
+恰饭	qia4 fan4
+强退	qiang2 tui4
+抢楼	qiang3 lou2
+抢铁	qiang3 tie3
+切龟	qie4 gui1
+丘胖	qiu1 pang4
+蛆化	qu1 hua4
+蛆窝	qu1 wo1
+犬科	quan3 ke1
+犬系	quan3 xi4
+热翔	re4 xiang2
+任婊	ren4 biao3
+日杂	ri4 za2
+肉粥	rou4 zhou1
+软妹	ruan3 mei4
+睿国	rui4 guo2
+撒币	sa1 bi4
+三棒	san1 bang4
+三虎	san1 hu3
+三丧	san1 sang4
+三爽	san1 shuang3
+丧戆	sang4 gang4
+骚花	sao1 hua1
+骚年	sao1 nian2
+沙雕	sha1 diao1
+鲨了	sha1 le
+杀神	sha1 shen2
+少酱	shao3 jiang4
+深银	shen1 yin2
+神车	shen2 che1
+神龟	shen2 gui1
+神刘	shen2 liu2
+肾板	shen4 ban3
+肾果	shen4 guo3
+肾机	shen4 ji1
+生肉	sheng1 rou4
+生软	sheng1 ruan3
+实锤	shi2 chui2
+屎报	shi3 bao4
+屎窝	shi3 wo1
+世祖	shi4 zu3
+熟肉	shu2 rou4
+刷版	shua1 ban3
+帅锅	shuai4 guo1
+水屄	shui3 bi1
+水逼	shui3 bi1
+水比	shui3 bi3
+水狗	shui3 gou3
+水王	shui3 wang2
+水友	shui3 you3
+撕逼	si1 bi1
+四靠	si4 kao4
+四毛	si4 mao2
+苏妈	su1 ma1
+素鸡	su4 ji1
+梭子	suo1 zi
+塔木	ta3 mu4
+抬联	tai2 lian2
+太君	tai4 jun1
+太孙	tai4 sun1
+涛哥	tao1 ge1
+疼讯	teng2 xun4
+疼逊	teng2 xun4
+锑度	ti1 du4
+甜瓜	tian2 gua1
+填坑	tian2 keng1
+田牌	tian2 pai2
+田社	tian2 she4
+舔地	tian3 de
+舔狗	tian3 gou3
+跳坑	tiao4 keng1
+铁王	tie3 wang2
+婷姐	ting2 jie3
+图吧	tu2 ba
+土澳	tu3 ao4
+吐槽	tu3 cao2
+兔吧	tu4 ba
+兔杂	tu4 za2
+挖坟	wa1 fen2
+歪楼	wai1 lou2
+湾狗	wan1 gou3
+湾湾	wan1 wan1
+挽尊	wan3 zun1
+王局	wang2 ju2
+王师	wang2 shi1
+网红	wang3 hong2
+网特	wang3 te4
+微共	wei1 gong4
+威少	wei1 shao3
+维阿	wei2 a1
+围脖	wei2 bo2
+魏姐	wei4 jie3
+瘟妻	wen1 qi1
+温总	wen1 zong3
+蜗壳	wo1 ke2
+我毛	wo3 mao2
+吾皇	wu2 huang2
+吴克	wu2 ke4
+舞带	wu3 dai4
+伍豪	wu3 hao2
+五黄	wu3 huang2
+五菱	wu3 ling2
+武穆	wu3 mu4
+吸猫	xi1 mao1
+吸兔	xi1 tu4
+席八	xi2 ba1
+洗版	xi3 ban3
+洗地	xi3 de
+戏精	xi4 jing1
+吓尿	xia4 niao4
+项王	xiang4 wang2
+屑站	xie4 zhan4
+新酱	xin1 jiang4
+修仙	xiu1 xian1
+逊雷	xun4 lei2
+涯叔	ya2 shu1
+亚帝	ya4 di4
+亚提	ya4 ti2
+颜值	yan2 zhi2
+杨二	yang2 er4
+幺洞	yao1 dong4
+易帝	yi4 di4
+逸国	yi4 guo2
+艺祖	yi4 zu3
+因航	yin1 hang2
+硬核	ying4 he2
+优吐	you1 tu3
+油管	you2 guan3
+有料	you3 liao4
+鱼唇	yu2 chun2
+元根	yuan2 gen1
+袁叡	yuan2 rui4
+猿首	yuan2 shou3
+远哭	yuan3 ku1
+曱甴	yue1 zha2
+月昔	yue4 xi1
+云妹	yun2 mei4
+渣浪	zha1 lang4
+渣雷	zha1 lei2
+扎心	zha1 xin1
+宅女	zhai2 nv3
+詹皇	zhan1 huang2
+战吧	zhan4 ba
+战爹	zhan4 die1
+杖哥	zhang4 ge1
+丈育	zhang4 yu4
+招核	zhao1 he2
+赵大	zhao4 da4
+赵二	zhao4 er4
+赵狗	zhao4 gou3
+赵九	zhao4 jiu3
+真经	zhen1 jing1
+真刘	zhen1 liu2
+真香	zhen1 xiang1
+直男	zhi2 nan2
+郅尊	zhi4 zun1
+周相	zhou1 xiang1
+猪厂	zhu1 chang3
+猪仔	zhu1 zai3
+拽大	zhuai1 da4
+砖妃	zhuan1 fei1
+砖家	zhuan1 jia1
+转进	zhuan3 jin4
+捉鸡	zhuo1 ji1
+捉急	zhuo1 ji2
+滋油	zi1 you2
+走你	zou3 ni3
+祖安	zu3 an1
+祖龙	zu3 long2
+作死	zuo4 si3
+阿嘎西	a1 ga1 xi1
+阿加西	a1 jia1 xi1
+阿毛里	a1 mao2 li3
+阿婆主	a1 po2 zhu3
+阿西吧	a1 xi1 ba
+哀女王	ai1 nv3 wang2
+埃苏丹	ai1 su1 dan1
+矮穷挫	ai3 qiong2 cuo4
+爱国菊	ai4 guo2 ju2
+爱国为	ai4 guo2 wei4
+安小鸟	an1 xiao3 niao3
+按摩店	an4 mo2 dian4
+奥尔班	ao4 er3 ban1
+奥观海	ao4 guan1 hai3
+奥青天	ao4 qing1 tian1
+八千党	ba1 qian1 dang3
+耙耳朵	ba4 er3 duo3
+白富美	bai2 fu4 mei3
+白海豚	bai2 hai3 tun2
+白裤衩	bai2 ku4 cha3
+白莲花	bai2 lian2 hua1
+白皮猪	bai2 pi2 zhu1
+白贼义	bai2 zei2 yi4
+白斩鸡	bai2 zhan3 ji1
+白主席	bai2 zhu3 xi2
+半端哥	ban4 duan1 ge1
+包黑炭	bao1 hei1 tan4
+包黑子	bao1 hei1 zi
+包子哥	bao1 zi ge1
+保洁哥	bao3 jie2 ge1
+宝洁哥	bao3 jie2 ge1
+爆炸迪	bao4 zha4 di2
+鲍中堂	bao4 zhong1 tang2
+背背山	bei4 bei4 shan1
+被续了	bei4 xu4 le
+鼻屎哥	bi2 shi3 ge1
+标题党	biao1 ti2 dang3
+表碧莲	biao3 bi4 lian2
+裱糊匠	biao3 hu2 jiang4
+别摸我	bie2 mo1 wo3
+冰阔落	bing1 kuo4 luo4
+并夕夕	bing4 xi1 xi1
+玻璃渣	bo1 li zha1
+博格巴	bo2 ge2 ba1
+勃起来	bo2 qi3 lai2
+不可爱	bu4 ke3 ai4
+彩虹社	cai3 hong2 she4
+菜菜子	cai4 cai4 zi
+蔡国庆	cai4 guo2 qing4
+蔡棋手	cai4 qi2 shou3
+蔡省长	cai4 sheng3 zhang3
+蔡同志	cai4 tong2 zhi4
+曹丞相	cao2 cheng2 xiang4
+曹科长	cao2 ke1 zhang3
+曹老板	cao2 lao3 ban3
+厕所哥	ce4 suo3 ge1
+曾剃头	ceng2 ti4 tou2
+查大锤	cha2 da4 chui2
+查水表	cha2 shui3 biao3
+常公公	chang2 gong1 gong1
+常凯申	chang2 kai3 shen1
+长跑帝	chang2 pao3 di4
+抄答案	chao1 da2 an4
+抄作业	chao1 zuo4 ye4
+朝廷台	chao2 ting2 tai2
+炒杂碎	chao3 za2 sui4
+陈痴汉	chen2 chi1 han4
+陈临棺	chen2 lin2 guan1
+陈灵棺	chen2 ling2 guan1
+陈子瑛	chen2 zi ying1
+成洛马	cheng2 luo4 ma3
+赤果果	chi4 guo3 guo3
+丑女座	chou3 nv3 zuo4
+川建国	chuan1 jian4 guo2
+川主席	chuan1 zhu3 xi2
+慈老妖	ci2 lao3 yao1
+窜天猴	cuan4 tian1 hou2
+村通网	cun1 tong1 wang3
+打滚帝	da3 gun3 di4
+打酱油	da3 jiang4 you2
+打快板	da3 kuai4 ban3
+大巴队	da4 ba1 dui4
+大八粒	da4 ba1 li4
+大菠萝	da4 bo1 luo2
+大抽风	da4 chou1 feng1
+大嘟嘟	da4 du1 du1
+大都督	da4 du1 du1
+大耳贼	da4 er3 zei2
+大和尚	da4 he2 shang4
+大黑星	da4 hei1 xing1
+大妓院	da4 ji4 yuan4
+大喇叭	da4 la3 ba1
+大老虎	da4 lao3 hu3
+大林子	da4 lin2 zi
+大撒币	da4 sa1 bi4
+大三亿	da4 san1 yi4
+大杀器	da4 sha1 qi4
+大鲨鱼	da4 sha1 yu2
+大数字	da4 shu4 zi4
+大统领	da4 tong3 ling3
+大于天	da4 yu2 tian1
+大月饼	da4 yue4 bing3
+大嘴文	da4 zui3 wen2
+逮虾户	dai3 xia1 hu4
+带路党	dai4 lu4 dang3
+带师兄	dai4 shi1 xiong1
+袋鼠国	dai4 shu3 guo2
+带孝子	dai4 xiao4 zi
+带鱼侯	dai4 yu2 hou2
+裆中央	dang1 zhong1 yang1
+挡中央	dang3 zhong1 yang1
+刀男人	dao1 nan2 ren2
+道德姐	dao4 de2 jie3
+稻上飞	dao4 shang4 fei1
+邓矮子	deng4 ai3 zi
+邓大人	deng4 da4 ren2
+邓坦克	deng4 tan3 ke4
+邓总湿	deng4 zong3 shi1
+狄大人	di2 da4 ren2
+狄神探	di2 shen2 tan4
+地沟油	di4 gou1 you2
+地雷阵	di4 lei2 zhen4
+地图炮	di4 tu2 pao4
+地图头	di4 tu2 tou2
+电话队	dian4 hua4 dui4
+刁大大	diao1 da4 da4
+刁大犬	diao1 da4 quan3
+叼飞盘	diao1 fei1 pan2
+顶个球	ding3 ge4 qiu2
+咚咚锵	dong1 dong1 qiang1
+董先生	dong3 xian1 sheng1
+董摇摇	dong3 yao2 yao2
+动物流	dong4 wu4 liu2
+抖机灵	dou3 ji1 ling2
+豆芽菜	dou4 ya2 cai4
+读稿姬	du2 gao3 ji1
+读稿机	du2 gao3 ji1
+杜软特	du4 ruan3 te4
+杜特软	du4 te4 ruan3
+杜月笙	du4 yue4 sheng1
+断触鲨	duan4 chu4 sha1
+剁手党	duo4 shou3 dang3
+剁手兴	duo4 shou3 xing4
+剁头派	duo4 tou2 pai4
+耳环教	er3 huan2 jiao4
+二毛妹	er4 mao2 mei4
+二师兄	er4 shi1 xiong1
+二十年	er4 shi2 nian2
+二踢脚	er4 ti1 jiao3
+发愣功	fa1 leng4 gong1
+法克鱿	fa3 ke4 you2
+法老国	fa3 lao3 guo2
+番茄台	fan1 qie2 tai2
+饭得饱	fan4 de2 bao3
+放卫星	fang4 wei4 xing1
+放羊娃	fang4 yang2 wa2
+飞盘胡	fei1 pan2 hu2
+非洲人	fei1 zhou1 ren2
+斐迪北	fei3 di2 bei3
+肺炎康	fei4 yan2 kang1
+焚化部	fen2 hua4 bu4
+粉红站	fen3 hong2 zhan4
+粪坑蛆	fen4 keng1 qu1
+风清扬	feng1 qing1 yang2
+缝合怪	feng2 he2 guai4
+凤凰男	feng4 huang2 nan2
+伏地魔	fu2 di4 mo2
+扶弟魔	fu2 di4 mo2
+弗爵爷	fu2 jue2 ye2
+复读机	fu4 du2 ji1
+富少康	fu4 shao3 kang1
+噶韭菜	ga2 jiu3 cai4
+改开党	gai3 kai1 dang3
+钢砸门	gang1 za2 men2
+钢闸门	gang1 zha2 men2
+高富帅	gao1 fu4 shuai4
+高红包	gao1 hong2 bao1
+高甲鱼	gao1 jia3 yu2
+高丽高	gao1 li2 gao1
+高阻绿	gao1 zu3 lv4
+郜飞机	gao4 fei1 ji1
+哥带刀	ge1 dai4 dao1
+戈地图	ge1 di4 tu2
+鸽子仪	ge1 zi yi2
+葛二蛋	ge2 er4 dan4
+给他爱	gei3 ta1 ai4
+耿五球	geng3 wu3 qiu2
+功夫网	gong1 fu1 wang3
+公主紫	gong1 zhu3 zi3
+巩汉林	gong3 han4 lin2
+共残党	gong4 can2 dang3
+共惨党	gong4 can3 dang3
+狗管理	gou3 guan3 li3
+狗民党	gou3 min2 dang3
+咕咕咕	gu1 gu1 gu1
+骨头社	gu2 tou she4
+骨头鹰	gu2 tou ying1
+古月帝	gu3 yue4 di4
+瓜丢啦	gua1 diu1 la
+刮民党	gua1 min2 dang3
+挂路灯	gua4 lu4 deng1
+怪蜀黍	guai4 shu3 shu3
+棺材帝	guan1 cai2 di4
+棺材哥	guan1 cai2 ge1
+棺材铺	guan1 cai2 pu4
+关二爷	guan1 er4 ye2
+光头强	guang1 tou2 qiang2
+光头瑜	guang1 tou2 yu2
+光头鱼	guang1 tou2 yu2
+轨道炮	gui3 dao4 pao4
+跪台办	gui4 tai2 ban4
+郭锤锤	guo1 chui2 chui2
+郭少康	guo1 shao3 kang1
+国王董	guo2 wang2 dong3
+过清明	guo4 qing1 ming2
+哈基石	ha1 ji1 shi2
+哈拉咻	ha1 la1 xiu1
+哈耶普	ha1 ye2 pu3
+哈耶斯	ha1 ye2 si1
+海景房	hai3 jing3 fang2
+憨狗鱼	han1 gou3 yu2
+韩草包	han2 cao3 bao1
+含狗鱼	han2 gou3 yu2
+韩狗鱼	han2 gou3 yu2
+韩光头	han2 guang1 tou2
+韩国鱼	han2 guo2 yu2
+韩泼皮	han2 po1 pi2
+韩泼五	han2 po1 wu3
+韩少康	han2 shao3 kang1
+韩四靠	han2 si4 kao4
+韩天台	han2 tian1 tai1
+韩秃子	han2 tu1 zi
+韩总机	han2 zong3 ji1
+郝建国	hao3 jian4 guo2
+郝总统	hao3 zong3 tong3
+和平教	he2 ping2 jiao4
+河文档	he2 wen2 dang4
+和谐帝	he2 xie2 di4
+河蟹帝	he2 xie4 di4
+赫秃子	he4 tu1 zi
+黑曼巴	hei1 man4 ba1
+黑墨绿	hei1 mo4 lv4
+黑穆三	hei1 mu4 san1
+红常在	hong2 chang2 zai4
+红贵人	hong2 gui4 ren2
+洪教主	hong2 jiao4 zhu3
+红裤衩	hong2 ku4 cha3
+红太阳	hong2 tai4 yang2
+厚将军	hou4 jiang1 jun1
+后头丑	hou4 tou chou3
+胡和谐	hu2 he2 xie2
+胡核心	hu2 he2 xin1
+胡紧掏	hu2 jin3 tao1
+狐狸台	hu2 li2 tai2
+胡棉铸	hu2 mian2 zhu4
+胡乔丹	hu2 qiao2 dan1
+胡三炮	hu2 san1 pao4
+护舒宝	hu4 shu1 bao3
+花公公	hua1 gong1 gong1
+划重点	hua4 zhong4 dian3
+黄木匠	huang2 mu4 jiang4
+黄卫兵	huang2 wei4 bing1
+毁三观	hui3 san1 guan1
+火箭人	huo3 jian4 ren2
+火乍药	huo3 zha4 yao4
+霍明灯	huo4 ming2 deng1
+基佬紫	ji1 lao3 zi3
+鸡肉饭	ji1 rou4 fan4
+集训队	ji2 xun4 dui4
+祭央乂	ji4 yang1 yi4
+夹主席	jia1 zhu3 xi2
+假男疯	jia3 nan2 feng1
+奸笑脸	jian1 xiao4 lian3
+奸笑社	jian1 xiao4 she4
+剑皇师	jian4 huang2 shi1
+剑男人	jian4 nan2 ren2
+舰女人	jian4 nv3 ren2
+键盘侠	jian4 pan2 xia2
+江蛤蟆	jiang1 ha2 ma2
+江核心	jiang1 he2 xin1
+江宁狗	jiang1 ning2 gou3
+江学长	jiang1 xue2 zhang3
+江浙闽	jiang1 zhe4 min3
+蒋匪帮	jiang3 fei3 bang1
+蒋光头	jiang3 guang1 tou2
+蒋花柳	jiang3 hua1 liu3
+蒋梅毒	jiang3 mei2 du2
+节操社	jie2 cao1 she4
+杰克马	jie2 ke4 ma3
+金大胖	jin1 da4 pang4
+金二胖	jin1 er4 pang4
+金囧日	jin1 jiong3 ri4
+金太阳	jin1 tai4 yang2
+京阿尼	jing1 a1 ni2
+鸠摩智	jiu1 mo2 zhi4
+舅服你	jiu4 fu2 ni3
+举手帝	ju3 shou3 di4
+举手鹏	ju3 shou3 peng2
+咖啡乐	ka1 fei1 le4
+卡潮男	ka3 chao2 nan2
+卡大佐	ka3 da4 zuo3
+卡中堂	ka3 zhong1 tang2
+开路迪	kai1 lu4 di2
+凯申公	kai3 shen1 gong1
+看看批	kan4 kan4 pi1
+看月亮	kan4 yue4 liang4
+康麻子	kang1 ma2 zi
+康帅傅	kang1 shuai4 fu4
+烤馒头	kao3 man2 tou
+科技树	ke1 ji4 shu4
+课代表	ke4 dai4 biao3
+坑爹网	keng1 die1 wang3
+空心菜	kong1 xin1 cai4
+空一格	kong1 yi1 ge2
+恐韩症	kong3 han2 zheng4
+孔老二	kong3 lao3 er4
+孔雀台	kong3 que4 tai2
+库日天	ku4 ri4 tian1
+垃圾雷	la1 ji1 lei2
+辣眼睛	la4 yan3 jing1
+来福枪	lai2 fu2 qiang1
+赖功德	lai4 gong1 de2
+蓝绿厂	lan2 lv4 chang3
+蓝胖子	lan2 pang4 zi
+蓝武士	lan2 wu3 shi4
+烂橘子	lan4 ju2 zi
+烂铁丝	lan4 tie3 si1
+老阿姨	lao3 a1 yi2
+老猫儿	lao3 mao1 er2
+老毛子	lao3 mao2 zi
+老树丛	lao3 shu4 cong2
+雷布斯	lei2 bu4 si1
+雷猴王	lei2 hou2 wang2
+黎少康	li2 shao3 kang1
+李裱糊	li3 biao3 hu2
+李德胜	li3 de2 sheng4
+李灯灰	li3 deng1 hui1
+李黄瓜	li3 huang2 gua1
+李加分	li3 jia1 fen1
+李减分	li3 jian3 fen1
+李精欲	li3 jing1 yu4
+李科长	li3 ke1 zhang3
+李扣分	li3 kou4 fen1
+李命薄	li3 ming4 bo2
+李某某	li3 mou3 mou3
+李木匠	li3 mu4 jiang4
+李上腿	li3 shang4 tui3
+李天二	li3 tian1 er4
+李五六	li3 wu3 liu4
+李小眼	li3 xiao3 yan3
+李云鹤	li3 yun2 he4
+莉卡酱	li4 ka3 jiang4
+荔枝台	li4 zhi1 tai2
+脸谱网	lian3 pu3 wang3
+两面人	liang3 mian4 ren2
+列梅毒	lie4 mei2 du2
+烈士墙	lie4 shi4 qiang2
+零食馆	ling2 shi2 guan3
+溜光氏	liu1 guang1 shi4
+刘半仙	liu2 ban4 xian1
+刘罗锅	liu2 luo2 guo1
+流氓雷	liu2 mang2 lei2
+刘卫黄	liu2 wei4 huang2
+刘野猪	liu2 ye3 zhu1
+刘主席	liu2 zhu3 xi2
+六步郎	liu4 bu4 lang2
+卢十瓦	lu2 shi2 wa3
+路边社	lu4 bian1 she4
+轮子功	lun2 zi gong1
+罗锤子	luo2 chui2 zi
+罗大吹	luo2 da4 chui1
+罗大锤	luo2 da4 chui2
+萝莉控	luo2 li4 kong4
+罗太君	luo2 tai4 jun1
+罗永浩	luo2 yong3 hao4
+罗玉凤	luo2 yu4 feng4
+罗玉龙	luo2 yu4 long2
+绿茶婊	lv4 cha2 biao3
+绿箭联	lv4 jian4 lian2
+绿毛龟	lv4 mao2 gui1
+绿卫兵	lv4 wei4 bing1
+妈炸星	ma1 zha4 xing1
+麻花疼	ma2 hua1 teng2
+麻花藤	ma2 hua1 teng2
+麻将胡	ma2 jiang1 hu2
+马爸爸	ma3 ba4 ba4
+马叉虫	ma3 cha1 chong2
+马卡茸	ma3 ka3 rong1
+马克虫	ma3 ke4 chong2
+马娘娘	ma3 niang2 niang2
+马省长	ma3 sheng3 zhang3
+马桶台	ma3 tong3 tai2
+码头队	ma3 tou2 dui4
+马云家	ma3 yun2 jia1
+卖油翁	mai4 you2 weng1
+芒果台	mang2 guo3 tai2
+毛傲天	mao2 ao4 tian1
+毛豆队	mao2 dou4 dui4
+毛巨蜥	mao2 ju4 xi1
+毛三胖	mao2 san1 pang4
+毛少将	mao2 shao4 jiang4
+毛太孙	mao2 tai4 sun1
+么么哒	me me da2
+梅毒帝	mei2 du2 di4
+煤球王	mei2 qiu2 wang2
+美分党	mei3 fen1 dang3
+美元党	mei3 yuan2 dang3
+每周杯	mei3 zhou1 bei1
+美洲人	mei3 zhou1 ren2
+米吃干	mi3 chi1 gan4
+米兰哥	mi3 lan2 ge1
+蜜芝糕	mi4 zhi1 gao1
+绵羊国	mian2 yang2 guo2
+灭退保	mie4 tui4 bao3
+闵有利	min3 you3 li4
+明槐宗	ming2 huai2 zong1
+瞑目鱼	ming2 mu4 yu2
+魔力鸟	mo2 li4 niao3
+魔力牛	mo2 li4 niu2
+默大妈	mo4 da4 ma1
+默大娘	mo4 da4 niang2
+某某党	mou3 mou3 dang3
+某某帝	mou3 mou3 di4
+某某哥	mou3 mou3 ge1
+木匠帝	mu4 jiang4 di4
+奶茶婊	nai3 cha2 biao3
+南大王	nan2 dai4 wang2
+南方蜥	nan2 fang1 xi1
+南方系	nan2 fang1 xi4
+脑残社	nao3 can2 she4
+能力姐	neng2 li4 jie3
+泥垢了	ni2 gou4 le
+泥奏凯	ni2 zou4 kai3
+你懂的	ni3 dong3 de
+你二逼	ni3 er4 bi1
+你造吗	ni3 zao4 ma
+尿小君	niao4 xiao3 jun1
+柠檬精	ning2 meng2 jing1
+懦夫猩	nuo4 fu1 xing1
+女电王	nv3 dian4 wang2
+女权癌	nv3 quan2 ai2
+欧逆酱	ou1 ni4 jiang4
+啪啪啪	pa1 pa1 pa1
+蓬胖子	peng2 pang4 zi
+彭文歪	peng2 wen2 wai1
+碰瓷登	peng4 ci2 deng1
+批小将	pi1 xiao3 jiang4
+皮看穿	pi2 kan4 chuan1
+皮皮虾	pi2 pi2 xia1
+皮鞋帝	pi2 xie2 di4
+皮主席	pi2 zhu3 xi2
+拼夕夕	pin1 xi1 xi1
+平西王	ping2 xi1 wang2
+菩萨帝	pu2 sa4 di4
+普特勒	pu3 te4 lei1
+凄惨红	qi1 can3 hong2
+七星哥	qi1 xing1 ge1
+七字党	qi1 zi4 dang3
+七字狗	qi1 zi4 gou3
+齐二妃	qi2 er4 fei1
+齐二哈	qi2 er4 ha1
+齐秃子	qi2 tu1 zi
+齐玄宗	qi2 xuan2 zong1
+敲黑板	qiao1 hei1 ban3
+乔帮主	qiao2 bang1 zhu3
+乔不死	qiao2 bu4 si3
+乔教主	qiao2 jiao4 zhu3
+亲儿子	qin1 er2 zi
+秦长脚	qin2 zhang3 jiao3
+清真绿	qing1 zhen1 lv4
+情怀帝	qing2 huai2 di4
+秋常在	qiu1 chang2 zai4
+丘处机	qiu1 chu4 ji1
+秋贵人	qiu1 gui4 ren2
+丘胖子	qiu1 pang4 zi
+求合体	qiu2 he2 ti3
+求交配	qiu2 jiao1 pei4
+求交往	qiu2 jiao1 wang3
+求生欲	qiu2 sheng1 yu4
+曲忠赞	qu1 zhong1 zan4
+去仑力	qu4 lun2 li4
+权限哔	quan2 xian4 bi4
+权限狗	quan2 xian4 gou3
+全小将	quan2 xiao3 jiang4
+冉天王	ran3 tian1 wang2
+饶罗翔	rao2 luo2 xiang2
+人妻控	ren2 qi1 kong4
+任地狱	ren4 di4 yu4
+扔飞盘	reng1 fei1 pan2
+日屁股	ri4 pi4 gu3
+软妹币	ruan3 mei4 bi4
+睿叔叔	rui4 shu1 shu1
+睿小将	rui4 xiao3 jiang4
+塞抹布	sai1 ma1 bu4
+三板斧	san1 ban3 fu3
+三代表	san1 dai4 biao3
+三集妹	san1 ji2 mei4
+三季妹	san1 ji4 mei4
+三癞子	san1 lai4 zi
+三赖子	san1 lai4 zi
+三色台	san1 se4 tai2
+三水工	san1 shui3 gong1
+三太子	san1 tai4 zi
+三姨夫	san1 yi2 fu1
+臊子面	sao4 zi3 mian4
+杀马特	sha1 ma3 te4
+砂石芬	sha1 shi2 fen1
+傻白甜	sha3 bai2 tian2
+傻多戴	sha3 duo1 dai4
+傻客气	sha3 ke4 qi4
+山口丁	shan1 kou3 ding1
+山口山	shan1 kou3 shan1
+闪电侠	shan3 dian4 xia2
+闪电猪	shan3 dian4 zhu1
+闪光弹	shan3 guang1 dan4
+蛇精病	she2 jing1 bing4
+社会人	she4 hui4 ren2
+深井冰	shen1 jing3 bing1
+伸手党	shen1 shou3 dang3
+沈霍伊	shen3 huo4 yi1
+沈老狗	shen3 lao3 gou3
+省子弹	sheng3 zi3 dan4
+盛高阻	sheng4 gao1 zu3
+十八摸	shi2 ba1 mo1
+石乐志	shi2 le4 zhi4
+石榴娘	shi2 liu2 niang2
+十三易	shi2 san1 yi4
+十五字	shi2 wu3 zi4
+十字教	shi2 zi4 jiao4
+是是是	shi4 shi4 shi4
+世一大	shi4 yi1 da4
+噬元兽	shi4 yuan2 shou4
+手拉鸡	shou3 la1 ji1
+书包杜	shu1 bao1 du4
+输真惨	shu1 zhen1 can3
+鼠明博	shu3 ming2 bo2
+术力口	shu4 li4 kou3
+刷副本	shua1 fu4 ben3
+水工帝	shui3 gong1 di4
+水连珠	shui3 lian2 zhu1
+水太凉	shui3 tai4 liang2
+撕逼鱼	si1 bi1 yu2
+斯达舒	si1 da2 shu1
+思密达	si1 mi4 da2
+死蚂蚁	si3 ma3 yi3
+死神杜	si3 shen2 du4
+四等人	si4 deng3 ren2
+四公主	si4 gong1 zhu3
+四季妹	si4 ji4 mei4
+四老外	si4 lao3 wai4
+送分题	song4 fen1 ti2
+送命题	song4 ming4 ti2
+苏北狗	su1 bei3 gou3
+苏光头	su1 guang1 tou2
+苏秃子	su1 tu1 zi
+苏真娼	su1 zhen1 chang1
+塑料星	su4 liao4 xing1
+孙大兵	sun1 da4 bing1
+孙大炮	sun1 da4 pao4
+孙儿子	sun1 er2 zi
+孙球王	sun1 qiu2 wang2
+孙十万	sun1 shi2 wan4
+缩水狗	suo1 shui3 gou3
+台巴子	tai2 ba1 zi
+太极虎	tai4 ji2 hu3
+太空易	tai4 kong1 yi4
+太阳党	tai4 yang2 dang3
+太子机	tai4 zi ji1
+唐床破	tang2 chuang2 po4
+特靠谱	te4 kao4 pu3
+特离谱	te4 li2 pu3
+特没谱	te4 mei2 pu3
+特能输	te4 neng2 shu1
+特色党	te4 se4 dang3
+天龙人	tian1 long2 ren2
+田园犬	tian2 yuan2 quan3
+跳水骡	tiao4 shui3 luo2
+童疏密	tong2 shu1 mi4
+童幽燕	tong2 you1 yan4
+头又大	tou2 you4 da4
+土肥圆	tu3 fei2 yuan2
+土豪金	tu3 hao2 jin1
+吐油塌	tu3 you2 ta1
+脱裤魔	tuo1 ku4 mo2
+托老总	tuo1 lao3 zong3
+托先知	tuo1 xian1 zhi1
+歪果仁	wai1 guo3 ren2
+完颜构	wan2 yan2 gou4
+万磁王	wan4 ci2 wang2
+万叫兽	wan4 jiao4 shou4
+汪主席	wang1 zhu3 xi2
+王捕头	wang2 bu3 tou2
+王穿越	wang2 chuan1 yue4
+王德发	wang2 de2 fa1
+王公社	wang2 gong1 she4
+王局座	wang2 ju2 zuo4
+王留美	wang2 liu2 mei3
+王梦秋	wang2 meng4 qiu1
+王歧山	wang2 qi2 shan1
+王提督	wang2 ti2 du1
+王提刑	wang2 ti2 xing2
+王武松	wang2 wu3 song1
+王跃进	wang2 yue4 jin4
+王治愈	wang2 zhi4 yu4
+王总兵	wang2 zong3 bing1
+网评猿	wang3 ping2 yuan2
+网抑云	wang3 yi4 yun2
+威三双	wei1 san1 shuang1
+威震天	wei1 zhen4 tian1
+伟光正	wei3 guang1 zheng4
+纬国号	wei3 guo2 hao4
+伪满报	wei3 man3 bao4
+卫星社	wei4 xing1 she4
+温道士	wen1 dao4 shi4
+温家室	wen1 jia1 shi4
+文丞相	wen2 cheng2 xiang4
+文科生	wen2 ke1 sheng1
+蜗牛社	wo1 niu2 she4
+窝窝吧	wo1 wo1 ba
+我的发	wo3 de fa1
+我姓邓	wo3 xing4 deng4
+我宣你	wo3 xuan1 ni3
+乌冬哥	wu1 dong1 ge1
+吴百级	wu2 bai3 ji2
+吴敦义	wu2 dun1 yi4
+吴哥哭	wu2 ge1 ku1
+无官正	wu2 guan1 zheng4
+吴三跪	wu2 san1 gui4
+五步蛇	wu3 bu4 she2
+武大妈	wu3 da4 ma1
+五对轮	wu3 dui4 lun2
+五毛党	wu3 mao2 dang3
+五毛狗	wu3 mao2 gou3
+五囚亡	wu3 qiu2 wang2
+五球亡	wu3 qiu2 wang2
+西北狼	xi1 bei3 lang2
+膝跪妃	xi1 gui4 fei1
+膝跪飞	xi1 gui4 fei1
+吸金平	xi1 jin1 ping2
+吸金瓶	xi1 jin1 ping2
+吸进瓶	xi1 jin4 ping2
+吸精瓶	xi1 jing1 ping2
+西南王	xi1 nan2 wang2
+吸血雷	xi1 xue4 lei2
+席尔瓦	xi2 er3 wa3
+习核心	xi2 he2 xin1
+喜爱服	xi3 ai4 fu2
+喜爱福	xi3 ai4 fu2
+喜当爹	xi3 dang1 die1
+洗剪吹	xi3 jian3 chui1
+洗衣液	xi3 yi1 ye4
+下巴肠	xia4 ba1 chang2
+吓大的	xia4 da4 de
+下颌突	xia4 he2 tu1
+下饺子	xia4 jiao3 zi
+仙人洞	xian1 ren2 dong4
+仙人高	xian1 ren2 gao1
+香油人	xiang1 you2 ren2
+想多了	xiang3 duo1 le
+萧菩萨	xiao1 pu2 sa4
+小白花	xiao3 bai2 hua1
+小被窝	xiao3 bei4 wo1
+小不死	xiao3 bu4 si3
+小地缸	xiao3 de gang1
+小飞侠	xiao3 fei1 xia2
+小粉红	xiao3 fen3 hong2
+小哥哥	xiao3 ge1 ge1
+小国际	xiao3 guo2 ji4
+小胡子	xiao3 hu2 zi
+小皇帝	xiao3 huang2 di4
+小姐姐	xiao3 jie3 jie3
+小金鱼	xiao3 jin1 yu2
+小绿人	xiao3 lv4 ren2
+小奶狗	xiao3 nai3 gou3
+小嫩肉	xiao3 nen4 rou4
+小年糕	xiao3 nian2 gao1
+小树丛	xiao3 shu4 cong2
+小土豆	xiao3 tu3 dou4
+小仙女	xiao3 xian1 nv3
+小鲜肉	xiao3 xian1 rou4
+小作文	xiao3 zuo4 wen2
+孝子康	xiao4 zi kang1
+孝子龙	xiao4 zi long2
+谢馒头	xie4 man2 tou
+欣吧唧	xin1 ba1 ji1
+心气急	xin1 qi4 ji2
+新青年	xin1 qing1 nian2
+星星星	xing1 xing1 xing1
+熊孩子	xiong2 hai2 zi
+徐不薄	xu2 bu4 bao2
+徐财厚	xu2 cai2 hou4
+许财厚	xu3 cai2 hou4
+续命仪	xu4 ming4 yi2
+雪肤豚	xue3 fu1 tun2
+勋章帝	xun1 zhang1 di4
+勋章控	xun1 zhang1 kong4
+丫头行	ya1 tou xing2
+牙膏厂	ya2 gao1 chang3
+羊毛子	yang2 mao2 zi
+杨胖胖	yang2 pang4 pang4
+养猪网	yang3 zhu1 wang3
+谣立名	yao2 li4 ming2
+姚宇春	yao2 yu3 chun1
+要你命	yao4 ni3 ming4
+药丸党	yao4 wan2 dang3
+野猪皮	ye3 zhu1 pi2
+叶跑跑	ye4 pao3 pao3
+夜遗精	ye4 yi2 jing1
+一脚帝	yi1 jiao3 di4
+伊里奇	yi1 li3 qi2
+一丈红	yi1 zhang4 hong2
+姨妈红	yi2 ma1 hong2
+椅子男	yi3 zi nan2
+逸小将	yi4 xiao3 jiang4
+易主席	yi4 zhu3 xi2
+淫奶精	yin2 nai3 jing1
+淫特二	yin2 te4 er4
+尹奶精	yin3 nai3 jing1
+饮奶精	yin3 nai3 jing1
+英七七	ying1 qi1 qi1
+油管子	you2 guan3 zi
+油土鳖	you2 tu3 bie1
+游小三	you2 xiao3 san1
+有土鳖	you3 tu3 bie1
+鱼竿厂	yu2 gan1 chang3
+鱼素鸡	yu2 su4 ji1
+鱼塘局	yu2 tang2 ju2
+渝州牧	yu2 zhou1 mu4
+宇宙队	yu3 zhou4 dui4
+玉米地	yu4 mi3 de
+玉米控	yu4 mi3 kong4
+预言帝	yu4 yan2 di4
+圆嘟嘟	yuan2 du1 du1
+袁嘟嘟	yuan2 du1 du1
+袁督师	yuan2 du1 shi1
+原谅绿	yuan2 liang4 lv4
+岳鄂王	yue4 e4 wang2
+月经帖	yue4 jing1 tie1
+岳太保	yue4 tai4 bao3
+岳爷爷	yue4 ye2 ye2
+糟烧糠	zao1 shao1 kang1
+增智能	zeng1 zhi4 neng2
+扎球王	zha1 qiu2 wang2
+渣又卡	zha1 you4 ka3
+榨菜哥	zha4 cai4 ge1
+炸药奖	zha4 yao4 jiang3
+战术郭	zhan4 shu4 guo1
+战术鹿	zhan4 shu4 lu4
+张盗贼	zhang1 dao4 zei2
+张国庆	zhang1 guo2 qing4
+张花腿	zhang1 hua1 tui3
+张局座	zhang1 ju2 zuo4
+张菊座	zhang1 ju2 zuo4
+张少将	zhang1 shao4 jiang4
+张自在	zhang1 zi4 zai4
+长鱼侯	zhang3 yu2 hou2
+赵家人	zhao4 jia1 ren2
+赵老狗	zhao4 lao3 gou3
+赵骚糠	zhao4 sao1 kang1
+赵烧糠	zhao4 shao1 kang1
+赵烧炕	zhao4 shao1 kang4
+赵少康	zhao4 shao3 kang1
+赵笑康	zhao4 xiao4 kang1
+赵一脚	zhao4 yi1 jiao3
+赵一炮	zhao4 yi1 pao4
+郑大妈	zheng4 da4 ma1
+郑大婶	zheng4 da4 shen3
+郑大嘴	zheng4 da4 zui3
+郑三发	zheng4 san1 fa1
+支付婊	zhi1 fu4 biao3
+知乎体	zhi1 hu1 ti3
+直男癌	zhi2 nan2 ai2
+智多猩	zhi4 duo1 xing1
+中昆审	zhong1 kun1 shen3
+终年谎	zhong1 nian2 huang3
+中特党	zhong1 te4 dang3
+肿么了	zhong3 me le
+重口味	zhong4 kou3 wei4
+周半旗	zhou1 ban4 qi2
+周老虎	zhou1 lao3 hu3
+周茅台	zhou1 mao2 tai2
+周阴婷	zhou1 yin1 ting2
+周阴中	zhou1 yin1 zhong1
+朱八八	zhu1 ba1 ba1
+朱百棺	zhu1 bai3 guan1
+猪队友	zhu1 dui4 you3
+朱和尚	zhu1 he2 shang4
+朱老四	zhu1 lao3 si4
+猪立伦	zhu1 li4 lun2
+朱镕基	zhu1 rong2 ji1
+猪蹄子	zhu1 ti2 zi
+朱鸦片	zhu1 ya1 pian4
+猪油糖	zhu1 you2 tang2
+装逼胡	zhuang1 bi1 hu2
+自焚教	zi4 fen2 jiao4
+自干美	zi4 gan4 mei3
+祖安人	zu3 an1 ren2
+坐牢硕	zuo4 lao2 shuo4
+做头发	zuo4 tou2 fa4
+阿咿西吧	a1 yi1 xi1 ba
+爱抚娘娘	ai4 fu3 niang2 niang2
+安倍劲酸	an1 bei4 jin4 suan1
+安倍弯人	an1 bei4 wan1 ren2
+安部晋三	an1 bu4 jin4 san1
+按闹分配	an4 nao4 fen1 pei4
+八田清德	ba1 tian2 qing1 de2
+百度一下	bai3 du4 yi1 xia4
+百合工房	bai3 he2 gong1 fang2
+百年烂党	bai3 nian2 lan4 dang3
+百年老店	bai3 nian2 lao3 dian4
+败家之眼	bai4 jia1 zhi1 yan3
+包包大人	bao1 bao1 da4 ren2
+北美腾讯	bei3 mei3 teng2 xun4
+比较健康	bi3 jiao4 jian4 kang1
+波兰蠢驴	bo1 lan2 chun3 lv2
+不知妻美	bu4 zhi1 qi1 mei3
+财富密码	cai2 fu4 mi4 ma3
+草台班子	cao3 tai2 ban1 zi
+层主挺住	ceng2 zhu3 ting3 zhu4
+长跑健将	chang2 pao3 jian4 jiang4
+超长待机	chao1 chang2 dai4 ji1
+吃枣药丸	chi1 zao3 yao4 wan2
+出门左转	chu1 men2 zuo3 zhuan3
+川普认证	chuan1 pu3 ren4 zheng4
+川普优选	chuan1 pu3 you1 xuan3
+川总书记	chuan1 zong3 shu1 ji4
+慈老太太	ci2 lao3 tai4 tai4
+达瓦里氏	da2 wa3 li3 shi4
+达瓦里希	da2 wa3 li3 xi1
+打人国度	da3 ren2 guo2 du4
+打死奥拓	da3 si3 ao4 ta4
+大德鲁伊	da4 de2 lu3 yi1
+大癞蛤蟆	da4 lai4 ha2 ma2
+大清亡了	da4 qing1 wang2 le
+大震天皇	da4 zhen4 tian1 huang2
+大症天皇	da4 zheng4 tian1 huang2
+大猪蹄子	da4 zhu1 ti2 zi
+戴三个表	dai4 san1 ge4 biao3
+戴三块表	dai4 san1 kuai4 biao3
+单手打字	dan1 shou3 da3 zi4
+道德一姐	dao4 de2 yi1 jie3
+德国骨科	de2 guo2 gu3 ke1
+德国间谍	de2 guo2 jian4 die2
+德国外援	de2 guo2 wai4 yuan2
+德州爱姬	de2 zhou1 ai4 ji1
+狄尔摩斯	di2 er3 mo2 si1
+第二党校	di4 er4 dang3 xiao4
+电力一姐	dian4 li4 yi1 jie3
+东风快递	dong1 feng1 kuai4 di4
+东风洗地	dong1 feng1 xi3 de
+都灵电信	dou1 ling2 dian4 xin4
+断交部长	duan4 jiao1 bu4 zhang3
+多图杀猫	duo1 tu2 sha1 mao1
+娥皇女英	e2 huang2 nv3 ying1
+二流报纸	er4 liu2 bao4 zhi3
+法国腾讯	fa3 guo2 teng2 xun4
+番羽土啬	fan1 qiang2
+方向错了	fang1 xiang4 cuo4 le
+防空部队	fang2 kong1 bu4 dui4
+房子塌了	fang2 zi ta1 le
+飞盘时报	fei1 pan2 shi2 bao4
+非死不可	fei1 si3 bu4 ke3
+飞扬军事	fei1 yang2 jun1 shi4
+非洲二队	fei1 zhou1 er4 dui4
+非洲提督	fei1 zhou1 ti2 du1
+坟头蹦迪	fen2 tou2 beng4 di2
+疯鸭上校	feng1 ya1 shang4 xiao4
+副委员长	fu4 wei3 yuan2 zhang3
+盖章狂魔	gai4 zhang1 kuang2 mo2
+感知不强	gan3 zhi1 bu4 qiang2
+钢铁同志	gang1 tie3 tong2 zhi4
+港英余孽	gang3 ying1 yu2 nie4
+高丽棒子	gao1 li2 bang4 zi
+高野长雄	gao1 ye3 chang2 xiong2
+郜林斯曼	gao4 lin2 si1 man4
+功德院长	gong1 de2 yuan4 zhang3
+躬匠精神	gong1 jiang4 jing1 shen2
+公孙永浩	gong1 sun1 yong3 hao4
+公孙玉龙	gong1 sun1 yu4 long2
+公主焊接	gong1 zhu3 han4 jie1
+骨灰拌饭	gu3 hui1 ban4 fan4
+顾里乌斯	gu4 li3 wu1 si1
+观海同志	guan1 hai3 tong2 zhi4
+关小黑屋	guan1 xiao3 hei1 wu1
+光腚肿菊	guang1 ding4 zhong3 ju2
+贵族学校	gui4 zu2 xue2 xiao4
+还是单身	hai2 shi4 dan1 shen1
+海军上将	hai3 jun1 shang4 jiang4
+韩天电视	han2 tian1 dian4 shi4
+核弹狂魔	he2 dan4 kuang2 mo2
+核弹之父	he2 dan4 zhi1 fu4
+黑人问号	hei1 ren2 wen4 hao4
+红军之鹰	hong2 jun1 zhi1 ying1
+后藤基次	hou4 teng2 ji1 ci4
+胡梅尔斯	hu2 mei2 er3 si1
+环球屎报	huan2 qiu2 shi3 bao4
+婚姻公主	hun1 yin1 gong1 zhu3
+火钳刘明	huo3 qian2 liu2 ming2
+基拉大和	ji1 la1 da4 he2
+基情四射	ji1 qing2 si4 she4
+集训二队	ji2 xun4 er4 dui4
+寂寞呻渴	ji4 mo4 shen1 ke3
+寂寞呻客	ji4 mo4 shen1 ke4
+寂寞深刻	ji4 mo4 shen1 ke4
+夹来夹去	jia1 lai2 jia1 qu4
+家里有矿	jia1 li3 you3 kuang4
+夹去阴间	jia1 qu4 yin1 jian1
+夹去之间	jia1 qu4 zhi1 jian1
+奸若磐石	jian1 ruo4 pan2 shi2
+奸若胖屎	jian1 ruo4 pang4 shi3
+建丰同志	jian4 feng1 tong2 zhi4
+键盘斗士	jian4 pan2 dou4 shi4
+江大蛤蟆	jiang1 da4 ha2 ma2
+蒋家匪帮	jiang3 jia1 fei3 bang1
+接头霸王	jie1 tou2 ba4 wang2
+晋太元中	jin4 tai4 yuan2 zhong1
+京城四少	jing1 cheng2 si4 shao3
+九段棋手	jiu3 duan4 qi2 shou3
+角色扮演	jue2 se4 ban4 yan3
+卡里乌超	ka3 li3 wu1 chao1
+康熙大帝	kang1 xi1 da4 di4
+科学上网	ke1 xue2 shang4 wang3
+克母狂魔	ke4 mu3 kuang2 mo2
+空降坐标	kong1 jiang4 zuo4 biao1
+抠脚大汉	kou1 jiao3 da4 han4
+口吐芬芳	kou3 tu3 fen1 fang1
+快乐足球	kuai4 le4 zu2 qiu2
+拉萨之虎	la1 sa4 zhi1 hu3
+蓝瘦香菇	lan2 shou4 xiang1 gu1
+蓝星重启	lan2 xing1 chong2 qi3
+老屄养的	lao3 bi1 yang3 de
+李毅大帝	li3 yi4 da4 di4
+两弹元勋	liang3 dan4 yuan2 xun1
+林副主席	lin2 fu4 zhu3 xi2
+灵车漂移	ling2 che1 piao1 yi2
+落樱神斧	luo4 ying1 shen2 fu3
+绿茶妹妹	lv4 cha2 mei4 mei4
+妈的法克	ma1 de fa3 ke4
+毛了个彪	mao2 le ge4 biao1
+毛利胜永	mao2 li4 sheng4 yong3
+毛纳尔彪	mao2 na4 er3 biao1
+没良心炮	mei2 liang2 xin1 pao4
+没有一只	mei2 you3 yi1 zhi1
+美国国父	mei3 guo2 guo2 fu4
+美洲提督	mei3 zhou1 ti2 du1
+民逗公知	min2 dou4 gong1 zhi1
+闵行女校	min3 xing2 nv3 xiao4
+明石全登	ming2 shi2 quan2 deng1
+万俟叫兽	mo4 qi2 jiao4 shou4
+木良心炮	mu4 liang2 xin1 pao4
+奶茶妹夫	nai3 cha2 mei4 fu1
+奶茶妹妹	nai3 cha2 mei4 mei4
+南七技校	nan2 qi1 ji4 xiao4
+脑洞大开	nao3 dong4 da4 kai1
+哪吒他爹	ne2 zha1 ta1 die1
+内牛满面	nei4 niu2 man3 mian4
+欧洲提督	ou1 zhou1 ti2 du1
+批哩批哩	pi1 li1 pi1 li1
+郫县技校	pi2 xian4 ji4 xiao4
+皮衣大姐	pi2 yi1 da4 jie3
+屁眼交易	py jiao1 yi4
+气死偶咧	qi4 si3 ou3 lie3
+前朝太祖	qian2 chao2 tai4 zu3
+前方低能	qian2 fang1 di1 neng2
+前方高能	qian2 fang1 gao1 neng2
+枪毙名单	qiang1 bi4 ming2 dan1
+蔷薇麻生	qiang2 wei1 ma2 sheng1
+桥牌圣手	qiao2 pai2 sheng4 shou3
+庆丰包子	qing4 feng1 bao1 zi
+全程高能	quan2 cheng2 gao1 neng2
+人参公鸡	ren2 shen1 gong1 ji1
+人血馒头	ren2 xue4 man2 tou
+日本相关	ri4 ben3 xiang4 guan1
+日了狗了	ri4 le gou3 le
+日人民报	ri4 ren2 min2 bao4
+萨格尔帝	sa4 ge2 er3 di4
+萨格尔王	sa4 ge2 er3 wang2
+三大名校	san1 da4 ming2 xiao4
+三大真理	san1 da4 zhen1 li3
+三哥代表	san1 ge1 dai4 biao3
+三个呆婊	san1 ge4 dai1 biao3
+三喵军团	san1 miao1 jun1 tuan2
+三男一狗	san1 nan2 yi1 gou3
+桑巴军团	sang1 ba1 jun1 tuan2
+山口山吧	shan1 kou3 shan1 ba
+上杉姐姐	shang4 shan1 jie3 jie3
+神仙打架	shen2 xian1 da3 jia4
+诗意大妈	shi1 yi4 da4 ma1
+石田介雄	shi2 tian2 jie4 xiong2
+十五阿哥	shi2 wu3 a1 ge1
+数据刷子	shu4 ju4 shua1 zi3
+水表已拆	shui3 biao3 yi3 chai1
+顺丰快递	shun4 feng1 kuai4 di4
+死妈教主	si3 ma1 jiao4 zhu3
+死妈平台	si3 ma1 ping2 tai2
+四军统帅	si4 jun1 tong3 shuai4
+宋朝干部	song4 chao2 gan4 bu4
+苏卡不列	su1 ka3 bu4 lie4
+塑料英语	su4 liao4 ying1 yu3
+素质三连	su4 zhi4 san1 lian2
+台湾省长	tai2 wan1 sheng3 zhang3
+特不靠谱	te4 bu4 kao4 pu3
+特色集团	te4 se4 ji2 tuan2
+体制问题	ti3 zhi4 wen4 ti2
+天蓬元帅	tian1 peng2 yuan2 shuai4
+田园女权	tian2 yuan2 nv3 quan2
+同德五虎	tong2 de2 wu3 hu3
+徒增功耗	tu2 zeng1 gong1 hao4
+挖坑不填	wa1 keng1 bu4 tian2
+万年老二	wan4 nian2 lao3 er4
+王山支山	wang2 shan1 zhi1 shan1
+王子屯大	wang2 zi3 tun2 da4
+网军司令	wang3 jun1 si1 ling4
+卫星落地	wei4 xing1 luo4 di4
+我勒个去	wo3 lei1 ge4 qu4
+我自闭了	wo3 zi4 bi4 le
+捂耳开溜	wu3 er3 kai1 liu1
+五美分党	wu3 mei3 fen1 dang3
+膝盖已碎	xi1 gai4 yi3 sui4
+虾仁猪心	xia1 ren2 zhu1 xin1
+鲜掉眉毛	xian1 diao4 mei2 mao2
+小米科技	xiao3 mi3 ke1 ji4
+小绵羊国	xiao3 mian2 yang2 guo2
+小学博士	xiao3 xue2 bo2 shi4
+小英同志	xiao3 ying1 tong2 zhi4
+小猪蹄子	xiao3 zhu1 ti2 zi
+雪橇三傻	xue3 qiao1 san1 sha3
+鸭梨山大	ya1 li2 shan1 da4
+亚洲红魔	ya4 zhou1 hong2 mo2
+亚洲提督	ya4 zhou1 ti2 du1
+亚洲一哥	ya4 zhou1 yi1 ge1
+岩里政男	yan2 li3 zheng4 nan2
+盐轮籽油	yan2 lun2 zi3 you2
+药店碧莲	yao4 dian4 bi4 lian2
+伊法治国	yi1 fa3 zhi4 guo2
+一国两智	yi1 guo2 liang3 zhi4
+一颗赛艇	yi1 ke1 sai4 ting3
+一米阳光	yi1 mi3 yang2 guang1
+逸斯兰国	yi4 si1 lan2 guo2
+因吹斯停	yin1 chui1 si1 ting2
+因垂丝汀	yin1 chui2 si1 ting1
+阴间论坛	yin1 jian1 lun4 tan2
+阴婷仙子	yin1 ting2 xian1 zi
+永不翻案	yong3 bu4 fan1 an4
+永远健康	yong3 yuan3 jian4 kang1
+用爱发电	yong4 ai4 fa1 dian4
+油腻中年	you2 ni4 zhong1 nian2
+友军风云	you3 jun1 feng1 yun2
+有内味了	you3 nei4 wei4 le
+又双叒叕	you4 shuang1 ruo4 zhuo2
+雨女无瓜	yu3 nv3 wu2 gua1
+原版优酷	yuan2 ban3 you1 ku4
+元气少女	yuan2 qi4 shao4 nv3
+月莫虫合	yue4 mo4 chong2 he2
+占戈土也	zhan4 ge1 tu3 ye3
+张什福德	zhang1 shen2 fu2 de2
+招核天皇	zhao1 he2 tian1 huang2
+真香警告	zhen1 xiang1 jing3 gao4
+郑三发子	zheng4 san1 fa1 zi
+中国电婊	zhong1 guo2 dian4 biao3
+中国救星	zhong1 guo2 jiu4 xing1
+中国乔丹	zhong1 guo2 qiao2 dan1
+中年少女	zhong1 nian2 shao4 nv3
+坠机堡垒	zhui4 ji1 bao3 lei3
+自费美分	zi4 fei4 mei3 fen1
+总射击师	zong3 she4 ji1 shi1
+祖传硅脂	zu3 chuan2 gui1 zhi1
+最上义政	zui4 shang4 yi4 zheng4
+肮脏的交易	ang1 zang1 de jiao1 yi4
+厕所里民工	ce4 suo3 li3 min2 gong1
+厕所农民工	ce4 suo3 nong2 min2 gong1
+茶山刘大学	cha2 shan1 liu2 da4 xue2
+抄都抄不好	chao1 dou1 chao1 bu4 hao3
+出口转内销	chu1 kou3 zhuan3 nei4 xiao1
+打胎大队长	da3 tai1 da4 dui4 zhang3
+大坂七野爹	da4 ban3 qi1 ye3 die1
+大力出奇迹	da4 li4 chu1 qi2 ji4
+大逸本帝国	da4 yi4 ben3 di4 guo2
+第一萝莉控	di4 yi1 luo2 li4 kong4
+地域拖油瓶	di4 yu4 tuo1 you2 ping2
+叼飞盘大师	diao1 fei1 pan2 da4 shi1
+东川路男职	dong1 chuan1 lu4 nan2 zhi2
+东方斐迪南	dong1 fang1 fei3 di2 nan2
+反人质步枪	fan3 ren2 zhi4 bu4 qiang1
+感觉被冒犯	gan3 jue2 bei4 mao4 fan4
+感谢袁隆平	gan3 xie4 yuan2 long2 ping2
+冈比亚大王	gang1 bi3 ya4 dai4 wang2
+高级山寨机	gao1 ji2 shan1 zhai4 ji1
+高梁河车神	gao1 liang2 he2 che1 shen2
+高于一切党	gao1 yu2 yi1 qie4 dang3
+馆长陈之汉	guan3 zhang3 chen2 zhi1 han4
+国观白羽鸡	guo2 guan1 bai2 yu3 ji1
+和尚庙大学	he2 shang4 miao4 da4 xue2
+黑色高级车	hei1 se4 gao1 ji2 che1
+黑色轰炸机	hei1 se4 hong1 zha4 ji1
+胡安·马塔	hu2 an1 ma3 ta3
+皇家黑社会	huang2 jia1 hei1 she4 hui4
+皇家马戏团	huang2 jia1 ma3 xi4 tuan2
+黄皮马瓦里	huang2 pi2 ma3 wa3 li3
+火不过三年	huo3 bu4 guo4 san1 nian2
+精神资本家	jing1 shen2 zi1 ben3 jia1
+景德镇之子	jing3 de2 zhen4 zhi1 zi
+可持续崩溃	ke3 chi2 xu4 beng1 kui4
+空降指挥部	kong1 jiang4 zhi3 hui1 bu4
+老歪脖子树	lao3 wai1 bo2 zi shu4
+历史发明家	li4 shi3 fa1 ming2 jia1
+镰刀锤子帮	lian2 dao1 chui2 zi bang1
+脸都不要了	lian3 dou1 bu2 yao4 le
+领带美食家	ling3 dai4 mei3 shi2 jia1
+六十年太子	liu4 shi2 nian2 tai4 zi
+六位帝皇丸	liu4 wei4 di4 huang2 wan2
+六位帝皇玩	liu4 wei4 di4 huang2 wan2
+鲁路修·金	lu3 lu4 xiu1 jin1
+美帝良心想	mei3 di4 liang2 xin1 xiang3
+美国钟南山	mei3 guo2 zhong1 nan2 shan1
+妹得喂姐夫	mei4 de2 wei4 jie3 fu1
+木子月月鸟	mu4 zi yue4 yue4 niao3
+脑白金夫妇	nao3 bai2 jin1 fu1 fu4
+尼古拉同志	ni2 gu3 la1 tong2 zhi4
+你是魔鬼吗	ni3 shi4 mo2 gui3 ma
+欧洲中国队	ou1 zhou1 zhong1 guo2 dui4
+确认过眼神	que4 ren4 guo4 yan3 shen2
+日耳曼战车	ri4 er3 man4 zhan4 che1
+沙正街技校	sha1 zheng4 jie1 ji4 xiao4
+上海滩老大	shang4 hai3 tan1 lao3 da4
+烧炕奸情室	shao1 kang4 jian1 qing2 shi4
+少康奸情室	shao3 kang1 jian1 qing2 shi4
+深藏功与名	shen1 cang2 gong1 yu3 ming2
+时代的眼泪	shi2 dai4 de yan3 lei4
+刷卡时为零	shua1 ka3 shi2 wei4 ling2
+双鸭山大学	shuang1 ya1 shan1 da4 xue2
+死神小学生	si3 shen2 xiao3 xue2 sheng1
+四十年太子	si4 shi2 nian2 tai4 zi
+四仰化三铁	si4 yang3 hua4 san1 tie3
+躺着也中枪	tang3 zhe ye3 zhong1 qiang1
+甜甜的爱情	tian2 tian2 de ai4 qing2
+痛并快乐着	tong4 bing4 kuai4 le4 zhe
+图样图森破	tu2 yang4 tu2 sen1 po4
+土豆服务器	tu3 dou4 fu2 wu4 qi4
+网军总司令	wang3 jun1 zong3 si1 ling4
+我他妈射爆	wo3 ta1 ma1 she4 bao4
+我有个朋友	wo3 you3 ge4 peng2 you3
+响尾蛇导弹	xiang3 wei3 she2 dao3 dan4
+小弟弟部长	xiao3 di4 di4 bu4 zhang3
+小明的爷爷	xiao3 ming2 de ye2 ye2
+小犬蠢一狼	xiao3 quan3 chun3 yi1 lang2
+小嘴抹了蜜	xiao3 zui3 mo3 le mi4
+笑康奸情室	xiao4 kang1 jian1 qing2 shi4
+眼睛学会了	yan3 jing1 xue2 hui4 le
+要恰饭的嘛	yao4 qia4 fan4 de ma
+阴沟里洗菜	yin1 gou1 li3 xi3 cai4
+英国特朗普	ying1 guo2 te4 lang3 pu3
+宇宙大将军	yu3 zhou4 da4 jiang4 jun1
+运输大队长	yun4 shu1 da4 dui4 zhang3
+战略忽悠局	zhan4 lve4 hu1 you1 ju2
+真素质三连	zhen1 su4 zhi4 san1 lian2
+中共搞的鬼	zhong1 gong4 gao3 de gui3
+主要看气质	zhu3 yao4 kan4 qi4 zhi4
+最强法务部	zui4 qiang2 fa3 wu4 bu4
+阿共仔的阴谋	a1 gong4 zai3 de yin1 mou2
+阿里巴巴相关	a1 li3 ba1 ba1 xiang1 guan1
+安东尼·福奇	an1 dong1 ni2 fu2 qi2
+安拉胡阿克巴	an1 la1 hu2 a1 ke4 ba1
+不存在的公司	bu4 cun2 zai4 de gong1 si1
+不配拥有姓名	bu4 pei4 yong1 you3 xing4 ming2
+窗帘是蓝色的	chuang1 lian2 shi4 lan2 se4 de
+待我长发及腰	dai4 wo3 chang2 fa4 ji2 yao1
+东北人民大学	dong1 bei3 ren2 min2 da4 xue2
+反向德布劳内	fan3 xiang4 de2 bu4 lao2 nei4
+富士康战情室	fu4 shi4 kang1 zhan4 qing2 shi4
+高呼不可战胜	gao1 hu1 bu4 ke3 zhan4 sheng4
+还有这种操作	hai2 you3 zhe4 zhong3 cao1 zuo4
+后宫计生主任	hou4 gong1 ji4 sheng1 zhu3 ren4
+劲爆大象部落	jin4 bao4 da4 xiang4 bu4 luo4
+凯申军事物流	kai3 shen1 jun1 shi4 wu4 liu2
+闵行理工学院	min3 xing2 li3 gong1 xue2 yuan4
+明斯克航天局	ming2 si1 ke4 hang2 tian1 ju2
+皮皮虾我们走	pi2 pi2 xia1 wo3 men zou3
+前方低能反应	qian2 fang1 di1 neng2 fan3 ying4
+前方高能反应	qian2 fang1 gao1 neng2 fan3 ying4
+上海吃饭大学	shang4 hai3 chi1 fan4 da4 xue2
+他还是个孩子	ta1 hai2 shi4 ge4 hai2 zi
+台湾省委书记	tai2 wan1 sheng3 wei3 shu1 ji4
+太快了太快了	tai4 kuai4 le tai4 kuai4 le
+天气预报大学	tian1 qi4 yu4 bao4 da4 xue2
+贴吧三大名校	tie1 ba san1 da4 ming2 xiao4
+为何放弃治疗	wei4 he2 fang4 qi4 zhi4 liao2
+我到河北省来	wo3 dao4 he2 bei3 sheng3 lai2
+我喂自己袋盐	wo3 wei4 zi4 ji3 dai4 yan2
+乌拉拉拉已馊	wu4 la la1 la1 yi3 sou1
+小霸王服务器	xiao3 ba4 wang2 fu2 wu4 qi4
+一塌糊涂大学	yi1 ta1 hu2 tu2 da4 xue2
+扎心了，老铁	zha1 xin1 le lao3 tie3
+长宗我部盛亲	zhang3 zong1 wo3 bu4 sheng4 qin1
+这届人民不行	zhe4 jie4 ren2 min2 bu4 xing2
+知道了快删掉	zhi1 dao4 le kuai4 shan1 diao4
+中国刷卡大学	zhong1 guo2 shua1 ka3 da4 xue2
+波兰篮球运动员	bo1 lan2 lan2 qiu2 yun4 dong4 yuan2
+不分手留着过年	bu4 fen1 shou3 liu2 zhe guo4 nian2
+成克希德·马丁	cheng2 ke4 xi1 de2 ma3 ding1
+邓氏特色改开党	deng4 shi4 te4 se4 gai3 kai1 dang3
+东亚三国手牵手	dong1 ya4 san1 guo2 shou3 qian1 shou3
+高端大气上档次	gao1 duan1 da4 qi4 shang4 dang4 ci4
+海淀银枪小霸王	hai3 dian4 yin2 qiang1 xiao3 ba4 wang2
+好优美的中国话	hao3 you1 mei3 de zhong1 guo2 hua4
+加泰罗尼亚老大	jia1 tai4 luo2 ni2 ya4 lao3 da4
+贱人贱己贱行业	jian4 ren2 jian4 ji3 jian4 hang2 ye4
+交通部嫡系部队	jiao1 tong1 bu4 di2 xi4 bu4 dui4
+解放军腐败根源	jie3 fang4 jun1 fu3 bai4 gen1 yuan2
+精致的猪猪女孩	jing1 zhi4 de zhu1 zhu1 nv3 hai2
+可以，但没必要	ke3 yi3 dan4 mei2 bi4 yao4
+里要控寄里寄己	li3 yao4 kong4 ji4 li3 ji4 ji3
+两弹一星黄仁勋	liang3 dan4 yi1 xing1 huang2 ren2 xun1
+伦敦唯一扎球王	lun2 dun1 wei2 yi1 za1 qiu2 wang2
+珞珈山人民公园	luo4 jia1 shan1 ren2 min2 gong1 yuan2
+毛罗·伊卡尔迪	mao2 luo2 yi1 ka3 er3 di2
+民主之后杀全家	min2 zhu3 zhi1 hou4 sha1 quan2 jia1
+你们最差的一届	ni3 men zui4 cha4 de yi1 jie4
+你也网上冲浪啊	ni3 ye3 wang3 shang4 chong1 lang4 a
+平平淡淡才是真	ping2 ping2 dan4 dan4 cai2 shi4 zhen1
+千古完人空一格	qian1 gu3 wan2 ren2 kong1 yi1 ge2
+虽不明，但觉厉	sui1 bu4 ming2 dan4 jue2 li4
+微博人民共和国	wei1 bo2 ren2 min2 gong4 he2 guo2
+我去年买了个表	wo3 qu4 nian2 mai3 le ge4 biao3
+我偷电瓶车养你	wo3 tou1 dian4 ping2 che1 yang3 ni3
+无招蟹，吴早泄	wu2 zhao1 xie4 wu2 zao3 xie4
+一曲忠诚的赞歌	yi1 qu1 zhong1 cheng2 de zan4 ge1
+用于对讽刺中国	yong4 yu2 dui4 feng3 ci4 zhong1 guo2
+元芳，你怎么看	yuan2 fang1 ni3 zen3 me kan4
+真有皇位要继承	zhen1 you3 huang2 wei4 yao4 ji4 cheng2
+正版游戏受害者	zheng4 ban3 you2 xi4 shou4 hai4 zhe3
+中关村文理学院	zhong1 guan1 cun1 wen2 li3 xue2 yuan4
+中国第一美男子	zhong1 guo2 di4 yi1 mei3 nan2 zi
+中国一直在崩溃	zhong1 guo2 yi4 zhi2 zai4 beng1 kui4
+成都七中附属大学	cheng2 du1 qi1 zhong1 fu4 shu3 da4 xue2
+当然是选择原谅她	dang1 ran2 shi4 xuan3 ze2 yuan2 liang4 ta1
+哥特式金属私生子	ge1 te4 shi4 jin1 shu3 si1 sheng1 zi
+画面太美我不敢看	hua4 mian4 tai4 mei3 wo3 bu4 gan3 kan4
+价格调整因果武器	jia4 ge2 tiao2 zheng3 yin1 guo3 wu3 qi4
+拉玛西亚影视学院	la1 ma3 xi1 ya4 ying3 shi4 xue2 yuan4
+切尔西足球俱乐部	qie4 er3 xi1 zu2 qiu2 ju4 le4 bu4
+虬江尸体回收中心	qiu2 jiang1 shi1 ti3 hui2 shou1 zhong1 xin1
+人大附中附属大学	ren2 da4 fu4 zhong1 fu4 shu3 da4 xue2
+我被雷得外焦里嫩	wo3 bei4 lei2 de2 wai4 jiao1 li3 nen4
+像韭菜一样被收割	xiang4 jiu3 cai4 yi1 yang4 bei4 shou1 ge1
+旋转跳跃我闭着眼	xuan2 zhuan3 tiao4 yue4 wo3 bi4 zhuo2 yan3
+以上企业均已破产	yi3 shang4 qi3 ye4 jun1 yi3 po4 chan3
+有梦想谁都了不起	you3 meng4 xiang3 shei2 dou1 liao3 bu4 qi3
+有人监视我的生活	you3 ren2 jian1 shi4 wo3 de sheng1 huo2
+这一定是体制问题	zhe4 yi2 ding4 shi4 ti3 zhi4 wen4 ti2
+成都七中指定疗养院	cheng2 du1 qi1 zhong1 zhi3 ding4 liao2 yang3 yuan4
+打工是不可能打工的	da3 gong1 shi4 bu4 ke3 neng2 da3 gong1 de
+地图开疆，日记强国	di4 tu2 kai1 jiang1 ri4 ji4 qiang2 guo2
+关山口职业技术学院	guan1 shan1 kou3 zhi2 ye4 ji4 shu4 xue2 yuan4
+旱的旱死，涝的涝死	han4 de han4 si3 lao4 de lao4 si3
+会自己转弯的白海豚	hui4 zi4 ji3 zhuan3 wan1 de bai2 hai3 tun2
+历史转折中的小板凳	li4 shi3 zhuan3 zhe2 zhong1 de xiao3 ban3 deng4
+你爹开始种枇杷树了	ni3 die1 kai1 shi3 zhong3 pi2 pa2 shu4 le
+你家有皇位要继承吗	ni3 jia1 you3 huang2 wei4 yao4 ji4 cheng2 ma
+我读书少，你别骗我	wo3 du2 shu1 shao3 ni3 bie2 pian4 wo3
+五角场社区职教中心	wu3 jiao3 chang3 she4 qu1 zhi2 jiao4 zhong1 xin1
+下面是破产企业名单	xia4 mian4 shi4 po4 chan3 qi3 ye4 ming2 dan1
+性别互换，评论过万	xing4 bie2 hu4 huan4 ping2 lun4 guo4 wan4
+尤文图斯足球俱乐部	you2 wen2 tu2 si1 zu2 qiu2 ju4 le4 bu4
+这要从一只蝙蝠说起	zhe4 yao4 cong2 yi1 zhi3 bian1 fu2 shuo1 qi3
+直到我膝盖中了一箭	zhi2 dao4 wo3 xi1 gai4 zhong1 le yi1 jian4
+治国无方，扰民有术	zhi4 guo2 wu2 fang1 rao3 min2 you3 shu4
+拜仁慕尼黑足球俱乐部	bai4 ren2 mu4 ni2 hei1 zu2 qiu2 ju4 le4 bu4
+离岸资产转移小组组长	li2 an4 zi1 chan3 zhuan3 yi2 xiao3 zu3 zu3 zhang3
+曼彻斯特城足球俱乐部	man4 che4 si1 te4 cheng2 zu2 qiu2 ju4 le4 bu4
+曼彻斯特联足球俱乐部	man4 che4 si1 te4 lian2 zu2 qiu2 ju4 le4 bu4
+你怎么穿着品如的衣服	ni3 zen3 me chuan1 zhe pin3 ru2 de yi1 fu2
+贫穷限制了我的想象力	pin2 qiong2 xian4 zhi4 le wo3 de xiang3 xiang4 li4
+亲，我们这边的建议是	qin1 wo3 men zhe4 bian1 de jian4 yi4 shi4
+人类的本质就是复读机	ren2 lei4 de ben3 zhi4 jiu4 shi4 fu4 du2 ji1
+上海市第一建筑施工队	shang4 hai3 shi4 di4 yi1 jian4 zhu4 shi1 gong1 dui4
+我和小伙伴们都惊呆了	wo3 he2 xiao3 huo3 ban4 men dou1 jing1 dai1 le
+用于表达服务器性能差	yong4 yu2 biao3 da2 fu2 wu4 qi4 xing4 neng2 cha4
+中共的人或言论的反讽	zhong1 gong4 de ren2 huo4 yan2 lun4 de fan3 feng3
+长亭外，古道边，芳草天	chang2 ting2 wai4 gu3 dao4 bian1 fang1 cao3 tian1
+马家沟男子职业技术学校	ma3 jia1 gou1 nan2 zi zhi2 ye4 ji4 shu4 xue2 xiao4
+天道好轮回，苍天饶过谁	tian1 dao4 hao3 lun2 hui2 cang1 tian1 rao2 guo4 shei2
+我去年买了个包，超耐磨	wo3 qu4 nian2 mai3 le ge4 bao1 chao1 nai4 mo2
+小朋友你是否有很多问号	xiao3 peng2 you3 ni3 shi4 fou3 you3 hen3 duo1 wen4 hao4
+有一道绿光，幸福在哪里	you3 yi1 dao4 lv4 guang1 xing4 fu2 zai4 na3 li3
+咱也不知道，咱也不敢问	zan2 ye3 bu4 zhi1 dao4 zan2 ye3 bu4 gan3 wen4
+这么可爱，一定是男孩子	zhe4 me ke3 ai4 yi2 ding4 shi4 nan2 hai2 zi
+人和人的体质不能一概而论	ren2 he2 ren2 de ti3 zhi4 bu4 neng2 yi1 gai4 er2 lun4
+莎普爱思滴眼液你了解一下	sha1 pu3 ai4 si1 di1 yan3 ye4 ni3 liao3 jie3 yi1 xia4
+小孩子才做选择，我全都要	xiao3 hai2 zi cai2 zuo4 xuan3 ze2 wo3 quan2 dou1 yao4
+一股来自于东方的神秘力量	yi1 gu3 lai2 zi4 yu2 dong1 fang1 de shen2 mi4 li4 liang4
+六里台七里台八里台联合大学	liu4 li3 tai2 qi1 li3 tai2 ba1 li3 tai2 lian2 he2 da4 xue2
+眼睛不要可以捐给有需要的人	yan3 jing1 bu2 yao4 ke3 yi3 juan1 gei3 you3 xu1 yao4 de ren2
+抱歉，有钱是真的能为所欲为的	bao4 qian4 you3 qian2 shi4 zhen1 de neng2 wei2 suo3 yu4 wei2 de
+来呀，快活呀，反正有大把时光	lai2 ya kuai4 huo2 ya fan3 zheng4 you3 da4 ba3 shi2 guang1
+你说的这个朋友到底是不是你自己	ni3 shuo1 de zhe4 ge4 peng2 you3 dao4 di3 shi4 bu2 shi4 ni3 zi4 ji3
+亲，我们这边的建议是你继续做梦呢	qin1 wo3 men zhe4 bian1 de jian4 yi4 shi4 ni3 ji4 xu4 zuo4 meng4 ne
+我怀疑你在搞黄色，但是我没有证据	wo3 huai2 yi2 ni3 zai4 gao3 huang2 se4 dan4 shi4 wo3 mei2 you3 zheng4 ju4
+中华人民共和国战略忽悠局台湾分局台北站站长	zhong1 hua2 ren2 min2 gong4 he2 guo2 zhan4 lve4 hu1 you1 ju2 tai2 wan1 fen1 ju2 tai2 bei3 zhan4 zhan4 zhang3
