@@ -7,7 +7,7 @@
 
 ---
 name: putonghua.liuxingyu
-version: "2020.08.13"
+version: "2020.08.15"
 sort: by_weight
 ...
 
@@ -20,7 +20,7 @@ sort: by_weight
 矮油	ai3 you2
 爱疯	ai4 feng1
 艾玛	ai4 ma3
-安吧	an1 ba
+安吧	an1 ba1
 安胖	an1 pang4
 俺也	an3 ye3
 暗耻	an4 chi3
@@ -38,7 +38,7 @@ sort: by_weight
 包皇	bao1 huang2
 包圣	bao1 sheng4
 薄督	bao2 du1
-爆吧	bao4 ba
+爆吧	bao4 ba1
 暴兵	bao4 bing1
 爆尿	bao4 niao4
 北鼻	bei3 bi2
@@ -48,7 +48,7 @@ sort: by_weight
 逼乎	bi1 hu1
 碧池	bi4 chi2
 鞭尸	bian1 shi1
-婊吧	biao3 ba
+婊吧	biao3 ba1
 冰镐	bing1 gao3
 饼王	bing3 wang2
 不薄	bu4 bao2
@@ -62,11 +62,11 @@ sort: by_weight
 草包	cao3 bao1
 层主	ceng2 zhu3
 叉屁	cha1 pi4
-拆吧	chai1 ba
+拆吧	chai1 ba1
 常公	chang2 gong1
 厂公	chang3 gong1
 炒鸡	chao3 ji1
-车吧	che1 ba
+车吧	che1 ba1
 车神	che1 shen2
 车震	che1 zhen4
 撤硕	che4 shuo4
@@ -92,8 +92,8 @@ sort: by_weight
 蛋疼	dan4 teng2
 德棍	de2 gun4
 登哥	deng1 ge1
-帝吧	di4 ba
-点艹	dian3 cao3
+帝吧	di4 ba1
+点艹	dian3 cao4
 电鱼	dian4 yu2
 刁总	diao1 zong3
 屌丝	diao3 si1
@@ -111,14 +111,13 @@ sort: by_weight
 多龙	duo1 long2
 鹅厂	e2 chang3
 厄祖	e4 zu3
-二吧	er4 ba
+二吧	er4 ba1
 二凤	er4 feng4
 二共	er4 gong4
 二狗	er4 gou3
 二哈	er4 ha1
 二毛	er4 mao2
 法克	fa3 ke4
-翻墙	fan1 qiang2
 反王	fan3 wang2
 饭大	fan4 da4
 房叔	fang2 shu1
@@ -140,7 +139,7 @@ sort: by_weight
 港咸	gang3 xian2
 葛贼	ge2 zei2
 给跪	gei3 gui4
-宫吧	gong1 ba
+宫吧	gong1 ba1
 工口	gong1 kou3
 工千	gong1 qian1
 工贼	gong1 zei2
@@ -244,6 +243,7 @@ sort: by_weight
 流啤	liu2 pi2
 六龙	liu4 long2
 六字	liu4 zi4
+挊管	lu1 guan3
 撸瑟	lu1 se4
 卢瑟	lu2 se4
 罗屌	luo2 diao3
@@ -294,7 +294,7 @@ sort: by_weight
 木鸟	mu4 niao3
 拿皇	na2 huang2
 拿三	na2 san1
-纳吧	na4 ba
+纳吧	na4 ba1
 娜四	na4 si4
 纳杂	na4 za2
 男票	nan2 piao4
@@ -315,7 +315,6 @@ sort: by_weight
 牛剑	niu2 jian4
 牛叡	niu2 rui4
 农企	nong2 qi3
-挊管	nong4 guan3
 暖男	nuan3 nan2
 哦呦	o2 you1
 欧巴	ou1 ba1
@@ -336,7 +335,6 @@ sort: by_weight
 平成	ping2 cheng2
 弃坑	qi4 keng1
 泣台	qi4 tai2
-拤管	qia2 guan3
 恰饭	qia4 fan4
 强退	qiang2 tui4
 抢楼	qiang3 lou2
@@ -353,7 +351,7 @@ sort: by_weight
 肉粥	rou4 zhou1
 软妹	ruan3 mei4
 睿国	rui4 guo2
-撒币	sa1 bi4
+撒币	sa3 bi4
 三棒	san1 bang4
 三虎	san1 hu3
 三丧	san1 sang4
@@ -410,10 +408,11 @@ sort: by_weight
 跳坑	tiao4 keng1
 铁王	tie3 wang2
 婷姐	ting2 jie3
-图吧	tu2 ba
+图吧	tu2 ba1
 土澳	tu3 ao4
 吐槽	tu3 cao2
-兔吧	tu4 ba
+兔吧	tu4 ba1
+吐槽	tu4 cao2
 兔杂	tu4 za2
 挖坟	wa1 fen2
 歪楼	wai1 lou2
@@ -442,7 +441,7 @@ sort: by_weight
 武穆	wu3 mu4
 吸猫	xi1 mao1
 吸兔	xi1 tu4
-席八	xi2 ba1
+席八	xi2 ba
 洗版	xi3 ban3
 洗地	xi3 de
 戏精	xi4 jing1
@@ -471,7 +470,7 @@ sort: by_weight
 袁叡	yuan2 rui4
 猿首	yuan2 shou3
 远哭	yuan3 ku1
-曱甴	yue1 zha2
+曱甴	yue1 you2
 月昔	yue4 xi1
 云妹	yun2 mei4
 渣浪	zha1 lang4
@@ -479,7 +478,7 @@ sort: by_weight
 扎心	zha1 xin1
 宅女	zhai2 nv3
 詹皇	zhan1 huang2
-战吧	zhan4 ba
+战吧	zhan4 ba1
 战爹	zhan4 die1
 杖哥	zhang4 ge1
 丈育	zhang4 yu4
@@ -566,7 +565,7 @@ sort: by_weight
 曾剃头	ceng2 ti4 tou2
 查大锤	cha2 da4 chui2
 查水表	cha2 shui3 biao3
-常公公	chang2 gong1 gong1
+常公公	chang2 gong1 gong
 常凯申	chang2 kai3 shen1
 长跑帝	chang2 pao3 di4
 抄答案	chao1 da2 an4
@@ -601,7 +600,7 @@ sort: by_weight
 大喇叭	da4 la3 ba1
 大老虎	da4 lao3 hu3
 大林子	da4 lin2 zi
-大撒币	da4 sa1 bi4
+大撒币	da4 sa3 bi4
 大三亿	da4 san1 yi4
 大杀器	da4 sha1 qi4
 大鲨鱼	da4 sha1 yu2
@@ -765,7 +764,7 @@ sort: by_weight
 胡乔丹	hu2 qiao2 dan1
 胡三炮	hu2 san1 pao4
 护舒宝	hu4 shu1 bao3
-花公公	hua1 gong1 gong1
+花公公	hua1 gong1 gong
 划重点	hua4 zhong4 dian3
 黄木匠	huang2 mu4 jiang4
 黄卫兵	huang2 wei4 bing1
@@ -1125,7 +1124,7 @@ sort: by_weight
 文丞相	wen2 cheng2 xiang4
 文科生	wen2 ke1 sheng1
 蜗牛社	wo1 niu2 she4
-窝窝吧	wo1 wo1 ba
+窝窝吧	wo1 wo1 ba1
 我的发	wo3 de fa1
 我姓邓	wo3 xing4 deng4
 我宣你	wo3 xuan1 ni3
@@ -1455,6 +1454,7 @@ sort: by_weight
 民逗公知	min2 dou4 gong1 zhi1
 闵行女校	min3 xing2 nv3 xiao4
 明石全登	ming2 shi2 quan2 deng1
+月莫虫合	mo2 ha2
 万俟叫兽	mo4 qi2 jiao4 shou4
 木良心炮	mu4 liang2 xin1 pao4
 奶茶妹夫	nai3 cha2 mei4 fu1
@@ -1491,7 +1491,7 @@ sort: by_weight
 三喵军团	san1 miao1 jun1 tuan2
 三男一狗	san1 nan2 yi1 gou3
 桑巴军团	sang1 ba1 jun1 tuan2
-山口山吧	shan1 kou3 shan1 ba
+山口山吧	shan1 kou3 shan1 ba1
 上杉姐姐	shang4 shan1 jie3 jie3
 神仙打架	shen2 xian1 da3 jia4
 诗意大妈	shi1 yi4 da4 ma1
@@ -1546,8 +1546,7 @@ sort: by_weight
 一颗赛艇	yi1 ke1 sai4 ting3
 一米阳光	yi1 mi3 yang2 guang1
 逸斯兰国	yi4 si1 lan2 guo2
-因吹斯停	yin1 chui1 si1 ting2
-因垂丝汀	yin1 chui2 si1 ting1
+因吹丝汀	yin1 chui1 si1 ting1
 阴间论坛	yin1 jian1 lun4 tan2
 阴婷仙子	yin1 ting2 xian1 zi
 永不翻案	yong3 bu4 fan1 an4
@@ -1560,8 +1559,6 @@ sort: by_weight
 雨女无瓜	yu3 nv3 wu2 gua1
 原版优酷	yuan2 ban3 you1 ku4
 元气少女	yuan2 qi4 shao4 nv3
-月莫虫合	yue4 mo4 chong2 he2
-占戈土也	zhan4 ge1 tu3 ye3
 张什福德	zhang1 shen2 fu2 de2
 招核天皇	zhao1 he2 tian1 huang2
 真香警告	zhen1 xiang1 jing3 gao4
@@ -1734,7 +1731,6 @@ sort: by_weight
 我偷电瓶车养你	wo3 tou1 dian4 ping2 che1 yang3 ni3
 无招蟹，吴早泄	wu2 zhao1 xie4 wu2 zao3 xie4
 一曲忠诚的赞歌	yi1 qu1 zhong1 cheng2 de zan4 ge1
-用于对讽刺中国	yong4 yu2 dui4 feng3 ci4 zhong1 guo2
 元芳，你怎么看	yuan2 fang1 ni3 zen3 me kan4
 真有皇位要继承	zhen1 you3 huang2 wei4 yao4 ji4 cheng2
 正版游戏受害者	zheng4 ban3 you2 xi4 shou4 hai4 zhe3
@@ -1784,8 +1780,6 @@ sort: by_weight
 人类的本质就是复读机	ren2 lei4 de ben3 zhi4 jiu4 shi4 fu4 du2 ji1
 上海市第一建筑施工队	shang4 hai3 shi4 di4 yi1 jian4 zhu4 shi1 gong1 dui4
 我和小伙伴们都惊呆了	wo3 he2 xiao3 huo3 ban4 men dou1 jing1 dai1 le
-用于表达服务器性能差	yong4 yu2 biao3 da2 fu2 wu4 qi4 xing4 neng2 cha4
-中共的人或言论的反讽	zhong1 gong4 de ren2 huo4 yan2 lun4 de fan3 feng3
 长亭外，古道边，芳草天	chang2 ting2 wai4 gu3 dao4 bian1 fang1 cao3 tian1
 马家沟男子职业技术学校	ma3 jia1 gou1 nan2 zi zhi2 ye4 ji4 shu4 xue2 xiao4
 天道好轮回，苍天饶过谁	tian1 dao4 hao3 lun2 hui2 cang1 tian1 rao2 guo4 shei2

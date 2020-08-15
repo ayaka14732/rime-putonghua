@@ -9,7 +9,7 @@
 
 ---
 name: putonghua
-version: "2020.08.13"
+version: "2020.08.15"
 sort: by_weight
 vocabulary: essay-zh-hans
 import_tables:
@@ -18,10 +18,8 @@ import_tables:
 ...
 
 呵	a	0%
-呵	a	0%
 啊	a
 嗄	a	99.6615%
-阿	a	0%
 阿	a	0%
 吖	a1	92.0650%
 呵	a1	8.9654%
@@ -31,16 +29,12 @@ import_tables:
 锕	a1
 阿	a1	99.8857%
 呵	a2	0%
-呵	a2	0%
 啊	a2	0%
 嗄	a2	99.6615%
 啊	a3	0%
 阿	a3	0%
-阿	a3	0%
-呵	a4	0%
 呵	a4	0%
 啊	a4	0%
-阿	a4	0%
 阿	a4	0%
 㶼	ai1
 哀	ai1
@@ -63,7 +57,6 @@ import_tables:
 䠹	ai2
 䶣	ai2
 呆	ai2	0%
-呆	ai2	0%
 啀	ai2
 嘊	ai2
 娾	ai2
@@ -82,13 +75,10 @@ import_tables:
 㾨	ai3
 䑂	ai3
 䨠	ai3
-乃	ai3	0%
 佁	ai3
 唉	ai3
 嗳	ai3
 噯	ai3
-奇	ai3	0%
-奇	ai3	0%
 娾	ai3
 昹	ai3
 欸	ai3
@@ -121,7 +111,6 @@ import_tables:
 伌	ai4
 僾	ai4
 叆	ai4
-呃	ai4	0%
 唉	ai4
 嗌	ai4	95.0542%
 嗳	ai4
@@ -172,19 +161,14 @@ import_tables:
 䤃	an1
 䤶	an1
 侒	an1
-厂	an1	0%
-厂	an1	0%
 啽	an1
 媕	an1
 安	an1
 峖	an1
-广	an1	0%
-广	an1	0%
 庵	an1
 桉	an1
 氨	an1
 痷	an1
-盒	an1	0%
 盦	an1
 盫	an1
 腤	an1
@@ -196,9 +180,7 @@ import_tables:
 誝	an1
 諳	an1
 谙	an1
-鉗	an1	0%
 闇	an1
-陰	an1	0%
 鞌	an1
 鞍	an1
 韽	an1
@@ -207,7 +189,6 @@ import_tables:
 鵪	an1
 鶕	an1
 鹌	an1
-黯	an1	0%
 䜙	an2
 儑	an2
 啽	an2
@@ -244,7 +225,6 @@ import_tables:
 婩	an4
 屽	an4
 岸	an4
-干	an4	0%
 按	an4
 晻	an4
 暗	an4
@@ -268,7 +248,6 @@ import_tables:
 䒢	ang2
 䩕	ang2
 䭹	ang2
-仰	ang2	0%
 卬	ang2
 岇	ang2
 昂	ang2
@@ -287,10 +266,8 @@ import_tables:
 坳	ao1
 柪	ao1
 梎	ao1
-棍	ao1	0%
 泑	ao1
 熝	ao1
-熬	ao1	0%
 爊	ao1
 眑	ao1
 軪	ao1
@@ -302,7 +279,6 @@ import_tables:
 䥝	ao2
 䦋	ao2
 䵅	ao2
-傲	ao2	0%
 厫	ao2
 嗷	ao2
 嗸	ao2
@@ -367,7 +343,6 @@ import_tables:
 䫨	ao4
 䮯	ao4
 傲	ao4
-噢	ao4	0%
 坳	ao4
 垇	ao4
 墺	ao4
@@ -440,7 +415,6 @@ import_tables:
 䟦	ba2
 䮂	ba2
 䳊	ba2
-八	ba2	0%
 叐	ba2
 坺	ba2
 墢	ba2
@@ -448,7 +422,6 @@ import_tables:
 抜	ba2
 抪	ba2
 拔	ba2
-湃	ba2	0%
 炦	ba2
 犮	ba2
 癹	ba2
@@ -480,13 +453,10 @@ import_tables:
 䯲	ba4
 䰾	ba4
 䶕	ba4
-伯	ba4	0%
-伯	ba4	0%
 坝	ba4
 垻	ba4
 壩	ba4
 弝	ba4
-把	ba4	0%
 欛	ba4
 灞	ba4
 爸	ba4
@@ -516,7 +486,6 @@ import_tables:
 白	bai2
 䙓	bai3
 伯	bai3	0%
-伯	bai3	0%
 佰	bai3
 捭	bai3
 摆	bai3
@@ -528,22 +497,16 @@ import_tables:
 竡	bai3
 粨	bai3
 絔	bai3
-罷	bai3	0%
 襬	bai3
 㔥	bai4
 㠔	bai4
 䒔	bai4
 䢙	bai4
 呗	bai4	3.7148%
-啡	bai4	0%
 庍	bai4
-扒	bai4	0%
-扒	bai4	0%
 拜	bai4
 拝	bai4
-排	bai4	0%
 敗	bai4
-派	bai4	0%
 猈	bai4
 稗	bai4
 粺	bai4
@@ -557,7 +520,6 @@ import_tables:
 䃑	ban1
 䈲	ban1
 䰉	ban1
-卑	ban1	0%
 扳	ban1
 搫	ban1
 搬	ban1
@@ -587,7 +549,6 @@ import_tables:
 瓪	ban3
 粄	ban3
 舨	ban3
-般	ban3	0%
 蝂	ban3
 鈑	ban3
 钣	ban3
@@ -614,8 +575,6 @@ import_tables:
 绊	ban4
 跘	ban4
 辦	ban4
-辨	ban4	0%
-辯	ban4	0%
 鉡	ban4
 靽	ban4
 㙃	bang1
@@ -638,7 +597,6 @@ import_tables:
 搒	bang3
 榜	bang3
 牓	bang3
-紡	bang3	0%
 綁	bang3
 绑	bang3
 膀	bang3	81.0081%
@@ -655,18 +613,13 @@ import_tables:
 塝	bang4
 嫎	bang4
 搒	bang4
-旁	bang4	0%
-旁	bang4	0%
 棒	bang4
 棓	bang4
-榜	bang4	0%
 玤	bang4
 硥	bang4
 磅	bang4	97.8109%
 稖	bang4
 縍	bang4
-膀	bang4	0%
-膀	bang4	0%
 艕	bang4
 蒡	bang4
 蚄	bang4
@@ -679,13 +632,10 @@ import_tables:
 镑	bang4
 佨	bao1
 剥	bao1	0%
-剥	bao1	0%
 勹	bao1
 包	bao1
 孢	bao1
 枹	bao1
-炮	bao1	0%
-炮	bao1	0%
 煲	bao1
 笣	bao1
 胞	bao1
@@ -720,8 +670,6 @@ import_tables:
 䳰	bao3
 䴐	bao3
 保	bao3
-呆	bao3	0%
-呆	bao3	0%
 堡	bao3	95.5820%
 堢	bao3
 媬	bao3
@@ -749,8 +697,6 @@ import_tables:
 㲒	bao4
 䤖	bao4
 儤	bao4
-刨	bao4	0%
-刨	bao4	0%
 勽	bao4
 嘐	bao4
 嚗	bao4
@@ -761,14 +707,11 @@ import_tables:
 抱	bao4
 暴	bao4	99.7734%
 曓	bao4
-瀑	bao4	0%
-瀑	bao4	0%
 爆	bao4
 菢	bao4
 虣	bao4
 蚫	bao4
 袌	bao4
-袍	bao4	0%
 豹	bao4
 趵	bao4
 鉋	bao4
@@ -796,7 +739,6 @@ import_tables:
 桮	bei1
 棓	bei1
 椑	bei1
-波	bei1	0%
 盃	bei1
 碑	bei1
 箄	bei1
@@ -837,7 +779,6 @@ import_tables:
 偹	bei4
 備	bei4
 僃	bei4
-北	bei4	0%
 垻	bei4
 备	bei4
 孛	bei4	74.7281%
@@ -845,7 +786,6 @@ import_tables:
 惫	bei4
 愂	bei4
 憊	bei4
-拔	bei4	0%
 昁	bei4
 杮	bei4
 梖	bei4
@@ -862,9 +802,7 @@ import_tables:
 糒	bei4
 背	bei4
 苝	bei4
-菩	bei4	0%
 萯	bei4
-葡	bei4	0%
 蓓	bei4
 被	bei4
 褙	bei4
@@ -887,7 +825,6 @@ import_tables:
 倴	ben1
 喯	ben1
 奔	ben1
-本	ben1	0%
 栟	ben1
 泍	ben1
 渀	ben1
@@ -912,7 +849,6 @@ import_tables:
 㨧	ben4
 㮥	ben4
 䬱	ben4
-体	ben4	0%
 倴	ben4
 坋	ben4
 坌	ben4
@@ -937,16 +873,11 @@ import_tables:
 䑫	beng1
 䨜	beng1
 伻	beng1
-傍	beng1	0%
 傰	beng1
 嘣	beng1
 奟	beng1
 崩	beng1
 嵭	beng1
-平	beng1	0%
-旁	beng1	0%
-旁	beng1	0%
-榜	beng1	0%
 痭	beng1
 祊	beng1
 絣	beng1
@@ -993,7 +924,6 @@ import_tables:
 䮠	bi1
 偪	bi1
 屄	bi1
-幅	bi1	0%
 楅	bi1
 毴	bi1
 皀	bi1
@@ -1025,7 +955,6 @@ import_tables:
 佊	bi3
 俾	bi3
 匕	bi3
-卑	bi3	0%
 吡	bi3
 啚	bi3
 夶	bi3
@@ -1044,9 +973,7 @@ import_tables:
 箄	bi3
 粃	bi3
 紕	bi3
-罷	bi3	0%
 聛	bi3
-肥	bi3	0%
 舭	bi3
 貏	bi3
 鄙	bi3
@@ -1096,9 +1023,7 @@ import_tables:
 䯗	bi4
 佖	bi4
 佛	bi4	0%
-佛	bi4	0%
 俾	bi4
-卑	bi4	0%
 吡	bi4
 咇	bi4
 哔	bi4
@@ -1128,7 +1053,6 @@ import_tables:
 敝	bi4
 斃	bi4
 旇	bi4
-服	bi4	0%
 枈	bi4
 柲	bi4
 梐	bi4
@@ -1136,9 +1060,6 @@ import_tables:
 毕	bi4
 毖	bi4
 毙	bi4
-泌	bi4	0%
-泌	bi4	0%
-波	bi4	0%
 湢	bi4
 滗	bi4
 滭	bi4
@@ -1159,11 +1080,9 @@ import_tables:
 痺	bi4
 皕	bi4
 睤	bi4
-瞥	bi4	0%
 碧	bi4
 祕	bi4
-秘	bi4	0%
-秘	bi4	0%
+秘	bi4	3%
 稫	bi4
 笓	bi4
 筚	bi4
@@ -1182,7 +1101,6 @@ import_tables:
 翍	bi4
 肶	bi4
 胇	bi4
-脾	bi4	0%
 腷	bi4
 臂	bi4	97.4637%
 芘	bi4
@@ -1195,10 +1113,8 @@ import_tables:
 蔽	bi4
 薜	bi4
 蘗	bi4
-虑	bi4	0%
 蜌	bi4
 袐	bi4
-被	bi4	0%
 裨	bi4
 襅	bi4
 襞	bi4
@@ -1207,12 +1123,10 @@ import_tables:
 詖	bi4
 诐	bi4
 貱	bi4
-費	bi4	0%
 賁	bi4
 贔	bi4
 贲	bi4	5.6448%
 赑	bi4
-跛	bi4	0%
 跸	bi4
 踾	bi4
 蹕	bi4
@@ -1254,10 +1168,6 @@ import_tables:
 炞	bian
 边	bian
 䟍	bian1
-便	bian1	0%
-便	bian1	0%
-扁	bian1	0%
-扁	bian1	0%
 揙	bian1
 煸	bian1
 牑	bian1
@@ -1286,7 +1196,6 @@ import_tables:
 㦚	bian3
 䁵	bian3
 匾	bian3
-封	bian3	0%
 惼	bian3
 扁	bian3	99.3362%
 疺	bian3
@@ -1294,7 +1203,6 @@ import_tables:
 稨	bian3
 窆	bian3
 糄	bian3
-編	bian3	0%
 緶	bian3
 萹	bian3
 藊	bian3
@@ -1302,8 +1210,6 @@ import_tables:
 豍	bian3
 貶	bian3
 贬	bian3
-辨	bian3	0%
-辯	bian3	0%
 釆	bian3
 鴘	bian3
 鶣	bian3
@@ -1337,7 +1243,6 @@ import_tables:
 汳	bian4
 汴	bian4
 玣	bian4
-編	bian4	0%
 緶	bian4
 缏	bian4
 艑	bian4
@@ -1373,7 +1278,6 @@ import_tables:
 標	biao1
 淲	biao1
 滮	biao1
-漂	biao1	0%
 瀌	biao1
 灬	biao1	13.1195%
 熛	biao1
@@ -1427,7 +1331,6 @@ import_tables:
 䞄	biao4
 俵	biao4
 摽	biao4
-標	biao4	0%
 脿	biao4
 蔈	biao4
 鰾	biao4
@@ -1441,7 +1344,6 @@ import_tables:
 柭	bie1
 瘪	bie1	0%
 癟	bie1	0%
-蔽	bie1	0%
 虌	bie1
 蟞	bie1
 鱉	bie1
@@ -1458,13 +1360,7 @@ import_tables:
 别	bie2
 咇	bie2
 徶	bie2
-扒	bie2	0%
-扒	bie2	0%
-拔	bie2	0%
 柲	bie2
-癟	bie2	0%
-秘	bie2	0%
-秘	bie2	0%
 穪	bie2
 莂	bie2
 蛂	bie2
@@ -1483,7 +1379,6 @@ import_tables:
 䚔	bin1
 䧬	bin1
 䨈	bin1
-份	bin1	0%
 傧	bin1
 儐	bin1
 宾	bin1
@@ -1516,7 +1411,6 @@ import_tables:
 鑌	bin1
 镔	bin1
 霦	bin1
-頻	bin1	0%
 顮	bin1
 䐔	bin3
 儐	bin4
@@ -1538,9 +1432,6 @@ import_tables:
 兵	bing1
 冫	bing1
 冰	bing1
-屏	bing1	0%
-屏	bing1	0%
-并	bing1	0%
 幷	bing1
 掤	bing1
 栟	bing1
@@ -1555,8 +1446,6 @@ import_tables:
 丙	bing3
 偋	bing3
 寎	bing3
-屏	bing3	0%
-屏	bing3	0%
 庰	bing3
 怲	bing3
 抦	bing3
@@ -1588,7 +1477,6 @@ import_tables:
 饼	bing3
 㓈	bing4
 䗒	bing4
-丙	bing4	0%
 並	bing4
 併	bing4
 倂	bing4
@@ -1596,13 +1484,9 @@ import_tables:
 傡	bing4
 垪	bing4
 寎	bing4
-屏	bing4	0%
-屏	bing4	0%
-平	bing4	0%
 并	bing4
 幷	bing4
 庰	bing4
-拼	bing4	0%
 摒	bing4
 栤	bing4
 病	bing4
@@ -1628,25 +1512,19 @@ import_tables:
 妭	bo1
 嶓	bo1
 帗	bo1
-拔	bo1	0%
 拨	bo1
 撥	bo1
 播	bo1
 波	bo1
-潑	bo1	0%
 玻	bo1
-番	bo1	0%
-番	bo1	0%
 癶	bo1
 癷	bo1
-發	bo1	0%
 皪	bo1
 盋	bo1
 砵	bo1
 碆	bo1
 紴	bo1
 缽	bo1
-脖	bo1	0%
 般	bo1	0%
 菠	bo1
 袚	bo1
@@ -1705,8 +1583,6 @@ import_tables:
 亳	bo2
 仢	bo2
 伯	bo2	91.9366%
-佛	bo2	0%
-佛	bo2	0%
 侼	bo2
 僰	bo2
 勃	bo2
@@ -1717,27 +1593,18 @@ import_tables:
 孛	bo2	25.2719%
 帛	bo2
 彴	bo2
-怕	bo2	0%
 愽	bo2
 懪	bo2
-拍	bo2	0%
 挬	bo2
 搏	bo2
-暴	bo2	0%
-暴	bo2	0%
-服	bo2	0%
-柏	bo2	0%
-柏	bo2	0%
+柏	bo2	3%
 柭	bo2
 欂	bo2
 殕	bo2
 泊	bo2	67.3218%
 浡	bo2
 渤	bo2
-瀑	bo2	0%
-瀑	bo2	0%
 煿	bo2
-爆	bo2	0%
 牔	bo2
 犦	bo2
 犻	bo2
@@ -1745,8 +1612,6 @@ import_tables:
 猼	bo2
 瓝	bo2
 瓟	bo2
-白	bo2	0%
-百	bo2	0%
 礡	bo2
 礴	bo2
 秡	bo2
@@ -1761,7 +1626,6 @@ import_tables:
 艊	bo2
 苩	bo2
 茷	bo2
-菩	bo2	0%
 葧	bo2
 蔔	bo2
 薄	bo2	56.5971%
@@ -1771,7 +1635,6 @@ import_tables:
 襮	bo2
 詙	bo2
 豰	bo2
-跑	bo2	0%
 踣	bo2
 郣	bo2
 鈸	bo2
@@ -1791,30 +1654,23 @@ import_tables:
 驳	bo2
 髆	bo2
 髉	bo2
-魄	bo2	0%
-魄	bo2	0%
-魄	bo2	0%
 鮊	bo2
 鲌	bo2
 鵓	bo2
 鹁	bo2
 㝿	bo3
-播	bo3	0%
 箥	bo3
 簸	bo3
 蚾	bo3
 跛	bo3
 孹	bo4
 擘	bo4	81.6514%
-柏	bo4	0%
-柏	bo4	0%
 檗	bo4
 檘	bo4
-簸	bo4	0%
+簸	bo4
 糪	bo4
 蔢	bo4
-薄	bo4	0%
-薄	bo4	0%
+薄	bo4	3%
 蘖	bo4
 蘗	bo4
 襎	bo4
@@ -1832,8 +1688,6 @@ import_tables:
 餔	bu1
 鯆	bu1
 鵏	bu1
-不	bu2	0%
-不	bu2	0%
 輹	bu2
 轐	bu2
 醭	bu2
@@ -1848,11 +1702,8 @@ import_tables:
 哺	bu3
 喸	bu3
 堡	bu3	0%
-堡	bu3	0%
-堡	bu3	0%
 捕	bu3
 捬	bu3
-撲	bu3	0%
 补	bu3
 補	bu3
 鵏	bu3
@@ -1896,14 +1747,11 @@ import_tables:
 簿	bu4
 荹	bu4
 蔀	bu4
-薄	bu4	0%
-薄	bu4	0%
 踄	bu4
 部	bu4
 郶	bu4
 鈈	bu4
 钚	bu4
-附	bu4	0%
 陠	bu4
 餔	bu4
 餢	bu4
@@ -1911,8 +1759,6 @@ import_tables:
 䌨	ca1
 傪	ca1
 嚓	ca1	22.8376%
-拆	ca1	0%
-拆	ca1	0%
 擦	ca1
 攃	ca1
 礤	ca3
@@ -1962,7 +1808,6 @@ import_tables:
 縩	cai4
 菜	cai4
 蔡	cai4
-采	cai4	0%
 㜗	can1
 䉔	can1
 䟃	can1
@@ -2001,7 +1846,6 @@ import_tables:
 摲	can2
 残	can2
 殘	can2
-淺	can2	0%
 蚕	can2
 蝅	can2
 蠶	can2
@@ -2026,8 +1870,6 @@ import_tables:
 䛹	can4
 傪	can4
 儏	can4
-參	can4	0%
-參	can4	0%
 嘇	can4
 孱	can4
 掺	can4
@@ -2066,7 +1908,6 @@ import_tables:
 蔵	cang2
 藏	cang2	77.9647%
 鑶	cang2
-蒼	cang3	0%
 䅮	cang4
 䢢	cang4
 賶	cang4
@@ -2074,9 +1915,7 @@ import_tables:
 䎭	cao1
 撡	cao1
 操	cao1
-澡	cao1	0%
 糙	cao1
-造	cao1	0%
 㜖	cao2
 㯥	cao2
 䄚	cao2
@@ -2109,7 +1948,6 @@ import_tables:
 漕	cao4
 肏	cao4
 襙	cao4
-造	cao4	0%
 鄵	cao4
 鼜	cao4
 㥽	ce4
@@ -2147,10 +1985,7 @@ import_tables:
 萗	ce4
 萴	ce4
 蓛	ce4
-参	cen1	0%
-参	cen1	0%
-参	cen1	0%
-參	cen1	0%
+参	cen1	3%
 參	cen1	0%
 嵾	cen1
 㞤	cen2
@@ -2169,7 +2004,6 @@ import_tables:
 㬝	ceng2
 䁬	ceng2
 䉕	ceng2
-增	ceng2	0%
 层	ceng2
 層	ceng2
 嶒	ceng2
@@ -2177,7 +2011,6 @@ import_tables:
 橧	ceng2
 竲	ceng2
 繒	ceng2
-蹭	ceng2	0%
 鄫	ceng2
 驓	ceng2
 㣒	ceng4
@@ -2194,8 +2027,6 @@ import_tables:
 扠	cha1
 扱	cha1
 挿	cha1
-捷	cha1	0%
-接	cha1	0%
 插	cha1
 揷	cha1
 杈	cha1
@@ -2232,7 +2063,6 @@ import_tables:
 捈	cha2
 搽	cha2
 摖	cha2
-斜	cha2	0%
 查	cha2	99.8166%
 梌	cha2
 楂	cha2
@@ -2248,7 +2078,6 @@ import_tables:
 靫	cha2
 䂳	cha3
 叉	cha3
-土	cha3	0%
 衩	cha3
 蹅	cha3
 鑔	cha3
@@ -2282,7 +2111,6 @@ import_tables:
 䞗	chai1
 差	chai1	1.6319%
 拆	chai1	97.2221%
-搓	chai1	0%
 芆	chai1
 釵	chai1
 钗	chai1
@@ -2292,8 +2120,6 @@ import_tables:
 侪	chai2
 儕	chai2
 喍	chai2
-查	chai2	0%
-查	chai2	0%
 柴	chai2
 祡	chai2
 豺	chai2
@@ -2304,9 +2130,6 @@ import_tables:
 㳗	chai4
 䘍	chai4
 囆	chai4
-差	chai4	0%
-差	chai4	0%
-差	chai4	0%
 瘥	chai4
 虿	chai4
 蠆	chai4
@@ -2320,7 +2143,6 @@ import_tables:
 䦓	chan1
 䩥	chan1
 䪜	chan1
-兔	chan1	0%
 嘽	chan1
 嚵	chan1
 幨	chan1
@@ -2329,7 +2151,6 @@ import_tables:
 摻	chan1
 攙	chan1
 梴	chan1
-沾	chan1	0%
 緂	chan1
 脠	chan1
 袩	chan1
@@ -2357,23 +2178,18 @@ import_tables:
 儳	chan2
 劖	chan2
 单	chan2	0%
-单	chan2	0%
-单	chan2	0%
-厘	chan2	0%
 單	chan2	0%
 嚵	chan2
 壥	chan2
 婵	chan2
 嬋	chan2
 孱	chan2
-嶄	chan2	0%
 巉	chan2
 廛	chan2
 棎	chan2
 欃	chan2
 毚	chan2
 湹	chan2
-漸	chan2	0%
 潹	chan2
 潺	chan2
 澶	chan2
@@ -2429,7 +2245,6 @@ import_tables:
 剗	chan3
 剷	chan3
 啴	chan3
-單	chan3	0%
 嘽	chan3
 囅	chan3
 嵼	chan3
@@ -2520,7 +2335,6 @@ import_tables:
 䯴	chang2
 仧	chang2
 倘	chang2	0%
-倘	chang2	0%
 偿	chang2
 償	chang2
 兏	chang2
@@ -2587,7 +2401,6 @@ import_tables:
 䫿	chao1
 䰫	chao1
 䳂	chao1
-剿	chao1	0%
 剿	chao1	0%
 劋	chao1
 勦	chao1
@@ -2671,7 +2484,6 @@ import_tables:
 䰩	che3
 偖	che3
 尺	che3	0%
-尺	che3	0%
 扯	che3
 撦	che3
 㒤	che4
@@ -2699,7 +2511,6 @@ import_tables:
 屮	che4
 彻	che4
 徹	che4
-拆	che4	0%
 拆	che4	0%
 掣	che4
 揊	che4
@@ -2968,8 +2779,6 @@ import_tables:
 牚	cheng4
 秤	cheng4
 称	cheng4	0%
-称	cheng4	0%
-稱	cheng4	0%
 稱	cheng4	0%
 竀	cheng4
 黨	cheng4	0%
@@ -3037,7 +2846,6 @@ import_tables:
 徲	chi2
 持	chi2
 提	chi2	0%
-提	chi2	0%
 歭	chi2
 汖	chi2
 池	chi2
@@ -3055,7 +2863,6 @@ import_tables:
 荎	chi2
 菭	chi2
 蚳	chi2
-蛇	chi2	0%
 蛇	chi2	0%
 蝭	chi2
 謘	chi2
@@ -3148,7 +2955,6 @@ import_tables:
 懘	chi4
 抶	chi4
 拆	chi4	0%
-拆	chi4	0%
 捇	chi4
 敕	chi4
 斥	chi4
@@ -3231,7 +3037,6 @@ import_tables:
 烛	chong2	0%
 爞	chong2
 痋	chong2
-种	chong2	0%
 种	chong2	0%
 種	chong2	0%
 緟	chong2
@@ -3388,7 +3193,6 @@ import_tables:
 耝	chu2
 耡	chu2
 芻	chu2
-著	chu2	0%
 著	chu2	0%
 蒢	chu2
 蒭	chu2
@@ -3750,8 +3554,6 @@ import_tables:
 呲	ci1
 姕	ci1
 差	ci1	0%
-差	ci1	0%
-差	ci1	0%
 柴	ci1	0%
 玼	ci1
 疵	ci1
@@ -3961,7 +3763,6 @@ import_tables:
 䢐	cu2
 䣯	cu2
 且	cu2	0%
-且	cu2	0%
 徂	cu2
 殂	cu2
 蔖	cu3
@@ -4018,14 +3819,12 @@ import_tables:
 僔	cuan2
 巑	cuan2
 攒	cuan2	0%
-攒	cuan2	0%
 攢	cuan2	0%
 櫕	cuan2
 欑	cuan2
 穳	cuan2
 菆	cuan2
 襸	cuan2
-蹲	cuan2	0%
 蹲	cuan2	0%
 㸑	cuan4
 殩	cuan4
@@ -4054,7 +3853,6 @@ import_tables:
 磪	cui1
 縗	cui1
 缞	cui1
-衰	cui1	0%
 衰	cui1	0%
 鏙	cui1
 㵏	cui3
@@ -4126,18 +3924,14 @@ import_tables:
 澊	cun2
 踆	cun2
 蹲	cun2	0%
-蹲	cun2	0%
 刌	cun3
 寸	cun3	0%
 忖	cun3
-蹲	cun3	0%
 蹲	cun3	0%
 䍎	cun4
 吋	cun4
 寸	cun4
 籿	cun4
-差	cuo1	0%
-差	cuo1	0%
 差	cuo1	0%
 搓	cuo1
 撮	cuo1	99.8237%
@@ -4493,7 +4287,6 @@ import_tables:
 癉	dan4
 癚	dan4
 石	dan4	0%
-石	dan4	0%
 禫	dan4
 窞	dan4
 繵	dan4
@@ -4664,9 +4457,7 @@ import_tables:
 軇	dao4
 道	dao4
 陶	dao4	0%
-陶	dao4	0%
 地	de	25.6028%
-底	de	0%
 底	de	0%
 得	de	84.5668%
 的	de	99.9671%
@@ -4754,7 +4545,6 @@ import_tables:
 奃	di1
 彽	di1
 提	di1	0%
-提	di1	0%
 樀	di1
 氐	di1
 渧	di1
@@ -4841,7 +4631,6 @@ import_tables:
 抵	di3
 拞	di3
 掋	di3
-提	di3	0%
 提	di3	0%
 柢	di3
 楴	di3
@@ -5066,7 +4855,6 @@ import_tables:
 扚	diao3
 鳥	diao3	0%
 鵃	diao3
-鸟	diao3	0%
 鸟	diao3	0%
 㒛	diao4
 㪕	diao4
@@ -5395,7 +5183,6 @@ import_tables:
 荳	dou4
 讀	dou4	0%
 读	dou4	0%
-读	dou4	0%
 豆	dou4
 逗	dou4
 郖	dou4
@@ -5473,7 +5260,6 @@ import_tables:
 韣	du2
 韥	du2
 頓	du2	0%
-顿	du2	0%
 顿	du2	0%
 騳	du2
 髑	du2
@@ -5696,7 +5482,6 @@ import_tables:
 夺	duo2
 奪	duo2
 度	duo2	0%
-度	duo2	0%
 掇	duo2
 敓	duo2
 敚	duo2
@@ -5792,7 +5577,6 @@ import_tables:
 饳	duo4
 馱	duo4	0%
 驮	duo4	0%
-驮	duo4	0%
 鵽	duo4
 點	duo4	0%
 呃	e	0%
@@ -5803,7 +5587,6 @@ import_tables:
 婀	e1
 屙	e1
 痾	e1
-阿	e1	0%
 阿	e1	0%
 㧴	e2
 㼂	e2
@@ -5831,7 +5614,6 @@ import_tables:
 磀	e2
 莪	e2
 蛤	e2	0%
-蛤	e2	0%
 蛾	e2
 訛	e2
 誐	e2
@@ -5857,14 +5639,11 @@ import_tables:
 娿	e3
 婀	e3
 恶	e3	0%
-恶	e3	0%
-惡	e3	0%
 惡	e3	0%
 枙	e3
 砈	e3
 誐	e3
 閜	e3
-阿	e3	0%
 阿	e3	0%
 頋	e3
 騀	e3
@@ -6193,7 +5972,6 @@ import_tables:
 煩	fan2
 燔	fan2
 璠	fan2
-番	fan2	0%
 番	fan2	0%
 矾	fan2
 礬	fan2
@@ -6679,20 +6457,15 @@ import_tables:
 鴌	feng4
 鵬	feng4
 覅	fiao4
-仏	fo2
+仏	fo2	0%
 仸	fo2
-佛	fo2	0%
-佛	fo2	0%
+佛	fo2
 坲	fo2
 梻	fo2
-不	fou1	0%
-不	fou1	0%
 垺	fou2
 紑	fou2
 裦	fou2
 䬏	fou3
-不	fou3	0%
-不	fou3	0%
 否	fou3	99.9808%
 妚	fou3
 殕	fou3
@@ -6714,8 +6487,6 @@ import_tables:
 䓵	fu1
 䱐	fu1
 䴸	fu1
-不	fu1	0%
-不	fu1	0%
 伕	fu1
 傅	fu1
 呋	fu1
@@ -6893,7 +6664,6 @@ import_tables:
 輻	fu2
 辐	fu2
 还	fu2	0%
-还	fu2	0%
 郍	fu2
 郛	fu2
 酻	fu2
@@ -6945,7 +6715,6 @@ import_tables:
 盙	fu3
 簠	fu3
 胕	fu3
-脯	fu3	0%
 脯	fu3	0%
 腐	fu3
 腑	fu3
@@ -7071,10 +6840,8 @@ import_tables:
 伽	ga1	90.5580%
 呷	ga1
 咖	ga1	0%
-咖	ga1	0%
 嘎	ga1
 嘠	ga1
-夹	ga1	0%
 夹	ga1	0%
 夾	ga1	0%
 旮	ga1
@@ -7083,8 +6850,6 @@ import_tables:
 噶	ga2
 尜	ga2
 軋	ga2	0%
-轧	ga2	0%
-轧	ga2	0%
 轧	ga2	0%
 釓	ga2
 錷	ga2
@@ -7101,12 +6866,10 @@ import_tables:
 䶣	gai1
 侅	gai1
 咳	gai1	0%
-咳	gai1	0%
 垓	gai1
 姟	gai1
 峐	gai1
 晐	gai1
-核	gai1	0%
 核	gai1	0%
 畡	gai1
 祴	gai1
@@ -7267,7 +7030,6 @@ import_tables:
 岗	gang1
 岡	gang1
 崗	gang1
-扛	gang1	0%
 扛	gang1	0%
 抗	gang1	0%
 掆	gang1
@@ -7462,7 +7224,6 @@ import_tables:
 葛	ge2
 蛒	ge2
 蛤	ge2	0%
-蛤	ge2	0%
 裓	ge2
 觡	ge2
 詥	ge2
@@ -7495,10 +7256,8 @@ import_tables:
 個	ge3
 各	ge3	0%
 合	ge3	0%
-合	ge3	0%
 哿	ge3
 嗰	ge3
-盖	ge3	0%
 盖	ge3	0%
 舸	ge3
 葛	ge3
@@ -7569,7 +7328,6 @@ import_tables:
 郠	geng3
 頸	geng3	0%
 颈	geng3	0%
-颈	geng3	0%
 骾	geng3
 鯁	geng3
 鲠	geng3
@@ -7613,7 +7371,6 @@ import_tables:
 碽	gong1
 糼	gong1
 紅	gong1	0%
-红	gong1	0%
 红	gong1	0%
 肱	gong1
 蚣	gong1
@@ -7678,7 +7435,6 @@ import_tables:
 勾	gou1
 區	gou1	0%
 句	gou1	0%
-句	gou1	0%
 呴	gou1
 拘	gou1	0%
 搆	gou1
@@ -7723,7 +7479,6 @@ import_tables:
 冓	gou4
 勾	gou4	0%
 句	gou4	0%
-句	gou4	0%
 呴	gou4
 坸	gou4
 垢	gou4
@@ -7765,7 +7520,6 @@ import_tables:
 姑	gu1
 嫴	gu1
 孤	gu1
-家	gu1	0%
 家	gu1	0%
 枯	gu1	0%
 柧	gu1
@@ -7855,7 +7609,6 @@ import_tables:
 蛌	gu3
 蠱	gu3
 角	gu3	0%
-角	gu3	0%
 詁	gu3
 诂	gu3
 谷	gu3	99.9056%
@@ -7918,7 +7671,6 @@ import_tables:
 劀	gua1
 呱	gua1
 咶	gua1
-括	gua1	0%
 括	gua1	0%
 捖	gua1
 栝	gua1
@@ -7996,7 +7748,6 @@ import_tables:
 矜	guan1	8.9761%
 窤	guan1
 綸	guan1	0%
-纶	guan1	0%
 纶	guan1	0%
 莞	guan1	86.3018%
 蒄	guan1
@@ -8340,7 +8091,6 @@ import_tables:
 楇	guo1
 活	guo1	0%
 涡	guo1	0%
-涡	guo1	0%
 渦	guo1	0%
 濄	guo1
 瘑	guo1
@@ -8386,7 +8136,6 @@ import_tables:
 䙨	guo3
 䴹	guo3
 划	guo3	0%
-划	guo3	0%
 惈	guo3
 果	guo3
 椁	guo3
@@ -8408,24 +8157,19 @@ import_tables:
 馃	guo3
 㳀	guo4
 划	guo4	0%
-划	guo4	0%
 腂	guo4
 过	guo4
 過	guo4
 呵	ha1	0%
-呵	ha1	0%
 哈	ha1
-蛤	ha1	0%
 蛤	ha1	0%
 鉿	ha1
 铪	ha1
-虾	ha2	0%
 虾	ha2	0%
 蛤	ha2	98.4927%
 蝦	ha2	0%
 哈	ha3	0%
 奤	ha3
-吓	ha4	0%
 吓	ha4	0%
 哈	ha4	0%
 嚡	hai
@@ -8442,7 +8186,6 @@ import_tables:
 䪱	hai2
 䯐	hai2
 䱺	hai2
-咳	hai2	0%
 咳	hai2	0%
 孩	hai2
 还	hai2	98.0072%
@@ -8562,11 +8305,9 @@ import_tables:
 䓍	han3
 丆	han3
 厂	han3	0%
-厂	han3	0%
 厈	han3
 喊	han3
 嚂	han3
-嵌	han3	0%
 嵌	han3	0%
 浫	han3
 罕	han3
@@ -8666,7 +8407,6 @@ import_tables:
 䢚	hang2
 䲳	hang2
 吭	hang2	0%
-吭	hang2	0%
 垳	hang2
 妔	hang2
 斻	hang2
@@ -8692,13 +8432,9 @@ import_tables:
 䟘	hang4
 䣈	hang4
 吭	hang4	0%
-吭	hang4	0%
-巷	hang4	0%
 巷	hang4	0%
 沆	hang4
 笐	hang4
-行	hang4	0%
-行	hang4	0%
 行	hang4	0%
 頏	hang4
 嚆	hao1
@@ -8919,7 +8655,6 @@ import_tables:
 何	he4	0%
 佫	he4
 吓	he4	0%
-吓	he4	0%
 呼	he4	0%
 和	he4	99.9727%
 哧	he4	0%
@@ -8962,7 +8697,6 @@ import_tables:
 齃	he4
 㱄	hei1
 嗨	hei1	0%
-嗨	hei1	0%
 嘿	hei1	96.2683%
 潶	hei1
 黑	hei1
@@ -9002,8 +8736,6 @@ import_tables:
 珩	heng2
 胻	heng2
 蘅	heng2
-行	heng2	0%
-行	heng2	0%
 行	heng2	0%
 衡	heng2
 鑅	heng2
@@ -9226,8 +8958,6 @@ import_tables:
 恗	hu1
 惚	hu1
 惡	hu1	0%
-惡	hu1	0%
-戏	hu1	0%
 戏	hu1	0%
 戯	hu1
 戲	hu1	0%
@@ -9271,8 +9001,6 @@ import_tables:
 䭌	hu2
 䭍	hu2
 和	hu2	0%
-和	hu2	0%
-和	hu2	0%
 喖	hu2
 嘝	hu2
 囫	hu2
@@ -9284,7 +9012,6 @@ import_tables:
 抇	hu2
 搰	hu2
 斛	hu2
-核	hu2	0%
 核	hu2	0%
 楜	hu2
 槲	hu2
@@ -9346,7 +9073,6 @@ import_tables:
 虎	hu3
 虝	hu3
 許	hu3	0%
-许	hu3	0%
 许	hu3	0%
 錿	hu3
 鯱	hu3
@@ -9527,7 +9253,6 @@ import_tables:
 魤	hua4
 鮭	hua4
 黊	hua4
-划	huai	0%
 划	huai	0%
 劃	huai
 㜳	huai2
@@ -9874,7 +9599,6 @@ import_tables:
 廻	hui2
 廽	hui2
 徊	hui2	0%
-徊	hui2	0%
 恛	hui2
 洄	hui2
 烠	hui2
@@ -9980,7 +9704,6 @@ import_tables:
 洄	hui4
 浍	hui4
 湏	hui4
-溃	hui4	0%
 溃	hui4	0%
 滙	hui4
 潓	hui4
@@ -10124,7 +9847,6 @@ import_tables:
 劐	huo1
 吙	huo1
 呵	huo1	0%
-呵	huo1	0%
 嚄	huo1
 攉	huo1
 火	huo1	0%
@@ -10137,8 +9859,6 @@ import_tables:
 䄑	huo2
 䣶	huo2
 佸	huo2
-和	huo2	0%
-和	huo2	0%
 和	huo2	0%
 姡	huo2
 活	huo2
@@ -10182,8 +9902,6 @@ import_tables:
 剨	huo4
 劐	huo4
 化	huo4	0%
-和	huo4	0%
-和	huo4	0%
 和	huo4	0%
 咟	huo4
 嚄	huo4
@@ -10260,7 +9978,6 @@ import_tables:
 倚	ji1	0%
 僟	ji1
 其	ji1	0%
-其	ji1	0%
 几	ji1
 击	ji1
 刉	ji1
@@ -10278,7 +9995,6 @@ import_tables:
 基	ji1
 墼	ji1
 奇	ji1	0%
-奇	ji1	0%
 妓	ji1
 姬	ji1
 居	ji1	0%
@@ -10293,7 +10009,6 @@ import_tables:
 擊	ji1
 敧	ji1
 朞	ji1
-期	ji1	0%
 期	ji1	0%
 机	ji1
 枅	ji1
@@ -10477,7 +10192,6 @@ import_tables:
 蕺	ji2
 藉	ji2	39.5037%
 蜡	ji2	0%
-蜡	ji2	0%
 蝍	ji2
 螏	ji2
 蠀	ji2
@@ -10500,7 +10214,6 @@ import_tables:
 雦	ji2
 雧	ji2
 霵	ji2
-革	ji2	0%
 革	ji2	0%
 鞊	ji2
 鶺	ji2
@@ -10583,7 +10296,6 @@ import_tables:
 䶩	ji4
 伎	ji4
 偈	ji4	77.5986%
-其	ji4	0%
 其	ji4	0%
 兾	ji4
 冀	ji4
@@ -10722,7 +10434,6 @@ import_tables:
 傢	jia1
 加	jia1
 咖	jia1	0%
-咖	jia1	0%
 嘉	jia1
 埉	jia1
 夹	jia1	99.6819%
@@ -10834,7 +10545,6 @@ import_tables:
 價	jia4
 嫁	jia4
 家	jia4	0%
-家	jia4	0%
 幏	jia4
 架	jia4
 枷	jia4
@@ -10886,7 +10596,6 @@ import_tables:
 歼	jian1
 殱	jian1
 殲	jian1
-浅	jian1	0%
 浅	jian1	0%
 淺	jian1	0%
 渐	jian1	0%
@@ -11101,7 +10810,6 @@ import_tables:
 楗	jian4
 榗	jian4
 槛	jian4	0%
-槛	jian4	0%
 檻	jian4	0%
 毽	jian4
 洊	jian4
@@ -11247,7 +10955,6 @@ import_tables:
 弶	jiang4
 強	jiang4	0%
 强	jiang4	0%
-强	jiang4	0%
 彊	jiang4
 摾	jiang4
 櫤	jiang4
@@ -11341,7 +11048,6 @@ import_tables:
 鷮	jiao1
 鹪	jiao1
 嚼	jiao2	0%
-嚼	jiao2	0%
 矫	jiao2
 矯	jiao2
 㩰	jiao3
@@ -11388,7 +11094,6 @@ import_tables:
 晈	jiao3
 暞	jiao3
 曒	jiao3
-校	jiao3	0%
 校	jiao3	0%
 樔	jiao3
 橋	jiao3	0%
@@ -11444,7 +11149,6 @@ import_tables:
 噍	jiao4
 噭	jiao4
 嚼	jiao4	0%
-嚼	jiao4	0%
 嬓	jiao4
 學	jiao4	0%
 峤	jiao4	26.6611%
@@ -11456,7 +11160,6 @@ import_tables:
 教	jiao4
 敫	jiao4
 斠	jiao4
-校	jiao4	0%
 校	jiao4	0%
 橋	jiao4	0%
 滘	jiao4
@@ -11487,10 +11190,8 @@ import_tables:
 釂	jiao4
 餃	jiao4	0%
 价	jie	0%
-价	jie	0%
 假	jie	0%
 價	jie	0%
-家	jie	0%
 家	jie	0%
 㓩	jie1
 㡇	jie1
@@ -11505,8 +11206,6 @@ import_tables:
 堦	jie1
 媘	jie1
 嫅	jie1
-差	jie1	0%
-差	jie1	0%
 差	jie1	0%
 担	jie1	0%
 接	jie1
@@ -11596,7 +11295,6 @@ import_tables:
 杰	jie2
 桀	jie2
 桔	jie2	0%
-桔	jie2	0%
 桝	jie2
 椄	jie2
 楬	jie2
@@ -11674,7 +11372,6 @@ import_tables:
 丯	jie4
 介	jie4
 价	jie4	0%
-价	jie4	0%
 借	jie4
 唶	jie4
 嗟	jie4
@@ -11708,7 +11405,6 @@ import_tables:
 蛶	jie4
 衸	jie4
 褯	jie4
-解	jie4	0%
 解	jie4	0%
 觧	jie4
 誡	jie4
@@ -11899,7 +11595,6 @@ import_tables:
 橸	jing1
 殑	jing1
 氏	jing1	0%
-氏	jing1	0%
 泾	jing1
 涇	jing1
 猄	jing1
@@ -11975,7 +11670,6 @@ import_tables:
 傹	jing4
 净	jing4
 凈	jing4
-劲	jing4	0%
 劲	jing4	0%
 勁	jing4	0%
 境	jing4
@@ -12189,8 +11883,6 @@ import_tables:
 䪶	ju1
 䱟	ju1
 且	ju1	0%
-且	ju1	0%
-仇	ju1	0%
 仇	ju1	0%
 俥	ju1
 俱	ju1	0%
@@ -12235,7 +11927,6 @@ import_tables:
 踘	ju1
 車	ju1	0%
 軥	ju1
-车	ju1	0%
 车	ju1	0%
 鋦	ju1
 鋸	ju1	0%
@@ -12325,7 +12016,6 @@ import_tables:
 挙	ju3
 擧	ju3
 枸	ju3	29.0131%
-柜	ju3	0%
 柜	ju3	0%
 椇	ju3
 榉	ju3
@@ -12454,7 +12144,6 @@ import_tables:
 勌	juan1
 勬	juan1
 圈	juan1	0%
-圈	juan1	0%
 姢	juan1
 娟	juan1
 捐	juan1
@@ -12479,7 +12168,6 @@ import_tables:
 㷷	juan3
 卷	juan3
 呟	juan3
-圈	juan3	0%
 圈	juan3	0%
 埍	juan3
 埢	juan3
@@ -12653,7 +12341,6 @@ import_tables:
 繘	jue2
 绝	jue2
 脚	jue2	0%
-脚	jue2	0%
 腳	jue2	0%
 臄	jue2
 芵	jue2
@@ -12740,8 +12427,6 @@ import_tables:
 麏	jun1
 麕	jun1
 龜	jun1	0%
-龟	jun1	0%
-龟	jun1	0%
 龟	jun1	0%
 㑺	jun4
 㒞	jun4
@@ -12858,7 +12543,6 @@ import_tables:
 愒	kai4
 愾	kai4
 核	kai4	0%
-核	kai4	0%
 欬	kai4
 欯	kai4
 渴	kai4	0%
@@ -12912,7 +12596,6 @@ import_tables:
 坎	kan4	0%
 墈	kan4
 崁	kan4
-嵌	kan4	0%
 嵌	kan4	0%
 監	kan4	0%
 看	kan4
@@ -13007,7 +12690,6 @@ import_tables:
 䐦	ke1
 䯊	ke1
 匼	ke1
-呵	ke1	0%
 呵	ke1	0%
 嗑	ke1
 坷	ke1
@@ -13670,7 +13352,6 @@ import_tables:
 挄	kuo4
 擴	kuo4
 會	kuo4	0%
-會	kuo4	0%
 栝	kuo4
 桰	kuo4
 濶	kuo4
@@ -13680,7 +13361,6 @@ import_tables:
 萿	kuo4
 葀	kuo4
 蛞	kuo4
-适	kuo4	0%
 适	kuo4	0%
 闊	kuo4
 阔	kuo4
@@ -14126,11 +13806,8 @@ import_tables:
 癆	lao4
 絡	lao4	0%
 络	lao4	0%
-络	lao4	0%
 耢	lao4
 耮	lao4
-落	lao4	0%
-落	lao4	0%
 落	lao4	0%
 躼	lao4
 軂	lao4
@@ -14145,7 +13822,6 @@ import_tables:
 㿭	le4
 乐	le4	94.9953%
 仂	le4
-勒	le4	0%
 勒	le4	0%
 叻	le4
 忇	le4
@@ -14164,7 +13840,6 @@ import_tables:
 韷	le4
 鰳	le4
 鳓	le4
-勒	lei	0%
 勒	lei	0%
 嘞	lei
 勒	lei1	3.8050%
@@ -14873,7 +14548,6 @@ import_tables:
 両	liang3
 两	liang3
 俩	liang3	0%
-俩	liang3	0%
 倆	liang3	0%
 兩	liang3
 唡	liang3
@@ -14939,7 +14613,6 @@ import_tables:
 敹	liao2
 料	liao2	0%
 暸	liao2
-樂	liao2	0%
 樂	liao2	0%
 漻	liao2
 潦	liao2	86.4046%
@@ -15486,7 +15159,6 @@ import_tables:
 鏐	liu4
 镏	liu4
 陆	liu4	0%
-陆	liu4	0%
 陸	liu4	0%
 雡	liu4
 霤	liu4
@@ -15600,7 +15272,6 @@ import_tables:
 儱	long4
 哢	long4
 弄	long4	0%
-弄	long4	0%
 徿	long4
 梇	long4
 硦	long4
@@ -15678,7 +15349,6 @@ import_tables:
 鏤	lou4
 镂	lou4
 陋	lou4
-露	lou4	0%
 露	lou4	0%
 氇	lu
 噜	lu1
@@ -15805,7 +15475,6 @@ import_tables:
 侓	lu4
 僇	lu4
 六	lu4	0%
-六	lu4	0%
 剹	lu4
 勎	lu4
 勠	lu4
@@ -15847,7 +15516,6 @@ import_tables:
 緑	lu4
 繆	lu4
 绿	lu4	0%
-绿	lu4	0%
 翏	lu4
 膔	lu4
 菉	lu4
@@ -15857,10 +15525,8 @@ import_tables:
 虂	lu4
 螰	lu4
 角	lu4	0%
-角	lu4	0%
 觮	lu4
 觻	lu4
-谷	lu4	0%
 谷	lu4	0%
 賁	lu4
 賂	lu4
@@ -15998,8 +15664,6 @@ import_tables:
 捋	luo1	6.8372%
 羅	luo1
 落	luo1	0%
-落	luo1	0%
-落	luo1	0%
 頱	luo1
 㑩	luo2
 㼈	luo2
@@ -16084,7 +15748,6 @@ import_tables:
 捰	luo4
 摞	luo4
 格	luo4	0%
-樂	luo4	0%
 樂	luo4	0%
 泺	luo4
 洛	luo4
@@ -16224,7 +15887,6 @@ import_tables:
 掠	lve4
 擽	lve4
 率	lve4	0%
-率	lve4	0%
 略	lve4
 畧	lve4
 稤	lve4
@@ -16247,7 +15909,6 @@ import_tables:
 嬷	ma1
 孖	ma1
 抹	ma1	7.2032%
-摩	ma1	0%
 摩	ma1	0%
 蚂	ma1	0%
 螞	ma1	0%
@@ -16600,7 +16261,6 @@ import_tables:
 嚜	me
 末	me	0%
 没	me	0%
-没	me	0%
 濹	me
 癦	me
 麼	me
@@ -16799,7 +16459,6 @@ import_tables:
 檬	meng2
 氋	meng2
 氓	meng2	0%
-氓	meng2	0%
 溕	meng2
 濛	meng2
 獴	meng2
@@ -16893,7 +16552,6 @@ import_tables:
 彌	mi2
 戂	mi2
 摩	mi2	0%
-摩	mi2	0%
 摵	mi2
 擟	mi2
 攠	mi2
@@ -16956,7 +16614,6 @@ import_tables:
 芈	mi3
 葞	mi3
 蔝	mi3
-辟	mi3	0%
 辟	mi3	0%
 銤	mi3
 靡	mi3
@@ -17333,7 +16990,6 @@ import_tables:
 擵	mo2
 攠	mo2
 无	mo2	0%
-无	mo2	0%
 模	mo2	98.6686%
 橅	mo2
 無	mo2	0%
@@ -17375,16 +17031,11 @@ import_tables:
 䳮	mo4
 䴲	mo4
 万	mo4	0%
-万	mo4	0%
 伯	mo4	0%
-伯	mo4	0%
-冒	mo4	0%
 冒	mo4	0%
 劰	mo4
 唜	mo4
 嗼	mo4
-嘿	mo4	0%
-嘿	mo4	0%
 嘿	mo4	0%
 圽	mo4
 塻	mo4
@@ -17395,7 +17046,6 @@ import_tables:
 帓	mo4
 帕	mo4	0%
 帞	mo4
-抹	mo4	0%
 抹	mo4	0%
 昧	mo4	0%
 昩	mo4
@@ -17432,7 +17082,6 @@ import_tables:
 纆	mo4
 耱	mo4
 脈	mo4	0%
-脉	mo4	0%
 脉	mo4	0%
 艒	mo4
 茉	mo4
@@ -17532,8 +17181,6 @@ import_tables:
 凩	mu4
 募	mu4
 嘿	mu4	0%
-嘿	mu4	0%
-嘿	mu4	0%
 坶	mu4
 墓	mu4
 幕	mu4
@@ -17573,11 +17220,8 @@ import_tables:
 唔	n2	8.9244%
 哏	n4	0%
 呐	na	0%
-呐	na	0%
 哪	na	98.9845%
 南	na1	0%
-南	na1	0%
-那	na1	0%
 那	na1	0%
 䏧	na2
 䛔	na2
@@ -17596,7 +17240,6 @@ import_tables:
 䋈	na3
 乸	na3
 哪	na3	98.9845%
-那	na3	0%
 那	na3	0%
 郍	na3
 雫	na3
@@ -17617,8 +17260,6 @@ import_tables:
 内	na4	0%
 吶	na4
 呐	na4	90.7979%
-哪	na4	0%
-哪	na4	0%
 哪	na4	0%
 妠	na4
 娜	na4	99.8016%
@@ -17658,8 +17299,6 @@ import_tables:
 乃	nai3
 倷	nai3
 哪	nai3	0%
-哪	nai3	0%
-哪	nai3	0%
 奶	nai3
 妳	nai3
 嬭	nai3
@@ -17668,7 +17307,6 @@ import_tables:
 疓	nai3
 艿	nai3
 迺	nai3
-那	nai3	0%
 那	nai3	0%
 釢	nai3
 㮈	nai4
@@ -17824,15 +17462,11 @@ import_tables:
 呐	ne	9.2021%
 呢	ne	98.9745%
 哪	ne2	0%
-哪	ne2	0%
-哪	ne2	0%
-那	ne2	0%
 那	ne2	0%
 㕯	ne4
 䅞	ne4
 䎪	ne4
 䭆	ne4
-呐	ne4	0%
 呐	ne4	0%
 抐	ne4
 疒	ne4
@@ -17840,18 +17474,14 @@ import_tables:
 訥	ne4
 讷	ne4
 那	ne4	0%
-那	ne4	0%
 㼏	nei3
 䲎	nei3
-哪	nei3	0%
-哪	nei3	0%
 哪	nei3	0%
 娞	nei3
 婑	nei3
 浽	nei3
 脮	nei3
 腇	nei3
-那	nei3	0%
 那	nei3	0%
 餒	nei3
 馁	nei3
@@ -17862,7 +17492,6 @@ import_tables:
 內	nei4
 内	nei4
 氝	nei4
-那	nei4	0%
 那	nei4	0%
 錗	nei4
 㜛	nen4
@@ -17884,7 +17513,6 @@ import_tables:
 哽	ng2	0%
 唔	ng2	8.9244%
 呢	ni1	0%
-呢	ni1	0%
 妮	ni1
 㞾	ni2
 㪒	ni2
@@ -17894,7 +17522,6 @@ import_tables:
 䛏	ni2
 䝚	ni2
 倪	ni2
-兒	ni2	0%
 兒	ni2	0%
 呢	ni2	1.0255%
 坭	ni2
@@ -17941,7 +17568,6 @@ import_tables:
 你	ni3
 儗	ni3
 儞	ni3
-呢	ni3	0%
 呢	ni3	0%
 妳	ni3
 婗	ni3
@@ -18024,7 +17650,6 @@ import_tables:
 溓	nian2
 秊	nian2
 秥	nian2
-粘	nian2	0%
 粘	nian2	0%
 鮎	nian2
 鯰	nian2
@@ -18131,8 +17756,6 @@ import_tables:
 䯵	nie4
 䳖	nie4
 乜	nie4	3.6573%
-哪	nie4	0%
-哪	nie4	0%
 哪	nie4	0%
 啮	nie4
 喦	nie4
@@ -18379,14 +18002,11 @@ import_tables:
 傩	nuo2
 儺	nuo2
 哪	nuo2	0%
-哪	nuo2	0%
-哪	nuo2	0%
 娜	nuo2	0.1984%
 挪	nuo2
 掉	nuo2	0%
 梛	nuo2
 橠	nuo2
-那	nuo2	0%
 那	nuo2	0%
 郍	nuo2
 難	nuo2	0%
@@ -18401,7 +18021,6 @@ import_tables:
 䇔	nuo4
 䎠	nuo4
 䚥	nuo4
-呐	nuo4	0%
 呐	nuo4	0%
 喏	nuo4	95.7372%
 愞	nuo4
@@ -18422,7 +18041,6 @@ import_tables:
 诺	nuo4
 蹃	nuo4
 逽	nuo4
-那	nuo4	0%
 那	nuo4	0%
 鍩	nuo4
 锘	nuo4
@@ -18452,7 +18070,6 @@ import_tables:
 硸	nve4
 虐	nve4
 喔	o	0%
-喔	o	0%
 筽	o
 喔	o1	35.4765%
 噢	o1
@@ -18460,14 +18077,12 @@ import_tables:
 嚄	o3
 哦	o4	74.4921%
 喔	o4	0%
-喔	o4	0%
 嘔	ou
 䉱	ou1
 䌔	ou1
 䙔	ou1
 䥲	ou1
 䧢	ou1
-区	ou1	0%
 区	ou1	0%
 區	ou1	0%
 嘔	ou1
@@ -18536,7 +18151,6 @@ import_tables:
 葩	pa1
 趴	pa1
 扒	pa2	0%
-扒	pa2	0%
 把	pa2	0%
 掱	pa2
 杷	pa2
@@ -18571,7 +18185,6 @@ import_tables:
 廹	pai3
 排	pai3	0%
 迫	pai3	0%
-迫	pai3	0%
 㭛	pai4
 㵒	pai4
 㵺	pai4
@@ -18592,7 +18205,6 @@ import_tables:
 潘	pan1
 畨	pan1
 番	pan1	0%
-番	pan1	0%
 眅	pan1
 籓	pan1
 賁	pan1
@@ -18612,15 +18224,12 @@ import_tables:
 瀊	pan2
 爿	pan2
 番	pan2	0%
-番	pan2	0%
 盘	pan2
 盤	pan2
 磐	pan2
 磻	pan2
 縏	pan2
 繁	pan2	0%
-繁	pan2	0%
-胖	pan2	0%
 胖	pan2	0%
 般	pan2	0%
 蒰	pan2
@@ -18648,11 +18257,9 @@ import_tables:
 牉	pan4
 畔	pan4
 番	pan4	0%
-番	pan4	0%
 盼	pan4
 眫	pan4
 聁	pan4
-胖	pan4	0%
 胖	pan4	0%
 袢	pan4
 襻	pan4
@@ -18668,10 +18275,8 @@ import_tables:
 沗	pang1
 滂	pang1
 磅	pang1	0%
-磅	pang1	0%
 肨	pang1
 胮	pang1
-膀	pang1	0%
 膀	pang1	0%
 膖	pang1
 鎊	pang1
@@ -18695,9 +18300,7 @@ import_tables:
 旁	pang2	99.7586%
 榜	pang2	0%
 磅	pang2	0%
-磅	pang2	0%
 篣	pang2
-膀	pang2	0%
 膀	pang2	0%
 舽	pang2
 螃	pang2
@@ -18713,7 +18316,6 @@ import_tables:
 䒍	pang3
 嗙	pang3
 耪	pang3
-膀	pang3	0%
 膀	pang3	0%
 覫	pang3
 髈	pang3
@@ -18743,7 +18345,6 @@ import_tables:
 垉	pao2
 庖	pao2
 泡	pao2	0%
-炮	pao2	0%
 炮	pao2	0%
 炰	pao2
 爮	pao2
@@ -18879,7 +18480,6 @@ import_tables:
 恲	peng1
 抨	peng1
 旁	peng1	0%
-旁	peng1	0%
 梈	peng1
 泙	peng1
 漰	peng1
@@ -19011,7 +18611,6 @@ import_tables:
 被	pi1	0%
 豾	pi1
 辟	pi1	0%
-辟	pi1	0%
 邳	pi1
 釽	pi1
 鈈	pi1
@@ -19056,7 +18655,6 @@ import_tables:
 狓	pi2
 猈	pi2
 琵	pi2
-番	pi2	0%
 番	pi2	0%
 疲	pi2
 皮	pi2
@@ -19103,7 +18701,6 @@ import_tables:
 劈	pi3	0%
 匹	pi3
 吡	pi3
-否	pi3	0%
 否	pi3	0%
 噽	pi3
 嚭	pi3
@@ -19166,7 +18763,6 @@ import_tables:
 囨	pian1
 媥	pian1
 扁	pian1	0%
-扁	pian1	0%
 片	pian1
 犏	pian1
 篇	pian1
@@ -19178,7 +18774,6 @@ import_tables:
 䮁	pian2
 便	pian2	3.0234%
 平	pian2	0%
-扁	pian2	0%
 扁	pian2	0%
 楄	pian2
 楩	pian2
@@ -19236,8 +18831,6 @@ import_tables:
 䴩	piao2
 剽	piao2
 嫖	piao2
-朴	piao2	0%
-朴	piao2	0%
 朴	piao2	0%
 瓢	piao2
 薸	piao2
@@ -19401,8 +18994,6 @@ import_tables:
 坡	po1
 岥	po1
 朴	po1	0%
-朴	po1	0%
-朴	po1	0%
 泊	po1	32.6782%
 泺	po1
 泼	po1
@@ -19428,9 +19019,7 @@ import_tables:
 搫	po2
 櫇	po2
 番	po2	0%
-番	po2	0%
 皤	po2
-繁	po2	0%
 繁	po2	0%
 蔢	po2
 謈	po2
@@ -19463,9 +19052,6 @@ import_tables:
 敀	po4
 昢	po4
 朴	po4	0%
-朴	po4	0%
-朴	po4	0%
-泊	po4	0%
 泊	po4	0%
 洦	po4
 烞	po4
@@ -19522,15 +19108,12 @@ import_tables:
 仆	pu1
 僕	pu1
 剥	pu1	0%
-剥	pu1	0%
 噗	pu1
 扑	pu1
 抪	pu1
 撲	pu1
 擈	pu1
 攴	pu1
-朴	pu1	0%
-朴	pu1	0%
 朴	pu1	0%
 柨	pu1
 潽	pu1
@@ -19601,9 +19184,6 @@ import_tables:
 㬥	pu4
 䗱	pu4
 堡	pu4	0%
-堡	pu4	0%
-堡	pu4	0%
-暴	pu4	0%
 暴	pu4	0%
 曝	pu4	19.7311%
 瀑	pu4	97.8973%
@@ -19638,7 +19218,6 @@ import_tables:
 嘁	qi1
 妻	qi1
 娸	qi1
-宿	qi1	0%
 宿	qi1	0%
 悽	qi1
 慼	qi1
@@ -19972,7 +19551,6 @@ import_tables:
 䶗	qia3
 價	qia3	0%
 卡	qia3	0%
-卡	qia3	0%
 跒	qia3
 酠	qia3
 鞐	qia3
@@ -20228,7 +19806,6 @@ import_tables:
 綪	qian4
 縴	qian4
 纤	qian4	0%
-纤	qian4	0%
 艌	qian4
 芊	qian4
 芡	qian4
@@ -20354,7 +19931,6 @@ import_tables:
 摮	qiao1
 敲	qiao1
 校	qiao1	0%
-校	qiao1	0%
 橇	qiao1
 橋	qiao1	0%
 橾	qiao1
@@ -20383,7 +19959,6 @@ import_tables:
 鏒	qiao1
 鐰	qiao1
 锹	qiao1
-雀	qiao1	0%
 雀	qiao1	0%
 鞽	qiao1
 頝	qiao1
@@ -20448,7 +20023,6 @@ import_tables:
 磽	qiao3
 釥	qiao3
 雀	qiao3	0%
-雀	qiao3	0%
 髜	qiao3
 㚁	qiao4
 㢗	qiao4
@@ -20459,7 +20033,6 @@ import_tables:
 俏	qiao4
 偢	qiao4
 僺	qiao4
-削	qiao4	0%
 削	qiao4	0%
 嘺	qiao4
 墝	qiao4
@@ -20503,7 +20076,6 @@ import_tables:
 伽	qie2	0.0794%
 癿	qie2
 聺	qie2
-茄	qie2	0%
 茄	qie2	0%
 且	qie3	99.9560%
 跙	qie3
@@ -20763,7 +20335,6 @@ import_tables:
 䡖	qing4
 䯧	qing4
 亲	qing4	0%
-亲	qing4	0%
 凊	qing4
 声	qing4	0%
 庆	qing4
@@ -20884,8 +20455,6 @@ import_tables:
 龜	qiu1	0%
 龝	qiu1
 龟	qiu1	0%
-龟	qiu1	0%
-龟	qiu1	0%
 㐤	qiu2
 㕤	qiu2
 㛏	qiu2
@@ -20904,7 +20473,6 @@ import_tables:
 䟵	qiu2
 䣇	qiu2
 䤛	qiu2
-仇	qiu2	0%
 仇	qiu2	0%
 俅	qiu2
 厹	qiu2
@@ -21066,7 +20634,6 @@ import_tables:
 佢	qu2
 劬	qu2
 句	qu2	0%
-句	qu2	0%
 巨	qu2	0%
 忂	qu2
 戵	qu2
@@ -21136,7 +20703,6 @@ import_tables:
 欪	qu4
 耝	qu4
 蜡	qu4	0%
-蜡	qu4	0%
 覰	qu4
 覷	qu4
 覻	qu4
@@ -21174,7 +20740,6 @@ import_tables:
 全	quan2
 卷	quan2	0%
 啳	quan2
-圈	quan2	0%
 圈	quan2	0%
 埢	quan2
 姾	quan2
@@ -21329,7 +20894,6 @@ import_tables:
 麇	qun2
 麕	qun2
 蹲	qun3	0%
-蹲	qun3	0%
 㜣	ran2
 㲯	ran2
 㸐	ran2
@@ -21444,7 +21008,6 @@ import_tables:
 亻	ren2	88.4931%
 仁	ren2
 任	ren2	0%
-儿	ren2	0%
 儿	ren2	0%
 壬	ren2
 妊	ren2
@@ -21907,7 +21470,6 @@ import_tables:
 僿	sai4
 嗮	sai4
 塞	sai4	0%
-塞	sai4	0%
 簺	sai4
 賽	sai4
 赛	sai4
@@ -21917,7 +21479,6 @@ import_tables:
 三	san1
 厁	san1
 叁	san1
-參	san1	0%
 參	san1	0%
 弎	san1
 散	san1	0%
@@ -21937,7 +21498,6 @@ import_tables:
 伞	san3
 傘	san3
 傪	san3
-參	san3	0%
 參	san3	0%
 散	san3
 糁	san3	42.6392%
@@ -22107,7 +21667,6 @@ import_tables:
 摋	sha1
 杀	sha1
 杉	sha1	0%
-杉	sha1	0%
 桬	sha1
 榝	sha1
 樧	sha1
@@ -22178,7 +21737,6 @@ import_tables:
 酾	shai1
 釃	shai1
 繺	shai3
-色	shai3	0%
 色	shai3	0%
 㬠	shai4
 䵘	shai4
@@ -22287,8 +21845,6 @@ import_tables:
 儃	shan4
 剡	shan4
 单	shan4	0%
-单	shan4	0%
-单	shan4	0%
 善	shan4
 單	shan4	0%
 墠	shan4
@@ -22351,7 +21907,6 @@ import_tables:
 慯	shang1
 殇	shang1
 殤	shang1
-汤	shang1	0%
 汤	shang1	0%
 湯	shang1	0%
 滳	shang1
@@ -22434,10 +21989,8 @@ import_tables:
 䬰	shao4
 佋	shao4
 削	shao4	0%
-削	shao4	0%
 劭	shao4
 卲	shao4
-召	shao4	0%
 召	shao4	0%
 哨	shao4
 娋	shao4
@@ -22528,7 +22081,6 @@ import_tables:
 騇	she4
 麝	she4
 誰	shei2	0%
-谁	shei2	0%
 谁	shei2	0%
 㑗	shen1
 㕥	shen1
@@ -22718,7 +22270,6 @@ import_tables:
 䎴	sheng4
 䞉	sheng4
 乘	sheng4	0%
-乘	sheng4	0%
 剩	sheng4
 剰	sheng4
 勝	sheng4
@@ -22743,7 +22294,6 @@ import_tables:
 佦	shi
 匙	shi	77.0304%
 殖	shi	0%
-殖	shi	0%
 篒	shi
 籂	shi
 䌤	shi1
@@ -22753,7 +22303,6 @@ import_tables:
 䙾	shi1
 䴓	shi1
 呞	shi1
-嘘	shi1	0%
 嘘	shi1	0%
 失	shi1
 尸	shi1
@@ -22808,7 +22357,6 @@ import_tables:
 䶡	shi2
 乭	shi2
 什	shi2	0%
-什	shi2	0%
 十	shi2
 埘	shi2
 堤	shi2	0%
@@ -22822,7 +22370,6 @@ import_tables:
 峕	shi2
 嵵	shi2
 拾	shi2
-提	shi2	0%
 提	shi2	0%
 时	shi2
 旹	shi2
@@ -22943,7 +22490,6 @@ import_tables:
 楴	shi4
 檡	shi4
 殖	shi4	0%
-殖	shi4	0%
 殺	shi4	0%
 氏	shi4	99.8734%
 沶	shi4
@@ -22981,7 +22527,6 @@ import_tables:
 謚	shi4
 識	shi4	0%
 识	shi4	0%
-识	shi4	0%
 试	shi4
 谥	shi4
 豉	shi4
@@ -23018,7 +22563,6 @@ import_tables:
 収	shou1
 收	shou1
 敊	shou1
-熟	shou2	0%
 熟	shou2	0%
 㝊	shou3
 䭭	shou3
@@ -23120,7 +22664,6 @@ import_tables:
 孎	shu2
 孰	shu2
 尗	shu2
-术	shu2	0%
 术	shu2	0%
 熟	shu2	87.8032%
 璹	shu2
@@ -23315,8 +22858,6 @@ import_tables:
 裞	shui4
 説	shui4
 说	shui4	0%
-说	shui4	0%
-说	shui4	0%
 䐏	shun3
 吮	shun3
 楯	shun3
@@ -23350,7 +22891,6 @@ import_tables:
 妁	shuo4
 揱	shuo4
 搠	shuo4
-数	shuo4	0%
 数	shuo4	0%
 數	shuo4	0%
 朔	shuo4
@@ -23464,7 +23004,6 @@ import_tables:
 亖	si4
 以	si4	0%
 伺	si4	0%
-伺	si4	0%
 似	si4	84.9849%
 佀	si4
 佁	si4
@@ -23506,7 +23045,6 @@ import_tables:
 鈶	si4
 鈻	si4
 銉	si4
-食	si4	0%
 食	si4	0%
 飤	si4
 飴	si4
@@ -23728,7 +23266,6 @@ import_tables:
 縤	su4
 縮	su4	0%
 缩	su4	0%
-缩	su4	0%
 肃	su4
 肅	su4
 膆	su4
@@ -23772,7 +23309,6 @@ import_tables:
 嗺	sui1
 夊	sui1
 娞	sui1
-尿	sui1	0%
 尿	sui1	0%
 撋	sui1
 浽	sui1
@@ -23925,7 +23461,6 @@ import_tables:
 莎	suo1
 莏	suo1
 蓑	suo1
-衰	suo1	0%
 衰	suo1	0%
 趖	suo1
 髿	suo1
@@ -24128,7 +23663,6 @@ import_tables:
 䣭	tai4
 儓	tai4
 冭	tai4
-大	tai4	0%
 大	tai4	0%
 太	tai4
 夳	tai4
@@ -24566,7 +24100,6 @@ import_tables:
 徲	ti2
 惿	ti2
 折	ti2	0%
-折	ti2	0%
 提	ti2	99.9454%
 是	ti2	0%
 桋	ti2
@@ -24704,7 +24237,6 @@ import_tables:
 䣶	tian2
 䥖	tian2
 䧃	tian2
-佃	tian2	0%
 佃	tian2	0%
 塡	tian2
 填	tian2
@@ -25028,7 +24560,6 @@ import_tables:
 橦	tong2
 氃	tong2
 洞	tong2	0%
-洞	tong2	0%
 浵	tong2
 湩	tong2
 潼	tong2
@@ -25057,7 +24588,6 @@ import_tables:
 詷	tong2
 赨	tong2
 酮	tong2
-重	tong2	0%
 重	tong2	0%
 鉖	tong2
 鉵	tong2
@@ -25440,7 +24970,6 @@ import_tables:
 磚	tuo2	0%
 紽	tuo2
 蛇	tuo2	0%
-蛇	tuo2	0%
 蟺	tuo2
 袉	tuo2
 袘	tuo2
@@ -25500,8 +25029,6 @@ import_tables:
 萚	tuo4
 蘀	tuo4
 跅	tuo4
-魄	tuo4	0%
-魄	tuo4	0%
 魄	tuo4	0%
 哇	wa
 瓲	wa
@@ -26073,7 +25600,6 @@ import_tables:
 軎	wei4
 轊	wei4
 遗	wei4	0%
-遗	wei4	0%
 遺	wei4	0%
 錗	wei4
 鏏	wei4
@@ -26223,7 +25749,6 @@ import_tables:
 倭	wo1
 唩	wo1
 喔	wo1	0%
-喔	wo1	0%
 挝	wo1	26.1525%
 捼	wo1
 撾	wo1
@@ -26299,15 +25824,12 @@ import_tables:
 剭	wu1
 呜	wu1
 喔	wu1	0%
-喔	wu1	0%
 嗚	wu1
 圬	wu1
 屋	wu1
 巫	wu1
 弙	wu1
 恶	wu1	0%
-恶	wu1	0%
-惡	wu1	0%
 惡	wu1	0%
 扜	wu1
 扝	wu1
@@ -26344,7 +25866,6 @@ import_tables:
 䦜	wu2
 䫓	wu2
 䮏	wu2
-亡	wu2	0%
 亡	wu2	0%
 俉	wu2
 務	wu2	0%
@@ -26992,7 +26513,6 @@ import_tables:
 笚	xia2
 筪	xia2
 給	xia2	0%
-給	xia2	0%
 縀	xia2
 縖	xia2
 翈	xia2
@@ -27023,7 +26543,6 @@ import_tables:
 下	xia4
 乤	xia4
 假	xia4	0%
-厦	xia4	0%
 厦	xia4	0%
 吓	xia4	99.7604%
 呼	xia4	0%
@@ -27237,7 +26756,6 @@ import_tables:
 毨	xian3
 洒	xian3	0%
 洗	xian3	0%
-洗	xian3	0%
 灦	xian3
 烍	xian3
 燹	xian3
@@ -27246,7 +26764,6 @@ import_tables:
 獫	xian3
 獮	xian3
 玁	xian3
-省	xian3	0%
 省	xian3	0%
 禒	xian3
 筅	xian3
@@ -27487,7 +27004,6 @@ import_tables:
 閧	xiang4
 闂	xiang4
 降	xiang4	0%
-降	xiang4	0%
 項	xiang4
 项	xiang4
 鱌	xiang4
@@ -27716,7 +27232,6 @@ import_tables:
 协	xie2
 協	xie2
 叶	xie2	0%
-叶	xie2	0%
 嗋	xie2
 垥	xie2
 夾	xie2	0%
@@ -27739,7 +27254,6 @@ import_tables:
 攜	xie2
 斜	xie2
 旪	xie2
-桔	xie2	0%
 桔	xie2	0%
 梋	xie2
 汁	xie2	0%
@@ -27887,7 +27401,6 @@ import_tables:
 褉	xie4
 褻	xie4
 觟	xie4
-解	xie4	0%
 解	xie4	0%
 諜	xie4
 謝	xie4
@@ -28047,7 +27560,6 @@ import_tables:
 䳙	xing3
 擤	xing3
 省	xing3	0%
-省	xing3	0%
 睲	xing3
 箵	xing3
 醒	xing3
@@ -28075,8 +27587,6 @@ import_tables:
 興	xing4
 荇	xing4
 莕	xing4
-行	xing4	0%
-行	xing4	0%
 行	xing4	0%
 鋞	xing4
 㐫	xiong1
@@ -28158,7 +27668,6 @@ import_tables:
 嗅	xiu4
 嚊	xiu4
 宿	xiu4	0%
-宿	xiu4	0%
 岫	xiu4
 峀	xiu4
 溴	xiu4
@@ -28170,7 +27679,6 @@ import_tables:
 繍	xiu4
 繡	xiu4
 绣	xiu4
-臭	xiu4	0%
 臭	xiu4	0%
 螑	xiu4
 袖	xiu4
@@ -28474,7 +27982,6 @@ import_tables:
 盤	xuan2	0%
 縣	xuan2	0%
 蜁	xuan2
-還	xuan2	0%
 還	xuan2	0%
 鏇	xuan2
 㔵	xuan3
@@ -28983,7 +28490,6 @@ import_tables:
 䶫	yan2
 严	yan2
 厂	yan2	0%
-厂	yan2	0%
 厃	yan2
 厳	yan2
 唌	yan2
@@ -29043,7 +28549,6 @@ import_tables:
 郔	yan2
 鉛	yan2	0%
 铅	yan2	0%
-铅	yan2	0%
 閆	yan2
 閻	yan2
 闫	yan2
@@ -29096,7 +28601,6 @@ import_tables:
 嵃	yan3
 巘	yan3
 巚	yan3
-广	yan3	0%
 广	yan3	0%
 弇	yan3
 愝	yan3
@@ -29443,7 +28947,6 @@ import_tables:
 祅	yao1
 約	yao1	0%
 约	yao1	0%
-约	yao1	0%
 腰	yao1
 葽	yao1
 要	yao1
@@ -29512,7 +29015,6 @@ import_tables:
 鎐	yao2
 铫	yao2
 陶	yao2	0%
-陶	yao2	0%
 隃	yao2
 顤	yao2
 颻	yao2
@@ -29579,7 +29081,6 @@ import_tables:
 怮	yao4
 愮	yao4
 曜	yao4
-樂	yao4	0%
 樂	yao4	0%
 烄	yao4
 熎	yao4
@@ -29908,7 +29409,6 @@ import_tables:
 荑	yi2	75.7724%
 萓	yi2
 蛇	yi2	0%
-蛇	yi2	0%
 蛦	yi2
 螔	yi2
 衪	yi2
@@ -29970,7 +29470,6 @@ import_tables:
 偯	yi3
 叕	yi3
 叹	yi3	0%
-奇	yi3	0%
 奇	yi3	0%
 嬟	yi3
 尾	yi3	0%
@@ -30328,7 +29827,6 @@ import_tables:
 隿	yi4
 霬	yi4
 靾	yi4
-食	yi4	0%
 食	yi4	0%
 饐	yi4
 駅	yi4
@@ -31089,7 +30587,6 @@ import_tables:
 䩽	yu1
 于	yu1	0%
 吁	yu1	0%
-吁	yu1	0%
 唹	yu1
 扜	yu1
 於	yu1	97.7128%
@@ -31493,7 +30990,6 @@ import_tables:
 语	yu4	0%
 谕	yu4
 谷	yu4	0%
-谷	yu4	0%
 豫	yu4
 貍	yu4
 軉	yu4
@@ -31549,7 +31045,6 @@ import_tables:
 䲻	yuan1
 冤	yuan1
 剈	yuan1
-咽	yuan1	0%
 咽	yuan1	0%
 囦	yuan1
 夗	yuan1
@@ -31782,8 +31277,6 @@ import_tables:
 蚏	yue4
 説	yue4
 说	yue4	0%
-说	yue4	0%
-说	yue4	0%
 越	yue4
 跀	yue4
 跃	yue4
@@ -31793,7 +31286,6 @@ import_tables:
 鉞	yue4
 鋭	yue4
 鑰	yue4	0%
-钥	yue4	0%
 钥	yue4	0%
 钺	yue4
 閱	yue4
@@ -31832,7 +31324,6 @@ import_tables:
 云	yun2
 勻	yun2
 匀	yun2
-员	yun2	0%
 员	yun2	0%
 員	yun2	0%
 囩	yun2
@@ -31906,7 +31397,6 @@ import_tables:
 傊	yun4
 匀	yun4	0%
 员	yun4	0%
-员	yun4	0%
 員	yun4	0%
 均	yun4	0%
 孕	yun4
@@ -31953,7 +31443,6 @@ import_tables:
 啑	za1
 噈	za1
 帀	za1
-扎	za1	0%
 扎	za1	0%
 拶	za1	75.8638%
 沞	za1
@@ -32003,7 +31492,6 @@ import_tables:
 䔂	zai3
 䣬	zai3
 䮨	zai3
-仔	zai3	0%
 仔	zai3	0%
 宰	zai3
 崽	zai3
@@ -32101,7 +31589,6 @@ import_tables:
 臧	zang1	98.5614%
 蔵	zang1
 藏	zang1	0%
-藏	zang1	0%
 賍	zang1
 賘	zang1
 贓	zang1
@@ -32121,7 +31608,6 @@ import_tables:
 臟	zang4
 臧	zang4	98.5614%
 葬	zang4
-藏	zang4	0%
 藏	zang4	0%
 銺	zang4
 㡟	zao1
@@ -32195,8 +31681,6 @@ import_tables:
 则	ze2
 則	ze2
 咋	ze2	0%
-咋	ze2	0%
-咋	ze2	0%
 唶	ze2
 啧	ze2
 嘖	ze2
@@ -32245,8 +31729,6 @@ import_tables:
 䟄	ze4
 仄	ze4
 侧	ze4	0%
-侧	ze4	0%
-侧	ze4	0%
 側	ze4	0%
 夨	ze4
 崱	ze4
@@ -32276,7 +31758,6 @@ import_tables:
 増	zeng1
 增	zeng1
 憎	zeng1
-曾	zeng1	0%
 曾	zeng1	0%
 橧	zeng1
 熷	zeng1
@@ -32317,8 +31798,6 @@ import_tables:
 劄	zha1
 吒	zha1
 咋	zha1	0%
-咋	zha1	0%
-咋	zha1	0%
 哳	zha1
 喳	zha1	96.4166%
 囃	zha1
@@ -32329,7 +31808,6 @@ import_tables:
 揸	zha1
 摣	zha1
 柤	zha1
-查	zha1	0%
 查	zha1	0%
 査	zha1
 楂	zha1
@@ -32374,8 +31852,6 @@ import_tables:
 譗	zha2
 軋	zha2	0%
 轧	zha2	0%
-轧	zha2	0%
-轧	zha2	0%
 鍘	zha2
 铡	zha2
 閘	zha2
@@ -32397,7 +31873,6 @@ import_tables:
 䱹	zha3
 䵙	zha3
 厏	zha3
-扎	zha3	0%
 扎	zha3	0%
 拃	zha3
 插	zha3	0%
@@ -32424,8 +31899,6 @@ import_tables:
 册	zha4	0%
 吒	zha4
 咋	zha4	0%
-咋	zha4	0%
-咋	zha4	0%
 咤	zha4
 哆	zha4	0%
 喥	zha4
@@ -32445,7 +31918,6 @@ import_tables:
 苲	zha4
 蚱	zha4
 蜡	zha4	0%
-蜡	zha4	0%
 詐	zha4
 诈	zha4
 醡	zha4
@@ -32454,8 +31926,6 @@ import_tables:
 㒀	zhai1
 䔝	zhai1
 亝	zhai1
-侧	zhai1	0%
-侧	zhai1	0%
 侧	zhai1	0%
 側	zhai1	0%
 啇	zhai1
@@ -32472,8 +31942,6 @@ import_tables:
 厇	zhai2
 宅	zhai2
 度	zhai2	0%
-度	zhai2	0%
-择	zhai2	0%
 择	zhai2	0%
 擇	zhai2	0%
 檡	zhai2
@@ -32622,7 +32090,6 @@ import_tables:
 邅	zhan4
 顫	zhan4	0%
 颤	zhan4	0%
-颤	zhan4	0%
 驏	zhan4
 驙	zhan4
 鏱	zhang
@@ -32688,14 +32155,12 @@ import_tables:
 账	zhang4
 鄣	zhang4
 長	zhang4	0%
-長	zhang4	0%
 障	zhang4
 罀	zhao
 䜈	zhao1
 䞴	zhao1
 佋	zhao1
 啁	zhao1
-嘲	zhao1	0%
 嘲	zhao1	0%
 妱	zhao1
 巶	zhao1
@@ -32875,7 +32340,6 @@ import_tables:
 鷓	zhe4
 鹧	zhe4
 这	zhei4	0%
-这	zhei4	0%
 這	zhei4	0%
 㖘	zhen1
 㘰	zhen1
@@ -33052,7 +32516,6 @@ import_tables:
 䟓	zheng1
 䱢	zheng1
 丁	zheng1	0%
-丁	zheng1	0%
 争	zheng1
 佂	zheng1
 偵	zheng1	0%
@@ -33194,7 +32657,6 @@ import_tables:
 梔	zhi1
 椥	zhi1
 榰	zhi1
-氏	zhi1	0%
 氏	zhi1	0%
 汁	zhi1
 汥	zhi1
@@ -33496,7 +32958,6 @@ import_tables:
 誌	zhi4
 識	zhi4	0%
 识	zhi4	0%
-识	zhi4	0%
 豑	zhi4
 豒	zhi4
 豸	zhi4
@@ -33653,7 +33114,6 @@ import_tables:
 翢	zhou1
 舟	zhou1
 調	zhou1	0%
-調	zhou1	0%
 諏	zhou1
 謅	zhou1
 譸	zhou1
@@ -33760,7 +33220,6 @@ import_tables:
 兪	zhu1
 劯	zhu1
 朝	zhu1	0%
-朝	zhu1	0%
 朱	zhu1
 株	zhu1
 槠	zhu1
@@ -33811,7 +33270,6 @@ import_tables:
 曯	zhu2
 朮	zhu2	0%
 术	zhu2	0%
-术	zhu2	0%
 欘	zhu2
 泏	zhu2
 灟	zhu2
@@ -33852,7 +33310,6 @@ import_tables:
 嘱	zhu3
 囑	zhu3
 宔	zhu3
-属	zhu3	0%
 属	zhu3	0%
 屬	zhu3	0%
 拄	zhu3
@@ -34222,7 +33679,6 @@ import_tables:
 犳	zhuo2
 狵	zhuo2
 琢	zhuo2	0%
-琢	zhuo2	0%
 琸	zhuo2
 着	zhuo2	2.0159%
 矠	zhuo2
@@ -34233,7 +33689,6 @@ import_tables:
 籗	zhuo2
 籱	zhuo2
 繳	zhuo2	0%
-缴	zhuo2	0%
 缴	zhuo2	0%
 罬	zhuo2
 聉	zhuo2
@@ -34270,7 +33725,6 @@ import_tables:
 䣎	zi1
 䰵	zi1
 乲	zi1
-仔	zi1	0%
 仔	zi1	0%
 兹	zi1	93.2574%
 吱	zi1	29.3221%
@@ -34617,7 +34071,6 @@ import_tables:
 攥	zuan4
 賺	zuan4	0%
 赚	zuan4	0%
-赚	zuan4	0%
 鑚	zuan4
 鑽	zuan4	0%
 钻	zuan4	0%
@@ -34638,7 +34091,6 @@ import_tables:
 蟕	zui1
 辠	zui1
 㭰	zui3
-咀	zui3	0%
 咀	zui3	0%
 嗺	zui3
 嘴	zui3
@@ -34688,14 +34140,12 @@ import_tables:
 罇	zun1
 跧	zun1
 蹲	zun1	0%
-蹲	zun1	0%
 遵	zun1
 鐏	zun1
 鱒	zun1
 鳟	zun1
 鶎	zun1
 鷷	zun1
-蹲	zun2	0%
 蹲	zun2	0%
 䔿	zun3
 僔	zun3
@@ -34751,7 +34201,6 @@ import_tables:
 作	zuo4
 侳	zuo4
 做	zuo4
-凿	zuo4	0%
 凿	zuo4	0%
 唑	zuo4
 坐	zuo4
@@ -37040,6 +36489,7 @@ import_tables:
 变样	bian4 yang4
 便要	bian4 yao4
 便衣	bian4 yi1
+便宜	bian4 yi2	0%
 便以	bian4 yi3
 便已	bian4 yi3
 变异	bian4 yi4
@@ -45279,8 +44729,8 @@ import_tables:
 翻拍	fan1 pai1
 翻盘	fan1 pan2
 帆樯	fan1 qiang2
+翻墙	fan1 qiang2
 番茄	fan1 qie2
-蕃茄	fan1 qie2
 番人	fan1 ren2
 翻砂	fan1 sha1
 翻身	fan1 shen1
@@ -47917,7 +47367,6 @@ import_tables:
 公干	gong1 gan4
 公告	gong1 gao4
 公公	gong1 gong
-公公	gong1 gong1
 公共	gong1 gong4
 肱骨	gong1 gu3
 公关	gong1 guan1

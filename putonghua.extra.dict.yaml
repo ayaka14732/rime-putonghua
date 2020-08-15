@@ -6,7 +6,7 @@
 
 ---
 name: putonghua.extra
-version: "2020.08.13"
+version: "2020.08.15"
 sort: by_weight
 ...
 
@@ -1180,7 +1180,6 @@ sort: by_weight
 辩诬	bian4 wu1
 变星	bian4 xing1
 变修	bian4 xiu1
-便宜	bian4 yi2
 变硬	bian4 ying4
 变元	bian4 yuan2
 抃悦	bian4 yue4
@@ -4689,7 +4688,6 @@ sort: by_weight
 翻领	fan1 ling3
 番路	fan1 lu4
 番麦	fan1 mai4
-翻墙	fan1 qiang2
 幡然	fan1 ran2
 翻然	fan1 ran2
 帆伞	fan1 san3
@@ -17927,8 +17925,6 @@ sort: by_weight
 土制	tu3 zhi4
 土猪	tu3 zhu1
 兔爸	tu4 ba4
-吐嘈	tu4 cao2
-吐槽	tu4 cao2
 兔唇	tu4 chun2
 兔径	tu4 jing4
 吐沫	tu4 mo5
