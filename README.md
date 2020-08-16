@@ -38,8 +38,8 @@ librime 需装配以下插件：
 ### Arch Linux
 
 1. 安装 `rime-emoji`, `rime-stroke`, `lua53-socket`
-1. 从 AUR 安装 `rime-essay-simp`
-1. 手动安装 [hchunhui/librime-cloud](https://github.com/hchunhui/librime-cloud), [szc126/rime-liangfen](https://github.com/szc126/rime-liangfen), [sgalal/rime-symbolic-simp](https://github.com/sgalal/rime-symbolic-simp) 和 rime-putonghua
+1. 从 AUR 安装 `rime-essay-simp`, `rime-symbolic-simp`
+1. 手动安装 [hchunhui/librime-cloud](https://github.com/hchunhui/librime-cloud), [szc126/rime-liangfen](https://github.com/szc126/rime-liangfen) 和 rime-putonghua
 
 ## 数据来源
 
