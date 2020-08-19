@@ -9,7 +9,7 @@
 
 ---
 name: putonghua
-version: "2020.08.15"
+version: "2020.08.19"
 sort: by_weight
 vocabulary: essay-zh-hans
 import_tables:
@@ -6990,7 +6990,6 @@ import_tables:
 㽏	gan4
 䯎	gan4
 䲺	gan4
-个	gan4	0%
 佄	gan4
 倝	gan4
 凎	gan4
@@ -7252,7 +7251,7 @@ import_tables:
 鮯	ge2
 鰪	ge2
 鵅	ge2
-个	ge3
+个	ge3	0%
 個	ge3
 各	ge3	0%
 合	ge3	0%
