@@ -4,7 +4,7 @@
 schema:
   schema_id: putonghua
   name: 普通话拼音
-  version: "2020.08.13"
+  version: "2020.08.19"
   author:
     - Ayaka Mikazuki <ayaka@mail.shn.hk>
   description: |-
@@ -83,14 +83,14 @@ speller:
     - abbrev ^(zh|ch|sh).+([1234])$ $1$2  # 首2字母+声调簡拼
     - xlit 1234 [];/                      # 将声调对应到键位
 
+    # 容错
+    - derive ^hao$ hoa
+
 translator:
   dictionary: putonghua
-  spelling_hints: 1
   preedit_format:
     - xlit [];/ ˉˊˇˋ
   comment_format: &comment_format
-    - "xform (?<![1-4])$ \u200b"  # 强制同形字符串显示拼音
-
     - xform ([aeiou])(ng?|r)([1234]) $1$3$2
     - xform ([aeo])([iuo])([1234]) $1$3$2
     - xform a1 ā
