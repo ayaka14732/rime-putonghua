@@ -6,7 +6,7 @@
 
 ---
 name: putonghua.extra
-version: "2020.08.15"
+version: "2020.08.20"
 sort: by_weight
 ...
 
@@ -11490,8 +11490,6 @@ sort: by_weight
 略语	lve4 yu3
 略字	lve4 zi4
 略作	lve4 zuo4
-呒没	m2 mei2
-呒啥	m2 sha2
 妈宝	ma1 bao3
 妈的	ma1 de5
 妈妈	ma1 ma5
