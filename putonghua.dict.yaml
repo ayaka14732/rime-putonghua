@@ -2,15 +2,16 @@
 # encoding: utf-8
 #
 # 数据来源：
-# 来自 pypinyin (https://pypinyin.readthedocs.io/) 及开放词典
-# (http://kaifangcidian.com/)。
+# 单字部分来自 pypinyin (https://pypinyin.readthedocs.io/)，
+# 参考了 sunpinyin 及 Unihan 数据库。
+# 词组部分来自 pypinyin 及开放词典 (http://kaifangcidian.com/)。
 # 参考了 sunpinyin、搜狗输入法的四个计算机词库和搜狗输入法的两
-# 个地名词库，使用 pypinyin 对其标注拼音，并人工校对。
+# 个地名词库，使用 pypinyin 标注拼音，并人工校对。
 # 手工添加了部分常用计算机名词和地名。
 
 ---
 name: putonghua
-version: "2020.08.20"
+version: "2020.08.20-2"
 sort: by_weight
 vocabulary: essay-zh-hans
 import_tables:
@@ -7749,7 +7750,6 @@ import_tables:
 窤	guan1
 綸	guan1	0%
 纶	guan1	0%
-莞	guan1	86.3018%
 蒄	guan1
 覌	guan1
 観	guan1
