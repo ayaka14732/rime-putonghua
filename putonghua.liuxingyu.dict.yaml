@@ -3,7 +3,7 @@
 #
 # 数据来源：
 # 参考了维基百科 (https://zh.wikipedia.org/zh-cn/中国大陆网络用语列表)，
-# 使用 pypinyin 标注拼音
+# 使用 pypinyin 标注拼音，并人工校对。
 
 ---
 name: putonghua.liuxingyu
