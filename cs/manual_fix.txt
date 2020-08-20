@@ -1,0 +1,226 @@
+快速沃尔什变换	kuai4 su4 wo4 er3 shi2 bian4 huan4
+最长不上升子序列	zui4 chang2 bu4 shang4 sheng1 zi3 xu4 lie4
+最长不下降子序列	zui4 chang2 bu4 xia4 jiang4 zi3 xu4 lie4
+最长公共递增子序列	zui4 chang2 gong1 gong4 di4 zeng1 zi3 xu4 lie4
+最长公共子序列	zui4 chang2 gong1 gong4 zi3 xu4 lie4
+最长回文子串	zui4 chang2 hui2 wen2 zi3 chuan4
+最长上升子序列	zui4 chang2 shang4 sheng1 zi3 xu4 lie4
+最长下降子序列	zui4 chang2 xia4 jiang4 zi3 xu4 lie4
+最长有序子序列	zui4 chang2 you3 xu4 zi3 xu4 lie4
+多重背包	duo1 chong2 bei1 bao1
+长整数	chang2 zheng3 shu4
+重载	chong2 zai4
+多行注释	duo1 hang2 zhu4 shi4
+回调	hui2 diao4
+安全策略	an1 quan2 ce4 lve4
+拜占庭弹回	bai4 zhan4 ting2 tan2 hui2
+保护地	bao3 hu4 di4
+并串行转换器	bing4 chuan4 xing2 zhuan3 huan4 qi4
+布局策略	bu4 ju2 ce4 lve4
+布局接地规则	bu4 ju2 jie1 di4 gui1 ze2
+参考帧	can1 kao3 zhen1
+策略管理机构	ce4 lve4 guan3 li3 ji1 gou4
+长距离依存关系	chang2 ju4 li2 yi1 cun2 guan1 xi4
+长事务管理	chang2 shi4 wu4 guan3 li3
+超长文本	chao1 chang2 wen2 ben3
+超长正文	chao1 chang2 zheng4 wen2
+超长指令字	chao1 chang2 zhi3 ling4 zi4
+程序重定位	cheng2 xu4 chong2 ding4 wei4
+程序重试	cheng2 xu4 chong2 shi4
+重传	chong2 chuan2
+重定向	chong2 ding4 xiang4
+重定向操作符	chong2 ding4 xiang4 cao1 zuo4 fu2
+重读	chong2 du2
+重发	chong2 fa1
+重放攻击	chong2 fang4 gong1 ji1
+重构	chong2 gou4
+重码	chong2 ma3
+重码字词数	chong2 ma3 zi4 ci2 shu4
+重入监督码	chong2 ru4 jian1 du1 ma3
+重试	chong2 shi4
+重写	chong2 xie3
+重写规则	chong2 xie3 gui1 ze2
+重言式	chong2 yan2 shi4
+重言式规则	chong2 yan2 shi4 gui1 ze2
+重邮程序	chong2 you2 cheng2 xu4
+重邮器	chong2 you2 qi4
+重运行点	chong2 yun4 xing2 dian3
+重载	chong2 zai4
+重载分析	chong2 zai4 fen1 xi1
+重做	chong2 zuo4
+串行打印机	chuan4 xing2 da3 yin4 ji1
+串行加法器	chuan4 xing2 jia1 fa3 qi4
+串行排序	chuan4 xing2 pai2 xu4
+串行线路网际协议	chuan4 xing2 xian4 lu4 wang3 ji4 xie2 yi4
+存储管理策略	cun2 chu3 guan3 li3 ce4 lve4
+地网	di4 wang3
+电液伺服电机	dian4 ye4 si4 fu2 dian4 ji1
+调度策略	diao4 du4 ce4 lve4
+定长的	ding4 chang2 de
+动态重定位	dong4 tai4 chong2 ding4 wei4
+动态重构	dong4 tai4 chong2 gou4
+动态重码率	dong4 tai4 chong2 ma3 lv4
+动态汉字平均码长	dong4 tai4 han4 zi4 ping2 jun1 ma3 chang2
+动态字词重码率	dong4 tai4 zi4 ci2 chong2 ma3 lv4
+动态字词平均码长	dong4 tai4 zi4 ci2 ping2 jun1 ma3 chang2
+端端密钥	duan1 duan1 mi4 yao4
+多策略协商	duo1 ce4 lve4 xie2 shang1
+多重程序装入	duo1 chong2 cheng2 xu4 zhuang1 ru4
+多重处理	duo1 chong2 chu3 li3
+多重处理操作系统	duo1 chong2 chu3 li3 cao1 zuo4 xi4 tong3
+多重存取存储器	duo1 chong2 cun2 qu3 cun2 chu3 qi4
+多重关系	duo1 chong2 guan1 xi4
+多重集	duo1 chong2 ji2
+多重浏览器	duo1 chong2 liu2 lan3 qi4
+二级密钥	er4 ji2 mi4 yao4
+分段和重装	fen1 duan4 he2 chong2 zhuang1
+个人标识号	ge4 ren2 biao1 shi2 hao4
+公钥	gong1 yao4
+公钥构架	gong1 yao4 gou4 jia4
+公钥加密	gong1 yao4 jia1 mi4
+公钥密码	gong1 yao4 mi4 ma3
+固定字长	gu4 ding4 zi4 chang2
+关键帧	guan1 jian4 zhen1
+光碟伺服控制系统	guang1 die2 si4 fu2 kong4 zhi4 xi4 tong3
+过程重构	guo4 cheng2 chong2 gou4
+哈佛结构	ha1 fo2 jie2 gou4
+行地址	hang2 di4 zhi3
+行地址选通	hang2 di4 zhi3 xuan3 tong1
+行频	hang2 pin2
+行扫描	hang2 sao3 miao2
+行译码	hang2 yi4 ma3
+行主向量存储	hang2 zhu3 xiang4 liang4 cun2 chu3
+黑板策略	hei1 ban3 ce4 lve4
+呼叫重定向	hu1 jiao4 chong2 ding4 xiang4
+换行	huan4 hang2
+会话密钥	hui4 hua4 mi4 yao4
+回调	hui2 diao4
+基本密钥	ji1 ben3 mi4 yao4
+基本字长	ji1 ben3 zi4 chang2
+记账策略	ji4 zhang4 ce4 lve4
+间隔帧	jian4 ge2 zhen1
+接地系统	jie1 di4 xi4 tong3
+进化策略	jin4 hua4 ce4 lve4
+精化策略	jing1 hua4 ce4 lve4
+静态重定位	jing4 tai4 chong2 ding4 wei4
+静态汉字重码率	jing4 tai4 han4 zi4 chong2 ma3 lv4
+静态汉字平均码长	jing4 tai4 han4 zi4 ping2 jun1 ma3 chang2
+静态字词重码率	jing4 tai4 zi4 ci2 chong2 ma3 lv4
+静态字词平均码长	jing4 tai4 zi4 ci2 ping2 jun1 ma3 chang2
+可变字长	ke3 bian4 zi4 chang2
+可重定位程序库模块	ke3 chong2 ding4 wei4 cheng2 xu4 ku4 mo2 kuai4
+可重定位机器代码	ke3 chong2 ding4 wei4 ji1 qi4 dai4 ma3
+可重定位库	ke3 chong2 ding4 wei4 ku4
+可重构系统	ke3 chong2 gou4 xi4 tong3
+可重排网	ke3 chong2 pai2 wang3
+可重生标识	ke3 chong2 sheng1 biao1 zhi4
+可重写光碟	ke3 chong2 xie3 guang1 die2
+可串行性	ke3 chuan4 xing2 xing4
+控制策略	kong4 zhi4 ce4 lve4
+控制帧	kong4 zhi4 zhen1
+勒文海姆	le4 wen2 hai3 mu3
+略图	lve4 tu2
+逻辑地	luo2 ji2 di4
+埋层伺服	mai2 ceng2 si4 fu2
+密码模件	mi4 ma3 mu2 jian4
+秘密密钥	mi4 mi4 mi4 yao4
+密钥	mi4 yao4
+密钥长度	mi4 yao4 chang2 du4
+密钥短语	mi4 yao4 duan3 yu3
+密钥对	mi4 yao4 dui4
+密钥分配中心	mi4 yao4 fen1 pei4 zhong1 xin1
+密钥服务器	mi4 yao4 fu2 wu4 qi4
+密钥公证	mi4 yao4 gong1 zheng4
+密钥管理	mi4 yao4 guan3 li3
+密钥环	mi4 yao4 huan2
+密钥恢复	mi4 yao4 hui1 fu4
+密钥加密密钥	mi4 yao4 jia1 mi4 mi4 yao4
+密钥建立	mi4 yao4 jian4 li4
+密钥交换	mi4 yao4 jiao1 huan4
+密钥搜索攻击	mi4 yao4 sou1 suo3 gong1 ji1
+密钥托管	mi4 yao4 tuo1 guan3
+密钥证书	mi4 yao4 zheng4 shu1
+命令重试	ming4 ling4 chong2 shi4
+命令行接口	ming4 ling4 hang2 jie1 kou3
+莫奇勒	mo4 qi2 le4
+粘着位	zhan1 zhuo2 wei4
+排序策略	pai2 xu4 ce4 lve4
+偏调	pian1 tiao2
+去重	qu4 chong2
+曲面重构	qu1 mian4 chong2 gou4
+软件容错策略	ruan3 jian4 rong2 cuo4 ce4 lve4
+栅格数据结构	shan1 ge2 shu4 ju4 jie2 gou4
+申请令牌帧	shen1 qing3 ling4 pai2 zhen1
+申请权标帧	shen1 qing3 quan2 biao1 zhen1
+数据加密密钥	shu4 ju4 jia1 mi4 mi4 yao4
+数据库重构	shu4 ju4 ku4 chong2 gou4
+数据网标识码	shu4 ju4 wang3 biao1 shi2 ma3
+数据帧	shu4 ju4 zhen1
+伺服	si4 fu2
+伺服道录写器	si4 fu2 dao4 lu4 xie3 qi4
+伺服电机	si4 fu2 dian4 ji1
+似然比	si4 ran2 bi3
+似然方程	si4 ran2 fang1 cheng2
+似真推理	si4 zhen1 tui1 li3
+似真性排序	si4 zhen1 xing4 pai2 xu4
+搜索策略	sou1 suo3 ce4 lve4
+弹出式选单	tan2 chu1 shi4 xuan3 dan1
+替换策略	ti4 huan4 ce4 lve4
+提取策略	ti2 qu3 ce4 lve4
+条件项重写系统	tiao2 jian4 xiang4 chong2 xie3 xi4 tong3
+调相	tiao2 xiang1
+推理策略	tui1 li3 ce4 lve4
+网标识码	wang3 biao1 shi2 ma3
+维修策略	wei2 xiu1 ce4 lve4
+问题重构	wen4 ti2 chong2 gou4
+系统密钥	xi4 tong3 mi4 yao4
+相对弦长参数化	xiang1 dui4 xian2 chang2 can1 shu4 hua4
+相似性测度	xiang1 si4 xing4 ce4 du4
+信号重构	xin4 hao4 chong2 gou4
+虚存策略	xu1 cun2 ce4 lve4
+学习策略	xue2 xi2 ce4 lve4
+循环重构技术	xun2 huan2 chong2 gou4 ji4 shu4
+页面替换策略	ye4 mian4 ti4 huan4 ce4 lve4
+页帧	ye4 zhen1
+页帧表	ye4 zhen1 biao3
+用户标识码	yong4 hu4 biao1 shi2 ma3
+用户密钥	yong4 hu4 mi4 yao4
+域际策略路由选择	yu4 ji4 ce4 lve4 lu4 you2 xuan3 ze2
+战略规划	zhan4 lve4 gui1 hua4
+战略情报	zhan4 lve4 qing2 bao4
+战略数据规划	zhan4 lve4 shu4 ju4 gui1 hua4
+障栅同步	zhang4 shan1 tong2 bu4
+帧定位	zhen1 ding4 wei4
+帧封装	zhen1 feng1 zhuang1
+帧格式	zhen1 ge2 shi4
+帧缓存器	zhen1 huan3 cun2 qi4
+帧间编码	zhen1 jian1 bian1 ma3
+帧间时间填充	zhen1 jian1 shi2 jian1 tian2 chong1
+帧间压缩	zhen1 jian1 ya1 suo1
+帧检验序列	zhen1 jian3 yan4 xu4 lie4
+帧控制字段	zhen1 kong4 zhi4 zi4 duan4
+帧率	zhen1 lv4
+帧面问题	zhen1 mian4 wen4 ti2
+帧内编码	zhen1 nei4 bian1 ma3
+帧内压缩	zhen1 nei4 ya1 suo1
+帧频	zhen1 pin2
+帧首定界符	zhen1 shou3 ding4 jie4 fu2
+帧尾定界符	zhen1 wei3 ding4 jie4 fu2
+帧中继网	zhen1 zhong1 ji4 wang3
+证明策略	zheng4 ming2 ce4 lve4
+指令重试	zhi3 ling4 chong2 shi4
+置信测度	zhi4 xin4 ce4 du4
+周期帧	zhou1 qi1 zhen1
+轴向进给	zhou2 xiang4 jin4 ji3
+逐行	zhu2 hang2
+逐行扫描	zhu2 hang2 sao3 miao2
+主机密钥	zhu3 ji1 mi4 yao4
+字并行位串行	zi4 bing4 xing2 wei4 chuan4 xing2
+字长	zi4 chang2
+字串行位串行	zi4 chuan4 xing2 wei4 chuan4 xing2
+自动进给	zi4 dong4 jin4 ji3
+自动密钥密码	zi4 dong4 mi4 yao4 mi4 ma3
+自相似网络业务	zi4 xiang1 si4 wang3 luo4 ye4 wu4
+组合策略	zu3 he2 ce4 lve4
+最大超调	zui4 da4 chao1 tiao2
+最大线长	zui4 da4 xian4 chang2

@@ -1,0 +1,172 @@
+阿勒泰市	a1 le4 tai4 shi4
+阿勒泰县	a1 le4 tai4 xian4
+阿图什市	a1 tu2 shi2 shi4
+八宿县	ba1 su4 xian4
+泊头市	bo1 tou2 shi4
+策勒县	ce4 le4 xian4
+长白朝鲜族自治县	chang2 bai2 chao2 xian3 zu2 zi4 zhi4 xian4
+长岛县	chang2 dao3 xian4
+昌都县	chang1 du1 xian4
+长丰县	chang2 feng1 xian4
+长葛市	chang2 ge2 shi4
+长葛县	chang2 ge2 xian4
+长海县	chang2 hai3 xian4
+长岭县	chang2 ling3 xian4
+长宁区	chang2 ning2 qu1
+长宁县	chang2 ning2 xian4
+长清县	chang2 qing1 xian4
+长顺县	chang2 shun4 xian4
+长泰县	chang2 tai4 xian4
+长武县	chang2 wu3 xian4
+长阳土家族自治县	chang2 yang2 tu3 jia1 zu2 zi4 zhi4 xian4
+长垣县	chang2 yuan2 xian4
+长治市	chang2 zhi4 shi4
+长治县	chang2 zhi4 xian4
+朝阳开发区	chao2 yang2 kai1 fa1 qu1
+朝阳市	chao2 yang2 shi4
+朝阳县	chao2 yang2 xian4
+沈河区	shen3 he2 qu1
+沈丘县	shen3 qiu1 xian4
+道真仡佬族苗族自治县	dao4 zhen1 ge1 lao3 zu2 miao2 zu2 zi4 zhi4 xian4
+德都县	de2 du1 xian4
+东阿县	dong1 e1 xian4
+都安瑶族自治县	du1 an1 yao2 zu2 zi4 zhi4 xian4
+都昌县	du1 chang1 xian4
+都兰县	du1 lan2 xian4
+都匀市	du1 yun2 shi4
+都匀县	du1 yun2 xian4
+繁峙县	fan2 shi4 xian4
+丰都县	feng1 du1 xian4
+佛得角	fo2 de2 jiao3
+佛冈县	fo2 gang1 xian4
+佛坪县	fo2 ping2 xian4
+弓长岭区	gong1 chang2 ling3 qu1
+贾汪区	jia3 wang1 qu1
+涡阳县	wo1 yang2 xian4
+洪都拉斯	hong2 du1 la1 si1
+黄陂区	huang2 pi2 qu1
+黄陂县	huang2 pi2 xian4
+珲春市	hun2 chun1 shi4
+珲春县	hun2 chun1 xian4
+霍林郭勒市	huo4 lin2 guo1 le4 shi4
+犍为县	qian2 wei2 xian4
+筠连县	jun1 lian2 xian4
+克什克腾旗	ke4 shi2 ke4 teng2 qi2
+克孜勒苏柯尔克孜自治州	ke4 zi1 le4 su1 ke1 er3 ke4 zi1 zi4 zhi4 zhou1
+库尔勒市	ku4 er3 le4 shi4
+库尔勒县	ku4 er3 le4 xian4
+浪卡子县	lang4 ka3 zi xian4
+乐亭县	lao4 ting2 xian4
+乐都县	le4 du1 xian4
+略阳县	lve4 yang2 xian4
+漯河市	luo4 he2 shi4
+马尾区	ma3 wei3 qu1
+毛德地	mao2 de2 di4
+闵行区	min3 hang2 qu1
+南长区	nan2 chang2 qu1
+内昆都伦区	nei4 kun1 du1 lun2 qu1
+尼泊尔	ni2 bo2 er3
+尼勒克县	ni2 le4 ke4 xian4
+宁都县	ning2 du1 xian4
+铅山县	yan2 shan1 xian4
+秦都区	qin2 du1 qu1
+三都水族自治县	san1 du1 shui3 zu2 zi4 zhi4 xian4
+单县	shan4 xian4
+商都县	shang1 du1 xian4
+圣赫勒拿	sheng4 he4 le4 na2
+什邡市	shi2 fang1 shi4
+什邡县	shi2 fang1 xian4
+塔什库尔干塔吉克自治县	ta3 shi2 ku4 er3 gan1 ta3 ji2 ke4 zi4 zhi4 xian4
+天长市	tian1 chang2 shi4
+天长县	tian1 chang2 xian4
+通什市	tong1 shi2 shi4
+畹町市	wan3 ding1 shi4
+畹町镇	wan3 ding1 zhen4
+望都县	wang4 du1 xian4
+危地马拉	wei1 di4 ma3 la1
+魏都区	wei4 du1 qu1
+吴堡县	wu2 bu3 xian4
+武都县	wu3 du1 xian4
+乌什县	wu1 shi2 xian4
+锡林郭勒盟	xi1 lin2 guo1 le4 meng2
+新阿图什县	xin1 a1 tu2 shi2 xian4
+新都县	xin1 du1 xian4
+盐都县	yan2 du1 xian4
+宜都县	yi2 du1 xian4
+益都县	yi4 du1 xian4
+于都县	yu2 du1 xian4
+子长县	zi chang2 xian4
+阿勒泰	a1 le4 tai4
+阿图什	a1 tu2 shi2
+泊头	bo2 tou2
+策勒	ce4 le4
+长白	chang2 bai2
+长岛	chang2 dao3
+昌都	chang1 du1
+长丰	chang2 feng1
+长葛	chang2 ge2
+长海	chang2 hai3
+长岭	chang2 ling3
+长宁	chang2 ning2
+长清	chang2 qing1
+长顺	chang2 shun4
+长泰	chang2 tai4
+长武	chang2 wu3
+长阳	chang2 yang2
+长垣	chang2 yuan2
+长治市	chang2 zhi4 shi4
+长治县	chang2 zhi4 xian4
+朝阳市	chao2 yang2 shi4
+朝阳县	chao2 yang2 xian4
+大城	da4 cheng2
+都昌	du1 chang1
+都匀	du1 yun2
+繁峙	fan2 shi4
+丰都	feng1 du1
+佛冈	fo2 gang1
+佛坪	fo2 ping2
+弓长岭	gong1 chang2 ling3
+涡阳	guo1 yang2
+洪洞	hong2 tong2
+花都	hua1 du1
+黄陂	huang2 pi2
+珲春	hun2 chun1
+霍林郭勒	huo4 lin2 guo1 le4
+筠连	jun1 lian2
+克什克腾旗	ke4 shi2 ke4 teng2 qi2
+库尔勒	ku4 er3 le4
+浪卡子	lang4 ka3 zi
+乐陵	lao4 ling2
+乐亭	lao4 ting2
+乐都	le4 du1
+六合	lu4 he2
+略阳	lve4 yang2
+漯河	luo4 he2
+马尾	ma3 wei3
+闵行	min3 hang2
+穆棱	mu4 ling2
+尼勒克	ni2 le4 ke4
+宁都	ning2 du1
+覃塘	qin2 tang2
+三都	san1 du1
+单县	shan4 xian4
+商都	shang1 du1
+什邡	shi2 fang1
+绥棱	sui2 ling2
+塔什库尔干	ta3 shi2 ku4 er3 gan1
+宕昌	tan4 chang1
+天长	tian1 chang2
+畹町	wan3 ding1
+望都	wang4 du1
+武都	wu3 du1
+乌什	wu1 shi2
+新都	xin1 du1
+浚县	xun4 xian4
+盐都	yan2 du1
+宜都	yi2 du1
+荥经	ying2 jing1
+于都	yu2 du1
+曾母暗沙	zeng1 mu3 an4 sha1
+子长	zi chang2
+乌干达	wu1 gan1 da2
+余干县	yu2 gan1 xian4

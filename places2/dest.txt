@@ -1,0 +1,172 @@
+京东	jing1 dong1
+京南	jing1 nan2
+京西	jing1 xi1
+京北	jing1 bei3
+京中	jing1 zhong1
+津南	jin1 nan2
+津北	jin1 bei3
+冀东	ji4 dong1
+冀南	ji4 nan2
+冀西	ji4 xi1
+冀北	ji4 bei3
+冀中	ji4 zhong1
+晋东	jin4 dong1
+晋南	jin4 nan2
+晋西	jin4 xi1
+晋北	jin4 bei3
+晋中	jin4 zhong1
+蒙东	meng2 dong1
+蒙西	meng2 xi1
+蒙北	meng2 bei3
+辽东	liao2 dong1
+辽南	liao2 nan2
+辽西	liao2 xi1
+辽北	liao2 bei3
+辽中	liao2 zhong1
+沪东	hu4 dong1
+沪南	hu4 nan2
+沪西	hu4 xi1
+沪北	hu4 bei3
+沪中	hu4 zhong1
+苏东	su1 dong1
+苏南	su1 nan2
+苏西	su1 xi1
+苏北	su1 bei3
+苏中	su1 zhong1
+浙东	zhe4 dong1
+浙南	zhe4 nan2
+浙西	zhe4 xi1
+浙北	zhe4 bei3
+浙中	zhe4 zhong1
+皖东	wan3 dong1
+皖南	wan3 nan2
+皖西	wan3 xi1
+皖北	wan3 bei3
+皖中	wan3 zhong1
+闽东	min3 dong1
+闽南	min3 nan2
+闽西	min3 xi1
+闽北	min3 bei3
+闽中	min3 zhong1
+赣东	gan4 dong1
+赣南	gan4 nan2
+赣西	gan4 xi1
+赣北	gan4 bei3
+赣中	gan4 zhong1
+鲁东	lu3 dong1
+鲁南	lu3 nan2
+鲁西	lu3 xi1
+鲁北	lu3 bei3
+鲁中	lu3 zhong1
+豫东	yu4 dong1
+豫南	yu4 nan2
+豫西	yu4 xi1
+豫北	yu4 bei3
+豫中	yu4 zhong1
+鄂东	e4 dong1
+鄂南	e4 nan2
+鄂西	e4 xi1
+鄂北	e4 bei3
+鄂中	e4 zhong1
+湘东	xiang1 dong1
+湘南	xiang1 nan2
+湘西	xiang1 xi1
+湘北	xiang1 bei3
+湘中	xiang1 zhong1
+粤东	yue4 dong1
+粤南	yue4 nan2
+粤西	yue4 xi1
+粤北	yue4 bei3
+粤中	yue4 zhong1
+桂东	gui4 dong1
+桂南	gui4 nan2
+桂西	gui4 xi1
+桂北	gui4 bei3
+桂中	gui4 zhong1
+琼东	qiong2 dong1
+琼南	qiong2 nan2
+琼西	qiong2 xi1
+琼北	qiong2 bei3
+琼中	qiong2 zhong1
+渝东	yu2 dong1
+渝南	yu2 nan2
+渝西	yu2 xi1
+渝北	yu2 bei3
+渝中	yu2 zhong1
+川东	chuan1 dong1
+川南	chuan1 nan2
+川西	chuan1 xi1
+川北	chuan1 bei3
+川中	chuan1 zhong1
+黔东	qian2 dong1
+黔南	qian2 nan2
+黔西	qian2 xi1
+黔北	qian2 bei3
+黔中	qian2 zhong1
+滇东	dian1 dong1
+滇南	dian1 nan2
+滇西	dian1 xi1
+滇北	dian1 bei3
+滇中	dian1 zhong1
+藏东	zang4 dong1
+藏东南	zang4 dong1 nan2
+藏西南	zang4 xi1 nan2
+藏南	zang4 nan2
+藏西北	zang4 xi1 bei3
+藏东北	zang4 dong1 bei3
+藏西	zang4 xi1
+藏北	zang4 bei3
+藏中	zang4 zhong1
+陕南	shan3 nan2
+陕西	shan3 xi1
+陕北	shan3 bei3
+青南	qing1 nan2
+青西	qing1 xi1
+宁东	ning2 dong1
+宁南	ning2 nan2
+宁西	ning2 xi1
+宁中	ning2 zhong1
+南疆	nan2 jiang1
+北疆	bei3 jiang1
+东疆	dong1 jiang1
+台东	tai2 dong1
+台南	tai2 nan2
+台西	tai2 xi1
+台北	tai2 bei3
+台中	tai2 zhong1
+中西区	zhong1 xi1 qu1
+东区	dong1 qu1
+南区	nan2 qu1
+湾仔区	wan1 zai3 qu1
+湾仔	wan1 zai3
+九龙城区	jiu3 long2 cheng2 qu1
+九龙城	jiu3 long2 cheng2
+观塘区	guan1 tang2 qu1
+观塘	guan1 tang2
+深水埗区	shen1 shui3 bu4 qu1
+深水埗	shen1 shui3 bu4
+黄大仙区	huang2 da4 xian1 qu1
+黄大仙	huang2 da4 xian1
+油尖旺区	you2 jian1 wang4 qu1
+油尖旺	you2 jian1 wang4
+离岛区	li2 dao3 qu1
+离岛	li2 dao3
+葵青区	kui2 qing1 qu1
+葵青	kui2 qing1
+北区	bei3 qu1
+西贡区	xi1 gong4 qu1
+西贡	xi1 gong4
+沙田区	sha1 tian2 qu1
+沙田	sha1 tian2
+大埔区	da4 pu4 qu1
+大埔	da4 pu4
+大埔	da4 bu4
+大埔县	da4 bu4 xian4
+荃湾区	quan2 wan1 qu1
+荃湾	quan2 wan1
+屯门区	tun2 men2 qu1
+屯门	tun2 men2
+元朗区	yuan2 lang3 qu1
+元朗	yuan2 lang3
+澳门半岛	ao4 men2 ban4 dao3
+路氹城	lu4 dang4 cheng2
