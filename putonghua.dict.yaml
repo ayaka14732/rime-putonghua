@@ -11,7 +11,7 @@
 
 ---
 name: putonghua
-version: "2020.08.21"
+version: "2020.08.21-1"
 sort: by_weight
 vocabulary: essay-zh-hans
 import_tables:
@@ -34275,6 +34275,7 @@ import_tables:
 阿米	a1 mi3
 阿明	a1 ming2
 阿木	a1 mu4
+阿难	a1 nan2
 阿尼	a1 ni2
 阿诺	a1 nuo4
 阿片	a1 pian4
@@ -34383,8 +34384,8 @@ import_tables:
 艾青	ai4 qing1
 爱情	ai4 qing2
 爱犬	ai4 quan3
-爱人	ai4 ren
-爱人	ai4 ren2
+爱人	ai4 ren	90%
+爱人	ai4 ren2	10%
 艾瑞	ai4 rui4
 爱上	ai4 shang4
 爱神	ai4 shen2
@@ -34643,6 +34644,7 @@ import_tables:
 奥特	ao4 te4
 奥汀	ao4 ting1
 奥托	ao4 tuo1
+奥拓	ao4 tuo4
 澳网	ao4 wang3
 奥义	ao4 yi4
 傲游	ao4 you2
@@ -35480,6 +35482,7 @@ import_tables:
 报仇	bao4 chou2
 报酬	bao4 chou2
 报出	bao4 chu1
+曝出	bao4 chu1
 爆出	bao4 chu1
 刨床	bao4 chuang2
 报错	bao4 cuo4
@@ -35544,6 +35547,7 @@ import_tables:
 抱歉	bao4 qian4
 报请	bao4 qing3
 报丧	bao4 sang1
+暴晒	bao4 shai4
 报上	bao4 shang4
 报社	bao4 she4
 暴尸	bao4 shi1
@@ -36133,6 +36137,7 @@ import_tables:
 比萨	bi3 sa4
 比赛	bi3 sai4
 比上	bi3 shang4
+比谁	bi3 shei2
 彼时	bi3 shi2
 比试	bi3 shi4
 笔试	bi3 shi4
@@ -36405,6 +36410,7 @@ import_tables:
 遍布	bian4 bu4
 便餐	bian4 can1
 变差	bian4 cha4
+变长	bian4 chang2
 便车	bian4 che1
 便成	bian4 cheng2
 变成	bian4 cheng2
@@ -37308,6 +37314,7 @@ import_tables:
 不贵	bu4 gui4
 不果	bu4 guo3
 不过	bu4 guo4
+不还	bu4 hai2
 不含	bu4 han2
 不好	bu4 hao3
 不喝	bu4 he1
@@ -37316,6 +37323,7 @@ import_tables:
 不黑	bu4 hei1
 不花	bu4 hua1
 不坏	bu4 huai4
+不还	bu4 huan2
 不换	bu4 huan4
 不慌	bu4 huang1
 不遑	bu4 huang2
@@ -37484,6 +37492,7 @@ import_tables:
 不实	bu4 shi2
 不时	bu4 shi2
 不识	bu4 shi2
+布什	bu4 shi2
 不适	bu4 shi4
 不收	bu4 shou1
 不守	bu4 shou3
@@ -37501,6 +37510,7 @@ import_tables:
 不说	bu4 shuo1
 不思	bu4 si1
 不死	bu4 si3
+不似	bu4 si4
 不送	bu4 song4
 不俗	bu4 su2
 不算	bu4 suan4
@@ -37509,6 +37519,7 @@ import_tables:
 不谈	bu4 tan2
 不疼	bu4 teng2
 不提	bu4 ti2
+不调	bu4 tiao2
 不跳	bu4 tiao4
 不听	bu4 ting1
 不停	bu4 ting2
@@ -37623,6 +37634,7 @@ import_tables:
 不占	bu4 zhan4
 不涨	bu4 zhang3
 部长	bu4 zhang3
+不着	bu4 zhao2
 不找	bu4 zhao3
 不振	bu4 zhen4
 布阵	bu4 zhen4
@@ -37830,6 +37842,7 @@ import_tables:
 菜场	cai4 chang3
 菜单	cai4 dan1
 菜刀	cai4 dao1
+菜地	cai4 di4
 采地	cai4 di4
 蔡甸	cai4 dian1
 蔡锷	cai4 e4
@@ -37959,6 +37972,7 @@ import_tables:
 仓皇	cang1 huang2
 苍黄	cang1 huang2
 仓颉	cang1 jie2
+苍劲	cang1 jin4
 苍劲	cang1 jing4
 舱口	cang1 kou3
 仓库	cang1 ku4
@@ -38344,6 +38358,7 @@ import_tables:
 柴火	chai2 huo3
 豺狼	chai2 lang2
 柴油	chai2 you2
+差旅	chai4 lv3
 搀兑	chan1 dui4
 搀扶	chan1 fu2
 掺和	chan1 huo
@@ -38426,6 +38441,7 @@ import_tables:
 颤声	chan4 sheng1
 颤音	chan4 yin1
 颤悠	chan4 you1
+掺杂	chan4 za2
 羼杂	chan4 za2
 昌都	chang1 du1
 昌吉	chang1 ji2
@@ -38459,6 +38475,7 @@ import_tables:
 长虫	chang2 chong2
 长处	chang2 chu4
 长川	chang2 chuan1
+长传	chang2 chuan2
 长春	chang2 chun1
 长辞	chang2 ci2
 长存	chang2 cun2
@@ -38468,6 +38485,7 @@ import_tables:
 肠道	chang2 dao4
 常德	chang2 de2
 长笛	chang2 di2
+长电	chang2 dian4
 长调	chang2 diao4
 长度	chang2 du4
 长短	chang2 duan3
@@ -38476,6 +38494,7 @@ import_tables:
 长法	chang2 fa3
 长发	chang2 fa4
 长丰	chang2 feng1
+长风	chang2 feng1
 常服	chang2 fu2
 长葛	chang2 ge2
 长庚	chang2 geng1
@@ -38499,7 +38518,9 @@ import_tables:
 常见	chang2 jian4
 长剑	chang2 jian4
 长江	chang2 jiang1
+长焦	chang2 jiao1
 长街	chang2 jie1
+长今	chang2 jin1
 长久	chang2 jiu3
 长局	chang2 ju2
 长句	chang2 ju4
@@ -38507,6 +38528,7 @@ import_tables:
 常客	chang2 ke4
 长空	chang2 kong1
 长裤	chang2 ku4
+长宽	chang2 kuan1
 常来	chang2 lai2
 长廊	chang2 lang2
 长乐	chang2 le4
@@ -38530,6 +38552,7 @@ import_tables:
 长袍	chang2 pao2
 长跑	chang2 pao3
 长篇	chang2 pian1
+长平	chang2 ping2
 长期	chang2 qi1
 长崎	chang2 qi2
 长枪	chang2 qiang1
@@ -38539,6 +38562,7 @@ import_tables:
 长驱	chang2 qu1
 常去	chang2 qu4
 长拳	chang2 quan2
+长裙	chang2 qun2
 常人	chang2 ren2
 常任	chang2 ren4
 长沙	chang2 sha1
@@ -38568,8 +38592,10 @@ import_tables:
 长亭	chang2 ting2
 长统	chang2 tong3
 长途	chang2 tu2
+长腿	chang2 tui3
 长袜	chang2 wa4
 常委	chang2 wei3
+长尾	chang2 wei3
 肠胃	chang2 wei4
 常温	chang2 wen1
 场屋	chang2 wu1
@@ -38580,6 +38606,7 @@ import_tables:
 尝鲜	chang2 xian1
 长线	chang2 xian4
 长啸	chang2 xiao4
+长效	chang2 xiao4
 长兴	chang2 xing1
 长性	chang2 xing4
 长袖	chang2 xiu4
@@ -38591,6 +38618,7 @@ import_tables:
 长揖	chang2 yi1
 长衣	chang2 yi1
 常以	chang2 yi3
+长椅	chang2 yi3
 长音	chang2 yin1
 长吟	chang2 yin2
 长缨	chang2 ying1
@@ -38601,9 +38629,11 @@ import_tables:
 长垣	chang2 yuan2
 长远	chang2 yuan3
 场院	chang2 yuan4
+长约	chang2 yue1
 常在	chang2 zai4
 长斋	chang2 zhai1
 长征	chang2 zheng1
+长治	chang2 zhi4
 常州	chang2 zhou1
 常住	chang2 zhu4
 常驻	chang2 zhu4
@@ -38691,6 +38721,7 @@ import_tables:
 抄表	chao1 biao3
 抄查	chao1 cha2
 超常	chao1 chang2
+超长	chao1 chang2
 吵吵	chao1 chao
 超超	chao1 chao1
 超车	chao1 che1
@@ -38858,6 +38889,7 @@ import_tables:
 车盖	che1 gai4
 车工	che1 gong1
 车钩	che1 gou1
+车行	che1 hang2
 车后	che1 hou4
 车祸	che1 huo4
 车技	che1 ji4
@@ -39165,6 +39197,7 @@ import_tables:
 成分	cheng2 fen4
 乘风	cheng2 feng1
 成风	cheng2 feng1
+成佛	cheng2 fo2
 成服	cheng2 fu2
 诚服	cheng2 fu2
 城府	cheng2 fu3
@@ -39289,6 +39322,7 @@ import_tables:
 诚信	cheng2 xin4
 成型	cheng2 xing2
 成形	cheng2 xing2
+成行	cheng2 xing2
 乘兴	cheng2 xing4
 成宿	cheng2 xiu3
 乘虚	cheng2 xu1
@@ -39570,6 +39604,7 @@ import_tables:
 重重	chong2 chong2
 重出	chong2 chu1
 重传	chong2 chuan2
+重蹈	chong2 dao3
 重叠	chong2 die2
 重读	chong2 du2
 重发	chong2 fa1
@@ -39579,28 +39614,36 @@ import_tables:
 重复	chong2 fu4
 崇高	chong2 gao1
 重构	chong2 gou4
+重估	chong2 gu1
 重光	chong2 guang1
 重合	chong2 he2
+重回	chong2 hui2
 重婚	chong2 hun1
 重获	chong2 huo4
 重建	chong2 jian4
 崇敬	chong2 jing4
 重九	chong2 jiu3
 重聚	chong2 ju4
+重开	chong2 kai1
+重来	chong2 lai2
 崇礼	chong2 li3
 重码	chong2 ma3
 崇明	chong2 ming2
 虫鸣	chong2 ming2
 重拍	chong2 pai1
+重评	chong2 ping2
 重启	chong2 qi3
 重庆	chong2 qing4
 崇仁	chong2 ren2
 崇尚	chong2 shang4
 重申	chong2 shen1
 重审	chong2 shen3
+重生	chong2 sheng1
+重拾	chong2 shi2
 重试	chong2 shi4
 重数	chong2 shu4
 重述	chong2 shu4
+重塑	chong2 su4
 重孙	chong2 sun1
 重沓	chong2 ta4
 重弹	chong2 tan2
@@ -39628,6 +39671,9 @@ import_tables:
 重圆	chong2 yuan2
 重载	chong2 zai4
 崇祯	chong2 zhen1
+重振	chong2 zhen4
+重整	chong2 zheng3
+重置	chong2 zhi4
 崇州	chong2 zhou1
 虫蛀	chong2 zhu4
 虫子	chong2 zi
@@ -40084,6 +40130,7 @@ import_tables:
 穿衣	chuan1 yi1
 穿越	chuan1 yue4
 穿在	chuan1 zai4
+川藏	chuan1 zang4
 穿着	chuan1 zhe
 川中	chuan1 zhong1
 穿着	chuan1 zhuo2
@@ -41179,6 +41226,7 @@ import_tables:
 大粪	da4 fen4
 大丰	da4 feng1
 大风	da4 feng1
+大佛	da4 fo2
 大夫	da4 fu1
 大幅	da4 fu2
 大副	da4 fu4
@@ -41224,6 +41272,7 @@ import_tables:
 大华	da4 hua2
 大化	da4 hua4
 大话	da4 hua4
+大黄	da4 huang2
 大会	da4 hui4
 大伙	da4 huo3
 大火	da4 huo3
@@ -41702,6 +41751,7 @@ import_tables:
 单方	dan1 fang1
 单飞	dan1 fei1
 丹凤	dan1 feng4
+丹佛	dan1 fo2
 单幅	dan1 fu2
 担负	dan1 fu4
 单干	dan1 gan4
@@ -42468,6 +42518,9 @@ import_tables:
 得住	de2 zhu4
 得罪	de2 zui4
 得亏	dei3 kui1
+得去	dei3 qu4
+得先	dei3 xian1
+得有	dei3 you3
 登场	deng1 chang3
 登出	deng1 chu1
 登跐	deng1 ci1
@@ -42513,6 +42566,7 @@ import_tables:
 等待	deng3 dai4
 等到	deng3 dao4
 等等	deng3 deng3
+等地	deng3 di4
 等分	deng3 fen1
 等份	deng3 fen4
 等国	deng3 guo2
@@ -42702,7 +42756,10 @@ import_tables:
 地板	di4 ban3
 地磅	di4 bang4
 地保	di4 bao3
+地堡	di4 bao3
+地被	di4 bei4
 地边	di4 bian1
+地标	di4 biao1
 地表	di4 biao3
 地波	di4 bo1
 地步	di4 bu4
@@ -42722,6 +42779,7 @@ import_tables:
 地洞	di4 dong4
 帝都	di4 du1
 地段	di4 duan4
+地儿	di4 er
 第二	di4 er4
 地方	di4 fang1
 地府	di4 fu3
@@ -42761,8 +42819,10 @@ import_tables:
 地牢	di4 lao2
 地雷	di4 lei2
 地垒	di4 lei3
+地里	di4 li	65%
 地梨	di4 li2
 地理	di4 li3
+地里	di4 li3	35%
 地利	di4 li4
 地力	di4 li4
 地栗	di4 li4
@@ -42778,6 +42838,7 @@ import_tables:
 地面	di4 mian4
 地名	di4 ming2
 地亩	di4 mu3
+地暖	di4 nuan3
 地盘	di4 pan2
 地皮	di4 pi2
 地痞	di4 pi3
@@ -42805,6 +42866,7 @@ import_tables:
 第四	di4 si4
 递送	di4 song4
 地摊	di4 tan1
+地坛	di4 tan2
 地毯	di4 tan3
 棣棠	di4 tang2
 地铁	di4 tie3
@@ -42834,7 +42896,9 @@ import_tables:
 地榆	di4 yu2
 地域	di4 yu4
 地狱	di4 yu4
+地缘	di4 yuan2
 缔约	di4 yue1
+地藏	di4 zang4
 缔造	di4 zao4
 递增	di4 zeng1
 地毡	di4 zhan1
@@ -42865,6 +42929,7 @@ import_tables:
 掂算	dian1 suan4
 滇西	dian1 xi1
 癫痫	dian1 xian2
+滇藏	dian1 zang4
 颠踬	dian1 zhi4
 滇中	dian1 zhong1
 点吧	dian3 ba
@@ -43067,6 +43132,7 @@ import_tables:
 刁钻	diao1 zuan1
 鸟闹	diao3 nao4
 调包	diao4 bao1
+调拨	diao4 bo1
 调查	diao4 cha2
 吊车	diao4 che1
 调出	diao4 chu1
@@ -43665,6 +43731,8 @@ import_tables:
 嘟嘟	du1 du1
 都督	du1 du1
 督军	du1 jun1
+都兰	du1 lan2
+都灵	du1 ling2
 嘟噜	du1 lu
 督脉	du1 mai4
 嘟囔	du1 nang
@@ -43980,6 +44048,7 @@ import_tables:
 对待	dui4 dai4
 对等	dui4 deng3
 对敌	dui4 di2
+对地	dui4 di4
 对调	dui4 diao4
 对对	dui4 dui4
 对俄	dui4 e2
@@ -44030,6 +44099,7 @@ import_tables:
 对齐	dui4 qi2
 对人	dui4 ren2
 对日	dui4 ri4
+对谁	dui4 shei2
 对视	dui4 shi4
 对手	dui4 shou3
 对数	dui4 shu4
@@ -44112,6 +44182,7 @@ import_tables:
 多部	duo1 bu4
 多彩	duo1 cai3
 多层	duo1 ceng2
+多长	duo1 chang2
 多吃	duo1 chi1
 多出	duo1 chu1
 多处	duo1 chu4
@@ -44409,6 +44480,8 @@ import_tables:
 恩义	en1 yi4
 恩怨	en1 yuan4
 恩泽	en1 ze2
+嗯啊	en3 a
+嗯嗯	en3 en3
 而把	er2 ba3
 而被	er2 bei4
 而不	er2 bu4
@@ -44644,6 +44717,7 @@ import_tables:
 发窘	fa1 jiong3
 发掘	fa1 jue2
 发觉	fa1 jue2
+发卡	fa1 ka3	85%
 发刊	fa1 kan1
 发狂	fa1 kuang2
 发困	fa1 kun4
@@ -44826,7 +44900,7 @@ import_tables:
 珐琅	fa4 lang2
 发毛	fa4 mao2
 发妻	fa4 qi1
-发卡	fa4 qia3
+发卡	fa4 qia3	15%
 发乳	fa4 ru3
 发式	fa4 shi4
 发刷	fa4 shua1
@@ -46487,6 +46561,7 @@ import_tables:
 垓垓	gai1 gai1
 该股	gai1 gu3
 该国	gai1 guo2
+该行	gai1 hang2
 该机	gai1 ji1
 垓极	gai1 ji2
 该局	gai1 ju2
@@ -46611,6 +46686,7 @@ import_tables:
 肝胆	gan1 dan3
 甘当	gan1 dang1
 甘德	gan1 de2
+甘地	gan1 di4
 干点	gan1 dian3
 干爹	gan1 die1
 竿儿	gan1 er
@@ -46908,6 +46984,7 @@ import_tables:
 港大	gang3 da4
 岗地	gang3 di4
 港股	gang3 gu3
+港行	gang3 hang2
 港姐	gang3 jie3
 港警	gang3 jing3
 港剧	gang3 ju4
@@ -47265,6 +47342,7 @@ import_tables:
 革囊	ge2 nang2
 格尼	ge2 ni2
 隔热	ge2 re4
+格栅	ge2 shan1
 葛衫	ge2 shan1
 隔扇	ge2 shan1
 格式	ge2 shi4
@@ -47298,6 +47376,7 @@ import_tables:
 各村	ge4 cun1
 个大	ge4 da4
 各大	ge4 da4
+各地	ge4 di4
 各队	ge4 dui4
 个儿	ge4 er2
 各方	ge4 fang1
@@ -47360,6 +47439,7 @@ import_tables:
 给您	gei3 nin2
 给钱	gei3 qian2
 给人	gei3 ren2
+给谁	gei3 shei2
 给他	gei3 ta1
 给她	gei3 ta1
 给它	gei3 ta1
@@ -47390,6 +47470,7 @@ import_tables:
 跟前	gen1 qian2
 跟人	gen1 ren2
 跟上	gen1 shang4
+跟谁	gen1 shei2
 跟随	gen1 sui2
 跟他	gen1 ta1
 跟她	gen1 ta1
@@ -47464,6 +47545,7 @@ import_tables:
 更不	geng4 bu4
 更惨	geng4 can3
 更差	geng4 cha4
+更长	geng4 chang2
 更大	geng4 da4
 更低	geng4 di1
 更多	geng4 duo1
@@ -47514,7 +47596,8 @@ import_tables:
 公布	gong1 bu4
 公厕	gong1 ce4
 公测	gong1 ce4
-公差	gong1 chai1
+公差	gong1 cha1	95%
+公差	gong1 chai1	5%
 工厂	gong1 chang3
 工场	gong1 chang3
 工潮	gong1 chao2
@@ -48061,6 +48144,7 @@ import_tables:
 古朴	gu3 piao2
 股票	gu3 piao4
 股评	gu3 ping2
+古朴	gu3 pu3
 贾欺	gu3 qi1
 鼓起	gu3 qi3
 骨气	gu3 qi4
@@ -48698,6 +48782,7 @@ import_tables:
 跪倒	gui4 dao3
 贵的	gui4 de
 贵德	gui4 de2
+跪地	gui4 di4
 贵点	gui4 dian3
 贵定	gui4 ding4
 桂东	gui4 dong1
@@ -49005,6 +49090,7 @@ import_tables:
 哈迪	ha1 di2
 哈尔	ha1 er3
 哈飞	ha1 fei1
+哈佛	ha1 fo2
 哈哈	ha1 ha
 哈哈	ha1 ha1
 哈韩	ha1 han2
@@ -49435,6 +49521,7 @@ import_tables:
 行商	hang2 shang1
 行市	hang2 shi
 行市	hang2 shi4
+行数	hang2 shu4
 航速	hang2 su4
 航天	hang2 tian1
 行伍	hang2 wu3
@@ -49446,6 +49533,7 @@ import_tables:
 航运	hang2 yun4
 航展	hang2 zhan3
 航站	hang2 zhan4
+行长	hang2 zhang3
 杭州	hang2 zhou1
 巷道	hang4 dao4
 薅草	hao1 cao3
@@ -49500,6 +49588,7 @@ import_tables:
 好彩	hao3 cai3
 好菜	hao3 cai4
 好惨	hao3 can3
+好长	hao3 chang2
 好车	hao3 che1
 好吃	hao3 chi1
 好丑	hao3 chou3
@@ -49509,6 +49598,7 @@ import_tables:
 好的	hao3 de
 好得	hao3 de2
 好滴	hao3 di1
+好地	hao3 di4
 好点	hao3 dian3
 好多	hao3 duo1
 好饿	hao3 e4
@@ -49528,6 +49618,7 @@ import_tables:
 好货	hao3 huo4
 好几	hao3 ji3
 好记	hao3 ji4
+好觉	hao3 jiao4
 好景	hao3 jing3
 好久	hao3 jiu3
 好酒	hao3 jiu3
@@ -49715,6 +49806,7 @@ import_tables:
 合并	he2 bing4
 河伯	he2 bo2
 何不	he2 bu4
+何曾	he2 ceng2
 核查	he2 cha2
 何尝	he2 chang2
 禾场	he2 chang2
@@ -49735,6 +49827,7 @@ import_tables:
 何等	he2 deng3
 河堤	he2 di1
 河底	he2 di3
+何地	he2 di4
 核电	he2 dian4
 核定	he2 ding4
 河东	he2 dong1
@@ -49848,6 +49941,7 @@ import_tables:
 和善	he2 shan4
 合上	he2 shang4
 和尚	he2 shang4
+和谁	he2 shei2
 合身	he2 shen1
 合声	he2 sheng1
 和声	he2 sheng1
@@ -50061,6 +50155,7 @@ import_tables:
 很笨	hen3 ben4
 很不	hen3 bu4
 很差	hen3 cha4
+很长	hen3 chang2
 很丑	hen3 chou3
 很大	hen3 da4
 很淡	hen3 dan4
@@ -51095,8 +51190,10 @@ import_tables:
 环节	huan2 jie2
 环境	huan2 jing4
 还口	huan2 kou3
+还款	huan2 kuan3
 还礼	huan2 li3
 环路	huan2 lu4
+还你	huan2 ni3
 环评	huan2 ping2
 还钱	huan2 qian2
 还清	huan2 qing1
@@ -52345,7 +52442,6 @@ import_tables:
 汲引	ji2 yin3
 即用	ji2 yong4
 急用	ji2 yong4
-藉由	ji2 you2
 集邮	ji2 you2
 即有	ji2 you3
 急于	ji2 yu2
@@ -52406,6 +52502,7 @@ import_tables:
 几根	ji3 gen1
 脊骨	ji3 gu3
 己亥	ji3 hai4
+几行	ji3 hang2
 几好	ji3 hao3
 几号	ji3 hao4
 几何	ji3 he2
@@ -52681,6 +52778,7 @@ import_tables:
 夹层	jia1 ceng2
 加查	jia1 cha2
 家产	jia1 chan3
+加长	jia1 chang2
 家常	jia1 chang2
 加车	jia1 che1
 家臣	jia1 chen2
@@ -52888,6 +52986,7 @@ import_tables:
 家燕	jia1 yan4
 家养	jia1 yang3
 佳肴	jia1 yao2
+伽倻	jia1 ye1
 家业	jia1 ye4
 加一	jia1 yi1
 加以	jia1 yi3
@@ -53197,6 +53296,7 @@ import_tables:
 减缓	jian3 huan3
 剪辑	jian3 ji2
 减价	jian3 jia4
+检校	jian3 jiao4
 剪接	jian3 jie1
 简洁	jian3 jie2
 简介	jian3 jie4
@@ -53882,6 +53982,7 @@ import_tables:
 教材	jiao4 cai2
 窖藏	jiao4 cang2
 较差	jiao4 cha4
+较长	jiao4 chang2
 校场	jiao4 chang3
 较场	jiao4 chang3
 轿车	jiao4 che1
@@ -53927,6 +54028,7 @@ import_tables:
 教诲	jiao4 hui4
 叫价	jiao4 jia4
 教教	jiao4 jiao4
+觉觉	jiao4 jiao4
 叫劲	jiao4 jin4
 较劲	jiao4 jin4
 较近	jiao4 jin4
@@ -54017,7 +54119,6 @@ import_tables:
 叫作	jiao4 zuo4
 叫做	jiao4 zuo4
 结巴	jie1 ba
-结巴	jie1 ba1
 接班	jie1 ban1
 揭榜	jie1 bang3
 街边	jie1 bian1
@@ -54031,6 +54132,7 @@ import_tables:
 街道	jie1 dao4
 街灯	jie1 deng1
 揭底	jie1 di3
+接地	jie1 di4
 阶地	jie1 di4
 揭东	jie1 dong1
 揭短	jie1 duan3
@@ -54295,6 +54397,7 @@ import_tables:
 解读	jie3 du2
 解饿	jie3 e4
 解乏	jie3 fa2
+解法	jie3 fa3
 解放	jie3 fang4
 解封	jie3 feng1
 姐夫	jie3 fu1
@@ -54391,7 +54494,6 @@ import_tables:
 借据	jie4 ju4
 借壳	jie4 ke2
 借口	jie4 kou3
-藉口	jie4 kou3
 借款	jie4 kuan3
 解款	jie4 kuan3
 借来	jie4 lai2
@@ -54425,7 +54527,6 @@ import_tables:
 戒烟	jie4 yan1
 戒严	jie4 yan2
 借以	jie4 yi3
-藉以	jie4 yi3
 介意	jie4 yi4
 借用	jie4 yong4
 介于	jie4 yu2
@@ -54462,6 +54563,7 @@ import_tables:
 金代	jin1 dai4
 金弹	jin1 dan4
 金德	jin1 de2
+金地	jin1 di4
 金蝶	jin1 die2
 金锭	jin1 ding4
 今冬	jin1 dong1
@@ -54807,6 +54909,7 @@ import_tables:
 禁欲	jin4 yu4
 缙云	jin4 yun2
 禁运	jin4 yun4
+进藏	jin4 zang4
 尽责	jin4 ze2
 进展	jin4 zhan3
 近战	jin4 zhan4
@@ -55760,6 +55863,7 @@ import_tables:
 绝境	jue2 jing4
 决绝	jue2 jue2
 厥角	jue2 jue2
+觉觉	jue2 jue2
 决口	jue2 kou3
 蕨类	jue2 lei4
 厥冷	jue2 leng3
@@ -55930,6 +56034,7 @@ import_tables:
 卡卡	ka3 ka3
 卡口	ka3 kou3
 卡拉	ka3 la1
+卡勒	ka3 le4
 卡里	ka3 li3
 卡罗	ka3 luo2
 卡门	ka3 men2
@@ -56101,6 +56206,7 @@ import_tables:
 凯迪	kai3 di2
 凯歌	kai3 ge1
 铠甲	kai3 jia3
+凯勒	kai3 le4
 凯里	kai3 li3
 凯利	kai3 li4
 楷模	kai3 mo2
@@ -56210,9 +56316,11 @@ import_tables:
 看去	kan4 qu4
 看人	kan4 ren2
 看上	kan4 shang4
+看谁	kan4 shei2
 看是	kan4 shi4
 看书	kan4 shu1
 看死	kan4 si3
+看似	kan4 si4
 看台	kan4 tai2
 看帖	kan4 tie1
 看贴	kan4 tie1
@@ -56472,6 +56580,7 @@ import_tables:
 可算	ke3 suan4
 可他	ke3 ta1
 可叹	ke3 tan4
+可调	ke3 tiao2
 可听	ke3 ting1
 可望	ke3 wang4
 渴望	ke3 wang4
@@ -56925,6 +57034,7 @@ import_tables:
 胯骨	kua4 gu3
 跨国	kua4 guo2
 跨过	kua4 guo4
+跨行	kua4 hang2
 跨接	kua4 jie1
 跨境	kua4 jing4
 跨区	kua4 qu1
@@ -57436,6 +57546,7 @@ import_tables:
 懒得	lan3 de2
 懒惰	lan3 duo4
 懒汉	lan3 han4
+懒觉	lan3 jiao4
 懒懒	lan3 lan3
 懒猫	lan3 mao1
 懒人	lan3 ren2
@@ -57676,6 +57787,7 @@ import_tables:
 嫪毐	lao4 ai3
 烙饼	lao4 bing3
 唠扯	lao4 che3
+落汗	lao4 han4
 烙痕	lao4 hen2
 烙花	lao4 hua1
 落价	lao4 jia4
@@ -57704,6 +57816,7 @@ import_tables:
 乐都	le4 du1
 乐儿	le4 er2
 乐风	le4 feng1
+勒夫	le4 fu1
 乐高	le4 gao1
 乐购	le4 gou4
 乐观	le4 guan1
@@ -57713,6 +57826,7 @@ import_tables:
 乐乐	le4 le4
 乐理	le4 li3
 勒令	le4 ling4
+勒马	le4 ma3
 勒派	le4 pai4
 乐平	le4 ping2
 乐趣	le4 qu4
@@ -57870,6 +57984,7 @@ import_tables:
 冷语	leng3 yu3
 冷遇	leng3 yu4
 冷月	leng3 yue4
+冷轧	leng3 zha2
 冷战	leng3 zhan4
 冷颤	leng3 zhan4
 愣了	leng4 le
@@ -57885,6 +58000,7 @@ import_tables:
 离岛	li2 dao3
 离得	li2 de2
 犁地	li2 di4
+离地	li2 di4
 离队	li2 dui4
 离歌	li2 ge1
 离宫	li2 gong1
@@ -58236,6 +58352,7 @@ import_tables:
 例图	li4 tu2
 力图	li4 tu2
 力推	li4 tui1
+力拓	li4 tuo4
 例外	li4 wai4
 立委	li4 wei3
 詈侮	li4 wu3
@@ -58373,6 +58490,7 @@ import_tables:
 联体	lian2 ti3
 连体	lian2 ti3
 连天	lian2 tian1
+联调	lian2 tiao2
 联通	lian2 tong1
 连通	lian2 tong1
 连同	lian2 tong2
@@ -58566,6 +58684,7 @@ import_tables:
 两广	liang3 guang3
 两国	liang3 guo2
 两汉	liang3 han4
+两行	liang3 hang2
 两会	liang3 hui4
 两极	liang3 ji2
 两级	liang3 ji2
@@ -58696,7 +58815,9 @@ import_tables:
 量为	liang4 wei4
 亮相	liang4 xiang4
 量刑	liang4 xing2
+靓颖	liang4 ying3
 靓仔	liang4 zai3
+靓照	liang4 zhao4
 亮着	liang4 zhe
 量子	liang4 zi3
 聊吧	liao2 ba
@@ -59668,6 +59789,7 @@ import_tables:
 路网	lu4 wang3
 鹿尾	lu4 wei3
 潞西	lu4 xi1
+露茜	lu4 xi1
 露西	lu4 xi1
 路线	lu4 xian4
 录像	lu4 xiang4
@@ -59996,6 +60118,7 @@ import_tables:
 绿春	lv4 chun1
 绿灯	lv4 deng1
 率低	lv4 di1
+绿地	lv4 di4
 绿豆	lv4 dou4
 律法	lv4 fa3
 绿矾	lv4 fan2
@@ -60321,6 +60444,7 @@ import_tables:
 满仓	man3 cang1
 满城	man3 cheng2
 满处	man3 chu3
+满地	man3 di4
 满分	man3 fen1
 满腹	man3 fu4
 满贯	man3 guan4
@@ -60680,6 +60804,7 @@ import_tables:
 美股	mei3 gu3
 美观	mei3 guan1
 美国	mei3 guo2
+每行	mei3 hang2
 美好	mei3 hao3
 每户	mei3 hu4
 美化	mei3 hua4
@@ -61022,6 +61147,7 @@ import_tables:
 米酒	mi3 jiu3
 米拉	mi3 la1
 米兰	mi3 lan2
+米勒	mi3 le4
 米粒	mi3 li4
 靡丽	mi3 li4
 米林	mi3 lin2
@@ -61138,6 +61264,7 @@ import_tables:
 面部	mian4 bu4
 面朝	mian4 chao2
 面带	mian4 dai4
+面的	mian4 di1
 面对	mian4 dui4
 面额	mian4 e2
 面粉	mian4 fen3
@@ -61531,6 +61658,7 @@ import_tables:
 磨炼	mo2 lian4
 磨练	mo2 lian4
 磨灭	mo2 mie4
+嬷嬷	mo2 mo
 磨磨	mo2 mo2
 馍馍	mo2 mo2
 磨难	mo2 nan4
@@ -61888,6 +62016,7 @@ import_tables:
 哪条	na3 tiao2
 哪位	na3 wei4
 哪像	na3 xiang4
+哪些	na3 xie1
 哪样	na3 yang4
 哪一	na3 yi1
 哪有	na3 you3
@@ -61968,6 +62097,7 @@ import_tables:
 那人	na4 ren2
 那日	na4 ri4
 纳入	na4 ru4
+纳什	na4 shi2
 那时	na4 shi2
 那是	na4 shi4
 那首	na4 shou3
@@ -62069,6 +62199,7 @@ import_tables:
 难点	nan2 dian3
 男丁	nan2 ding1
 难懂	nan2 dong3
+南都	nan2 du1
 难度	nan2 du4
 南端	nan2 duan1
 男儿	nan2 er2
@@ -62627,6 +62758,7 @@ import_tables:
 年的	nian2 de
 年底	nian2 di3
 年度	nian2 du4
+粘度	nian2 du4
 黏度	nian2 du4
 年费	nian2 fei4
 年分	nian2 fen1
@@ -62664,6 +62796,7 @@ import_tables:
 年迈	nian2 mai4
 年满	nian2 man3
 黏米	nian2 mi3
+粘膜	nian2 mo2
 黏膜	nian2 mo2
 年末	nian2 mo4
 年内	nian2 nei4
@@ -62683,6 +62816,7 @@ import_tables:
 年息	nian2 xi1
 年限	nian2 xian4
 年薪	nian2 xin1
+粘性	nian2 xing4
 粘液	nian2 ye4
 黏液	nian2 ye4
 年幼	nian2 you4
@@ -63939,6 +64073,7 @@ import_tables:
 骈文	pian2 wen2
 便宜	pian2 yi2
 骈枝	pian2 zhi1
+片长	pian4 chang2
 片场	pian4 chang3
 片酬	pian4 chou2
 骗到	pian4 dao4
@@ -64178,7 +64313,6 @@ import_tables:
 平江	ping2 jiang1
 评奖	ping2 jiang3
 凭借	ping2 jie4
-凭藉	ping2 jie4
 瓶颈	ping2 jing3
 平静	ping2 jing4
 平局	ping2 ju2
@@ -65180,6 +65314,7 @@ import_tables:
 潜质	qian2 zhi4
 黔中	qian2 zhong1
 前爪	qian2 zhua3
+前传	qian2 zhuan4
 钱庄	qian2 zhuang1
 前缀	qian2 zhui4
 钳子	qian2 zi
@@ -65468,6 +65603,7 @@ import_tables:
 俏丽	qiao4 li4
 俏脸	qiao4 lian3
 窍门	qiao4 men2
+壳牌	qiao4 pai2
 俏皮	qiao4 pi2
 翘起	qiao4 qi3
 翘翘	qiao4 qiao4
@@ -65657,6 +65793,7 @@ import_tables:
 秦国	qin2 guo2
 秦汉	qin2 han4
 秦淮	qin2 huai2
+秦桧	qin2 hui4
 勤俭	qin2 jian3
 秦艽	qin2 jiao1
 秦军	qin2 jun1
@@ -65876,6 +66013,7 @@ import_tables:
 清远	qing1 yuan3
 清苑	qing1 yuan4
 青云	qing1 yun2
+青藏	qing1 zang4
 清早	qing1 zao3
 清真	qing1 zhen1
 清镇	qing1 zhen4
@@ -66071,6 +66209,7 @@ import_tables:
 球队	qiu2 dui4
 囚犯	qiu2 fan4
 求购	qiu2 gou4
+仇和	qiu2 he2
 求和	qiu2 he2
 求婚	qiu2 hun1
 球技	qiu2 ji4
@@ -66319,6 +66458,7 @@ import_tables:
 去拿	qu4 na2
 去哪	qu4 na3
 去那	qu4 na4
+去呢	qu4 ne
 去年	qu4 nian2
 去皮	qu4 pi2
 去取	qu4 qu3
@@ -66358,6 +66498,7 @@ import_tables:
 权柄	quan2 bing3
 全部	quan2 bu4
 拳参	quan2 can1
+全长	quan2 chang2
 全场	quan2 chang3
 全车	quan2 che1
 全称	quan2 cheng1
@@ -66747,6 +66888,7 @@ import_tables:
 热血	re4 xue4
 热议	re4 yi4
 热源	re4 yuan2
+热轧	re4 zha2
 热症	re4 zheng4
 热中	re4 zhong1
 热衷	re4 zhong1
@@ -66782,6 +66924,7 @@ import_tables:
 人工	ren2 gong1
 人还	ren2 hai2
 人海	ren2 hai3
+人行	ren2 hang2	75%
 人和	ren2 he2
 仁和	ren2 he2
 人很	ren2 hen3
@@ -66860,6 +67003,7 @@ import_tables:
 人像	ren2 xiang4
 人心	ren2 xin1
 人形	ren2 xing2
+人行	ren2 xing2	25%
 人性	ren2 xing4
 任姓	ren2 xing4
 仁兄	ren2 xiong1
@@ -67196,6 +67340,7 @@ import_tables:
 如今	ru2 jin1
 如君	ru2 jun1
 如来	ru2 lai2
+儒勒	ru2 le4
 如梦	ru2 meng4
 如能	ru2 neng2
 如你	ru2 ni3
@@ -67256,6 +67401,7 @@ import_tables:
 乳品	ru3 pin3
 乳山	ru3 shan1
 乳神	ru3 shen2
+乳首	ru3 shou3
 乳酸	ru3 suan1
 乳头	ru3 tou2
 乳腺	ru3 xian4
@@ -67510,6 +67656,7 @@ import_tables:
 三到	san1 dao4
 三道	san1 dao4
 三等	san1 deng3
+三地	san1 di4
 三点	san1 dian3
 三都	san1 du1
 三度	san1 du4
@@ -68270,6 +68417,7 @@ import_tables:
 上到	shang4 dao4
 上的	shang4 de
 上等	shang4 deng3
+上地	shang4 di4
 上帝	shang4 di4
 上电	shang4 dian4
 上吊	shang4 diao4
@@ -68692,9 +68840,20 @@ import_tables:
 摄制	she4 zhi4
 设置	she4 zhi4
 涉足	she4 zu2
+谁啊	shei2 a
+谁不	shei2 bu4
 谁的	shei2 de
 谁都	shei2 dou1
+谁敢	shei2 gan3
+谁还	shei2 hai2
+谁叫	shei2 jiao4
+谁呢	shei2 ne
+谁去	shei2 qu4
 谁人	shei2 ren2
+谁谁	shei2 shei2
+谁先	shei2 xian1
+谁呀	shei2 ya
+谁在	shei2 zai4
 深爱	shen1 ai4
 深谙	shen1 an1
 深奥	shen1 ao4
@@ -69487,6 +69646,7 @@ import_tables:
 石蜡	shi2 la4
 十来	shi2 lai2
 石栏	shi2 lan2
+石勒	shi2 le4
 石磊	shi2 lei3
 十里	shi2 li3
 实例	shi2 li4
@@ -69672,6 +69832,7 @@ import_tables:
 史册	shi3 ce4
 使臣	shi3 chen2
 使出	shi3 chu1
+史传	shi3 chuan2	10%
 始创	shi3 chuang4
 使得	shi3 de
 使得	shi3 de2
@@ -69727,6 +69888,7 @@ import_tables:
 使之	shi3 zhi1
 矢志	shi3 zhi4
 始终	shi3 zhong1
+史传	shi3 zhuan4	90%
 始祖	shi3 zu3
 是啊	shi4 a
 是爱	shi4 ai4
@@ -69795,6 +69957,7 @@ import_tables:
 士官	shi4 guan1
 试管	shi4 guan3
 试过	shi4 guo4
+世行	shi4 hang2
 是好	shi4 hao3
 嗜好	shi4 hao4
 谥号	shi4 hao4
@@ -70351,6 +70514,7 @@ import_tables:
 瘦子	shou4 zi
 受阻	shou4 zu3
 受罪	shou4 zui4
+叔伯	shu1 bai
 书包	shu1 bao1
 书背	shu1 bei4
 书本	shu1 ben3
@@ -70508,6 +70672,7 @@ import_tables:
 鼠标	shu3 biao1
 数次	shu3 ci4
 暑促	shu3 cu4
+属地	shu3 di4
 曙光	shu3 guang1
 属国	shu3 guo2
 蜀国	shu3 guo2
@@ -70524,6 +70689,7 @@ import_tables:
 蜀山	shu3 shan1
 属实	shu3 shi2
 数十	shu3 shi2
+数数	shu3 shu4
 数说	shu3 shuo1
 薯条	shu3 tiao2
 属下	shu3 xia4
@@ -70677,6 +70843,7 @@ import_tables:
 甩了	shuai3 le
 甩卖	shuai3 mai4
 甩脱	shuai3 tuo1
+率达	shuai4 da2
 率队	shuai4 dui4
 率尔	shuai4 er3
 帅哥	shuai4 ge1
@@ -71276,6 +71443,7 @@ import_tables:
 四化	si4 hua4
 四环	si4 huan2
 四会	si4 hui4
+似火	si4 huo3
 伺机	si4 ji1
 俟机	si4 ji1
 四级	si4 ji2
@@ -71317,8 +71485,10 @@ import_tables:
 四十	si4 shi2
 四时	si4 shi2
 肆拾	si4 shi2
+似是	si4 shi4
 四是	si4 shi4
 四书	si4 shu1
+似水	si4 shui3
 泗水	si4 shui3
 四岁	si4 sui4
 伺探	si4 tan4
@@ -71345,6 +71515,7 @@ import_tables:
 四溢	si4 yi4
 肆意	si4 yi4
 肆应	si4 ying4
+似有	si4 you3
 寺院	si4 yuan4
 四月	si4 yue4
 四张	si4 zhang1
@@ -72012,6 +72183,7 @@ import_tables:
 太不	tai4 bu4
 太仓	tai4 cang1
 太差	tai4 cha4
+太长	tai4 chang2
 太迟	tai4 chi2
 太冲	tai4 chong4
 太丑	tai4 chou3
@@ -72033,6 +72205,7 @@ import_tables:
 太贵	tai4 gui4
 泰国	tai4 guo2
 太过	tai4 guo4
+太行	tai4 hang2
 太好	tai4 hao3
 太和	tai4 he2
 泰和	tai4 he2
@@ -72058,6 +72231,7 @@ import_tables:
 太烂	tai4 lan4
 太郎	tai4 lang2
 太老	tai4 lao3
+泰勒	tai4 le4
 太累	tai4 lei4
 太冷	tai4 leng3
 太乱	tai4 luan4
@@ -72115,6 +72289,7 @@ import_tables:
 太子	tai4 zi
 太宗	tai4 zong1
 太祖	tai4 zu3
+摊薄	tan1 bo2
 贪财	tan1 cai2
 贪吃	tan1 chi1
 滩地	tan1 di4
@@ -72147,7 +72322,9 @@ import_tables:
 摊主	tan1 zhu3
 摊子	tan1 zi
 坛场	tan2 chang3
+弹唱	tan2 chang4
 郯城	tan2 cheng2
+弹出	tan2 chu1
 弹词	tan2 ci2
 谈到	tan2 dao4
 谈得	tan2 de2
@@ -72171,6 +72348,7 @@ import_tables:
 弹射	tan2 she4
 澹台	tan2 tai2
 谈谈	tan2 tan2
+弹跳	tan2 tiao4
 谈吐	tan2 tu3
 谈妥	tan2 tuo3
 谈笑	tan2 xiao4
@@ -72178,9 +72356,11 @@ import_tables:
 弹性	tan2 xing4
 谈兴	tan2 xing4
 痰盂	tan2 yu2
+弹指	tan2 zhi3
 谈助	tan2 zhu4
 坛子	tan2 zi
 谈资	tan2 zi1
+弹奏	tan2 zou4
 坦白	tan3 bai2
 坦承	tan3 cheng2
 坦诚	tan3 cheng2
@@ -72620,6 +72800,7 @@ import_tables:
 体操	ti3 cao1
 体面	ti3 cao3
 体察	ti3 cha2
+体长	ti3 chang2
 体的	ti3 de
 体罚	ti3 fa2
 体肤	ti3 fu1
@@ -72920,18 +73101,22 @@ import_tables:
 蜩蝉	tiao2 chan2
 条陈	tiao2 chen2
 龆龀	tiao2 chen4
+调成	tiao2 cheng2
 调处	tiao2 chu3
 调档	tiao2 dang4
 条凳	tiao2 deng4
+调低	tiao2 di1
 调调	tiao2 diao4
 蜩沸	tiao2 fei4
 条幅	tiao2 fu2
 调幅	tiao2 fu2
 条干	tiao2 gan4
+调高	tiao2 gao1
 调羹	tiao2 geng1
 条贯	tiao2 guan4
 调光	tiao2 guang1
 条规	tiao2 gui1
+调好	tiao2 hao3
 调合	tiao2 he2
 调和	tiao2 he2
 条痕	tiao2 hen2
@@ -72971,6 +73156,7 @@ import_tables:
 调试	tiao2 shi4
 调适	tiao2 shi4
 条数	tiao2 shu4
+调速	tiao2 su4
 调唆	tiao2 suo1
 条条	tiao2 tiao2
 调停	tiao2 ting2
@@ -72986,6 +73172,7 @@ import_tables:
 调协	tiao2 xie2
 调谐	tiao2 xie2
 条形	tiao2 xing2
+调休	tiao2 xiu1
 调谑	tiao2 xue4
 调养	tiao2 yang3
 调音	tiao2 yin1
@@ -72995,6 +73182,7 @@ import_tables:
 调整	tiao2 zheng3
 调制	tiao2 zhi4
 调治	tiao2 zhi4
+调至	tiao2 zhi4
 笤帚	tiao2 zhou3
 苕帚	tiao2 zhou3
 条状	tiao2 zhuang4
@@ -73591,6 +73779,7 @@ import_tables:
 投稿	tou2 gao3
 头功	tou2 gong1
 头骨	tou2 gu3
+投行	tou2 hang2
 头号	tou2 hao4
 投合	tou2 he2
 头昏	tou2 hun1
@@ -73966,6 +74155,7 @@ import_tables:
 退票	tui4 piao4
 退钱	tui4 qian2
 退亲	tui4 qin1
+褪去	tui4 qu4
 退去	tui4 qu4
 退却	tui4 que4
 退让	tui4 rang4
@@ -74021,6 +74211,7 @@ import_tables:
 拖到	tuo1 dao4
 托底	tuo1 di3
 托蒂	tuo1 di4
+拖地	tuo1 di4
 拖吊	tuo1 diao4
 脱掉	tuo1 diao4
 拖动	tuo1 dong4
@@ -74100,6 +74291,7 @@ import_tables:
 妥协	tuo3 xie2
 椭圆	tuo3 yuan2
 拓拔	tuo4 ba2
+拓跋	tuo4 ba2
 拓地	tuo4 di4
 拓荒	tuo4 huang1
 拓宽	tuo4 kuan1
@@ -74747,6 +74939,7 @@ import_tables:
 威士	wei1 shi4
 微缩	wei1 suo1
 萎缩	wei1 suo1
+微调	wei1 tiao2
 危亡	wei1 wang2
 威望	wei1 wang4
 巍巍	wei1 wei1
@@ -75031,6 +75224,7 @@ import_tables:
 魏阙	wei4 que1
 为荣	wei4 rong2
 为啥	wei4 sha2
+为谁	wei4 shei2
 为什	wei4 shen2
 卫生	wei4 sheng1
 为师	wei4 shi1
@@ -75326,6 +75520,7 @@ import_tables:
 我更	wo3 geng4
 我国	wo3 guo2
 我还	wo3 hai2
+我行	wo3 hang2
 我好	wo3 hao3
 我和	wo3 he2
 我很	wo3 hen3
@@ -76069,6 +76264,7 @@ import_tables:
 西溪	xi1 xi1
 西西	xi1 xi1
 嬉戏	xi1 xi4
+栖霞	xi1 xia2
 西峡	xi1 xia2
 西夏	xi1 xia4
 息县	xi1 xian4
@@ -76123,6 +76319,7 @@ import_tables:
 席卷	xi2 juan3
 席卷	xi2 juan4
 袭来	xi2 lai2
+席勒	xi2 le4
 习气	xi2 qi4
 袭取	xi2 qu3
 袭人	xi2 ren2
@@ -76351,6 +76548,7 @@ import_tables:
 下挫	xia4 cuo4
 下达	xia4 da2
 夏达	xia4 da2
+厦大	xia4 da4
 下单	xia4 dan1
 下蛋	xia4 dan4
 下到	xia4 dao4
@@ -76383,6 +76581,7 @@ import_tables:
 吓唬	xia4 hu
 吓唬	xia4 hu3
 下滑	xia4 hua2
+厦华	xia4 hua2
 吓坏	xia4 huai4
 下回	xia4 hui2
 下级	xia4 ji2
@@ -76442,6 +76641,7 @@ import_tables:
 下探	xia4 tan4
 下体	xia4 ti3
 夏天	xia4 tian1
+下调	xia4 tiao2
 下帖	xia4 tie3
 下同	xia4 tong2
 下头	xia4 tou
@@ -77005,6 +77205,7 @@ import_tables:
 相悦	xiang1 yue4
 香皂	xiang1 zao4
 香泽	xiang1 ze2
+乡长	xiang1 zhang3
 乡镇	xiang1 zhen4
 相争	xiang1 zheng1
 相知	xiang1 zhi1
@@ -78167,6 +78368,7 @@ import_tables:
 信封	xin4 feng1
 信风	xin4 feng1
 信奉	xin4 feng4
+信佛	xin4 fo2
 信服	xin4 fu2
 信鸽	xin4 ge1
 信函	xin4 han2
@@ -78421,6 +78623,7 @@ import_tables:
 性病	xing4 bing4
 幸存	xing4 cun2
 幸得	xing4 de
+性都	xing4 du1
 幸而	xing4 er2
 幸福	xing4 fu2
 性福	xing4 fu2
@@ -78918,6 +79121,7 @@ import_tables:
 学费	xue2 fei4
 学分	xue2 fen1
 学风	xue2 feng1
+学佛	xue2 fo2
 学府	xue2 fu3
 学棍	xue2 gun4
 学过	xue2 guo4
@@ -78980,6 +79184,7 @@ import_tables:
 雪碧	xue3 bi4
 雪城	xue3 cheng2
 雪耻	xue3 chi3
+雪地	xue3 di4
 雪儿	xue3 er2
 雪峰	xue3 feng1
 雪糕	xue3 gao1
@@ -79144,6 +79349,7 @@ import_tables:
 寻觅	xun2 mi4
 寻求	xun2 qiu2
 巡视	xun2 shi4
+寻思	xun2 si1
 询问	xun2 wen4
 寻乌	xun2 wu1
 巡行	xun2 xing2
@@ -79305,6 +79511,7 @@ import_tables:
 雅克	ya3 ke4
 哑口	ya3 kou3
 雅量	ya3 liang4
+雅靓	ya3 liang4
 哑铃	ya3 ling2
 哑谜	ya3 mi2
 哑炮	ya3 pao4
@@ -80054,6 +80261,7 @@ import_tables:
 要能	yao4 neng2
 要你	yao4 ni3
 药捻	yao4 nian3
+药娘	yao4 niang2	1241
 要拍	yao4 pai1
 药片	yao4 pian4
 药品	yao4 pin3
@@ -80366,6 +80574,7 @@ import_tables:
 一侧	yi1 ce4
 一层	yi1 ceng2
 一查	yi1 cha2
+一长	yi1 chang2
 一场	yi1 chang3
 一车	yi1 che1
 一城	yi1 cheng2
@@ -80401,6 +80610,7 @@ import_tables:
 医德	yi1 de2
 一等	yi1 deng3
 一滴	yi1 di1
+一地	yi1 di4
 一叠	yi1 die2
 一碟	yi1 die2
 一顶	yi1 ding3
@@ -80771,6 +80981,7 @@ import_tables:
 医嘱	yi1 zhu3
 一转	yi1 zhuan3
 一桩	yi1 zhuang1
+一幢	yi1 zhuang4
 一桌	yi1 zhuo1
 衣着	yi1 zhuo2
 一字	yi1 zi4
@@ -81425,6 +81636,7 @@ import_tables:
 隐瞒	yin3 man2
 隐秘	yin3 mi4
 隐面	yin3 mian4
+隐没	yin3 mo4
 隐匿	yin3 ni4
 饮片	yin3 pian4
 饮品	yin3 pin3
@@ -81582,6 +81794,7 @@ import_tables:
 赢得	ying2 de
 赢得	ying2 de2
 茔地	ying2 di4
+营地	ying2 di4
 营房	ying2 fang2
 迎风	ying2 feng1
 荧光	ying2 guang1
@@ -81885,6 +82098,7 @@ import_tables:
 用嘴	yong4 zui3
 用作	yong4 zuo4
 幽暗	you1 an4
+悠长	you1 chang2
 忧愁	you1 chou2
 优待	you1 dai4
 优等	you1 deng3
@@ -82019,6 +82233,7 @@ import_tables:
 游人	you2 ren2
 犹如	you2 ru2
 犹若	you2 ruo4
+由谁	you2 shei2
 由省	you2 sheng3
 油石	you2 shi2
 由市	you2 shi4
@@ -82878,6 +83093,7 @@ import_tables:
 元元	yuan2 yuan2
 圆圆	yuan2 yuan2
 元月	yuan2 yue4
+援藏	yuan2 zang4
 原则	yuan2 ze2
 园长	yuan2 zhang3
 原址	yuan2 zhi3
@@ -83010,6 +83226,7 @@ import_tables:
 阅兵	yue4 bing1
 月饼	yue4 bing3
 粤菜	yue4 cai4
+越长	yue4 chang2
 乐池	yue4 chi2
 岳池	yue4 chi2
 月初	yue4 chu1
@@ -83099,6 +83316,7 @@ import_tables:
 月蚀	yue4 shi2
 月食	yue4 shi2
 越是	yue4 shi4
+乐手	yue4 shou3
 越说	yue4 shuo1
 月台	yue4 tai2
 乐坛	yue4 tan2
@@ -83134,6 +83352,7 @@ import_tables:
 越战	yue4 zhan4
 乐章	yue4 zhang1
 岳丈	yue4 zhang4
+月氏	yue4 zhi1
 月中	yue4 zhong1
 粤中	yue4 zhong1
 月子	yue4 zi
@@ -83503,6 +83722,7 @@ import_tables:
 簪导	zan1 dao3
 簪子	zan1 zi
 咱个	zan2 ge
+咱家	zan2 jia1
 咱俩	zan2 lia3
 咱们	zan2 men
 攒钱	zan3 qian2
@@ -83555,14 +83775,18 @@ import_tables:
 葬礼	zang4 li3
 藏历	zang4 li4
 脏乱	zang4 luan4
+藏民	zang4 min2
 藏南	zang4 nan2
 脏器	zang4 qi4
 藏青	zang4 qing1
+藏区	zang4 qu1
 藏人	zang4 ren2
 葬送	zang4 song4
+藏文	zang4 wen2
 藏西	zang4 xi1
 藏戏	zang4 xi4
 藏药	zang4 yao4
+藏语	zang4 yu3
 藏中	zang4 zhong1
 藏族	zang4 zu2
 遭到	zao1 dao4
@@ -83754,6 +83978,8 @@ import_tables:
 增肥	zeng1 fei2
 增幅	zeng1 fu2
 增高	zeng1 gao1
+曾哥	zeng1 ge1
+曾巩	zeng1 gong3
 增广	zeng1 guang3
 憎恨	zeng1 hen4
 增厚	zeng1 hou4
@@ -83888,6 +84114,7 @@ import_tables:
 择菜	zhai2 cai4
 宅地	zhai2 di4
 宅第	zhai2 di4
+翟凌	zhai2 ling2
 宅门	zhai2 men2
 宅男	zhai2 nan2
 择席	zhai2 xi2
@@ -84328,6 +84555,7 @@ import_tables:
 沼气	zhao3 qi4
 找钱	zhao3 qian2
 找人	zhao3 ren2
+找谁	zhao3 shei2
 找事	zhao3 shi4
 找死	zhao3 si3
 找他	zhao3 ta1
@@ -84468,6 +84696,7 @@ import_tables:
 折枝	zhe2 zhi1
 折纸	zhe2 zhi3
 折中	zhe2 zhong1
+折衷	zhe2 zhong1
 折皱	zhe2 zhou4
 折转	zhe2 zhuan3
 折子	zhe2 zi3
@@ -84518,6 +84747,7 @@ import_tables:
 鹧鸪	zhe4 gu1
 这股	zhe4 gu3
 这还	zhe4 hai2
+这行	zhe4 hang2
 这和	zhe4 he2
 这话	zhe4 hua4
 这回	zhe4 hui2
@@ -84816,6 +85046,7 @@ import_tables:
 争得	zheng1 de
 征得	zheng1 de2
 挣得	zheng1 de2
+征地	zheng1 di4
 征调	zheng1 diao4
 征订	zheng1 ding4
 争斗	zheng1 dou4
@@ -85145,8 +85376,10 @@ import_tables:
 之道	zhi1 dao4
 知道	zhi1 dao4
 知底	zhi1 di3
+之地	zhi1 di4
 之巅	zhi1 dian1
 支点	zhi1 dian3
+之都	zhi1 du1
 支队	zhi1 dui4
 之多	zhi1 duo1
 之恩	zhi1 en1
@@ -85165,6 +85398,7 @@ import_tables:
 之隔	zhi1 ge2
 之冠	zhi1 guan1
 之光	zhi1 guang1
+支行	zhi1 hang2
 之后	zhi1 hou4
 支护	zhi1 hu4
 之花	zhi1 hua1
@@ -85326,6 +85560,7 @@ import_tables:
 织造	zhi1 zao4
 之战	zhi1 zhan4
 支站	zhi1 zhan4
+之长	zhi1 zhang3
 支招	zhi1 zhao1
 支着	zhi1 zhao1
 知照	zhi1 zhao4
@@ -85497,6 +85732,7 @@ import_tables:
 只看	zhi3 kan4
 只靠	zhi3 kao4
 枳壳	zhi3 ke2
+止咳	zhi3 ke2
 只可	zhi3 ke3
 指控	zhi3 kong4
 指令	zhi3 ling4
@@ -85604,6 +85840,7 @@ import_tables:
 至当	zhi4 dang1
 质当	zhi4 dang4
 制导	zhi4 dao3
+置地	zhi4 di4
 质地	zhi4 di4
 质的	zhi4 di4
 质点	zhi4 dian3
@@ -85782,6 +86019,7 @@ import_tables:
 中电	zhong1 dian4
 中东	zhong1 dong1
 中都	zhong1 dou1
+中都	zhong1 du1
 中度	zhong1 du4
 中端	zhong1 duan1
 终端	zhong1 duan1
@@ -86203,6 +86441,7 @@ import_tables:
 猪肚	zhu1 du3
 诸多	zhu1 duo1
 珠峰	zhu1 feng1
+诸佛	zhu1 fo2
 猪肝	zhu1 gan1
 诸葛	zhu1 ge3
 猪倌	zhu1 guan1
@@ -86702,6 +86941,7 @@ import_tables:
 转自	zhuan3 zi4
 转租	zhuan3 zu1
 赚到	zhuan4 dao4
+赚得	zhuan4 de2
 赚点	zhuan4 dian3
 转动	zhuan4 dong4
 传记	zhuan4 ji4
@@ -87036,6 +87276,7 @@ import_tables:
 辎重	zi1 zhong4
 资助	zi1 zhu4
 紫菜	zi3 cai4
+子长	zi3 chang2
 仔畜	zi3 chu4
 子畜	zi3 chu4
 子弹	zi3 dan4
@@ -87088,6 +87329,7 @@ import_tables:
 自拔	zi4 ba2
 自白	zi4 bai2
 自保	zi4 bao3
+自曝	zi4 bao4
 自爆	zi4 bao4
 自卑	zi4 bei1
 自备	zi4 bei4
@@ -87295,6 +87537,7 @@ import_tables:
 总不	zong3 bu4
 总部	zong3 bu4
 总裁	zong3 cai2
+总长	zong3 chang2
 总厂	zong3 chang3
 总称	zong3 cheng1
 总成	zong3 cheng2
@@ -87585,6 +87828,7 @@ import_tables:
 最惨	zui4 can3
 最差	zui4 cha4
 最常	zui4 chang2
+最长	zui4 chang2
 最迟	zui4 chi2
 最初	zui4 chu1
 最大	zui4 da4
@@ -88072,7 +88316,8 @@ import_tables:
 奥兰多	ao4 lan2 duo1
 奥马哈	ao4 ma3 ha1
 奥尼尔	ao4 ni2 er3
-奥塞罗	ao4 sai1 luo2
+奥赛罗	ao4 sai4 luo2
+奥塞梯	ao4 sai4 ti1
 奥斯丁	ao4 si1 ding1
 奥斯卡	ao4 si1 ka3
 奥斯陆	ao4 si1 lu4
@@ -88191,6 +88436,7 @@ import_tables:
 白日梦	bai2 ri4 meng4
 白沙县	bai2 sha1 xian4
 白山市	bai2 shan1 shi4
+白蛇传	bai2 she2 zhuan4
 白社会	bai2 she4 hui4
 白刷刷	bai2 shua1 shua1
 白水县	bai2 shui3 xian4
@@ -88348,6 +88594,8 @@ import_tables:
 包加密	bao1 jia1 mi4
 包交换	bao1 jiao1 huan4
 包饺子	bao1 jiao3 zi
+剥皮器	bao1 pi2 qi4
+剥皮钳	bao1 pi2 qian2
 剥苹果	bao1 ping2 guo3
 包头市	bao1 tou2 shi4
 包围盒	bao1 wei2 he2
@@ -88868,8 +89116,10 @@ import_tables:
 博士生	bo2 shi4 sheng1
 博物馆	bo2 wu4 guan3
 博物院	bo2 wu4 yuan4
+薄熙来	bo2 xi1 lai2
 博兴县	bo2 xing4 xian4
 博野县	bo2 ye3 xian4
+薄一波	bo2 yi1 bo1
 博弈论	bo2 yi4 lun4
 博弈树	bo2 yi4 shu4
 博弈图	bo2 yi4 tu2
@@ -89034,6 +89284,7 @@ import_tables:
 不礼貌	bu4 li3 mao4
 不理我	bu4 li3 wo3
 不了解	bu4 liao3 jie3
+不了了	bu4 liao3 le
 不列颠	bu4 lie4 dian1
 布隆迪	bu4 long2 di2
 布鲁日	bu4 lu3 ri4
@@ -89052,6 +89303,7 @@ import_tables:
 不能做	bu4 neng2 zuo4
 不粘锅	bu4 nian2 guo1
 不匹配	bu4 pi3 pei4
+不便宜	bu4 pian2 yi
 不起诉	bu4 qi3 su4
 不起眼	bu4 qi3 yan3
 不清楚	bu4 qing1 chu
@@ -89164,6 +89416,7 @@ import_tables:
 菜单中	cai4 dan1 zhong1
 蔡甸区	cai4 dian1 qu1
 蔡康永	cai4 kang1 yong3
+蔡李佛	cai4 li3 fo2
 蔡少芬	cai4 shao3 fen1
 菜市场	cai4 shi4 chang3
 蔡依林	cai4 yi1 lin2
@@ -89338,6 +89591,7 @@ import_tables:
 长恨歌	chang2 hen4 ge1
 常见病	chang2 jian4 bing4
 长颈鹿	chang2 jing3 lu4
+长距离	chang2 ju4 li2
 长乐市	chang2 le4 shi4
 长乐县	chang2 le4 xian4
 长岭县	chang2 ling3 xian4
@@ -89350,6 +89604,7 @@ import_tables:
 长宁县	chang2 ning2 xian4
 长期性	chang2 qi1 xing4
 长清县	chang2 qing1 xian4
+长三角	chang2 san1 jiao3
 长沙市	chang2 sha1 shi4
 长沙县	chang2 sha1 xian4
 长舌妇	chang2 she2 fu4
@@ -89357,6 +89612,7 @@ import_tables:
 长身鳊	chang2 shen1 bian1
 长生果	chang2 sheng1 guo3
 长生界	chang2 sheng1 jie4
+长时间	chang2 shi2 jian1
 常石磊	chang2 shi2 lei3
 长寿果	chang2 shou4 guo3
 长寿县	chang2 shou4 xian4
@@ -89366,6 +89622,7 @@ import_tables:
 长泰县	chang2 tai4 xian4
 长汀县	chang2 ting1 xian4
 长统靴	chang2 tong3 xue1
+长头发	chang2 tou2 fa4	50%
 常委会	chang2 wei3 hui4
 长武县	chang2 wu3 xian4
 长兴县	chang2 xing1 xian4
@@ -89482,6 +89739,7 @@ import_tables:
 陈小春	chen2 xiao3 chun1
 陈小姐	chen2 xiao3 jie3
 陈晓旭	chen2 xiao3 xu4
+陈省身	chen2 xing3 shen1
 陈逸飞	chen2 yi4 fei1
 陈奕迅	chen2 yi4 xun4
 陈云林	chen2 yun2 lin2
@@ -89658,6 +89916,7 @@ import_tables:
 崇礼县	chong2 li3 xian4
 重码率	chong2 ma3 lv4
 崇明县	chong2 ming2 xian4
+重命名	chong2 ming4 ming2
 重启后	chong2 qi3 hou4
 重庆市	chong2 qing4 shi4
 崇庆县	chong2 qing4 xian4
@@ -89727,6 +89986,7 @@ import_tables:
 出入境	chu1 ru4 jing4
 出入口	chu1 ru4 kou3
 出什么	chu1 shen2 me
+出生地	chu1 sheng1 di4
 出生率	chu1 sheng1 lv4
 初始化	chu1 shi3 hua4
 出事件	chu1 shi4 jian4
@@ -90077,6 +90337,7 @@ import_tables:
 大板车	da4 ban3 che1
 大半天	da4 ban4 tian1
 大包干	da4 bao1 gan1
+大堡礁	da4 bao3 jiao1
 大暴雨	da4 bao4 yu3
 大本营	da4 ben3 ying2
 大比拼	da4 bi3 pin1
@@ -90088,8 +90349,10 @@ import_tables:
 大部头	da4 bu4 tou2
 大埔县	da4 bu4 xian4
 大草原	da4 cao3 yuan2
+大长今	da4 chang2 jin1
 大场面	da4 chang3 mian4
 大厂区	da4 chang3 qu1
+大城市	da4 cheng2 shi4
 大成县	da4 cheng2 xian4
 大出血	da4 chu1 xue4
 大道理	da4 dao4 li3
@@ -90150,6 +90413,7 @@ import_tables:
 大花脸	da4 hua1 lian3
 大环境	da4 huan2 jing4
 大换血	da4 huan4 xue4
+大黄蜂	da4 huang2 feng1
 大灰狼	da4 hui1 lang2
 大茴香	da4 hui2 xiang1
 大会垓	da4 hui4 gai1
@@ -90335,6 +90599,7 @@ import_tables:
 大元帅	da4 yuan2 shuai4
 大约摸	da4 yue1 mo1
 大跃进	da4 yue4 jin4
+大月氏	da4 yue4 zhi1
 大运河	da4 yun4 he2
 大运会	da4 yun4 hui4
 大杂烩	da4 za2 hui4
@@ -90576,6 +90841,7 @@ import_tables:
 倒带键	dao4 dai4 jian4
 道德观	dao4 de2 guan1
 道德经	dao4 de2 jing1
+到底谁	dao4 di3 shei2
 倒读数	dao4 du2 shu4
 道尔顿	dao4 er3 dun4
 盗匪窝	dao4 fei3 wo1
@@ -90724,6 +90990,7 @@ import_tables:
 第八条	di4 ba1 tiao2
 第八章	di4 ba1 zhang1
 地表水	di4 biao3 shui3
+地不怕	di4 bu4 pa4
 地层学	di4 ceng2 xue2
 地产股	di4 chan3 gu3
 地产商	di4 chan3 shang1
@@ -90766,6 +91033,7 @@ import_tables:
 地埂子	di4 geng3 zi
 地骨皮	di4 gu3 pi2
 地滚球	di4 gun3 qiu2
+地级市	di4 ji2 shi4
 地价税	di4 jia4 shui4
 第九次	di4 jiu3 ci4
 第九届	di4 jiu3 jie4
@@ -90874,6 +91142,7 @@ import_tables:
 第一点	di4 yi1 dian3
 第一份	di4 yi1 fen4
 第一关	di4 yi1 guan1
+第一行	di4 yi1 hang2
 第一级	di4 yi1 ji2
 第一集	di4 yi1 ji2
 第一季	di4 yi1 ji4
@@ -91224,6 +91493,7 @@ import_tables:
 斗蟋蟀	dou4 xi1 shuai4
 斗争性	dou4 zheng1 xing4
 豆制品	dou4 zhi4 pin3
+都柏林	du1 bo2 lin2
 都察院	du1 cha2 yuan4
 督查组	du1 cha2 zu3
 都昌县	du1 chang1 xian4
@@ -91391,6 +91661,7 @@ import_tables:
 多年前	duo1 nian2 qian2
 多年生	duo1 nian2 sheng1
 多普达	duo1 pu3 da2
+多普勒	duo1 pu3 le4
 多渠道	duo1 qu2 dao4
 多任务	duo1 ren4 wu4
 多少次	duo1 shao3 ci4
@@ -91818,6 +92089,7 @@ import_tables:
 诽谤门	fei3 bang4 men2
 榧子树	fei3 zi shu4
 费唇舌	fei4 chun2 she2
+费德勒	fei4 de2 le4
 肺动脉	fei4 dong4 mai4
 肺活量	fei4 huo2 liang4
 肺结核	fei4 jie2 he2
@@ -91960,6 +92232,7 @@ import_tables:
 佛光寺	fo2 guang1 si4
 佛甲草	fo2 jia3 cao3
 佛教徒	fo2 jiao4 tu2
+佛朗哥	fo2 lang3 ge1
 佛坪县	fo2 ping2 xian4
 佛山市	fo2 shan1 shi4
 佛手柑	fo2 shou3 gan1
@@ -92564,6 +92837,7 @@ import_tables:
 公信力	gong1 xin4 li4
 公休日	gong1 xiu1 ri4
 工学院	gong1 xue2 yuan4
+公羊传	gong1 yang2 zhuan4
 工业国	gong1 ye4 guo2
 工业化	gong1 ye4 hua4
 工业品	gong1 ye4 pin3
@@ -92685,6 +92959,7 @@ import_tables:
 古兰经	gu3 lan2 jing1
 古浪县	gu3 lang4 xian4
 鼓浪屿	gu3 lang4 yu3
+谷梁传	gu3 liang2 zhuan4
 古蔺县	gu3 lin4 xian4
 鼓楼区	gu3 lou2 qu1
 古罗马	gu3 luo2 ma3
@@ -92887,6 +93162,7 @@ import_tables:
 归谬法	gui1 miu4 fa3
 规模化	gui1 mo2 hua4
 归纳法	gui1 na4 fa3
+归属地	gui1 shu3 di4
 归属感	gui1 shu3 gan3
 硅酸盐	gui1 suan1 yan2
 圭亚那	gui1 ya4 na4
@@ -92978,8 +93254,10 @@ import_tables:
 果子露	guo3 zi lu4
 果子露	guo3 zi3 lu4
 过半数	guo4 ban4 shu4
+过不了	guo4 bu4 liao4
 过不去	guo4 bu4 qu4
 过得硬	guo4 de ying4
+过得去	guo4 de2 qu4
 过得去	guo4 dei3 qu4
 过电影	guo4 dian4 ying3
 过渡期	guo4 du4 qi1
@@ -93034,6 +93312,7 @@ import_tables:
 还可以	hai2 ke3 yi3
 还是很	hai2 shi4 hen3
 还是用	hai2 shi4 yong4
+还有谁	hai2 you3 shei2
 还真是	hai2 zhen1 shi4
 孩子气	hai2 zi qi4
 孩子头	hai2 zi tou2
@@ -93074,6 +93353,7 @@ import_tables:
 海平面	hai3 ping2 mian4
 海森堡	hai3 sen1 bao3
 海森伯	hai3 sen1 bo2
+海参崴	hai3 shen1 wai3
 海参崴	hai3 shen1 wei1
 海事局	hai3 shi4 ju2
 海棠花	hai3 tang2 hua1
@@ -93541,6 +93821,7 @@ import_tables:
 红彤彤	hong2 tong1 tong1
 红通通	hong2 tong1 tong1
 红彤彤	hong2 tong2 tong2
+洪洞县	hong2 tong2 xian4
 红外线	hong2 wai4 xian4
 宏伟区	hong2 wei3 qu1
 红卫兵	hong2 wei4 bing1
@@ -93811,6 +94092,7 @@ import_tables:
 换衣服	huan4 yi1 fu
 黄骠马	huang2 biao1 ma3
 黄宾虹	huang2 bin1 hong2
+黄长烨	huang2 chang2 ye4
 潢川县	huang2 chuan1 xian4
 黄大仙	huang2 da4 xian1
 黄岛区	huang2 dao3 qu1
@@ -94286,6 +94568,7 @@ import_tables:
 加减器	jia1 jian3 qi4
 夹江县	jia1 jiang1 xian4
 夹克衫	jia1 ke4 shan1
+加勒比	jia1 le4 bi3
 家乐福	jia1 le4 fu2
 嘉黎县	jia1 li2 xian4
 家里面	jia1 li3 mian4
@@ -94965,6 +95248,7 @@ import_tables:
 井陉县	jing3 xing2 xian4
 井研县	jing3 yan2 xian4
 景阳冈	jing3 yang2 gang1
+颈椎病	jing3 zhui1 bing4
 静安区	jing4 an1 qu1
 静安寺	jing4 an1 si4
 靖安县	jing4 an1 xian4
@@ -95081,7 +95365,9 @@ import_tables:
 聚光灯	ju4 guang1 deng1
 聚合物	ju4 he2 wu4
 聚划算	ju4 hua2 suan4
+聚集地	ju4 ji2 di4
 据介绍	ju4 jie4 shao4
+聚居地	ju4 ju1 di4
 俱乐部	ju4 le4 bu4
 巨鹿县	ju4 lu4 xian4
 锯木厂	ju4 mu4 chang3
@@ -95125,6 +95411,8 @@ import_tables:
 决定权	jue2 ding4 quan2
 决定书	jue2 ding4 shu1
 决定性	jue2 ding4 xing4
+角斗场	jue2 dou4 chang3
+角斗士	jue2 dou4 shi4
 绝对值	jue2 dui4 zhi2
 绝密级	jue2 mi4 ji2
 绝命岛	jue2 ming4 dao3
@@ -95210,6 +95498,7 @@ import_tables:
 开公司	kai1 gong1 si1
 开关箱	kai1 guan1 xiang1
 开罐器	kai1 guan4 qi4
+开户行	kai1 hu4 hang2
 开江县	kai1 jiang1 xian4
 开口呼	kai1 kou3 hu1
 开口说	kai1 kou3 shuo1
@@ -95226,6 +95515,7 @@ import_tables:
 开平市	kai1 ping2 shi4
 开平县	kai1 ping2 xian4
 开普敦	kai1 pu3 dun1
+开普勒	kai1 pu3 le4
 开什么	kai1 shen2 me
 开始做	kai1 shi3 zuo4
 开司米	kai1 si1 mi3
@@ -95894,6 +96184,7 @@ import_tables:
 李伯元	li3 bo2 yuan2
 李沧区	li3 cang1 qu1
 理查德	li3 cha2 de2
+李昌镐	li3 chang1 hao4
 李长春	li3 chang2 chun1
 里程碑	li3 cheng2 bei1
 里程表	li3 cheng2 biao3
@@ -95942,6 +96233,7 @@ import_tables:
 里斯本	li3 si1 ben3
 李斯特	li3 si1 te4
 理塘县	li3 tang2 xian4
+李娃传	li3 wa2 zhuan4
 李玮峰	li3 wei3 feng1
 李文华	li3 wen2 hua2
 李先念	li3 xian1 nian4
@@ -96370,6 +96662,7 @@ import_tables:
 柳条帽	liu3 tiao2 mao4
 柳叶刀	liu3 ye4 dao1
 柳叶眉	liu3 ye4 mei2
+柳毅传	liu3 yi4 zhuan4
 柳州市	liu3 zhou1 shi4
 柳子戏	liu3 zi3 xi4
 柳宗元	liu3 zong1 yuan2
@@ -96553,6 +96846,7 @@ import_tables:
 罗宾汉	luo2 bin1 han4
 罗伯特	luo2 bo2 te4
 罗布泊	luo2 bu4 po1
+罗盛教	luo2 cheng2 jiao4
 罗大佑	luo2 da4 you4
 罗甸县	luo2 dian4 xian4
 罗定市	luo2 ding4 shi4
@@ -96725,6 +97019,7 @@ import_tables:
 马天宇	ma3 tian1 yu3
 马头琴	ma3 tou2 qin2
 马尾区	ma3 wei3 qu1
+马尾松	ma3 wei3 song1
 马戏团	ma3 xi4 tuan2
 马晓旭	ma3 xiao3 xu4
 马歇尔	ma3 xie1 er3
@@ -96791,6 +97086,7 @@ import_tables:
 满足感	man3 zu2 gan3
 漫步者	man4 bu4 zhe3
 曼德拉	man4 de2 la1
+曼德勒	man4 de2 le4
 漫反射	man4 fan3 she4
 曼哈顿	man4 ha1 dun4
 漫画家	man4 hua4 jia1
@@ -97121,6 +97417,7 @@ import_tables:
 明知道	ming2 zhi1 dao4
 名字叫	ming2 zi4 jiao4
 明祖陵	ming2 zu3 ling2
+命令行	ming4 ling4 hang2
 命令句	ming4 ling4 ju4
 命中率	ming4 zhong4 lv4
 摸不着	mo1 bu4 zhao2
@@ -97247,10 +97544,12 @@ import_tables:
 拿破崙	na2 po4 lun2
 拿什么	na2 shen2 me
 拿薪水	na2 xin1 shui3
+哪个好	na3 ge4 hao3
 哪里都	na3 li dou1
 哪里去	na3 li3 qu4
 哪里人	na3 li3 ren2
 哪门子	na3 men2 zi3
+哪些人	na3 xie1 ren2
 哪一天	na3 yi1 tian1
 纳达尔	na4 da2 er3
 那达慕	na4 da2 mu4
@@ -97282,6 +97581,7 @@ import_tables:
 纳溪县	na4 xi1 xian4
 纳西族	na4 xi1 zu2
 那小子	na4 xiao3 zi
+那些人	na4 xie1 ren2
 那样子	na4 yang4 zi
 那也是	na4 ye3 shi4
 那一次	na4 yi1 ci4
@@ -97750,6 +98050,7 @@ import_tables:
 拍广告	pai1 guang3 gao4
 拍了拍	pai1 le pai1
 拍马屁	pai1 ma3 pi4
+拍卖行	pai1 mai4 hang2
 拍卖会	pai1 mai4 hui4
 拍片儿	pai1 pian1 er
 拍照片	pai1 zhao4 pian1
@@ -97775,6 +98076,7 @@ import_tables:
 潘金莲	pan1 jin1 lian2
 潘石屹	pan1 shi2 yi4
 潘霜霜	pan1 shuang1 shuang1
+潘玮柏	pan1 wei3 bo2
 潘一恒	pan1 yi1 heng2
 番禺区	pan1 yu2 qu1
 番禺市	pan1 yu2 shi4
@@ -97912,6 +98214,7 @@ import_tables:
 片尾曲	pian4 wei3 qu1
 片尾曲	pian4 wei3 qu3
 飘飘然	piao1 piao1 ran2
+朴智星	piao2 zhi4 xing1
 漂白粉	piao3 bai2 fen3
 票贩子	piao4 fan4 zi
 漂亮话	piao4 liang4 hua4
@@ -98082,6 +98385,7 @@ import_tables:
 七台河	qi1 tai2 he2
 期望值	qi1 wang4 zhi2
 栖息处	qi1 xi1 chu4
+栖息地	qi1 xi1 di4
 七夕节	qi1 xi1 jie2
 栖霞区	qi1 xia2 qu1
 栖霞市	qi1 xia2 shi4
@@ -98245,6 +98549,7 @@ import_tables:
 前奏曲	qian2 zou4 qu3
 浅浮雕	qian3 fu2 diao1
 浅黄色	qian3 huang2 se4
+浅浅的	qian3 qian3 de
 嵌入式	qian4 ru4 shi4
 谦受益	qian4 shou4 yi4
 枪杆子	qiang1 gan3 zi
@@ -98709,6 +99014,7 @@ import_tables:
 人事处	ren2 shi4 chu4
 人世间	ren2 shi4 jian1
 人事局	ren2 shi4 ju2
+人是谁	ren2 shi4 shei2
 仁寿县	ren2 shou4 xian4
 人说话	ren2 shuo1 hua4
 人死亡	ren2 si3 wang2
@@ -99297,6 +99603,11 @@ import_tables:
 摄政王	she4 zheng4 wang2
 设置成	she4 zhi4 cheng2
 设置为	she4 zhi4 wei4
+谁都会	shei2 dou1 hui4
+谁叫你	shei2 jiao4 ni3
+谁让你	shei2 rang4 ni3
+谁是谁	shei2 shi4 shei2
+谁也不	shei2 ye3 bu4
 申报表	shen1 bao4 biao3
 深层次	shen1 ceng2 ci4
 深层格	shen1 ceng2 ge2
@@ -99361,6 +99672,7 @@ import_tables:
 神仙会	shen2 xian1 hui4
 神学家	shen2 xue2 jia1
 神学院	shen2 xue2 yuan4
+神乐坂	shen2 yue4 ban3
 神州行	shen2 zhou1 xing2
 沈从文	shen3 cong2 wen2
 审稿人	shen3 gao3 ren2
@@ -99519,6 +99831,7 @@ import_tables:
 石家庄	shi2 jia1 zhuang1
 时间表	shi2 jian1 biao3
 时间差	shi2 jian1 cha4
+时间长	shi2 jian1 chang2
 时间戳	shi2 jian1 chuo1
 时间点	shi2 jian1 dian3
 时间短	shi2 jian1 duan3
@@ -99595,6 +99908,7 @@ import_tables:
 实验式	shi2 yan4 shi4
 实验性	shi2 yan4 xing4
 实业家	shi2 ye4 jia1
+什叶派	shi2 ye4 pai4
 十一届	shi2 yi1 jie4
 十一年	shi2 yi1 nian2
 十一五	shi2 yi1 wu3
@@ -99686,6 +100000,7 @@ import_tables:
 试了试	shi4 le shi4
 市领导	shi4 ling3 dao3
 市南区	shi4 nan2 qu1
+室内乐	shi4 nei4 yue4
 仕女图	shi4 nv3 tu2
 适配层	shi4 pei4 ceng2
 适配器	shi4 pei4 qi4
@@ -99695,6 +100010,7 @@ import_tables:
 视平面	shi4 ping2 mian4
 世青赛	shi4 qing1 sai4
 市人大	shi4 ren2 da4
+是谁在	shi4 shei2 zai4
 是什么	shi4 shen2 me
 事实库	shi4 shi2 ku4
 事实上	shi4 shi2 shang4
@@ -100143,6 +100459,7 @@ import_tables:
 四分数	si4 fen1 shu4
 四分之	si4 fen1 zhi1
 四分钟	si4 fen1 zhong1
+伺服器	si4 fu2 qi4
 四个人	si4 ge4 ren2
 四个月	si4 ge4 yue4
 四个字	si4 ge4 zi4
@@ -100213,6 +100530,7 @@ import_tables:
 搜索树	sou1 suo3 shu4
 搜索图	sou1 suo3 tu2
 馊主意	sou1 zhu3 yi4
+苏泊尔	su1 bo2 er3
 苏丹红	su1 dan1 hong2
 苏东坡	su1 dong1 po1
 苏非舒	su1 fei1 shu1
@@ -100334,6 +100652,7 @@ import_tables:
 所取得	suo3 qu3 de
 所涉及	suo3 she4 ji2
 所使用	suo3 shi3 yong4
+所所长	suo3 suo3 zhang3
 所提供	suo3 ti2 gong1
 所需要	suo3 xu1 yao4
 索绪尔	suo3 xu4 er3
@@ -100465,7 +100784,9 @@ import_tables:
 谈不上	tan2 bu shang4
 谈不上	tan2 bu4 shang4
 郯城县	tan2 cheng2 xian4
+弹出来	tan2 chu1 lai2
 谈得来	tan2 de lai2
+弹钢琴	tan2 gang1 qin2
 弹簧垫	tan2 huang2 dian4
 谭杰希	tan2 jie2 xi1
 谈莉娜	tan2 li4 na4
@@ -100961,6 +101282,7 @@ import_tables:
 脱口秀	tuo1 kou3 xiu4
 拖拉机	tuo1 la1 ji1
 托拉斯	tuo1 la1 si1
+托勒密	tuo1 le4 mi4
 托里县	tuo1 li3 xian4
 托马斯	tuo1 ma3 si1
 脱水版	tuo1 shui3 ban3
@@ -101376,6 +101698,7 @@ import_tables:
 我们俩	wo3 men1 lia3
 我是个	wo3 shi4 ge4
 我是你	wo3 shi4 ni3
+我是谁	wo3 shi4 shei2
 我说过	wo3 shuo1 guo4
 我说我	wo3 shuo1 wo3
 我送你	wo3 song4 ni3
@@ -101727,6 +102050,7 @@ import_tables:
 稀疏表	xi1 shu1 biao3
 稀疏集	xi1 shu1 ji2
 浠水县	xi1 shui3 xian4
+希特勒	xi1 te4 le4
 吸铁石	xi1 tie3 shi2
 西王母	xi1 wang2 mu3
 西西里	xi1 xi1 li3
@@ -101826,6 +102150,7 @@ import_tables:
 下半身	xia4 ban4 shen1
 下辈子	xia4 bei4 zi
 下不来	xia4 bu4 lai2
+下不了	xia4 bu4 liao3
 下场门	xia4 chang3 men2
 下城区	xia4 cheng2 qu1
 下地狱	xia4 di4 yu4
@@ -102107,6 +102432,7 @@ import_tables:
 小标题	xiao3 biao1 ti2
 小波基	xiao3 bo1 ji1
 小不点	xiao3 bu4 dian3
+小布什	xiao3 bu4 shi2
 小册子	xiao3 ce4 zi
 小插曲	xiao3 cha1 qu3
 小城市	xiao3 cheng2 shi4
@@ -102349,6 +102675,7 @@ import_tables:
 写字台	xie3 zi4 tai2
 写作文	xie3 zuo4 wen2
 谢安琪	xie4 an1 qi2
+谢长廷	xie4 chang2 ting2
 谢尔盖	xie4 er3 gai4
 谢家集	xie4 jia1 ji2
 谢灵运	xie4 ling2 yun4
@@ -102383,6 +102710,7 @@ import_tables:
 辛亥年	xin1 hai4 nian2
 新和县	xin1 he2 xian4
 新河县	xin1 he2 xian4
+新华都	xin1 hua2 du1
 新华区	xin1 hua2 qu1
 新华社	xin1 hua2 she4
 新华网	xin1 hua2 wang3
@@ -102787,6 +103115,7 @@ import_tables:
 血红素	xue4 hong2 su4
 血精灵	xue4 jing1 ling2
 血枯病	xue4 ku1 bing4
+血淋淋	xue4 lin2 lin2
 血流量	xue4 liu2 liang4
 血尿素	xue4 niao4 su4
 血凝固	xue4 ning2 gu4
@@ -103411,6 +103740,7 @@ import_tables:
 易北河	yi4 bei3 he2
 一边倒	yi4 bian1 dao3
 异丙基	yi4 bing3 ji1
+易卜生	yi4 bu3 sheng1
 一场梦	yi4 chang2 meng4
 峄城区	yi4 cheng2 qu1
 翼城县	yi4 cheng2 xian4
@@ -103543,10 +103873,12 @@ import_tables:
 引用文	yin3 yong4 wen2
 印把子	yin4 ba4 zi
 印第安	yin4 di4 an1
+印地语	yin4 di4 yu3
 印度河	yin4 du4 he2
 印度教	yin4 du4 jiao4
 印度人	yin4 du4 ren2
 印度洋	yin4 du4 yang2
+印古什	yin4 gu3 shi2
 印花税	yin4 hua1 shui4
 印欧语	yin4 ou1 yu3
 印刷厂	yin4 shua1 chang3
@@ -103686,10 +104018,12 @@ import_tables:
 永兴县	yong3 xing4 xian4
 永修县	yong3 xiu1 xian4
 永州市	yong3 zhou1 shi4
+用不着	yong4 bu zhao2
 用不了	yong4 bu4 liao3
 用不完	yong4 bu4 wan2
 用不用	yong4 bu4 yong4
 用的是	yong4 de shi4
+用得着	yong4 de zhao2
 用电脑	yong4 dian4 nao3
 用工夫	yong4 gong1 fu1
 用户名	yong4 hu4 ming2
@@ -103767,6 +104101,7 @@ import_tables:
 有的是	you3 de shi4
 有点儿	you3 dian3 er2
 有点像	you3 dian3 xiang4
+有多长	you3 duo1 chang2
 有多大	you3 duo1 da4
 有多高	you3 duo1 gao1
 有多个	you3 duo1 ge4
@@ -104130,6 +104465,7 @@ import_tables:
 越野车	yue4 ye3 che1
 月以来	yue4 yi3 lai2
 月月红	yue4 yue4 hong2
+月氏人	yue4 zhi1 ren2
 月中旬	yue4 zhong1 xun2
 月租费	yue4 zu1 fei4
 晕高儿	yun1 gao1 er2
@@ -104247,6 +104583,7 @@ import_tables:
 藏东北	zang4 dong1 bei3
 藏东南	zang4 dong1 nan2
 藏红花	zang4 hong2 hua1
+藏羚羊	zang4 ling2 yang2
 藏西北	zang4 xi1 bei3
 藏西南	zang4 xi1 nan2
 脏兮兮	zang4 xi1 xi1
@@ -104305,13 +104642,19 @@ import_tables:
 怎样做	zen3 yang4 zuo4
 增城市	zeng1 cheng2 shi4
 增城县	zeng1 cheng2 xian4
+曾道人	zeng1 dao4 ren2
 增订本	zeng1 ding4 ben3
+曾国藩	zeng1 guo2 fan1
 增加值	zeng1 jia1 zhi2
 增强的	zeng1 qiang2 de
+曾庆红	zeng1 qing4 hong2
+曾轶可	zeng1 yi4 ke3
+曾荫权	zeng1 yin4 quan2
 增长点	zeng1 zhang3 dian3
 增长率	zeng1 zhang3 lv4
 增值税	zeng1 zhi2 shui4
 增值网	zeng1 zhi2 wang3
+曾志伟	zeng1 zhi4 wei3
 曾祖父	zeng1 zu3 fu4
 曾祖母	zeng1 zu3 mu3
 扎耳朵	zha1 er3 duo
@@ -104404,6 +104747,7 @@ import_tables:
 张北县	zhang1 bei3 xian4
 章炳麟	zhang1 bing3 lin2
 张伯伦	zhang1 bo2 lun2
+张朝阳	zhang1 chao2 yang2
 张春桥	zhang1 chun1 qiao2
 张春贤	zhang1 chun1 xian2
 张纯如	zhang1 chun2 ru2
@@ -104413,6 +104757,7 @@ import_tables:
 章贡区	zhang1 gong4 qu1
 张国立	zhang1 guo2 li4
 张国荣	zhang1 guo2 rong2
+张国焘	zhang1 guo2 tao1
 张海涛	zhang1 hai3 tao1
 张含韵	zhang1 han2 yun4
 张惠妹	zhang1 hui4 mei4
@@ -104478,6 +104823,7 @@ import_tables:
 长老会	zhang3 lao3 hui4
 掌门人	zhang3 men2 ren2
 涨停板	zhang3 ting2 ban3
+长头发	zhang3 tou2 fa4	50%
 长子县	zhang3 zi3 xian4
 障碍物	zhang4 ai4 wu4
 丈母娘	zhang4 mu3 niang2
@@ -105031,6 +105377,7 @@ import_tables:
 中轴线	zhong1 zhou2 xian4
 中转站	zhong1 zhuan3 zhan4
 中组部	zhong1 zu3 bu4
+重重地	zhong2 zhong2 de
 种不同	zhong3 bu4 tong2
 种方法	zhong3 fang1 fa3
 种类型	zhong3 lei4 xing2
@@ -105054,6 +105401,7 @@ import_tables:
 种牛痘	zhong4 niu2 dou4
 重配置	zhong4 pei4 zhi4
 众生相	zhong4 sheng1 xiang4
+重头戏	zhong4 tou2 xi4
 重武器	zhong4 wu3 qi4
 重要性	zhong4 yao4 xing4
 众议院	zhong4 yi4 yuan4
@@ -105266,6 +105614,7 @@ import_tables:
 状态栈	zhuang4 tai4 zhan4
 追不上	zhui1 bu4 shang4
 追悼会	zhui1 dao4 hui4
+椎间盘	zhui1 jian1 pan2
 追究其	zhui1 jiu1 qi2
 追求者	zhui1 qiu2 zhe3
 追随者	zhui1 sui2 zhe3
@@ -105553,6 +105902,7 @@ import_tables:
 钻牛角	zuan4 niu2 jiao3
 嘴山市	zui3 shan1 shi4
 最差的	zui4 cha4 de
+最长的	zui4 chang2 de
 最大的	zui4 da4 de
 最大化	zui4 da4 hua4
 最大流	zui4 da4 liu2
@@ -105673,6 +106023,7 @@ import_tables:
 啊啊啊啊	a a a a
 阿巴嘎旗	a1 ba1 ga1 qi2
 阿鼻地狱	a1 bi2 di4 yu4
+阿卜杜拉	a1 bu3 du4 la1
 阿布哈兹	a1 bu4 ha1 zi1
 阿得莱德	a1 de2 lai2 de2
 阿德莱德	a1 de2 lai2 de2
@@ -105991,6 +106342,7 @@ import_tables:
 奥地利人	ao4 di4 li4 ren2
 傲骨嶙嶙	ao4 gu3 lin2 lin2
 傲骨嶙峋	ao4 gu3 lin2 xun2
+奥古斯都	ao4 gu3 si1 du1
 傲剑凌云	ao4 jian4 ling2 yun2
 奥林巴斯	ao4 lin2 ba1 si1
 奥林匹克	ao4 lin2 pi3 ke4
@@ -106023,6 +106375,7 @@ import_tables:
 八道江区	ba1 dao4 jiang1 qu1
 吧的一声	ba1 de yi1 sheng1
 八斗之才	ba1 dou3 zhi1 cai2
+巴尔的摩	ba1 er3 di4 mo2
 巴尔扎克	ba1 er3 zha1 ke4
 巴伐利亚	ba1 fa2 li4 ya4
 八方风雨	ba1 fang1 feng1 yu3
@@ -106871,6 +107224,7 @@ import_tables:
 必由之路	bi4 you2 zhi1 lu4
 臂有四肘	bi4 you3 si4 zhou3
 毕雨箕风	bi4 yu3 ji1 feng1
+闭着眼睛	bi4 zhe yan3 jing1
 必争之地	bi4 zheng1 zhi1 di4
 避之若浼	bi4 zhi1 ruo4 mei3
 避重就轻	bi4 zhong4 jiu4 qing1
@@ -107237,6 +107591,7 @@ import_tables:
 拨乱济危	bo1 luan4 ji4 wei1
 拨乱为治	bo1 luan4 wei2 zhi4
 波罗的海	bo1 luo2 de hai3
+波罗的海	bo1 luo2 di4 hai3
 波罗塞戏	bo1 luo2 sai1 xi4
 播弄是非	bo1 nong4 shi4 fei1
 剥皮抽筋	bo1 pi2 chou1 jin1
@@ -107882,6 +108237,7 @@ import_tables:
 不时之需	bu4 shi2 zhi1 xu1
 不时之须	bu4 shi2 zhi1 xu1
 不食周粟	bu4 shi2 zhou1 su4
+布什总统	bu4 shi2 zong3 tong3
 不事边幅	bu4 shi4 bian1 fu2
 不世之功	bu4 shi4 zhi1 gong1
 不世之业	bu4 shi4 zhi1 ye4
@@ -108589,6 +108945,7 @@ import_tables:
 长篇大套	chang2 pian1 da4 tao4
 长篇累牍	chang2 pian1 lei3 du2
 长篇小说	chang2 pian1 xiao3 shuo1
+长平之战	chang2 ping2 zhi1 zhan4
 长七短八	chang2 qi1 duan3 ba1
 长期使用	chang2 qi1 shi3 yong4
 长期投资	chang2 qi1 tou2 zi1
@@ -108616,6 +108973,7 @@ import_tables:
 长往远引	chang2 wang3 yuan3 yin3
 常务会议	chang2 wu4 hui4 yi4
 常务理事	chang2 wu4 li3 shi4
+长效机制	chang2 xiao4 ji1 zhi4
 长袖善舞	chang2 xiu4 shan4 wu3
 长吁短气	chang2 xu1 duan3 qi4
 长吁短叹	chang2 xu1 duan3 tan4
@@ -109236,6 +109594,7 @@ import_tables:
 重振旗鼓	chong2 zhen4 qi2 gu3
 重整旗鼓	chong2 zheng3 qi2 gu3
 重纸累札	chong2 zhi3 lei4 zha2
+重装系统	chong2 zhuang1 xi4 tong3
 重足屏气	chong2 zu2 bing3 qi4
 重足屏息	chong2 zu2 bing3 xi1
 重足而立	chong2 zu2 er2 li4
@@ -110507,6 +110866,7 @@ import_tables:
 丹铅甲乙	dan1 qian1 jia3 yi3
 单枪独马	dan1 qiang1 du2 ma3
 单枪匹马	dan1 qiang1 pi2 ma3
+单亲家庭	dan1 qin1 jia1 ting2
 单亲妈妈	dan1 qin1 ma1 ma1
 丹青不渝	dan1 qing1 bu4 yu2
 单人独马	dan1 ren2 du2 ma3
@@ -110770,6 +111130,7 @@ import_tables:
 道德规范	dao4 de2 gui1 fan4
 道德教育	dao4 de2 jiao4 yu4
 道德行为	dao4 de2 xing2 wei2
+到底是谁	dao4 di3 shi4 shei2
 道弟称兄	dao4 di4 cheng1 xiong1
 道东说西	dao4 dong1 shuo1 xi1
 道而不径	dao4 er2 bu4 jing4
@@ -111038,6 +111399,7 @@ import_tables:
 地丑德齐	di4 chou3 de2 qi2
 地丑力敌	di4 chou3 li4 di2
 地大物博	di4 da4 wu4 bo2
+地地道道	di4 di4 dao4 dao4
 地动山摧	di4 dong4 shan1 cui1
 地动山摇	di4 dong4 shen1 yao2
 第二部分	di4 er4 bu4 fen4
@@ -111059,7 +111421,6 @@ import_tables:
 谛分审布	di4 fen1 shen3 bu4
 地负海涵	di4 fu4 hai3 han2
 地覆天翻	di4 fu4 tian1 fan1
-地广人希	di4 guang3 ren2 xi1
 地广人稀	di4 guang3 ren2 xi1
 递归查询	di4 gui1 cha2 xun2
 递归定理	di4 gui1 ding4 li3
@@ -111802,6 +112163,7 @@ import_tables:
 妒能害贤	du4 neng2 hai4 xian2
 度日如年	du4 ri4 ru2 nian2
 度日如岁	du4 ri4 ru2 sui4
+杜莎夫人	du4 suo1 fu1 ren
 度外之人	du4 wai4 zhi1 ren2
 妒贤嫉能	du4 xian2 ji2 neng2
 妒贤疾能	du4 xian2 ji2 neng2
@@ -111934,6 +112296,7 @@ import_tables:
 多财善贾	duo1 cai2 shan4 gu3
 多藏厚亡	duo1 cang2 hou4 wang2
 多层模式	duo1 ceng2 mo2 shi4
+多长时间	duo1 chang2 shi2 jian1
 多吃多占	duo1 chi1 duo1 zhan4
 多重背包	duo1 chong2 bei1 bao1
 多重处理	duo1 chong2 chu3 li3
@@ -113224,6 +113587,7 @@ import_tables:
 佛口蛇心	fo2 kou3 she2 xin1
 佛罗伦萨	fo2 luo2 lun2 sa4
 佛门弟子	fo2 men2 di4 zi3
+佛塑股份	fo2 su4 gu3 fen4
 佛头加秽	fo2 tou2 jia1 hui4
 佛头着粪	fo2 tou2 zhuo2 fen4
 佛头著粪	fo2 tou2 zhuo2 fen4
@@ -113994,6 +114358,7 @@ import_tables:
 各不相同	ge4 bu4 xiang1 tong2
 各持己见	ge4 chi2 ji3 jian4
 各从其志	ge4 cong2 qi2 zhi4
+各大城市	ge4 da4 cheng2 shi4
 各得其所	ge4 de2 qi2 suo3
 各得其宜	ge4 de2 qi2 yi2
 各个方面	ge4 ge4 fang1 mian4
@@ -114151,6 +114516,7 @@ import_tables:
 功薄蝉翼	gong1 bo2 chan2 yi4
 供不应求	gong1 bu2 ying4 qiu2
 工布江达	gong1 bu4 jiang1 da2
+功不可没	gong1 bu4 ke3 mo4
 供不应求	gong1 bu4 ying4 qiu2
 弓长岭区	gong1 chang2 ling3 qu1
 工厂倒闭	gong1 chang3 dao3 bi4
@@ -115262,6 +115628,7 @@ import_tables:
 哈巴雪山	ha1 ba1 xue3 shan1
 哈布斯堡	ha1 bu4 si1 bao3
 哈尔滨市	ha1 er3 bin1 shi4
+哈佛大学	ha1 fo2 da4 xue2
 哈佛结构	ha1 fo2 jie2 gou4
 哈根达斯	ha1 gen1 da2 si1
 哈哈大笑	ha1 ha1 da4 xiao4
@@ -115281,6 +115648,7 @@ import_tables:
 还有没有	hai2 you3 mei2 you3
 还有什么	hai2 you3 shen2 me
 还有一些	hai2 you3 yi1 xie1
+还珠格格	hai2 zhu1 ge2 ge
 海北天南	hai3 bei3 tian1 nan2
 海不波溢	hai3 bu4 bo1 yi4
 海不扬波	hai3 bu4 yang2 bo1
@@ -115757,6 +116125,7 @@ import_tables:
 黑箱测试	hei1 xiang1 ce4 shi4
 黑言诳语	hei1 yan2 kuang2 yu3
 黑枕黄鹂	hei1 zhen1 huang2 li2
+很长时间	hen3 chang2 shi2 jian1
 很多东西	hen3 duo1 dong1 xi1
 很多人都	hen3 duo1 ren2 dou1
 很多时候	hen3 duo1 shi2 hou4
@@ -117401,6 +117770,7 @@ import_tables:
 家道小康	jia1 dao4 xiao3 kang1
 家道殷实	jia1 dao4 yin1 shi2
 家道中落	jia1 dao4 zhong1 luo4
+加德满都	jia1 de2 man3 du1
 家电连锁	jia1 dian4 lian2 suo3
 加尔各答	jia1 er3 ge4 da2
 家翻宅乱	jia1 fan1 zhai2 luan4
@@ -118585,6 +118955,7 @@ import_tables:
 进退中度	jin4 tui4 zhong4 du4
 进退自如	jin4 tui4 zi4 ru2
 禁网疏阔	jin4 wang3 shu1 kuo4
+近卫文麿	jin4 wei4 wen2 mo3
 进贤拔能	jin4 xian2 ba2 neng2
 进贤黜恶	jin4 xian2 chu4 e4
 进贤达能	jin4 xian2 da2 neng2
@@ -119600,6 +119971,7 @@ import_tables:
 克尽厥职	ke4 jin4 jue2 zhi2
 克拉科夫	ke4 la1 ke1 fu1
 克拉玛依	ke4 la1 ma3 yi1
+克莱斯勒	ke4 lai2 si1 le4
 克劳福德	ke4 lao2 fu2 de2
 克雷斯波	ke4 lei2 si1 bo1
 克雷一号	ke4 lei2 yi1 hao4
@@ -119608,6 +119980,7 @@ import_tables:
 克利夫兰	ke4 li4 fu1 lan2
 克林闭包	ke4 lin2 bi4 bao1
 克林斯曼	ke4 lin2 si1 man4
+克罗地亚	ke4 luo2 di4 ya4
 克罗诺斯	ke4 luo2 nuo4 si1
 刻木为鹄	ke4 mu4 wei2 hu2
 刻木为吏	ke4 mu4 wei2 li4
@@ -120765,6 +121138,7 @@ import_tables:
 烈火干柴	lie4 huo3 gan1 chai2
 劣迹昭着	lie4 ji4 zhao1 zhe
 劣迹昭著	lie4 ji4 zhao1 zhu4
+列宁格勒	lie4 ning2 ge2 le4
 列宁主义	lie4 ning2 zhu3 yi4
 裂裳衣疮	lie4 shang yi1 chuang1
 裂石穿云	lie4 shi2 chuan1 yun2
@@ -121189,6 +121563,7 @@ import_tables:
 路由选择	lu4 you2 xuan3 ze2
 路远迢迢	lu4 yuan3 tiao2 tiao2
 鹭约鸥盟	lu4 yue1 ou1 meng2
+六枝特区	lu4 zhi1 te4 qu1
 鹿走苏台	lu4 zou3 su1 tai2
 露纂雪钞	lu4 zuan3 xue3 chao1
 鸾颠凤倒	luan2 dian1 feng4 dao3
@@ -121317,6 +121692,7 @@ import_tables:
 落井投石	luo4 jing3 tou2 shi2
 落井下石	luo4 jing3 xia4 shi2
 落阱下石	luo4 jing3 xia4 shi2
+洛克菲勒	luo4 ke4 fei1 le4
 洛克王国	luo4 ke4 wang2 guo2
 荦荦大端	luo4 luo4 da4 duan1
 落落大方	luo4 luo4 da4 fang1
@@ -122559,6 +122935,10 @@ import_tables:
 拏云攫石	na2 yun2 jue2 shi2
 拿云攫石	na2 yun2 jue2 shi2
 拿贼见赃	na2 zei2 jian4 zang1
+哪个地方	na3 ge4 di4 fang1
+哪个国家	na3 ge4 guo2 jia1
+哪些地方	na3 xie1 di4 fang1
+哪些方面	na3 xie1 fang1 mian4
 那不勒斯	na4 bu4 le4 si1
 那个地方	na4 ge4 di4 fang1
 那个男人	na4 ge4 nan2 ren2
@@ -124663,6 +125043,7 @@ import_tables:
 青云万里	qing1 yun2 wan4 li3
 青云直上	qing1 yun2 zhi2 shang4
 青藏高原	qing1 zang4 gao1 yuan2
+青藏铁路	qing1 zang4 tie3 lu4
 青枝绿叶	qing1 zhi1 lv4 ye4
 轻重倒置	qing1 zhong4 dao4 zhi4
 轻重缓急	qing1 zhong4 huan3 ji2
@@ -124685,6 +125066,7 @@ import_tables:
 情孚意合	qing2 fu2 yi4 he2
 情感符号	qing2 gan3 fu2 hao4
 情感建模	qing2 gan3 jian4 mo2
+情感天地	qing2 gan3 tian1 di4
 情见乎词	qing2 jian4 hu1 ci2
 情见乎言	qing2 jian4 hu1 yan2
 情见于色	qing2 jian4 yu2 se4
@@ -124941,6 +125323,7 @@ import_tables:
 拳打脚踢	quan2 da3 jiao3 ti1
 全功尽弃	quan2 gong1 jin4 qi4
 全国各大	quan2 guo2 ge4 da4
+全国各地	quan2 guo2 ge4 di4
 全国人大	quan2 guo2 ren2 da4
 全国人民	quan2 guo2 ren2 min2
 全国统一	quan2 guo2 tong3 yi1
@@ -126000,6 +126383,7 @@ import_tables:
 散阵投巢	san4 zhen4 tou2 chao2
 桑给巴尔	sang1 gei3 ba1 er3
 桑户棬枢	sang1 hu4 juan4 shu1
+桑给巴尔	sang1 ji3 ba1 er3
 桑间濮上	sang1 jian1 pu2 shang4
 桑间之音	sang1 jian1 zhi1 yin1
 桑间之咏	sang1 jian1 zhi1 yong3
@@ -127150,6 +127534,7 @@ import_tables:
 时间限制	shi2 jian1 xian4 zhi4
 时间延迟	shi2 jian1 yan2 chi2
 时间约束	shi2 jian1 yue1 shu4
+时间最长	shi2 jian1 zui4 chang2
 实践活动	shi2 jian4 huo2 dong4
 实践经验	shi2 jian4 jing1 yan4
 实践能力	shi2 jian4 neng2 li4
@@ -127493,6 +127878,7 @@ import_tables:
 世界地图	shi4 jie4 di4 tu2
 世界第一	shi4 jie4 di4 yi1
 世界顶级	shi4 jie4 ding3 ji2
+世界各地	shi4 jie4 ge4 di4
 世界各国	shi4 jie4 ge4 guo2
 世界冠军	shi4 jie4 guan4 jun1
 世界和平	shi4 jie4 he2 ping2
@@ -127639,6 +128025,7 @@ import_tables:
 侍执巾节	shi4 zhi2 jin1 jie2
 饰智矜愚	shi4 zhi4 jin1 yu2
 是中国人	shi4 zhong1 guo2 ren2
+世宗大王	shi4 zong1 da4 wang2
 收藏价值	shou1 cang2 jia4 zhi2
 收费标准	shou1 fei4 biao1 zhun3
 收费软件	shou1 fei4 ruan3 jian4
@@ -128788,6 +129175,8 @@ import_tables:
 贪赃坏法	tan1 zang1 huai4 fa3
 贪赃枉法	tan1 zang1 wang3 fa3
 谈不容口	tan2 bu4 rong2 kou3
+弹出窗口	tan2 chu1 chuang1 kou3
+弹出一个	tan2 chu1 yi1 ge4
 谈古论今	tan2 gu3 lun4 jin1
 谈古说今	tan2 gu3 shuo1 jin1
 弹冠结绶	tan2 guan1 jie2 shou4
@@ -129887,6 +130276,7 @@ import_tables:
 退避三舍	tui4 bi4 san1 she4
 退藏于密	tui4 cang2 yu2 mi4
 退出配置	tui4 chu1 pei4 zhi4
+退耕还林	tui4 geng1 huan2 lin2
 褪后趋前	tui4 hou4 qu1 qian2
 蜕化变质	tui4 hua4 bian4 zhi4
 退化失效	tui4 hua4 shi1 xiao4
@@ -130850,6 +131240,7 @@ import_tables:
 瓮天之见	weng4 tian1 zhi1 jian4
 瓮中之鳖	weng4 zhong1 zhi1 bie1
 瓮中捉鳖	weng4 zhong1 zhuo1 bie1
+我勒个去	wo le ge qu
 蜗角虚名	wo1 jiao3 xu1 ming2
 蜗角蝇头	wo1 jiao3 ying2 tou2
 蜗角之争	wo1 jiao3 zhi1 zheng1
@@ -131681,6 +132072,7 @@ import_tables:
 下载速度	xia4 zai4 su4 du4
 下载文件	xia4 zai4 wen2 jian4
 下逐客令	xia4 zhu2 ke4 ling4
+下自成蹊	xia4 zi4 cheng2 xi1
 鲜蹦活跳	xian1 beng4 huo2 tiao4
 鲜车健马	xian1 che1 jian4 ma3
 鲜车怒马	xian1 che1 nu4 ma3
@@ -134051,7 +134443,7 @@ import_tables:
 一民同俗	yi1 min2 tong2 su2
 一暝不视	yi1 ming2 bu4 shi4
 一瞑不视	yi1 ming2 bu4 shi4
-一模二样	yi1 mo2 er4 yang4
+一模二样	yi1 mu2 er4 yang4
 一模一样	yi1 mu2 yi1 yang4
 一目了然	yi1 mu4 liao3 ran2
 一木难支	yi1 mu4 nan2 zhi1
@@ -135502,6 +135894,7 @@ import_tables:
 有色人种	you3 se4 ren2 zhong3
 有色眼镜	you3 se4 yan3 jing4
 有伤风化	you3 shang1 feng1 hua4
+有谁知道	you3 shei2 zhi1 dao4
 有声电影	you3 sheng1 dian4 ying3
 有声读物	you3 sheng1 du2 wu4
 有生力量	you3 sheng1 li4 liang4
@@ -136357,6 +136750,7 @@ import_tables:
 脏污狼藉	zang1 wu1 lang2 ji2
 赃污狼藉	zang1 wu1 lang2 ji2
 赃盈恶贯	zang1 ying2 e4 guan4
+藏传佛教	zang4 chuan2 fo2 jiao4
 遭逢不偶	zao1 feng2 bu4 ou3
 遭逢会遇	zao1 feng2 hui4 yu4
 遭逢际会	zao1 feng2 ji4 hui4
@@ -141078,6 +141472,7 @@ import_tables:
 杨贵妃秘史	yang2 gui4 fei1 mi4 shi3
 样本协方差	yang4 ben3 xie2 fang1 cha4
 妖精的尾巴	yao1 jing1 de wei3 ba1
+药娘的天空	yao4 niang2 de tian1 kong1
 液晶印刷机	ye4 jing1 yin4 shua1 ji1
 叶卡捷琳堡	ye4 ka3 jie2 lin2 bao3
 页式打印机	ye4 shi4 da3 yin4 ji1
