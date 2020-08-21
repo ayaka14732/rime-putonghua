@@ -6,7 +6,7 @@
 
 ---
 name: putonghua.extra
-version: "2020.08.21-2"
+version: "2020.08.21-3"
 sort: by_weight
 ...
 
@@ -1483,7 +1483,6 @@ sort: by_weight
 不举	bu4 ju3
 布控	bu4 kong4
 不匮	bu4 kui4
-不了	bu4 le
 部类	bu4 lei4
 步犁	bu4 li2
 埔里	bu4 li3
@@ -3004,7 +3003,6 @@ sort: by_weight
 大坂	da4 ban3
 大疮	da4 chuang1
 大村	da4 cun1
-大都	da4 dou1
 大憝	da4 dui4
 大釜	da4 fu3
 大恭	da4 gong1
@@ -3323,7 +3321,6 @@ sort: by_weight
 倒烟	dao4 yan1
 倒着	dao4 zhe
 道指	dao4 zhi3
-得很	de hen3
 嘚啵	de1 bo
 德昂	de2 ang2
 德班	de2 ban1
@@ -3332,7 +3329,6 @@ sort: by_weight
 德都	de2 du1
 德干	de2 gan1
 德航	de2 hang2
-得了	de2 liao3
 得令	de2 ling4
 德牧	de2 mu4
 德仁	de2 ren2
@@ -3644,7 +3640,6 @@ sort: by_weight
 掉膘	diao4 biao1
 掉秤	diao4 cheng4
 伄儅	diao4 dang1
-调档	diao4 dang4
 吊斗	diao4 dou3
 掉队	diao4 dui4
 调发	diao4 fa1
@@ -3963,7 +3958,6 @@ sort: by_weight
 督工	du1 gong1
 督龟	du1 gui1
 都护	du1 hu4
-都会	du1 hui4
 督建	du1 jian4
 嘟哝	du1 nong
 督责	du1 ze2
@@ -4168,7 +4162,6 @@ sort: by_weight
 多才	duo1 cai2
 多采	duo1 cai3
 多产	duo1 chan3
-多重	duo1 chong2
 多舛	duo1 chuan3
 掇刀	duo1 dao1
 多端	duo1 duan1
@@ -7810,7 +7803,6 @@ sort: by_weight
 间壁	jian4 bi4
 箭步	jian4 bu4
 键槽	jian4 cao2
-见长	jian4 chang2
 槛车	jian4 che1
 贱称	jian4 cheng1
 键词	jian4 ci2
@@ -11072,7 +11064,6 @@ sort: by_weight
 美朝	mei3 chao2
 每处	mei3 chu4
 美刀	mei3 dao1
-美的	mei3 di2
 美帝	mei3 di4
 美发	mei3 fa4
 美加	mei3 jia1
@@ -11468,7 +11459,6 @@ sort: by_weight
 名媛	ming2 yuan2
 名源	ming2 yuan2
 明杖	ming2 zhang4
-明朝	ming2 zhao1
 明证	ming2 zheng4
 冥纸	ming2 zhi3
 明志	ming2 zhi4
@@ -14481,7 +14471,6 @@ sort: by_weight
 上边	shang4 bian
 上齿	shang4 chi3
 上第	shang4 di4
-上都	shang4 du1
 上分	shang4 fen1
 上覆	shang4 fu4
 上杆	shang4 gan1
@@ -14500,7 +14489,6 @@ sort: by_weight
 上衫	shang4 shan1
 上司	shang4 si
 上田	shang4 tian2
-上调	shang4 tiao2
 上头	shang4 tou2
 上外	shang4 wai4
 尚武	shang4 wu3
@@ -14625,7 +14613,6 @@ sort: by_weight
 射中	she4 zhong4
 赦罪	she4 zui4
 谁料	shei2 liao4
-谁知	shei2 zhi1
 身板	shen1 ban3
 身才	shen1 cai2
 申斥	shen1 chi4
@@ -15983,7 +15970,6 @@ sort: by_weight
 缩约	suo1 yue1
 梭子	suo1 zi
 所部	suo3 bu4
-所长	suo3 chang2
 锁掣	suo3 che4
 索带	suo3 dai4
 锁掉	suo3 diao4
@@ -17084,7 +17070,6 @@ sort: by_weight
 外差	wai4 cha1
 外插	wai4 cha1
 外场	wai4 chang2
-外传	wai4 chuan2
 外带	wai4 dai4
 外丹	wai4 dan1
 外耳	wai4 er3
@@ -18529,7 +18514,6 @@ sort: by_weight
 谢礼	xie4 li3
 泄痢	xie4 li4
 泄流	xie4 liu2
-泄露	xie4 lu4
 亵慢	xie4 man4
 谢媒	xie4 mei2
 蟹獴	xie4 meng3
@@ -21911,11 +21895,9 @@ sort: by_weight
 中邪	zhong4 xie2
 中选	zhong4 xuan3
 中意	zhong4 yi4
-重用	zhong4 yong4
 中油	zhong4 you2
 重灾	zhong4 zai1
 重者	zhong4 zhe3
-重重	zhong4 zhong4
 周备	zhou1 bei4
 周波	zhou1 bo1
 周勃	zhou1 bo2
@@ -25535,7 +25517,6 @@ sort: by_weight
 多重性	duo1 chong2 xing4
 多党制	duo1 dang3 zhi4
 掇刀区	duo1 dao1 qu1
-多得是	duo1 de shi4
 多多马	duo1 duo1 ma3
 多方位	duo1 fang1 wei4
 多菲什	duo1 fei1 shi2
@@ -32111,7 +32092,6 @@ sort: by_weight
 麝香猫	she4 xiang1 mao1
 摄影术	she4 ying3 shu4
 谁怕谁	shei2 pa4 shei2
-谁知道	shei2 zhi1 dao4
 身板儿	shen1 ban3 er
 申报单	shen1 bao4 dan1
 申不害	shen1 bu4 hai4
