@@ -82,6 +82,10 @@ python build.py
 cd ..
 ```
 
+**sunpinyin2**
+
+参考了 sunpinyin，手工标注拼音。
+
 **char**
 
 由 pypinyin 直接导出，参考了 sunpinyin 及 Unihan 数据库。
