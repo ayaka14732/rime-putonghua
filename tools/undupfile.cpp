@@ -58,7 +58,7 @@ int main(int argc, char *argv[]) {
     if (argc != 3) {
         QTextStream err { stderr };
         err << "Remove duplicate items between two files.\n"
-               "Sample usage: tools/nubfile.cpp putonghua.dict.yaml putonghua.extra.dict.yaml" << Qt::endl;
+               "Sample usage: tools/undupfile.cpp putonghua.dict.yaml putonghua.extra.dict.yaml" << Qt::endl;
     } else {
         const char *base_file = argv[1], *compare_file = argv[2];
         const QSet<QString> seen = build_set(base_file);

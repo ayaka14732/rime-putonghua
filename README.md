@@ -43,7 +43,7 @@ librime 需装配以下插件：
 
 ## 数据来源
 
-见本仓库 `build` 分支。
+见本仓库 [`build`](https://github.com/ayaka14732/rime-putonghua/tree/build) 分支。
 
 ## 授权条款
 

@@ -11,7 +11,7 @@
 
 ---
 name: putonghua
-version: "2020.08.20-2"
+version: "2020.08.21"
 sort: by_weight
 vocabulary: essay-zh-hans
 import_tables:
@@ -1262,6 +1262,7 @@ import_tables:
 釆	bian4
 閞	bian4
 頨	bian4
+𰻝	biang2
 㟽	biao1
 㶾	biao1
 䁃	biao1
@@ -88717,6 +88718,7 @@ import_tables:
 辩证法	bian4 zheng4 fa3
 变质岩	bian4 zhi4 yan2
 变奏曲	bian4 zou4 qu3
+𰻝𰻝面	biang2 biang2 mian4
 飙车案	biao1 che1 an4
 标签集	biao1 qian1 ji2
 标题栏	biao1 ti2 lan2
@@ -139030,6 +139032,7 @@ import_tables:
 埃菲尔铁塔	ai1 fei1 er3 tie3 ta3
 埃塞俄比亚	ai1 sai1 e2 bi3 ya4
 埃斯库罗斯	ai1 si1 ku4 luo2 si1
+艾尔米塔什	ai4 er3 mi3 ta3 shi2
 艾菲尔铁塔	ai4 fei1 er3 tie3 ta3
 爱国主义者	ai4 guo2 zhu3 yi4 zhe3
 爱情有点蓝	ai4 qing2 you3 dian3 lan2
@@ -139166,6 +139169,7 @@ import_tables:
 部分正确性	bu4 fen4 zheng4 que4 xing4
 不鼓不成列	bu4 gu3 bu4 cheng2 lie4
 布基纳法索	bu4 ji1 na4 fa3 suo3
+布加勒斯特	bu4 jia1 le4 si1 te4
 不间断电源	bu4 jian1 duan4 dian4 yuan2
 不结盟国家	bu4 jie2 meng2 guo2 jia1
 不结盟运动	bu4 jie2 meng2 yun4 dong4
@@ -139194,6 +139198,7 @@ import_tables:
 不以人废言	bu4 yi3 ren2 fei4 yan2
 不正当竞争	bu4 zheng4 dang1 jing4 zheng1
 不知者不罪	bu4 zhi1 zhe3 bu4 zui4
+猜猜我是谁	cai1 cai1 wo3 shi4 shei2
 彩色打印机	cai3 se4 da3 yin4 ji1
 彩色显示器	cai3 se4 xian3 shi4 qi4
 参数化设计	can1 shu4 hua4 she4 ji4
@@ -139287,6 +139292,7 @@ import_tables:
 垂直地带性	chui2 zhi2 di4 dai4 xing4
 垂直平分线	chui2 zhi2 ping2 fen1 xian4
 春江花月夜	chun1 jiang1 hua1 yue4 ye4
+春秋左氏传	chun1 qiu1 zuo3 shi4 zhuan4
 磁表面记录	ci2 biao3 mian4 ji4 lu4
 磁带控制器	ci2 dai4 kong4 zhi4 qi4
 磁带驱动器	ci2 dai4 qu1 dong4 qi4
@@ -139533,6 +139539,7 @@ import_tables:
 饿死鬼投胎	e4 si3 gui3 tou2 tai1
 鄂托克前旗	e4 tuo1 ke4 qian2 qi2
 恶向胆边生	e4 xiang4 dan3 bian1 sheng1
+儿女英雄传	er2 nv3 ying1 xiong2 zhuan4
 二叉查找树	er4 cha1 cha2 zhao3 shu4
 二叉排序树	er4 cha1 pai2 xu4 shu4
 二叉判定图	er4 cha1 pan4 ding4 tu2
@@ -139634,12 +139641,15 @@ import_tables:
 封闭用户群	feng1 bi4 yong4 hu4 qun2
 封装可靠性	feng1 zhuang1 ke3 kao4 xing4
 缝缀破衣服	feng2 zhui4 po4 yi1 fu
+佛罗里达州	fo2 luo2 li3 da2 zhou1
 浮点计算机	fu2 dian3 ji4 suan4 ji1
+伏尔加格勒	fu2 er3 jia1 ge2 le4
 符号间干扰	fu2 hao4 jian1 gan1 rao3
 弗吉尼亚州	fu2 ji2 ni2 ya4 zhou1
 福克兰群岛	fu2 ke4 lan2 qun2 dao3
 弗拉基米尔	fu2 la1 ji1 mi3 er3
 弗雷德里克	fu2 lei2 de2 li3 ke4
+佛罗里达州	fu2 luo2 li3 da2 zhou1
 伏罗希洛夫	fu2 luo2 xi1 luo4 fu1
 辐射度方法	fu2 she4 du4 fang1 fa3
 服务比特率	fu2 wu4 bi3 te4 lv4
@@ -139828,7 +139838,9 @@ import_tables:
 河水不洗船	he2 shui3 bu4 xi3 chuan2
 核心映像库	he2 xin1 ying4 xiang4 ku4
 赫夫曼编码	he4 fu1 man4 bian1 ma3
+黑奴吁天录	hei1 nu2 yu4 tian1 lu4
 黑漆皮灯笼	hei1 qi1 pi2 deng1 long2
+黑塞哥维那	hei1 sai4 ge1 wei2 na4
 很黄很暴力	hen3 huang2 hen3 bao4 li4
 很小很强大	hen3 xiao3 hen3 qiang2 da4
 恨铁不成钢	hen4 tie3 bu4 cheng2 gang1
@@ -139954,6 +139966,7 @@ import_tables:
 记忆保持度	ji4 yi4 bao3 chi2 du4
 记忆化搜索	ji4 yi4 hua4 sou1 suo3
 记忆组织包	ji4 yi4 zu3 zhi1 bao1
+加里宁格勒	jia1 li3 ning2 ge2 le4
 加利福尼亚	jia1 li4 fu2 ni2 ya4
 加那利群岛	jia1 na4 li4 qun2 dao3
 家书抵万金	jia1 shu1 di3 wan4 jin1
@@ -140483,6 +140496,7 @@ import_tables:
 软中断信号	ruan3 zhong1 duan4 xin4 hao4
 瑞雪兆丰年	rui4 xue3 zhao4 feng1 nian2
 撒哈拉沙漠	sa1 ha1 la1 sha1 mo4
+萨卡什维利	sa4 ka3 shi2 wei2 li4
 塞巴斯蒂安	sai1 ba1 si1 di4 an1
 三百六十行	san1 bai3 liu4 shi2 hang2
 三杯通大道	san1 bei1 tong1 da4 dao4
@@ -140520,6 +140534,7 @@ import_tables:
 设备存储器	she4 bei4 cun2 chu3 qi4
 设备坐标系	she4 bei4 zuo4 biao1 xi4
 射电望远镜	she4 dian4 wang4 yuan3 jing4
+射雕英雄传	she4 diao1 ying1 xiong2 zhuan4
 设定点控制	she4 ding4 dian3 kong4 zhi4
 社会工作者	she4 hui4 gong1 zuo4 zhe3
 社会民主党	she4 hui4 min2 zhu3 dang3
@@ -140714,6 +140729,7 @@ import_tables:
 岁寒知松柏	sui4 han2 zhi1 song1 bai3
 损人不利己	sun3 ren2 bu4 li4 ji3
 损益计算书	sun3 yi4 ji4 suan4 shu1
+索福克勒斯	suo3 fu2 ke4 le4 si1
 所见即所得	suo3 jian4 ji2 suo3 de
 所罗门群岛	suo3 luo2 men2 qun2 dao3
 索亚历险记	suo3 ya4 li4 xian3 ji4
@@ -141616,6 +141632,7 @@ import_tables:
 吃人不吐骨头	chi1 ren2 bu4 tu3 gu2 tou
 重定向操作符	chong2 ding4 xiang4 cao1 zuo4 fu2
 重复选择排序	chong2 fu4 xuan3 ze2 pai2 xu4
+重生之大涅磐	chong2 sheng1 zhi1 da4 nie4 pan2
 重新关联名称	chong2 xin1 guan1 lian2 ming2 cheng1
 抽象数据类型	chou1 xiang4 shu4 ju4 lei4 xing2
 出错处理例程	chu1 cuo4 chu3 li3 li4 cheng2
@@ -143214,6 +143231,7 @@ import_tables:
 秤砣虽小压千斤	cheng4 tuo2 sui1 xiao3 ya1 qian1 jin1
 重叠寄存器窗口	chong2 die2 ji4 cun2 qi4 chuang1 kou3
 重复次数计数器	chong2 fu4 ci4 shu4 ji4 shu4 qi4
+重生之贼行天下	chong2 sheng1 zhi1 zei2 xing2 tian1 xia4
 抽象窗口工具箱	chou1 xiang4 chuang1 kou3 gong1 ju4 xiang1
 初生牛犊不怕虎	chu1 sheng1 niu2 du2 bu2 pa4 hu3
 初生牛犊不怕虎	chu1 sheng1 niu2 du2 bu4 pa4 hu3
@@ -143639,6 +143657,7 @@ import_tables:
 人民英雄纪念碑	ren2 min2 ying1 xiong2 ji4 nian4 bei1
 人生何处不相逢	ren2 sheng1 he2 chu4 bu4 xiang1 feng2
 人生自古谁无死	ren2 sheng1 zi4 gu3 shei2 wu2 si3
+人生自古谁无死	ren2 sheng1 zi4 gu3 shui2 wu2 si3
 人心不足蛇吞象	ren2 xin1 bu4 zu2 she2 tun1 xiang4
 认可的运营机构	ren4 ke3 de yun4 ying2 ji1 gou4
 任务调度优先级	ren4 wu4 diao4 du4 you1 xian1 ji2
@@ -143761,6 +143780,7 @@ import_tables:
 维也纳开发方法	wei2 ye3 na4 kai1 fa1 fang1 fa3
 未曾打仗先学守	wei4 ceng2 da3 zhang4 xian1 xue2 shou3
 稳定的排序算法	wen3 ding4 de pai2 xu4 suan4 fa3
+我的青春谁做主	wo3 de qing1 chun1 shei2 zuo4 zhu3
 我的团长我的团	wo3 de tuan2 zhang3 wo3 de tuan2
 我只为领导服务	wo3 zhi3 wei4 ling3 dao3 fu2 wu4
 乌海市海勃湾区	wu1 hai3 shi4 hai3 bo2 wan1 qu1

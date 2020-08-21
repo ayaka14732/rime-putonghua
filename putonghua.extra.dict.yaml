@@ -6,7 +6,7 @@
 
 ---
 name: putonghua.extra
-version: "2020.08.20"
+version: "2020.08.21"
 sort: by_weight
 ...
 
@@ -24345,7 +24345,6 @@ sort: by_weight
 变异株	bian4 yi4 zhu1
 变造币	bian4 zao4 bi4
 变阻器	bian4 zu3 qi4
-𰻝𰻝面	biang2 biang2 mian4
 标本虫	biao1 ben3 chong2
 彪个子	biao1 ge4 zi5
 飙口水	biao1 kou3 shui3
@@ -28828,6 +28827,7 @@ sort: by_weight
 煎猪扒	jian1 zhu1 ba1
 尖子生	jian1 zi5 sheng1
 尖嘴鱼	jian1 zui3 yu2
+简·爱	jian3 ai4
 翦伯赞	jian3 bo2 zan4
 剪草机	jian3 cao3 ji1
 检测器	jian3 ce4 qi4
@@ -38642,6 +38642,7 @@ sort: by_weight
 北洋陆军	bei3 yang2 lu4 jun1
 北印度语	bei3 yin4 du4 yu3
 被剥削者	bei4 bo1 xue1 zhe3
+贝·布托	bei4 bu4 tuo1
 备尝辛苦	bei4 chang2 xin1 ku3
 被动免疫	bei4 dong4 mian3 yi4
 被动吸烟	bei4 dong4 xi1 yan1
@@ -38670,6 +38671,7 @@ sort: by_weight
 苯环利定	ben3 huan2 li4 ding4
 苯甲酸钠	ben3 jia3 suan1 na4
 苯甲酰氯	ben3 jia3 xian1 lv4
+本·拉登	ben3 la1 deng1
 本那比市	ben3 na4 bi3 shi4
 苯酮尿症	ben3 tong2 niao4 zheng4
 本位货币	ben3 wei4 huo4 bi4
@@ -39578,6 +39580,7 @@ sort: by_weight
 鞑靼海峡	da2 da2 hai3 xia2
 达尔福尔	da2 er3 fu2 er3
 达尔文港	da2 er3 wen2 gang3
+达·芬奇	da2 fen1 qi2
 达赖喇嘛	da2 lai4 la3 ma5
 达兰萨拉	da2 lan2 sa4 la1
 达朗贝尔	da2 lang3 bei4 er3
@@ -49980,7 +49983,6 @@ sort: by_weight
 爱奥尼亚海	ai4 ao4 ni2 ya4 hai3
 爱德斯沃尔	ai4 de2 si1 wo4 er3
 艾尔米塔奇	ai4 er3 mi3 ta3 ji1
-艾尔米塔什	ai4 er3 mi3 ta3 shi2
 爱克斯射线	ai4 ke4 si1 she4 xian4
 艾玛纽埃尔	ai4 ma3 niu3 ai1 er3
 爱莫利维尔	ai4 mo4 li4 wei2 er3
@@ -49992,6 +49994,7 @@ sort: by_weight
 氨苄青霉素	an1 bian4 qing1 mei2 su4
 安达曼群岛	an1 da2 man4 qun2 dao3
 安第斯山脉	an1 di4 si1 shan1 mai4
+安·海瑟薇	an1 hai3 se4 wei1
 氨基葡萄糖	an1 ji1 pu2 tao5 tang2
 安捷伦科技	an1 jie2 lun2 ke1 ji4
 庵摩落迦果	an1 mo2 luo4 jia1 guo3
@@ -50015,6 +50018,7 @@ sort: by_weight
 奥斯瓦尔德	ao4 si1 wa3 er3 de2
 澳新军团日	ao4 xin1 jun1 tuan2 ri4
 澳洲小鹦鹉	ao4 zhou1 xiao3 ying1 wu3
+巴布·狄伦	ba1 bu4 di2 lun2
 巴布延群岛	ba1 bu4 yan2 qun2 dao3
 八疸身面黄	ba1 dan3 shen1 mian4 huang2
 巴尔多禄茂	ba1 er3 duo1 lu4 mao4
@@ -50094,6 +50098,7 @@ sort: by_weight
 保安局局长	bao3 an1 ju2 ju2 zhang3
 保安自动化	bao3 an1 zi4 dong4 hua4
 饱和脂肪酸	bao3 he2 zhi1 fang2 suan1
+鲍勃·马利	bao4 bo2 ma3 li4
 报道摄影师	bao4 dao4 she4 ying3 shi1
 报喜不报忧	bao4 xi3 bu4 bao4 you1
 北布拉班特	bei3 bu4 la1 ban1 te4
@@ -50112,6 +50117,7 @@ sort: by_weight
 比埃兹巴伯	bi3 ai1 zi1 ba1 bo2
 彼得罗维奇	bi3 de2 luo2 wei2 qi2
 比登天还难	bi3 deng1 tian1 hai2 nan2
+比尔·盖茨	bi3 er3 gai4 ci2
 笔划检字表	bi3 hua4 jian3 zi4 biao3
 笔记型电脑	bi3 ji4 xing2 dian4 nao3
 比勒费尔德	bi3 le4 fei4 er3 de2
@@ -50157,6 +50163,7 @@ sort: by_weight
 博拉博拉岛	bo2 la1 bo2 la1 dao3
 柏拉图哲学	bo2 la1 tu2 zhe2 xue2
 伯罗奔尼撒	bo2 luo2 ben1 ni2 sa1
+伯纳斯·李	bo2 na4 si1 li3
 博斯普鲁斯	bo2 si1 pu3 lu3 si1
 哺乳类动物	bu3 ru3 lei4 dong4 wu4
 不承认主义	bu4 cheng2 ren4 zhu3 yi4
@@ -50171,7 +50178,6 @@ sort: by_weight
 不及物动词	bu4 ji2 wu4 dong4 ci2
 簿记管理员	bu4 ji4 guan3 li3 yuan2
 不记名投票	bu4 ji4 ming2 tou2 piao4
-布加勒斯特	bu4 jia1 le4 si1 te4
 布加综合征	bu4 jia1 zong1 he2 zheng1
 不可侵犯权	bu4 ke3 qin1 fan4 quan2
 不可数名词	bu4 ke3 shu3 ming2 ci2
@@ -50282,7 +50288,6 @@ sort: by_weight
 创下高票房	chuang4 xia4 gao1 piao4 fang2
 创业板上市	chuang4 ye4 ban3 shang4 shi4
 吹胡子瞪眼	chui1 hu2 zi5 deng4 yan3
-春秋左氏传	chun1 qiu1 zuo3 shi4 zhuan4
 纯色啄花鸟	chun2 se4 zhuo2 hua1 niao3
 纯素食主义	chun2 su4 shi2 zhu3 yi4
 磁感应强度	ci2 gan3 ying4 qiang2 du4
@@ -50483,7 +50488,6 @@ sort: by_weight
 鄂图曼帝国	e4 tu2 man4 di4 guo2
 恶性疟原虫	e4 xing4 nve4 yuan2 chong2
 恩培多克勒	en1 pei2 duo1 ke4 lei1
-儿女英雄传	er2 nv3 ying1 xiong2 zhuan4
 儿童基金会	er2 tong2 ji1 jin1 hui4
 耳源性眩晕	er3 yuan2 xing4 xuan4 yun4
 二次多项式	er4 ci4 duo1 xiang4 shi4
@@ -50580,8 +50584,6 @@ sort: by_weight
 风水轮流转	feng1 shui3 lun2 liu2 zhuan4
 凤头雀嘴鹎	feng4 tou2 que4 zui3 bei1
 奉辛比克党	feng4 xin1 bi3 ke4 dang3
-佛罗里达州	fo2 luo2 li3 da2 zhou1
-伏尔加格勒	fu2 er3 jia1 ge2 le4
 弗莱威厄斯	fu2 lai2 wei1 e4 si1
 弗里得里希	fu2 li3 de2 li3 xi1
 弗里德里希	fu2 li3 de2 li3 xi1
@@ -50741,6 +50743,8 @@ sort: by_weight
 过氧物酶体	guo4 yang3 wu4 mei2 ti3
 哈拉尔五世	ha1 la1 er3 wu3 shi4
 哈里发帝国	ha1 li3 fa1 di4 guo2
+哈莉·贝瑞	ha1 li4 bei4 rui4
+哈利·波特	ha1 li4 bo1 te4
 哈利法克斯	ha1 li4 fa3 ke4 si1
 哈马黑拉岛	ha1 ma3 hei1 la1 dao3
 哈米吉多顿	ha1 mi3 ji2 duo1 dun4
@@ -50751,6 +50755,7 @@ sort: by_weight
 海淀图书城	hai3 dian4 tu2 shu1 cheng2
 海军总司令	hai3 jun1 zong3 si1 ling4
 海空军基地	hai3 kong1 jun1 ji1 di4
+海伦·凯勒	hai3 lun2 kai3 le1
 海南孔雀雉	hai3 nan2 kong3 que4 zhi4
 海南蓝仙鹟	hai3 nan2 lan2 xian1 weng1
 海南山鹧鸪	hai3 nan2 shan1 zhe4 gu1
@@ -50775,6 +50780,7 @@ sort: by_weight
 核出口控制	he2 chu1 kou3 kong4 zhi4
 核电磁脉冲	he2 dian4 ci2 mai4 chong1
 荷兰式拍卖	he2 lan2 shi4 pai1 mai4
+荷莉·贝瑞	he2 li4 bei4 rui4
 核连锁反应	he2 lian2 suo3 fan3 ying4
 阖闾城遗址	he2 lv2 cheng2 yi2 zhi3
 河姆渡遗址	he2 mu3 du4 yi2 zhi3
@@ -50809,8 +50815,6 @@ sort: by_weight
 黑喉山鹪莺	hei1 hou2 shan1 jiao1 ying1
 黑脚信天翁	hei1 jiao3 xin4 tian1 weng1
 黑颈长尾雉	hei1 jing3 chang2 wei3 zhi4
-黑奴吁天录	hei1 nu2 yu4 tian1 lu4
-黑塞哥维那	hei1 sai4 ge1 wei2 na4
 黑森林蛋糕	hei1 sen1 lin2 dan4 gao1
 黑头金翅雀	hei1 tou2 jin1 chi4 que4
 黑头蜡嘴雀	hei1 tou2 la4 zui3 que4
@@ -50945,7 +50949,6 @@ sort: by_weight
 加拉巴哥斯	jia1 la1 ba1 ge1 si1
 加里肋亚海	jia1 li3 lei4 ya4 hai3
 加里曼丹岛	jia1 li3 man4 dan1 dao3
-加里宁格勒	jia1 li3 ning2 ge2 le4
 伽罗华理论	jia1 luo2 hua4 li3 lun4
 加罗林群岛	jia1 luo2 lin2 qun2 dao3
 伽罗瓦理论	jia1 luo2 wa3 li3 lun4
@@ -50984,8 +50987,11 @@ sort: by_weight
 街道办事处	jie1 dao4 ban4 shi4 chu4
 结肠镜检查	jie2 chang2 jing4 jian3 cha2
 捷尔任斯克	jie2 er3 ren4 si1 ke4
+杰夫·金尼	jie2 fu1 jin1 ni2
 结婚纪念日	jie2 hun1 ji4 nian4 ri4
 捷克共和国	jie2 ke4 gong4 he2 guo2
+杰克·伦敦	jie2 ke4 lun2 dun1
+杰瑞·宋飞	jie2 rui4 song4 fei1
 节奏布鲁斯	jie2 zou4 bu4 lu3 si1
 解析函数论	jie3 xi1 han2 shu4 lun4
 解析几何学	jie3 xi1 ji3 he2 xue2
@@ -51066,7 +51072,9 @@ sort: by_weight
 科茨沃尔德	ke1 ci2 wo4 er3 de2
 柯尔克孜语	ke1 er3 ke4 zi1 yu3
 科技工作者	ke1 ji4 gong1 zuo4 zhe3
+科林·弗思	ke1 lin2 fu2 si1
 科罗拉多州	ke1 luo2 la1 duo1 zhou1
+柯南·道尔	ke1 nan2 dao4 er3
 柯萨奇病毒	ke1 sa4 qi2 bing4 du2
 柯沙奇病毒	ke1 sha1 qi2 bing4 du2
 科什图尼察	ke1 shi2 tu2 ni2 cha2
@@ -51149,6 +51157,7 @@ sort: by_weight
 雷克斯暴龙	lei2 ke4 si1 bao4 long2
 雷克雅维克	lei2 ke4 ya3 wei2 ke4
 雷克雅未克	lei2 ke4 ya3 wei4 ke4
+雷·罗马诺	lei2 luo2 ma3 nuo4
 镭射印表机	lei2 she4 yin4 biao3 ji1
 类风湿因子	lei4 feng1 shi1 yin1 zi3
 冷湖行政区	leng3 hu2 xing2 zheng4 qu1
@@ -51188,6 +51197,7 @@ sort: by_weight
 裂变同位素	lie4 bian4 tong2 wei4 su4
 裂谷热病毒	lie4 gu3 re4 bing4 du2
 列支敦斯登	lie4 zhi1 dun1 si1 deng1
+琳·戴维斯	lin2 dai4 wei2 si1
 林德布拉德	lin2 de2 bu4 la1 de2
 临海水土志	lin2 hai3 shui3 tu3 zhi4
 林克平大学	lin2 ke4 ping2 da4 xue2
@@ -51240,10 +51250,12 @@ sort: by_weight
 妈拉个巴子	ma1 la1 ge5 ba1 zi5
 妈了个巴子	ma1 le5 ge5 ba1 zi5
 马德拉群岛	ma3 de2 la1 qun2 dao3
+马丁·路德	ma3 ding1 lu4 de2
 马尔堡病毒	ma3 er3 bao3 bing4 du2
 马尔马拉海	ma3 er3 ma3 la1 hai3
 马克沁机枪	ma3 ke4 qin4 ji1 qiang1
 马克斯威尔	ma3 ke4 si1 wei1 er3
+马克·吐温	ma3 ke4 tu3 wen1
 马克西米连	ma3 ke4 xi1 mi3 lian2
 马来西亚人	ma3 lai2 xi1 ya4 ren2
 马来西亚语	ma3 lai2 xi1 ya4 yu3
@@ -51482,6 +51494,7 @@ sort: by_weight
 桥本龙太郎	qiao2 ben3 long2 tai4 lang2
 桥式整流器	qiao2 shi4 zheng3 liu2 qi4
 侨务委员会	qiao2 wu4 wei3 yuan2 hui4
+乔治·布尔	qiao2 zhi4 bu4 er3
 乔治城大学	qiao2 zhi4 cheng2 da4 xue2
 巧克力脆片	qiao3 ke4 li4 cui4 pian4
 切尔诺贝利	qie1 er3 nuo4 bei4 li4
@@ -51552,7 +51565,6 @@ sort: by_weight
 萨尔普斯堡	sa4 er3 pu3 si1 bao3
 萨噶达娃节	sa4 ga2 da2 wa2 jie2
 萨哈罗夫奖	sa4 ha3 luo2 fu1 jiang3
-萨卡什维利	sa4 ka3 shi2 wei2 li4
 萨克拉门托	sa4 ke4 la1 men2 tuo1
 萨克洛夫奖	sa4 ke4 luo4 fu1 jiang3
 萨拉森帝国	sa4 la1 sen1 di4 guo2
@@ -51586,6 +51598,7 @@ sort: by_weight
 沙白喉林莺	sha1 bai2 hou2 lin2 ying1
 沙法维王朝	sha1 fa3 wei2 wang2 chao2
 杀鸡给猴看	sha1 ji1 gei3 hou2 kan4
+莎拉·佩林	sha1 la1 pei4 lin2
 沙姆沙伊赫	sha1 mu3 sha1 yi1 he4
 杀手级应用	sha1 shou3 ji2 ying4 yong4
 傻人有傻福	sha3 ren2 you3 sha3 fu2
@@ -51606,7 +51619,6 @@ sort: by_weight
 少数民族乡	shao3 shu4 min2 zu2 xiang1
 蛇绿混杂岩	she2 lv4 hun4 za2 yan2
 设得兰群岛	she4 de2 lan2 qun2 dao3
-射雕英雄传	she4 diao1 ying1 xiong2 zhuan4
 摄护腺肿大	she4 hu4 xian4 zhong3 da4
 社会语言学	she4 hui4 yu3 yan2 xue2
 社交恐惧症	she4 jiao1 kong3 ju4 zheng4
@@ -51754,6 +51766,8 @@ sort: by_weight
 斯特拉特福	si1 te4 la1 te4 fu2
 斯瓦特谷地	si1 wa3 te4 gu3 di4
 斯瓦希里语	si1 wa3 xi1 li3 yu3
+斯文·海定	si1 wen2 hai3 ding4
+斯文·赫定	si1 wen2 he4 ding4
 四川大地震	si4 chuan1 da4 di4 zhen4
 四川山鹧鸪	si4 chuan1 shan1 zhe4 gu1
 四川旋木雀	si4 chuan1 xuan2 mu4 que4
@@ -51779,7 +51793,6 @@ sort: by_weight
 算术平均数	suan4 shu4 ping2 jun1 shu4
 碎屑沉积物	sui4 xie4 chen2 ji1 wu4
 索尔仁尼琴	suo3 er3 ren2 ni2 qin2
-索福克勒斯	suo3 fu2 ke4 le4 si1
 索福克里斯	suo3 fu2 ke4 li3 si1
 所见即所得	suo3 jian4 ji2 suo3 de2
 琐罗亚斯德	suo3 luo2 ya4 si1 de2
@@ -51797,6 +51810,7 @@ sort: by_weight
 台湾叶鼻蝠	tai2 wan1 ye4 bi2 fu2
 台湾紫啸鸫	tai2 wan1 zi3 xiao4 dong1
 台湾棕噪鹛	tai2 wan1 zong1 zao4 mei2
+泰格·伍兹	tai4 ge2 wu3 zi1
 泰姬玛哈陵	tai4 ji1 ma3 ha1 ling2
 泰米尔纳德	tai4 mi3 er3 na4 de2
 太平洋潜鸟	tai4 ping2 yang2 qian2 niao3
@@ -51815,6 +51829,7 @@ sort: by_weight
 碳氢化合物	tan4 qing1 hua4 he2 wu4
 探头探脑儿	tan4 tou2 tan4 nao3 r5
 唐初四大家	tang2 chu1 si4 da4 jia1
+唐纳·川普	tang2 na4 chuan1 pu3
 糖皮质激素	tang2 pi2 zhi4 ji1 su4
 唐诗三百首	tang2 shi1 san1 bai3 shou3
 唐氏综合症	tang2 shi4 zong1 he2 zheng4
@@ -51993,6 +52008,7 @@ sort: by_weight
 西米德兰兹	xi1 mi3 de2 lan2 zi1
 西属撒哈拉	xi1 shu3 sa1 ha1 la1
 西双版纳州	xi1 shuang1 ban3 na4 zhou1
+希斯·莱杰	xi1 si1 lai2 jie2
 希斯罗机场	xi1 si1 luo2 ji1 chang3
 希夏邦马峰	xi1 xia4 bang1 ma3 feng1
 吸引子网络	xi1 yin3 zi3 wang3 luo4
@@ -52112,6 +52128,7 @@ sort: by_weight
 哑巴吃黄莲	ya3 ba5 chi1 huang2 lian2
 哑巴吃黄连	ya3 ba5 chi1 huang2 lian2
 雅典的泰门	ya3 dian3 de5 tai4 men2
+亚当·斯密	ya4 dang1 si1 mi4
 亚得里亚海	ya4 de2 li3 ya4 hai3
 亚符号模型	ya4 fu2 hao4 mo2 xing2
 亚拉巴马州	ya4 la1 ba1 ma3 zhou1
@@ -52275,6 +52292,8 @@ sort: by_weight
 元语言能力	yuan2 yu3 yan2 neng2 li4
 原子科学家	yuan2 zi3 ke1 xue2 jia1
 远距离监视	yuan3 ju4 li2 jian1 shi4
+约翰·本仁	yue1 han4 ben3 ren2
+约翰·拉贝	yue1 han4 la1 bei4
 约翰内斯堡	yue1 han4 nei4 si1 bao3
 月亮女神号	yue4 liang5 nv3 shen2 hao4
 越南刺鳑鲏	yue4 nan2 ci4 pang2 pi2
@@ -52304,6 +52323,7 @@ sort: by_weight
 照葫芦画瓢	zhao4 hu2 lu5 hua4 piao2
 浙江三门县	zhe4 jiang1 san1 men2 xian4
 浙江天台县	zhe4 jiang1 tian1 tai2 xian4
+珍·奥斯汀	zhen1 ao4 si1 ting1
 真后生动物	zhen1 hou4 sheng1 dong4 wu4
 针尖对麦芒	zhen1 jian1 dui4 mai4 mang2
 针孔摄影机	zhen1 kong3 she4 ying3 ji1
@@ -52462,12 +52482,16 @@ sort: by_weight
 阿拉斯加大学	a1 la1 si1 jia1 da4 xue2
 阿鲁纳恰尔邦	a1 lu3 na4 qia4 er3 bang1
 阿史那骨咄禄	a1 shi3 na4 gu3 duo1 lu4
+阿斯顿·马丁	a1 si1 dun4 ma3 ding1
 阿斯佩尔格尔	a1 si1 pei4 er3 ge2 er3
 阿斯图里亚斯	a1 si1 tu2 li3 ya4 si1
+埃德加·斯诺	ai1 de2 jia1 si1 nuo4
+埃德蒙·伯克	ai1 de2 meng2 bo2 ke4
 埃尔金大理石	ai1 er3 jin1 da4 li3 shi2
 埃尔朗根纲领	ai1 er3 lang3 gen1 gang1 ling3
 埃及古物学者	ai1 ji2 gu3 wu4 xue2 zhe3
 埃拉托塞尼斯	ai1 la1 tuo1 se4 ni2 si1
+埃隆·马斯克	ai1 long2 ma3 si1 ke4
 埃塞俄比亚语	ai1 sai1 e2 bi3 ya4 yu3
 埃塞俄比亚界	ai1 sai4 e2 bi3 ya4 jie4
 矮子里拔将军	ai3 zi5 li5 ba2 jiang1 jun1
@@ -52476,9 +52500,13 @@ sort: by_weight
 爱尔兰共和国	ai4 er3 lan2 gong4 he2 guo2
 爱尔兰共和军	ai4 er3 lan2 gong4 he2 jun1
 艾哈迈达巴德	ai4 ha1 mai4 da2 ba1 de2
+爱玛·沃特森	ai4 ma3 wo4 te4 sen1
 爱情征服一切	ai4 qing2 zheng1 fu2 yi1 qie4
+艾萨克·牛顿	ai4 sa4 ke4 niu2 dun4
 安道尔共和国	an1 dao4 er3 gong4 he2 guo2
 安徽中医学院	an1 hui1 zhong1 yi1 xue2 yuan4
+安妮·海瑟薇	an1 ni2 hai3 se4 wei1
+安妮·夏菲维	an1 ni2 xia4 fei1 wei2
 安塔那那利佛	an1 ta3 na4 na4 li4 fo2
 唵嘛呢叭咪吽	an3 ma5 ni2 ba1 mi1 hong1
 盎格鲁撒克逊	ang4 ge2 lu3 sa1 ke4 xun4
@@ -52524,6 +52552,7 @@ sort: by_weight
 北宋四大部书	bei3 song4 si4 da4 bu4 shu1
 贝娅特丽克丝	bei4 ya4 te4 li4 ke4 si1
 本地管理界面	ben3 di4 guan3 li3 jie4 mian4
+本笃·十六世	ben3 du3 shi2 liu4 shi4
 笔记本计算机	bi3 ji4 ben3 ji4 suan4 ji1
 比亚韦斯托克	bi3 ya4 wei2 si1 tuo1 ke4
 彼一时此一时	bi3 yi1 shi2 ci3 yi1 shi2
@@ -52544,6 +52573,7 @@ sort: by_weight
 不规则四边形	bu4 gui1 ze2 si4 bian1 xing2
 不见一点踪影	bu4 jian4 yi1 dian3 zong1 ying3
 不可再生资源	bu4 ke3 zai4 sheng1 zi1 yuan2
+布拉德·彼特	bu4 la1 de2 bi3 te4
 布拉提斯拉瓦	bu4 la1 ti2 si1 la1 wa3
 布莱克史密斯	bu4 lai2 ke4 shi3 mi4 si1
 不列颠保卫战	bu4 lie4 dian1 bao3 wei4 zhan4
@@ -52553,6 +52583,8 @@ sort: by_weight
 不确定性原理	bu4 que4 ding4 xing4 yuan2 li3
 不食人间烟火	bu4 shi2 ren2 jian1 yan1 huo3
 不显山不露水	bu4 xian3 shan1 bu4 lu4 shui3
+查尔斯·格雷	cha2 er3 si1 ge2 lei2
+查克·诺里斯	cha2 ke4 nuo4 li3 si1
 茶胸斑啄木鸟	cha2 xiong1 ban1 zhuo2 mu4 niao3
 长三角经济区	chang2 san1 jiao3 jing1 ji4 qu1
 肠易激综合征	chang2 yi4 ji1 zong1 he2 zheng1
@@ -52585,6 +52617,7 @@ sort: by_weight
 存款准备金率	cun2 kuan3 zhun3 bei4 jin1 lv4
 矬子里拔将军	cuo2 zi5 li3 ba2 jiang1 jun1
 达达尼尔海峡	da2 da2 ni2 er3 hai3 xia2
+达科塔·芬妮	da2 ke1 ta3 fen1 ni1
 达累斯萨拉姆	da2 lei4 si1 sa4 la1 mu3
 达特茅斯学院	da2 te4 mao2 si1 xue2 yuan4
 打击军事力量	da3 ji1 jun1 shi4 li4 liang5
@@ -52601,6 +52634,7 @@ sort: by_weight
 大鸣大放运动	da4 ming2 da4 fang4 yun4 dong4
 大男子主义者	da4 nan2 zi3 zhu3 yi4 zhe3
 大气层核试验	da4 qi4 ceng2 he2 shi4 yan4
+大卫·艾登堡	da4 wei4 ai4 deng1 bao3
 大西洋洋中脊	da4 xi1 yang2 yang2 zhong1 ji3
 大兴安岭山脉	da4 xing1 an1 ling3 shan1 mai4
 大兴问罪之师	da4 xing1 wen4 zui4 zhi1 shi1
@@ -52667,6 +52701,7 @@ sort: by_weight
 鄂尔多斯沙漠	e4 er3 duo1 si1 sha1 mo4
 厄尔尼诺现象	e4 er3 ni2 nuo4 xian4 xiang4
 恶性通货膨胀	e4 xing4 tong1 huo4 peng2 zhang4
+恩里科·费米	en1 li3 ke1 fei4 mi3
 儿童权利公约	er2 tong2 quan2 li4 gong1 yue1
 二次世界大战	er4 ci4 shi4 jie4 da4 zhan4
 二级头呼吸器	er4 ji2 tou2 hu1 xi1 qi4
@@ -52794,6 +52829,7 @@ sort: by_weight
 黑眉长尾山雀	hei1 mei2 chang2 wei3 shan1 que4
 黑眉拟啄木鸟	hei1 mei2 ni3 zhuo2 mu4 niao3
 亨丁顿舞蹈症	heng1 ding1 dun4 wu3 dao4 zheng4
+亨利·哈德逊	heng1 li4 ha1 de2 xun4
 红颈绿啄木鸟	hong2 jing3 lv4 zhuo2 mu4 niao3
 红头长尾山雀	hong2 tou2 chang2 wei3 shan1 que4
 红细胞沉降率	hong2 xi4 bao1 chen2 jiang4 lv4
@@ -52854,6 +52890,7 @@ sort: by_weight
 伽利略探测器	jia1 li4 lve4 tan4 ce4 qi4
 加州技术学院	jia1 zhou1 ji4 shu4 xue2 yuan4
 甲基安非他命	jia3 ji1 an1 fei1 ta1 ming4
+贾斯汀·比伯	jia3 si1 ting1 bi3 ba4
 间充质干细胞	jian1 chong1 zhi4 gan4 xi4 bao1
 碱基互补配对	jian3 ji1 hu4 bu3 pei4 dui4
 简氏防务周刊	jian3 shi4 fang2 wu4 zhou1 kan1
@@ -52867,6 +52904,9 @@ sort: by_weight
 脚正不怕鞋歪	jiao3 zheng4 bu4 pa4 xie2 wai1
 接收器灵敏度	jie1 shou1 qi4 ling2 min3 du4
 捷达航空货运	jie2 da2 hang2 kong1 huo4 yun4
+杰弗里·乔叟	jie2 fu2 li3 qiao2 sou3
+洁西卡·艾芭	jie2 xi1 ka3 ai4 ba1
+杰西·欧文斯	jie2 xi1 ou1 wen2 si1
 节肢介体病毒	jie2 zhi1 jie4 ti3 bing4 du2
 介质访问控制	jie4 zhi4 fang3 wen4 kong4 zhi4
 金喉拟啄木鸟	jin1 hou2 ni3 zhuo2 mu4 niao3
@@ -52889,12 +52929,14 @@ sort: by_weight
 喀喇昆仑山脉	ka1 la3 kun1 lun2 shan1 mai4
 卡波西氏肉瘤	ka3 bo1 xi1 shi4 rou4 liu2
 卡布其诺咖啡	ka3 bu4 qi2 nuo4 ka1 fei1
+卡尔·马克思	ka3 er3 ma3 ke4 si1
 卡尔文克莱因	ka3 er3 wen2 ke4 lai2 yin1
 卡拉什尼科夫	ka3 la1 shi2 ni2 ke1 fu1
 卡纳维拉尔角	ka3 na4 wei2 la1 er3 jiao3
 卡特彼勒公司	ka3 te4 bi3 le4 gong1 si1
 卡西米尔效应	ka3 xi1 mi3 er3 xiao4 ying4
 开放源码软件	kai1 fang4 yuan2 ma3 ruan3 jian4
+凯茜·弗里曼	kai3 xi1 fu2 li3 man4
 坎塔布连山脉	kan3 ta3 bu4 lian2 shan1 mai4
 看人下菜碟儿	kan4 ren2 xia4 cai4 die2 r5
 抗日救亡团体	kang4 ri4 jiu4 wang2 tuan2 ti3
@@ -52982,14 +53024,17 @@ sort: by_weight
 马尔可夫过程	ma3 er3 ke3 fu1 guo4 cheng2
 马噶尔尼使团	ma3 ga2 er3 ni2 shi3 tuan2
 马戛尔尼使团	ma3 jia2 er3 ni2 shi3 tuan2
+马可·奥勒留	ma3 ke3 ao4 lei1 liu2
 马里亚纳海沟	ma3 li3 ya4 na4 hai3 gou1
 马里亚纳群岛	ma3 li3 ya4 na4 qun2 dao3
+玛丽莲·梦露	ma3 li4 lian2 meng4 lou4
 马利亚纳海沟	ma3 li4 ya4 na4 hai3 gou1
 马利亚纳群岛	ma3 li4 ya4 na4 qun2 dao3
 马其顿共和国	ma3 qi2 dun4 gong4 he2 guo2
 马斯特里赫特	ma3 si1 te4 li3 he4 te4
 马尾水师学堂	ma3 wei3 shui3 shi1 xue2 tang2
 马雅可夫斯基	ma3 ya3 ke3 fu1 si1 ji1
+迈克尔·乔丹	mai4 ke4 er3 qiao2 dan1
 满口之乎者也	man3 kou3 zhi1 hu1 zhe3 ye3
 曼彻斯特编码	man4 che4 si1 te4 bian1 ma3
 毛出在羊身上	mao2 chu1 zai4 yang2 shen1 shang4
@@ -53003,6 +53048,7 @@ sort: by_weight
 美国最高法院	mei3 guo2 zui4 gao1 fa3 yuan4
 美洲国家组织	mei3 zhou1 guo2 jia1 zu3 zhi1
 蒙特卡罗方法	meng2 te4 ka3 luo2 fang1 fa3
+米特·罗姆尼	mi3 te4 luo2 mu3 ni2
 妙妙熊历险记	miao4 miao4 xiong2 li4 xian3 ji4
 民国通俗演义	min2 guo2 tong1 su2 yan3 yi4
 民族社会主义	min2 zu2 she4 hui4 zhu3 yi4
@@ -53012,6 +53058,8 @@ sort: by_weight
 明尼阿波利斯	ming2 ni2 a1 bo1 li4 si1
 名誉博士学位	ming2 yu4 bo2 shi4 xue2 wei4
 摸着石头过河	mo1 zhe5 shi2 tou5 guo4 he2
+摩根·弗里曼	mo2 gen1 fu2 li3 man4
+摩亨佐·达罗	mo2 heng1 zuo3 da2 luo2
 墨累达令流域	mo4 lei4 da2 ling4 liu2 yu4
 母子垂直感染	mu3 zi3 chui2 zhi2 gan3 ran3
 目标匹配作业	mu4 biao1 pi3 pei4 zuo4 ye4
@@ -53031,6 +53079,7 @@ sort: by_weight
 内蒙古自治区	nei4 meng3 gu3 zi4 zhi4 qu1
 内容管理系统	nei4 rong2 guan3 li3 xi4 tong3
 内政部警政署	nei4 zheng4 bu4 jing3 zheng4 shu3
+妮可·基德曼	ni1 ke3 ji1 de2 man4
 尼亚加拉瀑布	ni2 ya4 jia1 la1 pu4 bu4
 拟阿拖品药物	ni3 a1 tuo1 pin3 yao4 wu4
 年度股东大会	nian2 du4 gu3 dong1 da4 hui4
@@ -53078,12 +53127,16 @@ sort: by_weight
 强扭的瓜不甜	qiang3 niu3 de5 gua1 bu4 tian2
 强迫性储物症	qiang3 po4 xing4 chu3 wu4 zheng4
 强迫性性行为	qiang3 po4 xing4 xing4 xing2 wei2
+乔治·奥威尔	qiao2 zhi4 ao4 wei1 er3
+乔治·华盛顿	qiao2 zhi4 hua2 sheng4 dun4
+乔治·索罗斯	qiao2 zhi4 suo3 luo2 si1
 巧诈不如拙诚	qiao3 zha4 bu4 ru2 zhuo1 cheng2
 切特豪斯学校	qie1 te4 hao2 si1 xue2 xiao4
 且听下回分解	qie3 ting1 xia4 hui2 fen1 jie3
 勤劳不虞匮乏	qin2 lao2 bu4 yu2 kui4 fa2
 轻型轨道交通	qing1 xing2 gui3 dao4 jiao1 tong1
 轻质石油产品	qing1 zhi4 shi2 you2 chan3 pin3
+裘力斯·恺撒	qiu2 li4 si1 kai3 sa3
 球栅阵列封装	qiu2 shan1 zhen4 lie4 feng1 zhuang1
 求爷爷告奶奶	qiu2 ye2 ye5 gao4 nai3 nai5
 区域网路技术	qu1 yu4 wang3 lu4 ji4 shu4
@@ -53118,10 +53171,12 @@ sort: by_weight
 溶酶储存疾病	rong2 mei2 chu3 cun2 ji2 bing4
 荣誉博士学位	rong2 yu4 bo2 shi4 xue2 wei4
 肉毒杆菌毒素	rou4 du2 gan3 jun1 du2 su4
+儒勒·凡尔纳	ru2 le4 fan2 er3 na4
 软件开发人员	ruan3 jian4 kai1 fa1 ren2 yuan2
 三件套式西装	san1 jian4 tao4 shi4 xi1 zhuang1
 三千大千世界	san1 qian1 da4 qian1 shi4 jie4
 三自爱国教会	san1 zi4 ai4 guo2 jiao4 hui4
+莎拉·布莱曼	sha1 la1 bu4 lai2 man4
 沙特阿拉伯人	sha1 te4 a1 la1 bo2 ren2
 沙乌地阿拉伯	sha1 wu1 di4 a1 la1 bo2
 山东科技大学	shan1 dong1 ke1 ji4 da4 xue2
@@ -53153,6 +53208,7 @@ sort: by_weight
 圣伯多禄大殿	sheng4 bo2 duo1 lu4 da4 dian4
 圣德克旭贝里	sheng4 de2 ke4 xu4 bei4 li3
 圣潘克勒斯站	sheng4 pan1 ke4 lei1 si1 zhan4
+史蒂芬·哈珀	shi3 di4 fen1 ha1 po4
 嗜碱性粒细胞	shi4 jian3 xing4 li4 xi4 bao1
 事件相关电位	shi4 jian4 xiang1 guan1 dian4 wei4
 世界海关组织	shi4 jie4 hai3 guan1 zu3 zhi1
@@ -53184,6 +53240,7 @@ sort: by_weight
 双层公共汽车	shuang1 ceng2 gong1 gong4 qi4 che1
 双后前兵开局	shuang1 hou4 qian2 bing1 kai1 ju2
 睡眠呼吸暂停	shui4 mian2 hu1 xi1 zan4 ting2
+斯蒂芬·哈珀	si1 di4 fen1 ha1 po4
 斯堪地纳维亚	si1 kan1 di4 na4 wei2 ya4
 斯堪的纳维亚	si1 kan1 di4 na4 wei2 ya4
 斯雷布雷尼察	si1 lei2 bu4 lei2 ni2 cha2
@@ -53200,6 +53257,7 @@ sort: by_weight
 松下电气工业	song1 xia4 dian4 qi4 gong1 ye4
 苏格兰牧羊犬	su1 ge2 lan2 mu4 yang2 quan3
 苏格兰折耳猫	su1 ge2 lan2 zhe2 er3 mao1
+苏珊·波伊尔	su1 shan1 bo1 yi1 er3
 髓过氧化物酶	sui3 guo4 yang3 hua4 wu4 mei2
 琐罗亚斯德教	suo3 luo2 ya4 si1 de2 jiao4
 塔什库尔干乡	ta3 shi2 ku4 er3 gan1 xiang1
@@ -53210,8 +53268,12 @@ sort: by_weight
 台湾拟啄木鸟	tai2 wan1 ni3 zhuo2 mu4 niao3
 泰米尔纳德邦	tai4 mi3 er3 na4 de2 bang1
 太乙金华宗旨	tai4 yi3 jin1 hua2 zong1 zhi3
+汤姆·克兰西	tang1 mu3 ke4 lan2 xi1
+汤姆·克鲁斯	tang1 mu3 ke4 lu3 si1
+汤姆·罗宾斯	tang1 mu3 luo2 bin1 si1
 特古西加尔巴	te4 gu3 xi1 jia1 er3 ba1
 特拉法加广场	te4 la1 fa3 jia1 guang3 chang3
+提姆·罗宾斯	ti2 mu3 luo2 bin1 si1
 提上议事日程	ti2 shang4 yi4 shi4 ri4 cheng2
 体育达标测验	ti3 yu4 da2 biao1 ce4 yan4
 天不怕地不怕	tian1 bu4 pa4 di4 bu4 pa4
@@ -53232,6 +53294,7 @@ sort: by_weight
 土地利用规划	tu3 di4 li4 yong4 gui1 hua4
 团结就是力量	tuan2 jie2 jiu4 shi4 li4 liang5
 退休金双轨制	tui4 xiu1 jin1 shuang1 gui3 zhi4
+托马斯·哈代	tuo1 ma3 si1 ha1 dai4
 脱氧脱糖核酸	tuo1 yang3 tuo1 tang2 he2 suan1
 椭圆形办公室	tuo3 yuan2 xing2 ban4 gong1 shi4
 瓦西里耶维奇	wa3 xi1 li3 ye1 wei2 qi2
@@ -53249,9 +53312,11 @@ sort: by_weight
 网络地址转换	wang3 luo4 di4 zhi3 zhuan3 huan4
 网络管理系统	wang3 luo4 guan3 li3 xi4 tong3
 网络规划人员	wang3 luo4 gui1 hua4 ren2 yuan2
+威廉·福克纳	wei1 lian2 fu2 ke4 na4
 维多利亚公园	wei2 duo1 li4 ya4 gong1 yuan2
 维多利亚瀑布	wei2 duo1 li4 ya4 pu4 bu4
 维尔斯特拉斯	wei2 er3 si1 te4 la1 si1
+维克多·雨果	wei2 ke4 duo1 yu3 guo3
 唯恐天下不乱	wei2 kong3 tian1 xia4 bu4 luan4
 卫星导航系统	wei4 xing1 dao3 hang2 xi4 tong3
 卫星定位系统	wei4 xing1 ding4 wei4 xi4 tong3
@@ -53260,6 +53325,7 @@ sort: by_weight
 文化和旅游部	wen2 hua4 he2 lv3 you2 bu4
 文殊师利菩萨	wen2 shu1 shi1 li4 pu2 sa4
 涡轮轴发动机	wo1 lun2 zhou2 fa1 dong4 ji1
+沃伦·巴菲特	wo4 lun2 ba1 fei1 te4
 乌鲁克恰提县	wu1 lu3 ke4 qia4 ti2 xian4
 乌滋别克斯坦	wu1 zi1 bie2 ke4 si1 tan3
 无取胜希望者	wu2 qu3 sheng4 xi1 wang4 zhe3
@@ -53278,6 +53344,9 @@ sort: by_weight
 西方极乐世界	xi1 fang1 ji2 le4 shi4 jie4
 西弗吉尼亚州	xi1 fu2 ji2 ni2 ya4 zhou1
 希格斯玻色子	xi1 ge2 si1 bo1 se4 zi3
+锡霍特·阿林	xi1 huo4 te4 a1 lin2
+希蒙·佩雷斯	xi1 meng3 pei4 lei2 si1
+西蒙·舒斯特	xi1 meng3 shu1 si1 te4
 西米德兰兹郡	xi1 mi3 de2 lan2 zi1 jun4
 西南冠纹柳莺	xi1 nan2 guan1 wen2 liu3 ying1
 西南栗耳凤鹛	xi1 nan2 li4 er3 feng4 mei2
@@ -53368,6 +53437,7 @@ sort: by_weight
 一举手一投足	yi1 ju3 shou3 yi1 tou2 zu2
 一口吃个胖子	yi1 kou3 chi1 ge5 pang4 zi5
 一类保护动物	yi1 lei4 bao3 hu4 dong4 wu4
+伊隆·马斯克	yi1 long2 ma3 si1 ke4
 一日不如一日	yi1 ri4 bu4 ru2 yi1 ri4
 伊瑞克提翁庙	yi1 rui4 ke4 ti2 weng1 miao4
 一山不容二虎	yi1 shan1 bu4 rong2 er4 hu3
@@ -53375,6 +53445,7 @@ sort: by_weight
 伊斯帕尼奥拉	yi1 si1 pa4 ni2 ao4 la1
 一条道走到黑	yi1 tiao2 dao4 zou3 dao4 hei1
 一条路走到黑	yi1 tiao2 lu4 zou3 dao4 hei1
+伊娃·门德斯	yi1 wa2 men2 de2 si1
 移动通信网络	yi2 dong4 tong1 xin4 wang3 luo4
 以失败而告终	yi3 shi1 bai4 er2 gao4 zhong1
 以太网络端口	yi3 tai4 wang3 luo4 duan1 kou3
@@ -53403,6 +53474,7 @@ sort: by_weight
 应用程式介面	ying4 yong4 cheng2 shi4 jie4 mian4
 用户创造内容	yong4 hu4 chuang4 zao4 nei4 rong2
 幽门螺旋杆菌	you1 men2 luo2 xuan2 gan3 jun1
+尤金·塞尔南	you2 jin1 sai4 er3 nan2
 犹太复国主义	you2 tai4 fu4 guo2 zhu3 yi4
 友邦保险公司	you3 bang1 bao3 xian3 gong1 si1
 有机磷酸酯类	you3 ji1 lin2 suan1 zhi3 lei4
@@ -53421,9 +53493,11 @@ sort: by_weight
 原子爆破弹药	yuan2 zi3 bao4 po4 dan4 yao4
 原子能发电站	yuan2 zi3 neng2 fa1 dian4 zhan4
 约定资讯速率	yue1 ding4 zi1 xun4 su4 lv4
+约翰·霍金斯	yue1 han4 huo4 jin1 si1
 粤港澳大湾区	yue4 gang3 ao4 da4 wan1 qu1
 扎格罗斯山脉	za1 ge2 luo2 si1 shan1 mai4
 债务担保证券	zhai4 wu4 dan1 bao3 zheng4 quan4
+詹姆斯·庞德	zhan1 mu3 si1 pang2 de2
 湛江师范学院	zhan4 jiang1 shi1 fan4 xue2 yuan4
 战略防御倡议	zhan4 lve4 fang2 yu4 chang4 yi4
 真心话大冒险	zhen1 xin1 hua4 da4 mao4 xian3
@@ -53505,9 +53579,11 @@ sort: by_weight
 左倾机会主义	zuo3 qing1 ji1 hui4 zhu3 yi4
 作战失踪人员	zuo4 zhan4 shi1 zong1 ren2 yuan2
 阿比西尼亚官话	a1 bi3 xi1 ni2 ya4 guan1 hua4
+阿道司·赫胥黎	a1 dao4 si1 he4 xu1 li4
 阿尔茨海默氏病	a1 er3 ci2 hai3 mo4 shi4 bing4
 阿耳茨海默氏病	a1 er3 ci2 hai3 mo4 shi4 bing4
 阿尔茨海默氏症	a1 er3 ci2 hai3 mo4 shi4 zheng4
+阿尔法·罗密欧	a1 er3 fa3 luo2 mi4 ou1
 阿伏伽德罗常数	a1 fu2 jia1 de2 luo2 chang2 shu4
 阿黑门尼德王朝	a1 hei1 men2 ni2 de2 wang2 chao2
 阿拉伯电信联盟	a1 la1 bo2 dian4 xin4 lian2 meng2
@@ -53515,9 +53591,14 @@ sort: by_weight
 阿拉伯国家联盟	a1 la1 bo2 guo2 jia1 lian2 meng2
 阿拉斯加雪橇犬	a1 la1 si1 jia1 xue3 qiao1 quan3
 阿灵顿国家公墓	a1 ling2 dun4 guo2 jia1 gong1 mu4
+阿诺·施瓦辛格	a1 nuo4 shi1 wa3 xin1 ge2
+埃德·米利班德	ai1 de2 mi3 li4 ban1 de2
+埃克托·柏辽兹	ai1 ke4 tuo1 bo2 liao2 zi1
 矮脚白花蛇利草	ai3 jiao3 bai2 hua1 she2 li4 cao3
+爱德华·达拉第	ai4 de2 hua2 da2 la1 di4
 艾哈迈迪内贾德	ai4 ha1 mai4 di2 nei4 jia3 de2
 安地卡及巴布达	an1 di4 ka3 ji2 ba1 bu4 da2
+安娜·卡列尼娜	an1 na4 ka3 lie4 ni2 na4
 安提瓜和巴布达	an1 ti2 gua1 he2 ba1 bu4 da2
 按下葫芦浮起瓢	an4 xia4 hu2 lu2 fu2 qi3 piao2
 奥林匹克体育场	ao4 lin2 pi3 ke4 ti3 yu4 chang3
@@ -53526,6 +53607,7 @@ sort: by_weight
 巴贝西亚原虫病	ba1 bei4 xi1 ya4 yuan2 chong2 bing4
 巴布亚纽几内亚	ba1 bu4 ya4 niu3 ji1 nei4 ya4
 八大工业国组织	ba1 da4 gong1 ye4 guo2 zu3 zhi1
+巴登·符腾堡州	ba1 deng1 fu2 teng2 bao3 zhou1
 八十天环游地球	ba1 shi2 tian1 huan2 you2 di4 qiu2
 八字还没一撇儿	ba1 zi4 hai2 mei2 yi1 pie3 r5
 把心放在肚子里	ba3 xin1 fang4 zai4 du4 zi5 li3
@@ -53537,6 +53619,9 @@ sort: by_weight
 斑头绿拟啄木鸟	ban1 tou2 lv4 ni3 zhuo2 mu4 niao3
 半岛和东方航海	ban4 dao3 he2 dong1 fang1 hang2 hai3
 半封建半殖民地	ban4 feng1 jian4 ban4 zhi2 min2 di4
+鲍勃·伍德沃德	bao4 bo2 wu3 de2 wo4 de2
+卑之，无甚高论	bei1 zhi1 wu2 shen4 gao1 lun4
+卑之，毋甚高论	bei1 zhi1 wu2 shen4 gao1 lun4
 北川羌族自治县	bei3 chuan1 qiang1 zu2 zi4 zhi4 xian4
 北京产权交易所	bei3 jing1 chan3 quan2 jiao1 yi4 suo3
 北京工人体育场	bei3 jing1 gong1 ren2 ti3 yu4 chang3
@@ -53544,6 +53629,7 @@ sort: by_weight
 北京外国语大学	bei3 jing1 wai4 guo2 yu3 da4 xue2
 北京中医药大学	bei3 jing1 zhong1 yi1 yao4 da4 xue2
 北马里亚纳群岛	bei3 ma3 li3 ya4 na4 qun2 dao3
+贝娜齐尔·布托	bei4 na4 qi2 er3 bu4 tuo1
 边缘性人格障碍	bian1 yuan2 xing4 ren2 ge2 zhang4 ai4
 变异型克雅氏症	bian4 yi4 xing2 ke4 ya3 shi4 zheng4
 病虫害绿色防控	bing4 chong2 hai4 lv4 se4 fang2 kong4
@@ -53556,18 +53642,24 @@ sort: by_weight
 不见兔子不撒鹰	bu4 jian4 tu4 zi5 bu4 sa1 ying1
 不可撤销信用证	bu4 ke3 che4 xiao1 xin4 yong4 zheng4
 布拉戈维申斯克	bu4 la1 ge1 wei2 shen1 si1 ke4
+布莱特妮·墨菲	bu4 lai2 te4 ni1 mo4 fei1
 布里斯托尔海峡	bu4 li3 si1 tuo1 er3 hai3 xia2
 不列颠哥伦比亚	bu4 lie4 dian1 ge1 lun2 bi3 ya4
+不怕官，只怕管	bu4 pa4 guan1 zhi3 pa4 guan3
+不怕慢，就怕站	bu4 pa4 man4 jiu4 pa4 zhan4
 不识庐山真面目	bu4 shi4 lu2 shan1 zhen1 mian4 mu4
 不完全归纳推理	bu4 wan2 quan2 gui1 na4 tui1 li3
 不蒸馒头争口气	bu4 zheng1 man2 tou5 zheng1 kou3 qi4
 不撞南墙不回头	bu4 zhuang4 nan2 qiang2 bu4 hui2 tou2
+不自由，毋宁死	bu4 zi4 you2 wu2 ning4 si3
 不作死就不会死	bu4 zuo4 si3 jiu4 bu4 hui4 si3
 苍蝇不叮无缝蛋	cang1 ying5 bu4 ding1 wu2 feng4 dan4
 测试和材料协会	ce4 shi4 he2 cai2 liao4 xie2 hui4
+查尔斯·狄更斯	cha2 er3 si1 di2 geng1 si1
 柴米油盐酱醋茶	chai2 mi3 you2 yan2 jiang4 cu4 cha2
 长坂坡七进七出	chang2 ban3 po1 qi1 jin4 qi1 chu1
 长江后浪催前浪	chang2 jiang1 hou4 lang4 cui1 qian2 lang4
+长流水，不断线	chang2 liu2 shui3 bu4 duan4 xian4
 超高速乙太网路	chao1 gao1 su4 yi3 tai4 wang3 lu4
 超文本标记语言	chao1 wen2 ben3 biao1 ji4 yu3 yan2
 超文本传输协定	chao1 wen2 ben3 chuan2 shu1 xie2 ding4
@@ -53576,8 +53668,10 @@ sort: by_weight
 车到山前自有路	che1 dao4 shan1 qian2 zi4 you3 lu4
 吃水不忘掘井人	chi1 shui3 bu4 wang4 jue2 jing3 ren2
 吃水不忘挖井人	chi1 shui3 bu4 wang4 wa1 jing3 ren2
+吃一堑，长一智	chi1 yi1 qian4 zhang3 yi1 zhi4
 持续性植物状态	chi2 xu4 xing4 zhi2 wu4 zhuang4 tai4
 丑妻近地家中宝	chou3 qi1 jin4 di4 jia1 zhong1 bao3
+出满勤，干满点	chu1 man3 qin2 gan4 man3 dian3
 初生之犊不怕虎	chu1 sheng1 zhi1 du2 bu4 pa4 hu3
 船到桥头自然直	chuan2 dao4 qiao2 tou2 zi4 ran2 zhi2
 串行点阵打印机	chuan4 xing2 dian3 zhen4 da3 yin4 ji1
@@ -53595,14 +53689,18 @@ sort: by_weight
 大人不记小人过	da4 ren2 bu4 ji4 xiao3 ren2 guo4
 大树底下好乘凉	da4 shu4 di3 xia4 hao3 cheng2 liang2
 大水冲了龙王庙	da4 shui3 chong1 le5 long2 wang2 miao4
+大卫·米利班德	da4 wei4 mi3 li4 ban1 de2
 大型强子对撞机	da4 xing2 qiang2 zi3 dui4 zhuang4 ji1
 大丈夫能屈能伸	da4 zhang4 fu5 neng2 qu1 neng2 shen1
 代数学基本定理	dai4 shu4 xue2 ji1 ben3 ding4 li3
 单词产生器模型	dan1 ci2 chan3 sheng1 qi4 mo2 xing2
 单核细胞增多症	dan1 he2 xi4 bao1 zeng1 duo1 zheng4
+刀子嘴，豆腐心	dao1 zi5 zui3 dou4 fu5 xin1
 德国标准化学会	de2 guo2 biao1 zhun3 hua4 xue2 hui4
 德国统一社会党	de2 guo2 tong3 yi1 she4 hui4 dang3
 等效百万吨当量	deng3 xiao4 bai3 wan4 dun1 dang1 liang4
+狄奥多·阿多诺	di2 ao4 duo1 a1 duo1 nuo4
+迪戈·加西亚岛	di2 ge1 jia1 xi1 ya4 dao3
 地方性斑疹伤寒	di4 fang1 xing4 ban1 zhen3 shang1 han2
 第一次世界大战	di4 yi1 ci4 shi4 jie4 da4 zhan4
 电缆调制解调器	dian4 lan3 tiao2 zhi4 jie3 tiao2 qi4
@@ -53619,6 +53717,7 @@ sort: by_weight
 儿孙自有儿孙福	er2 sun1 zi4 you3 er2 sun1 fu2
 二硫基丙磺酸钠	er4 liu2 ji1 bing3 huang2 suan1 na4
 二硫基琥珀酸钠	er4 liu2 ji1 hu3 po4 suan1 na4
+法兰西斯·培根	fa3 lan2 xi1 si1 pei2 gen1
 法属波利尼西亚	fa3 shu3 bo1 li4 ni2 xi1 ya4
 反舰艇巡航导弹	fan3 jian4 ting3 xun2 hang2 dao3 dan4
 反酷刑折磨公约	fan3 ku4 xing2 zhe2 mo2 gong1 yue1
@@ -53633,6 +53732,8 @@ sort: by_weight
 肺炎克雷伯氏菌	fei4 yan2 ke4 lei2 bo2 shi4 jun1
 分布式拒绝服务	fen1 bu4 shi4 ju4 jue2 fu2 wu4
 分裂情感性障碍	fen1 lie4 qing2 gan3 xing4 zhang4 ai4
+风中烛，瓦上霜	feng1 zhong1 zhu2 wa3 shang4 shuang1
+弗兰西斯·培根	fu2 lan2 xi1 si1 pei2 gen1
 覆巢之下无完卵	fu4 chao2 zhi1 xia4 wu2 wan2 luan3
 妇女能顶半边天	fu4 nv3 neng2 ding3 ban4 bian1 tian1
 富士康科技集团	fu4 shi4 kang1 ke1 ji4 ji2 tuan2
@@ -53641,6 +53742,8 @@ sort: by_weight
 高丽八万大藏经	gao1 li2 ba1 wan4 da4 zang4 jing1
 给你点颜色看看	gei3 ni3 dian3 yan2 se4 kan4 kan5
 公用交换电话网	gong1 yong4 jiao1 huan4 dian4 hua4 wang3
+苟富贵，勿相忘	gou3 fu4 gui4 wu4 xiang1 wang4
+古斯塔夫·多雷	gu3 si1 ta3 fu1 duo1 lei2
 固体热容激光器	gu4 ti3 re4 rong2 ji1 guang1 qi4
 瓜达卡纳尔战役	gua1 da2 ka3 na4 er3 zhan4 yi4
 关公面前耍大刀	guan1 gong1 mian4 qian2 shua3 da4 dao1
@@ -53670,9 +53773,11 @@ sort: by_weight
 过程比终点更美	guo4 cheng2 bi3 zhong1 dian3 geng4 mei3
 过了这村没这店	guo4 le5 zhe4 cun1 mei2 zhe4 dian4
 哈伯太空望远镜	ha1 bo2 tai4 kong1 wang4 yuan3 jing4
+哈里森·施密特	ha1 li3 sen1 shi1 mi4 te4
 海峡交流基金会	hai3 xia2 jiao1 liu2 ji1 jin1 hui4
 韩国联合通讯社	han2 guo2 lian2 he2 tong1 xun4 she4
 航空母舰战斗群	hang2 kong1 mu3 jian4 zhan4 dou4 qun2
+豪伊杜·比豪尔	hao2 yi1 du4 bi3 hao2 er3
 好故事百听不厌	hao3 gu4 shi5 bai3 ting1 bu4 yan4
 好汉不提当年勇	hao3 han4 bu4 ti2 dang1 nian2 yong3
 好汉做事好汉当	hao3 han4 zuo4 shi4 hao3 han4 dang1
@@ -53681,6 +53786,8 @@ sort: by_weight
 好马不吃回头草	hao3 ma3 bu4 chi1 hui2 tou2 cao3
 好死不如赖活着	hao3 si3 bu4 ru2 lai4 huo2 zhe5
 核动力航空母舰	he2 dong4 li4 hang2 kong1 mu3 jian4
+赫尔穆特·科尔	he4 er3 mu4 te4 ke1 er3
+赫曼·麦尔维尔	he4 man4 mai4 er3 wei2 er3
 黑嘴端凤头燕鸥	hei1 zui3 duan1 feng4 tou2 yan4 ou1
 横挑鼻子竖挑眼	heng2 tiao1 bi2 zi5 shu4 tiao1 yan3
 红橙黄绿蓝靛紫	hong2 cheng2 huang2 lv4 lan2 dian4 zi3
@@ -53697,6 +53804,8 @@ sort: by_weight
 皇上不急急太监	huang2 shang4 bu4 ji2 ji2 tai4 jian4
 皇上不急太监急	huang2 shang4 bu4 ji2 tai4 jian4 ji2
 黄鼠狼给鸡拜年	huang2 shu3 lang2 gei3 ji1 bai4 nian2
+惠特妮·休斯顿	hui4 te4 ni1 xiu1 si1 dun4
+活到老，学到老	huo2 dao4 lao3 xue2 dao4 lao3
 货比三家不吃亏	huo4 bi3 san1 jia1 bu4 chi1 kui1
 货问三家不吃亏	huo4 wen4 san1 jia1 bu4 chi1 kui1
 基督教民主联盟	ji1 du1 jiao4 min2 zhu3 lian2 meng2
@@ -53705,6 +53814,7 @@ sort: by_weight
 吉伯特氏症候群	ji2 bo2 te4 shi4 zheng4 hou4 qun2
 急性氰化物中毒	ji2 xing4 qing2 hua4 wu4 zhong1 du2
 脊椎指压治疗师	ji3 zhui1 zhi3 ya1 zhi4 liao2 shi1
+既来之，则安之	ji4 lai2 zhi1 ze2 an1 zhi1
 纪律检查委员会	ji4 lv4 jian3 cha2 wei3 yuan2 hui4
 济州特别自治道	ji4 zhou1 te4 bie2 zi4 zhi4 dao4
 家花没有野花香	jia1 hua1 mei2 you3 ye3 hua1 xiang1
@@ -53712,10 +53822,13 @@ sort: by_weight
 加拉帕戈斯群岛	jia1 la1 pa4 ge1 si1 qun2 dao3
 加勒比国家联盟	jia1 le4 bi3 guo2 jia1 lian2 meng2
 加利福尼亚大学	jia1 li4 fu2 ni2 ya4 da4 xue2
+伽利略·伽利雷	jia1 li4 lve4 jia1 li4 lei2
 加拿大皇家海军	jia1 na2 da4 huang2 jia1 hai3 jun1
 荚膜组织胞浆菌	jia2 mo2 zu3 zhi1 bao1 jiang1 jun1
 甲状腺功能亢进	jia3 zhuang4 xian4 gong1 neng2 kang4 jin4
 捡到篮里就是菜	jian3 dao4 lan2 li3 jiu4 shi4 cai4
+杰奎琳·肯尼迪	jie2 kui2 lin2 ken3 ni2 di2
+杰西卡·艾尔芭	jie2 xi1 ka3 ai4 er3 ba1
 解离性人格疾患	jie3 li2 xing4 ren2 ge2 ji2 huan4
 解铃还需系铃人	jie3 ling2 hai2 xu1 xi4 ling2 ren2
 介质访问控制层	jie4 zhi4 fang3 wen4 kong4 zhi4 ceng2
@@ -53734,19 +53847,25 @@ sort: by_weight
 坎贝尔侏儒仓鼠	kan3 bei4 er3 zhu1 ru2 cang1 shu3
 坎特伯雷故事集	kan3 te4 bo2 lei2 gu4 shi4 ji2
 砍头不过风吹帽	kan3 tou2 bu4 guo4 feng1 chui1 mao4
+康多莉扎·赖斯	kang1 duo1 li4 zha1 lai4 si1
 抗震救灾指挥部	kang4 zhen4 jiu4 zai1 zhi3 hui1 bu4
+科比·布莱恩特	ke1 bi3 bu4 lai2 en1 te4
 科罗拉多大峡谷	ke1 luo2 la1 duo1 da4 xia2 gu3
 科特迪瓦共和国	ke1 te4 di2 wa3 gong4 he2 guo2
 科学技术现代化	ke1 xue2 ji4 shu4 xian4 dai4 hua4
 可变渗透性模型	ke3 bian4 shen4 tou4 xing4 mo2 xing2
 可扩展标记语言	ke3 kuo4 zhan3 biao1 ji4 yu3 yan2
 客户服务器结构	ke4 hu4 fu2 wu4 qi4 jie2 gou4
+克里斯汀·贝尔	ke4 li3 si1 ting1 bei4 er3
 克罗地亚共和国	ke4 luo2 di4 ya4 gong4 he2 guo2
 肯尼迪航天中心	ken3 ni2 di2 hang2 tian1 zhong1 xin1
 空中交通管制员	kong1 zhong1 jiao1 tong1 guan3 zhi4 yuan2
 库木吐拉千佛洞	ku4 mu4 tu3 la1 qian1 fo2 dong4
 会计准则理事会	kuai4 ji4 zhun3 ze2 li3 shi4 hui4
 宽甸满族自治县	kuan1 dian4 man3 zu2 zi4 zhi4 xian4
+昆汀·塔伦蒂诺	kun1 ting1 ta3 lun2 di4 nuo4
+昆汀·塔伦提诺	kun1 ting1 ta3 lun2 ti2 nuo4
+来无影，去无踪	lai2 wu2 ying3 qu4 wu2 zong1
 懒驴上磨屎尿多	lan3 lv2 shang4 mo4 shi3 niao4 duo1
 老婆孩子热炕头	lao3 po2 hai2 zi5 re4 kang4 tou5
 冷湖行政委员会	leng3 hu2 xing2 zheng4 wei3 yuan2 hui4
@@ -53757,14 +53876,22 @@ sort: by_weight
 梁山伯与祝英台	liang2 shan1 bo2 yu3 zhu4 ying1 tai2
 两耳不闻窗外事	liang3 er3 bu4 wen2 chuang1 wai4 shi4
 两手不沾阳春水	liang3 shou3 bu4 zhan1 yang2 chun1 shui3
+列夫·托尔斯泰	lie4 fu1 tuo1 er3 si1 tai4
 猎杀红色十月号	lie4 sha1 hong2 se4 shi2 yue4 hao4
 刘姥姥进大观园	liu2 lao3 lao5 jin4 da4 guan1 yuan2
 伦敦证券交易所	lun2 dun1 zheng4 quan4 jiao1 yi4 suo3
+罗伯特·伯恩斯	luo2 bo2 te4 bo2 en1 si1
 萝卜快了不洗泥	luo2 bo5 kuai4 le5 bu4 xi3 ni2
+罗尔斯·罗伊斯	luo2 er3 si1 luo2 yi1 si1
 罗摩诺索夫山脊	luo2 mo2 nuo4 suo3 fu1 shan1 ji3
+绿坝·花季护航	lv4 ba4 hua1 ji4 hu4 hang2
+马丁·路德·金	ma3 ding1 lu4 de2 jin1
 马哈拉施特拉邦	ma3 ha1 la1 shi1 te4 la1 bang1
+马克斯·普朗克	ma3 ke4 si1 pu3 lang3 ke4
 麦迪逊广场花园	mai4 di2 xun4 guang3 chang3 hua1 yuan2
 麦迪逊花园广场	mai4 di2 xun4 hua1 yuan2 guang3 chang3
+迈克尔·杰克逊	mai4 ke4 er3 jie2 ke4 xun4
+迈克尔·克莱顿	mai4 ke4 er3 ke4 lai2 dun4
 满城尽带黄金甲	man3 cheng2 jin4 dai4 huang2 jin1 jia3
 曼荷莲女子学院	man4 he2 lian2 nv3 zi3 xue2 yuan4
 慢性疲勞症候群	man4 xing4 pi2 lao2 zheng4 hou4 qun2
@@ -53784,15 +53911,21 @@ sort: by_weight
 蒙古人民共和国	meng3 gu3 ren2 min2 gong4 he2 guo2
 面朝黄土背朝天	mian4 chao2 huang2 tu3 bei4 chao2 tian1
 面向对象的技术	mian4 xiang4 dui4 xiang4 de5 ji4 shu4
+穆罕默德·欧玛	mu4 han3 mo4 de2 ou1 ma3
+拿破仑·波拿巴	na2 po4 lun2 bo1 na2 ba1
 拿着鸡毛当令箭	na2 zhe5 ji1 mao2 dang4 ling4 jian4
 哪壶不开提哪壶	na3 hu2 bu4 kai1 ti2 na3 hu2
+纳撒尼尔·霍桑	na4 sa1 ni2 er3 huo4 sang1
 南京大屠杀事件	nan2 jing1 da4 tu2 sha1 shi4 jian4
 男人膝下有黄金	nan2 ren2 xi1 xia4 you3 huang2 jin1
+男主外，女主内	nan2 zhu3 wai4 nv3 zhu3 nei4
 纽约证券交易所	niu3 yue1 zheng4 quan4 jiao1 yi4 suo3
 农业生产合作社	nong2 ye4 sheng1 chan3 he2 zuo4 she4
 诺贝尔物理学奖	nuo4 bei4 er3 wu4 li3 xue2 jiang3
+诺姆·乔姆斯基	nuo4 mu3 qiao2 mu3 si1 ji1
 女子无才便是德	nv3 zi3 wu2 cai2 bian4 shi4 de2
 欧洲原子能联营	ou1 zhou1 yuan2 zi3 neng2 lian2 ying2
+帕丽斯·希尔顿	pa4 li4 si1 xi1 er3 dun4
 排污地下主管网	pai2 wu1 di4 xia4 zhu3 guan3 wang3
 赔了夫人又折兵	pei2 le5 fu1 ren2 you4 zhe2 bing1
 喷气推进实验室	pen1 qi4 tui1 jin4 shi2 yan4 shi4
@@ -53800,8 +53933,10 @@ sort: by_weight
 破屋又遭连夜雨	po4 wu1 you4 zao1 lian2 ye4 yu3
 葡萄球菌肠毒素	pu2 tao2 qiu2 jun1 chang2 du2 su4
 普尔热瓦尔斯基	pu3 er3 re4 wa3 er3 si1 ji1
+普密蓬·阿杜德	pu3 mi4 peng2 a1 du4 de2
 普通话水平测试	pu3 tong1 hua4 shui3 ping2 ce4 shi4
 七大工业国集团	qi1 da4 gong1 ye4 guo2 ji2 tuan2
+齐内丁·齐达内	qi2 nei4 ding1 qi2 da2 nei4
 千里达和多巴哥	qian1 li3 da2 he2 duo1 ba1 ge1
 千里达及托巴哥	qian1 li3 da2 ji2 tuo1 ba1 ge1
 千鸟渊国家公墓	qian1 niao3 yuan1 guo2 jia1 gong1 mu4
@@ -53809,6 +53944,7 @@ sort: by_weight
 钱多事少离家近	qian2 duo1 shi4 shao3 li2 jia1 jin4
 潜水装备拖轮箱	qian2 shui3 zhuang1 bei4 tuo1 lun2 xiang1
 茄二十八星瓢虫	qie2 er4 shi2 ba1 xing1 piao2 chong2
+亲兄弟，明算帐	qin1 xiong1 di4 ming2 suan4 zhang4
 勤俭为服务之本	qin2 jian3 wei2 fu2 wu4 zhi1 ben3
 情人眼里有西施	qing2 ren2 yan3 li3 you3 xi1 shi1
 请神容易送神难	qing3 shen2 rong2 yi4 song4 shen2 nan2
@@ -53816,20 +53952,27 @@ sort: by_weight
 全民义务植树日	quan2 min2 yi4 wu4 zhi2 shu4 ri4
 全身中毒性毒剂	quan2 shen1 zhong1 du2 xing4 du2 ji4
 染色体三倍体症	ran3 se4 ti3 san1 bei4 ti3 zheng4
+热比亚·卡德尔	re4 bi3 ya4 ka3 de2 er3
+热比娅·卡德尔	re4 bi3 ya4 ka3 de2 er3
+人比人，气死人	ren2 bi3 ren2 qi4 si3 ren2
 人类基因组计划	ren2 lei4 ji1 yin1 zu3 ji4 hua4
 人怕出名猪怕肥	ren2 pa4 chu1 ming2 zhu1 pa4 fei2
 人怕出名猪怕壮	ren2 pa4 chu1 ming2 zhu1 pa4 zhuang4
+人之初，性本善	ren2 zhi1 chu1 xing4 ben3 shan4
 认知神经心理学	ren4 zhi1 shen2 jing1 xin1 li3 xue2
 撒哈拉以南非洲	sa1 ha1 la1 yi3 nan2 fei1 zhou1
+萨达姆·侯赛因	sa4 da2 mu3 hou2 sai4 yin1
 萨哈罗夫人权奖	sa4 ha3 luo2 fu1 ren2 quan2 jiang3
 萨哈诺夫人权奖	sa4 ha3 nuo4 fu1 ren2 quan2 jiang3
 塞尔维亚和黑山	sai1 er3 wei2 ya4 he2 hei1 shan1
+塞缪尔·约翰逊	sai1 miu4 er3 yue1 han4 xun4
 三个和尚没水吃	san1 ge4 he2 shang5 mei2 shui3 chi1
 三个和尚没水喝	san1 ge4 he2 shang5 mei2 shui3 he1
 三个女人一个墟	san1 ge4 nv3 ren2 yi1 ge4 xu1
 三个女人一台戏	san1 ge5 nv3 ren2 yi1 tai2 xi4
 三江生态旅游区	san1 jiang1 sheng1 tai4 lv3 you2 qu1
 色字头上一把刀	se4 zi4 tou2 shang4 yi1 ba3 dao1
+沙奎尔·奥尼尔	sha1 kui2 er3 ao4 ni2 er3
 杀人不过头点地	sha1 ren2 bu4 guo4 tou2 dian3 di4
 煽动颠覆国家罪	shan1 dong4 dian1 fu4 guo2 jia1 zui4
 上海外国语大学	shang4 hai3 wai4 guo2 yu3 da4 xue2
@@ -53840,6 +53983,7 @@ sort: by_weight
 深圳证券交易所	shen1 zhen4 zheng4 quan4 jiao1 yi4 suo3
 圣安德列斯断层	sheng4 an1 de2 lie4 si1 duan4 ceng2
 圣安地列斯断层	sheng4 an1 de5 lie4 si1 duan4 ceng2
+胜不骄，败不馁	sheng4 bu4 jiao1 bai4 bu4 nei3
 圣基茨和尼维斯	sheng4 ji1 ci2 he2 ni2 wei2 si1
 圣索非亚大教堂	sheng4 suo3 fei1 ya4 da4 jiao4 tang2
 胜者王侯败者寇	sheng4 zhe3 wang2 hou2 bai4 zhe3 kou4
@@ -53854,14 +53998,20 @@ sort: by_weight
 石油换食品项目	shi2 you2 huan4 shi2 pin3 xiang4 mu4
 石油输出国组织	shi2 you2 shu1 chu1 guo2 zu3 zhi1
 十指不沾阳春水	shi2 zhi3 bu4 zhan1 yang2 chun1 shui3
+史蒂夫·乔布斯	shi3 di4 fu1 qiao2 bu4 si1
+史提夫·贾伯斯	shi3 ti2 fu1 jia3 bo2 si1
 世界文化遗产地	shi4 jie4 wen2 hua4 yi2 chan3 di4
 世界自然基金会	shi4 jie4 zi4 ran2 ji1 jin1 hui4
 手心手背都是肉	shou3 xin1 shou3 bei4 dou1 shi4 rou4
 鼠蚤型斑疹伤寒	shu3 zao3 xing2 ban1 zhen3 shang1 han2
+说曹操，曹操到	shuo1 cao2 cao1 cao2 cao1 dao4
 说曹操曹操就到	shuo1 cao2 cao1 cao2 cao1 jiu4 dao4
+说时迟，那时快	shuo1 shi2 chi2 na4 shi2 kuai4
+说一千，道一万	shuo1 yi1 qian1 dao4 yi1 wan4
 斯大林格勒会战	si1 da4 lin2 ge2 le4 hui4 zhan4
 斯大林格勒战役	si1 da4 lin2 ge2 le4 zhan4 yi4
 斯普拉特利群岛	si1 pu3 la1 te4 li4 qun2 dao3
+斯坦福·莱佛士	si1 tan3 fu2 lai2 fo2 shi4
 斯特凡诺普洛斯	si1 te4 fan2 nuo4 pu3 luo4 si1
 死要面子活受罪	si3 yao4 mian4 zi5 huo2 shou4 zui4
 死猪不怕开水烫	si3 zhu1 bu4 pa4 kai1 shui3 tang4
@@ -53898,21 +54048,25 @@ sort: by_weight
 偷鸡不成蚀把米	tou1 ji1 bu4 cheng2 shi2 ba3 mi3
 偷鸡不着蚀把米	tou1 ji1 bu4 zhao2 shi2 ba3 mi3
 头发胡子一把抓	tou2 fa5 hu2 zi5 yi1 ba3 zhua1
+头悬梁，锥刺股	tou2 xuan2 liang2 zhui1 ci4 gu3
 图雷特氏综合症	tu2 lei2 te4 shi4 zong1 he2 zheng4
 土耳其旋转烤肉	tu3 er3 qi2 xuan2 zhuan3 kao3 rou4
 兔子不吃窝边草	tu4 zi5 bu4 chi1 wo1 bian1 cao3
 兔子尾巴长不了	tu4 zi5 wei3 ba5 chang2 bu5 liao3
+托马斯·阿奎纳	tuo1 ma3 si1 a1 kui2 na4
 陀思妥耶夫斯基	tuo2 si1 tuo3 ye1 fu1 si1 ji1
 陀思妥也夫斯基	tuo2 si1 tuo3 ye3 fu1 si1 ji1
 瓦利斯和富图纳	wa3 li4 si1 he2 fu4 tu2 na4
 外国人居住证明	wai4 guo2 ren2 ju1 zhu4 zheng4 ming2
 外交关系理事会	wai4 jiao1 guan1 xi4 li3 shi4 hui4
 微积分基本定理	wei1 ji1 fen1 ji1 ben3 ding4 li3
+威廉·莎士比亚	wei1 lian2 sha1 shi4 bi3 ya4
 威斯敏斯特教堂	wei1 si1 min3 si1 te4 jiao4 tang2
 维基媒体基金会	wei2 ji1 mei2 ti3 ji1 jin1 hui4
 文莱达鲁萨兰国	wen2 lai2 da2 lu3 sa4 lan2 guo2
 蚊子再小也是肉	wen2 zi5 zai4 xiao3 ye3 shi4 rou4
 涡轮喷气发动机	wo1 lun2 pen1 qi4 fa1 dong4 ji1
+沃尔特·惠特曼	wo4 er3 te4 hui4 te4 man4
 卧龙自然保护区	wo4 long2 zi4 ran2 bao3 hu4 qu1
 屋漏更遭连夜雨	wu1 lou4 geng4 zao1 lian2 ye4 yu3
 乌什塔拉回族乡	wu1 shi2 ta3 la1 hui2 zu2 xiang1
@@ -53923,9 +54077,11 @@ sort: by_weight
 五讲四美三热爱	wu3 jiang3 si4 mei3 san1 re4 ai4
 西安外国语大学	xi1 an1 wai4 guo2 yu3 da4 xue2
 西方马脑炎病毒	xi1 fang1 ma3 nao3 yan2 bing4 du2
+希拉里·克林顿	xi1 la1 li3 ke4 lin2 dun4
 戏剧化人格违常	xi4 ju4 hua4 ren2 ge2 wei2 chang2
 瞎猫碰上死耗子	xia1 mao1 peng4 shang4 si3 hao4 zi5
 夏洛特阿马利亚	xia4 luo4 te4 a1 ma3 li4 ya4
+夏洛特·勃良特	xia4 luo4 te4 bo2 liang2 te4
 鲜花插在牛粪上	xian1 hua1 cha1 zai4 niu2 fen4 shang4
 宪法监护委员会	xian4 fa3 jian1 hu4 wei3 yuan2 hui4
 现在是过去钥匙	xian4 zai4 shi4 guo4 qu5 yao4 shi5
@@ -53934,6 +54090,7 @@ sort: by_weight
 香港贸易发展局	xiang1 gang3 mao4 yi4 fa1 zhan3 ju2
 小洞不堵沉大船	xiao3 dong4 bu4 du3 chen2 da4 chuan2
 小葵花凤头鹦鹉	xiao3 kui2 hua1 feng4 tou2 ying1 wu3
+心有余，力不足	xin1 you3 yu2 li4 bu4 zu2
 信息与通讯技术	xin4 xi1 yu3 tong1 xun4 ji4 shu4
 需要是发明之母	xu1 yao4 shi4 fa1 ming2 zhi1 mu3
 旋转行李传送带	xuan2 zhuan3 xing2 li5 chuan2 song4 dai4
@@ -53944,8 +54101,11 @@ sort: by_weight
 亚尔发和奥米加	ya4 er3 fa1 he2 ao4 mi3 jia1
 亚洲太平洋地区	ya4 zhou1 tai4 ping2 yang2 di4 qu1
 亚洲足球联合会	ya4 zhou1 zu2 qiu2 lian2 he2 hui4
+言必信，行必果	yan2 bi4 xin4 xing2 bi4 guo3
+眼不见，心不烦	yan3 bu4 jian4 xin1 bu4 fan2
 眼里容不得沙子	yan3 li3 rong2 bu5 de2 sha1 zi5
 眼里揉不得沙子	yan3 li3 rou2 bu5 de2 sha1 zi5
+眼中钉，肉中刺	yan3 zhong1 ding1 rou4 zhong1 ci4
 燕子衔泥垒大窝	yan4 zi5 xian2 ni2 lei3 da4 wo1
 洋浦经济开发区	yang2 pu3 jing1 ji4 kai1 fa1 qu1
 腰椎间盘突出症	yao1 zhui1 jian1 pan2 tu1 chu1 zheng4
@@ -53954,6 +54114,8 @@ sort: by_weight
 药物代谢动力学	yao4 wu4 dai4 xie4 dong4 li4 xue2
 也好不到哪里去	ye3 hao3 bu4 dao4 na3 li3 qu4
 野生生物基金会	ye3 sheng1 sheng1 wu4 ji1 jin1 hui4
+一传十，十传百	yi1 chuan2 shi2 shi2 chuan2 bai3
+一次生，两次熟	yi1 ci4 sheng1 liang3 ci4 shu2
 一寸光阴一寸金	yi1 cun4 guang1 yin1 yi1 cun4 jin1
 一个萝卜一个坑	yi1 ge4 luo2 bo5 yi1 ge4 keng1
 一个巴掌拍不响	yi1 ge5 ba1 zhang3 pai1 bu4 xiang3
@@ -53965,6 +54127,7 @@ sort: by_weight
 一日之计在于晨	yi1 ri4 zhi1 ji4 zai4 yu2 chen2
 一失足成千古恨	yi1 shi1 zu2 cheng2 qian1 gu3 hen4
 伊士曼柯达公司	yi1 shi4 man4 ke1 da2 gong1 si1
+一是一，二是二	yi1 shi4 yi1 er4 shi4 er4
 伊斯兰会议组织	yi1 si1 lan2 hui4 yi4 zu3 zhi1
 伊斯兰圣战组织	yi1 si1 lan2 sheng4 zhan4 zu3 zhi1
 一条绳上的蚂蚱	yi1 tiao2 sheng2 shang4 de5 ma4 zha5
@@ -53977,6 +54140,7 @@ sort: by_weight
 印第安纳波利斯	yin4 di4 an1 na4 bo1 li4 si1
 婴儿猝死综合症	ying1 er2 cu4 si3 zong1 he2 zheng4
 用户到网络接口	yong4 hu4 dao4 wang3 luo4 jie1 kou3
+尤里斯·伊文思	you2 li3 si1 yi1 wen2 si1
 犹太复国主义者	you2 tai4 fu4 guo2 zhu3 yi4 zhe3
 有百害而无一利	you3 bai3 hai4 er2 wu2 yi1 li4
 有百利而无一弊	you3 bai3 li4 er2 wu2 yi1 bi4
@@ -53985,17 +54149,26 @@ sort: by_weight
 有仇不报非君子	you3 chou2 bu4 bao4 fei1 jun1 zi3
 有所得必有所失	you3 suo3 de2 bi4 you3 suo3 shi1
 冤家宜解不宜结	yuan1 jia1 yi2 jie3 bu4 yi2 jie2
+冤有头，债有主	yuan1 you3 tou2 zhai4 you3 zhu3
 冤冤相报何时了	yuan1 yuan1 xiang1 bao4 he2 shi2 liao3
 圆口纲脊椎动物	yuan2 kou3 gang1 ji3 zhui1 dong4 wu4
 原子科学家通报	yuan2 zi3 ke1 xue2 jia1 tong1 bao4
 远水救不了近火	yuan3 shui3 jiu4 bu5 liao3 jin4 huo3
+约翰·厄普代克	yue1 han4 e4 pu3 dai4 ke4
+约瑟夫·斯大林	yue1 se4 fu1 si1 da4 lin2
 越南民主共和国	yue4 nan2 min2 zhu3 gong4 he2 guo2
 云南白斑尾柳莺	yun2 nan2 bai2 ban1 wei3 liu3 ying1
 载人轨道空间站	zai4 ren2 gui3 dao4 kong1 jian1 zhan4
 再生不良性贫血	zai4 sheng1 bu4 liang2 xing4 pin2 xue4
+早动手，早收获	zao3 dong4 shou3 zao3 shou1 huo4
+詹姆斯·高斯林	zhan1 mu3 si1 gao1 si1 lin2
+詹姆斯·戈士林	zhan1 mu3 si1 ge1 shi4 lin2
+詹姆斯·戈斯林	zhan1 mu3 si1 ge1 si1 lin2
+詹姆斯·乔伊斯	zhan1 mu3 si1 qiao2 yi1 si1
 沾染程度检查仪	zhan1 ran3 cheng2 du4 jian3 cha2 yi2
 占着茅坑不拉屎	zhan4 zhe5 mao2 keng1 bu4 la1 shi3
 站着说话不腰疼	zhan4 zhe5 shuo1 hua4 bu4 yao1 teng2
+张家长，李家短	zhang1 jia1 chang2 li3 jia1 duan3
 这山望着那山高	zhe4 shan1 wang4 zhe5 na4 shan1 gao1
 针尖儿对麦芒儿	zhen1 jian1 r5 dui4 mai4 mang2 r5
 真金不怕火来烧	zhen1 jin1 bu4 pa4 huo3 lai2 shao1
@@ -54028,14 +54201,19 @@ sort: by_weight
 中文标准交换码	zhong1 wen2 biao1 zhun3 jiao1 huan4 ma3
 中央军事委员会	zhong1 yang1 jun1 shi4 wei3 yuan2 hui4
 宙斯盾战斗系统	zhou4 si1 dun4 zhan4 dou4 xi4 tong3
+茱莉雅·吉拉德	zhu1 li4 ya3 ji2 la1 de2
 煮熟的鸭子飞了	zhu3 shu2 de5 ya1 zi5 fei1 le5
 助人为快乐之本	zhu4 ren2 wei2 kuai4 le4 zhi1 ben3
 紫颊直嘴太阳鸟	zi3 jia2 zhi2 zui3 tai4 yang2 niao3
 自然科学基金会	zi4 ran2 ke1 xue2 ji1 jin1 hui4
 自由软件基金会	zi4 you2 ruan3 jian4 ji1 jin1 hui4
 租地人投标票权	zu1 di4 ren2 tou2 biao1 piao4 quan2
+左耳入，右耳出	zuo3 er3 ru4 you4 er3 chu1
 阿尔汉格尔斯克州	a1 er3 han4 ge2 er3 si1 ke4 zhou1
+阿加莎·克里斯蒂	a1 jia1 sha1 ke4 li3 si1 di4
 阿拉伯联合大公国	a1 la1 bo2 lian2 he2 da4 gong1 guo2
+阿诺德·施瓦辛格	a1 nuo4 de2 shi1 wa3 xin1 ge2
+埃德加·爱伦·坡	ai1 de2 jia1 ai4 lun2 po1
 爱丽丝漫游奇境记	ai4 li4 si1 man4 you2 qi2 jing4 ji4
 安徽工程科技学院	an1 hui1 gong1 cheng2 ke1 ji4 xue2 yuan4
 安徽建筑工业学院	an1 hui1 jian4 zhu4 gong1 ye4 xue2 yuan4
@@ -54056,11 +54234,13 @@ sort: by_weight
 北京核武器研究所	bei3 jing1 he2 wu3 qi4 yan2 jiu1 suo3
 北京环球金融中心	bei3 jing1 huan2 qiu2 jin1 rong2 zhong1 xin1
 备用二级头呼吸器	bei4 yong4 er4 ji2 tou2 hu1 xi1 qi4
+本杰明·富兰克林	ben3 jie2 ming2 fu4 lan2 ke4 lin2
 比上不足比下有余	bi3 shang4 bu4 zu2 bi3 xia4 you3 yu2
 笔胜于刀文比武强	bi3 sheng4 yu2 dao1 wen2 bi3 wu3 qiang2
 般若波罗密多心经	bo1 re3 bo1 luo2 mi4 duo1 xin1 jing1
 不当家不知柴米贵	bu4 dang1 jia1 bu4 zhi1 chai2 mi3 gui4
 不扩散核武器条约	bu4 kuo4 san4 he2 wu3 qi4 tiao2 yue1
+布兰妮·斯皮尔斯	bu4 lan2 ni1 si1 pi2 er3 si1
 不列颠哥伦比亚省	bu4 lie4 dian1 ge1 lun2 bi3 ya4 sheng3
 布鲁克海文实验室	bu4 lu3 ke4 hai3 wen2 shi2 yan4 shi4
 不是鱼死就是网破	bu4 shi4 yu2 si3 jiu4 shi4 wang3 po4
@@ -54070,21 +54250,28 @@ sort: by_weight
 持续性植物人状态	chi2 xu4 xing4 zhi2 wu4 ren2 zhuang4 tai4
 出来混迟早要还的	chu1 lai2 hun4 chi2 zao3 yao4 huan2 de5
 出入境检验检疫局	chu1 ru4 jing4 jian3 yan4 jian3 yi4 ju2
+船到江心，补漏迟	chuan2 dao4 jiang1 xin1 bu3 lou4 chi2
+船到码头，车到站	chuan2 dao4 ma3 tou2 che1 dao4 zhan4
 次级房屋信贷危机	ci4 ji2 fang2 wu1 xin4 dai4 wei1 ji1
 大柴旦行政委员会	da4 chai2 dan4 xing2 zheng4 wei3 yuan2 hui4
 大学学科能力测验	da4 xue2 xue2 ke1 neng2 li4 ce4 yan4
 单端孢霉烯类毒素	dan1 duan1 bao1 mei2 xi1 lei4 du2 su4
+刀子嘴巴，豆腐心	dao1 zi5 zui3 ba5 dou4 fu5 xin1
 德国汉莎航空公司	de2 guo2 han4 sha1 hang2 kong1 gong1 si1
 德国学术交流总署	de2 guo2 xue2 shu4 jiao1 liu2 zong3 shu3
 德意志民主共和国	de2 yi4 zhi4 min2 zhu3 gong4 he2 guo2
 东一榔头西一棒子	dong1 yi1 lang2 tou2 xi1 yi1 bang4 zi5
 对外经济贸易大学	dui4 wai4 jing1 ji4 mao4 yi4 da4 xue2
 多元不饱和脂肪酸	duo1 yuan2 bu4 bao3 he2 zhi1 fang2 suan1
+额勒贝格·道尔吉	e2 le4 bei4 ge2 dao4 er3 ji2
 二氯苯胺苯乙酸钠	er4 lv4 ben3 an4 ben3 yi3 suan1 na4
 二氯异三聚氰酸钠	er4 lv4 yi4 san1 ju4 qing2 suan1 na4
+法兰西斯·斐迪南	fa3 lan2 xi1 si1 fei3 di2 nan2
 翻手为云覆手变雨	fan1 shou3 wei2 yun2 fu4 shou3 bian4 yu3
 反革命宣传煽动罪	fan3 ge2 ming4 xuan1 chuan2 shan1 dong4 zui4
 范德格拉夫起电机	fan4 de2 ge2 la1 fu1 qi3 dian4 ji1
+弗朗索瓦·霍兰德	fu2 lang3 suo3 wa3 huo4 lan2 de2
+弗里德里希·席勒	fu2 li3 de2 li3 xi1 xi2 le4
 格林尼治标准时间	ge2 lin2 ni2 zhi4 biao1 zhun3 shi2 jian1
 格林威治标准时间	ge2 lin2 wei1 zhi4 biao1 zhun3 shi2 jian1
 公共交换电话网路	gong1 gong4 jiao1 huan4 dian4 hua4 wang3 lu4
@@ -54092,6 +54279,7 @@ sort: by_weight
 功能性磁共振成像	gong1 neng2 xing4 ci2 gong4 zhen4 cheng2 xiang4
 狗嘴里吐不出象牙	gou3 zui3 li5 tu3 bu4 chu1 xiang4 ya2
 古尔班通古特沙漠	gu3 er3 ban1 tong1 gu3 te4 sha1 mo4
+关关难过，关关过	guan1 guan1 nan2 guo4 guan1 guan1 guo4
 关税与贸易总协定	guan1 shui4 yu3 mao4 yi4 zong3 xie2 ding4
 冠状动脉旁通手术	guan1 zhuang4 dong4 mai4 pang2 tong1 shou3 shu4
 光脚的不怕穿鞋的	guang1 jiao3 de5 bu4 pa4 chuan1 xie2 de5
@@ -54112,6 +54300,7 @@ sort: by_weight
 国务院新闻办公室	guo2 wu4 yuan4 xin1 wen2 ban4 gong1 shi4
 海峡两岸关系协会	hai3 xia2 liang3 an4 guan1 xi5 xie2 hui4
 寒武纪生命大爆发	han2 wu3 ji4 sheng1 ming4 da4 bao4 fa1
+豪伊杜·比豪尔州	hao2 yi1 du4 bi4 hao2 er3 zhou1
 好记性不如烂笔头	hao3 ji4 xing4 bu4 ru2 lan4 bi3 tou2
 好心倒做了驴肝肺	hao3 xin1 dao4 zuo4 le5 lv2 gan1 fei1
 河南蒙古族自治县	he2 nan2 meng2 gu3 zu2 zi4 zhi4 xian4
@@ -54138,11 +54327,13 @@ sort: by_weight
 九寨沟风景名胜区	jiu3 zhai4 gou1 feng1 jing3 ming2 sheng4 qu1
 居民消费价格指数	ju1 min2 xiao1 fei4 jia4 ge2 zhi3 shu4
 巨无霸汉堡包指数	ju4 wu2 ba4 han4 bao3 bao1 zhi3 shu4
+卡斯蒂利亚·莱昂	ka3 si1 di4 li4 ya4 lai2 ang2
 客户机服务器环境	ke4 hu4 ji1 fu2 wu4 qi4 huan2 jing4
 克莱斯勒汽车公司	ke4 lai2 si1 le4 qi4 che1 gong1 si1
 克孜尔尕哈烽火台	ke4 zi1 er3 ga3 ha1 feng1 huo3 tai2
 空穴来风未必无因	kong4 xue2 lai2 feng1 wei4 bi4 wu2 yin1
 拉不出屎来怨茅房	la1 bu4 chu1 shi3 lai2 yuan4 mao2 fang2
+来得容易，去得快	lai2 de5 rong2 yi4 qu4 de5 kuai4
 来得早不如来得巧	lai2 de5 zao3 bu4 ru2 lai2 de5 qiao3
 癞蛤蟆想吃天鹅肉	lai4 ha2 ma5 xiang3 chi1 tian1 e2 rou4
 兰郑长成品油管道	lan2 zheng4 chang2 cheng2 pin3 you2 guan3 dao4
@@ -54152,12 +54343,14 @@ sort: by_weight
 联合国环境规划署	lian2 he2 guo2 huan2 jing4 gui1 hua4 shu3
 联合国开发计划署	lian2 he2 guo2 kai1 fa1 ji4 hua4 shu3
 伦敦大学亚非学院	lun2 dun1 da4 xue2 ya4 fei1 xue2 yuan4
+罗伯特·佛洛斯特	luo2 bo2 te4 fu2 luo4 si1 te4
 美国电话电报公司	mei3 guo2 dian4 hua4 dian4 bao4 gong1 si1
 美国国家标准学会	mei3 guo2 guo2 jia1 biao1 zhun3 xue2 hui4
 美国全国广播公司	mei3 guo2 quan2 guo2 guang3 bo1 gong1 si1
 孟加拉人民共和国	meng4 jia1 la1 ren2 min2 gong4 he2 guo2
 面心立方最密堆积	mian4 xin1 li4 fang1 zui4 mi4 dui1 ji1
 民主建港协进联盟	min2 zhu3 jian4 gang3 xie2 jin4 lian2 meng2
+莫尼卡·莱温斯基	mo4 ni2 ka3 lai2 wen1 si1 ji1
 南亚区域合作联盟	nan2 ya4 qu1 yu4 he2 zuo4 lian2 meng2
 内六角圆柱头螺钉	nei4 liu4 jiao3 yuan2 zhu4 tou2 luo2 ding1
 纽芬兰与拉布拉多	niu3 fen1 lan2 yu3 la1 bu4 la1 duo1
@@ -54165,6 +54358,7 @@ sort: by_weight
 欧洲核子研究中心	ou1 zhou1 he2 zi3 yan2 jiu1 zhong1 xin1
 欧洲自由贸易联盟	ou1 zhou1 zi4 you2 mao4 yi4 lian2 meng2
 跑了和尚跑不了庙	pao3 le5 he2 shang4 pao3 bu4 liao3 miao4
+珀西·比希·雪莱	po4 xi1 bi3 xi1 xue3 lai2
 前无古人后无来者	qian2 wu2 gu3 ren2 hou4 wu2 lai2 zhe3
 裘馨氏肌肉萎缩症	qiu2 xin1 shi4 ji1 rou4 wei1 suo1 zheng4
 全球卫星导航系统	quan2 qiu2 wei4 xing1 dao3 hang2 xi4 tong3
@@ -54176,6 +54370,7 @@ sort: by_weight
 塞翁失马安知非福	sai4 weng1 shi1 ma3 an1 zhi1 fei1 fu2
 塞翁失马焉知非福	sai4 weng1 shi1 ma3 yan1 zhi1 fei1 fu2
 三大纪律八项注意	san1 da4 ji4 lv4 ba1 xiang4 zhu4 yi4
+三人行，必有我师	san1 ren2 xing2 bi4 you3 wo3 shi1
 煽动颠覆国家政权	shan1 dong4 dian1 fu4 guo2 jia1 zheng4 quan2
 上海宝钢集团公司	shang4 hai3 bao3 gang1 ji2 tuan2 gong1 si1
 上海第二医科大学	shang4 hai3 di4 er4 yi1 ke1 da4 xue2
@@ -54190,6 +54385,7 @@ sort: by_weight
 圣文森及格瑞那丁	sheng4 wen2 sen1 ji2 ge2 rui4 na4 ding1
 食物及药品管理局	shi2 wu4 ji2 yao4 pin3 guan3 li3 ju2
 世界知识产权组织	shi4 jie4 zhi1 shi2 chan3 quan2 zu3 zhi1
+是可忍，孰不可忍	shi4 ke3 ren3 shu2 bu4 ke3 ren3
 首都经济贸易大学	shou3 du1 jing1 ji4 mao4 yi4 da4 xue2
 瘦死的骆驼比马大	shou4 si3 de5 luo4 tuo5 bi3 ma3 da4
 数据链路连接标识	shu4 ju4 lian4 lu4 lian2 jie1 biao1 zhi4
@@ -54200,6 +54396,7 @@ sort: by_weight
 塔什库尔干自治县	ta3 shi2 ku4 er3 gan1 zi4 zhi4 xian4
 台湾民主自治同盟	tai2 wan1 min2 zhu3 zi4 zhi4 tong2 meng2
 太阳照在桑干河上	tai4 yang2 zhao4 zai4 sang1 gan1 he2 shang4
+汤姆·索亚历险记	tang1 mu3 suo3 ya4 li4 xian3 ji4
 唐太宗李卫公问对	tang2 tai4 zong1 li3 wei4 gong1 wen4 dui4
 腾讯控股有限公司	teng2 xun4 kong4 gu3 you3 xian4 gong1 si1
 天津环球金融中心	tian1 jin1 huan2 qiu2 jin1 rong2 zhong1 xin1
@@ -54208,30 +54405,37 @@ sort: by_weight
 无线电管理委员会	wu2 xian4 dian4 guan3 li3 wei3 yuan2 hui4
 西安电子科技大学	xi1 an1 dian4 zi3 ke1 ji4 da4 xue2
 西北农林科技大学	xi1 bei3 nong2 lin2 ke1 ji4 da4 xue2
+锡霍特·阿林山脉	xi1 huo4 te4 a1 lin2 shan1 mai4
 腺嘌呤核苷三磷酸	xian4 piao4 ling4 he2 gan1 san1 lin2 suan1
 销售时点情报系统	xiao1 shou4 shi2 dian3 qing2 bao4 xi4 tong3
 小洞不补大洞吃苦	xiao3 dong4 bu4 bu3 da4 dong4 chi1 ku3
+歇洛克·福尔摩斯	xie1 luo4 ke4 fu2 er3 mo2 si1
 心急吃不了热豆腐	xin1 ji2 chi1 bu5 liao3 re4 dou4 fu5
 新型农村合作医疗	xin1 xing2 nong2 cun1 he2 zuo4 yi1 liao2
 虚拟现实置标语言	xu1 ni3 xian4 shi2 zhi4 biao1 yu3 yan2
 循化撒拉族自治县	xun2 hua4 sa3 la1 zu2 zi4 zhi4 xian4
 亚太经济合作组织	ya4 tai4 jing1 ji4 he2 zuo4 zu3 zhi1
+亚西尔·阿拉法特	ya4 xi1 er3 a1 la1 fa3 te4
 亚洲与太平洋地区	ya4 zhou1 yu3 tai4 ping2 yang2 di4 qu1
 严以责己宽以待人	yan2 yi3 ze2 ji3 kuan1 yi3 dai4 ren2
 眼观六路耳听八方	yan3 guan1 liu4 lu4 er3 ting1 ba1 fang1
 眼色素层黑色素瘤	yan3 se4 su4 ceng2 hei1 se4 su4 liu2
 燕雀焉知鸿鹄之志	yan4 que4 yan1 zhi1 hong2 gu3 zhi1 zhi4
+耶莱娜·扬科维奇	ye2 lai2 nuo2 yang2 ke1 wei2 qi2
 一把眼泪一把鼻涕	yi1 ba3 yan3 lei4 yi1 ba3 bi2 ti4
 一把钥匙开一把锁	yi1 ba3 yao4 shi5 kai1 yi1 ba3 suo3
 英国工程技术学会	ying1 guo2 gong1 cheng2 ji4 shu4 xue2 hui4
 永不生锈的螺丝钉	yong3 bu4 sheng1 xiu4 de5 luo2 si1 ding1
 用户到网络的接口	yong4 hu4 dao4 wang3 luo4 de5 jie1 kou3
+尤利娅·季莫申科	you2 li4 ya4 ji4 mo4 shen1 ke1
+有其师，必有其徒	you3 qi2 shi1 bi4 you3 qi2 tu2
 寓管理于服务之中	yu4 guan3 li3 yu2 fu2 wu4 zhi1 zhong1
 玉龙纳西族自治县	yu4 long2 na4 xi1 zu2 zi4 zhi4 xian4
 原发性进行性失语	yuan2 fa1 xing4 jin4 xing2 xing4 shi1 yu3
 原核细胞型微生物	yuan2 he2 xi4 bao1 xing2 wei1 sheng1 wu4
 圆珠形离子交换剂	yuan2 zhu1 xing2 li2 zi3 jiao1 huan4 ji4
 远来的和尚会念经	yuan3 lai2 de5 he2 shang5 hui4 nian4 jing1
+约翰·霍金斯大学	yue1 han4 huo4 jin1 si1 da4 xue2
 早知今日何必当初	zao3 zhi1 jin1 ri4 he2 bi4 dang1 chu1
 睁一只眼闭一只眼	zheng1 yi1 zhi1 yan3 bi4 yi1 zhi1 yan3
 整体服务数位网路	zheng3 ti3 fu2 wu4 shu4 wei4 wang3 lu4
@@ -54257,32 +54461,85 @@ sort: by_weight
 中华全国体育总会	zhong1 hua2 quan2 guo2 ti3 yu4 zong3 hui4
 中美文化研究中心	zhong1 mei3 wen2 hua4 yan2 jiu1 zhong1 xin1
 中心埋置关系从句	zhong1 xin1 mai2 zhi4 guan1 xi4 cong2 ju4
+竹篮打水，一场空	zhu2 lan2 da3 shui3 yi1 chang2 kong1
 住房和城乡建设部	zhu4 fang2 he2 cheng2 xiang1 jian4 she4 bu4
 注意力不足过动症	zhu4 yi4 li4 bu4 zu2 guo4 dong4 zheng4
 注意力缺陷过动症	zhu4 yi4 li4 que1 xian4 guo4 dong4 zheng4
 综合服务数位网络	zong1 he2 fu2 wu4 shu4 wei4 wang3 luo4
+埃尔维斯·普雷斯利	ai1 er3 wei2 si1 pu3 lei2 si1 li4
 埃文河畔斯特拉特福	ai1 wen2 he2 pan4 si1 te4 la1 te4 fu2
+艾格尼丝·史沫特莱	ai4 ge2 ni2 si1 shi3 mo4 te4 lai2
 爱国卫生运动委员会	ai4 guo2 wei4 sheng1 yun4 dong4 wei3 yuan2 hui4
+爱美之心，人皆有之	ai4 mei3 zhi1 xin1 ren2 jie1 you3 zhi1
 氨基甲酸酯类化合物	an1 ji1 jia3 suan1 zhi3 lei4 hua4 he2 wu4
+八仙过海，各显其能	ba1 xian1 guo4 hai3 ge4 xian3 qi2 neng2
+八仙过海，各显神通	ba1 xian1 guo4 hai3 ge4 xian3 shen2 tong1
 巴音郭楞蒙古自治州	ba1 yin1 guo1 leng2 meng3 gu3 zi4 zhi4 zhou1
+罢黜百家，独尊儒术	ba4 chu4 bai3 jia1 du2 zun1 ru2 shu4
+百尺竿头，更尽一步	bai3 chi3 gan1 tou2 geng4 jin4 yi1 bu4
 搬起石头砸自己的脚	ban1 qi3 shi2 tou5 za2 zi4 ji3 de5 jiao3
+饱食终日，无所用心	bao3 shi2 zhong1 ri4 wu2 suo3 yong4 xin1
 北京第二外国语学院	bei3 jing1 di4 er4 wai4 guo2 yu3 xue2 yuan4
+避其锐气，击其惰归	bi4 qi2 rui4 qi4 ji1 qi2 duo4 gui1
+兵来将挡，水来土掩	bing1 lai2 jiang4 dang3 shui3 lai2 tu3 yan3
+兵来将敌，水来土堰	bing1 lai2 jiang4 di2 shui3 lai2 tu3 yan4
+兵马未动，粮草先行	bing1 ma3 wei4 dong4 liang2 cao3 xian1 xing2
+冰炭不言，冷热自明	bing1 tan4 bu4 yan2 leng3 re4 zi4 ming2
 博尔塔拉蒙古自治州	bo2 er3 ta3 la1 meng3 gu3 zi4 zhi4 zhou1
+不干不净，吃了没病	bu4 gan1 bu4 jing4 chi1 le5 mei2 bing4
+不怕一万，就怕万一	bu4 pa4 yi1 wan4 jiu4 pa4 wan4 yi1
+不求有功，但求无过	bu4 qiu2 you3 gong1 dan4 qiu2 wu2 guo4
+不孝有三，无后为大	bu4 xiao4 you3 san1 wu2 hou4 wei2 da4
 不要在一棵树上吊死	bu4 yao4 zai4 yi1 ke1 shu4 shang4 diao4 si3
+不以物喜，不以己悲	bu4 yi3 wu4 xi3 bu4 yi3 ji3 bei1
+差之毫厘，谬以千里	cha1 zhi1 hao2 li2 miu4 yi3 qian1 li3
+差之毫厘，失之千里	cha1 zhi1 hao2 li2 shi1 zhi1 qian1 li3
+城门失火，殃及池鱼	cheng2 men2 shi1 huo3 yang1 ji2 chi2 yu2
 城市管理行政执法局	cheng2 shi4 guan3 li3 xing2 zheng4 zhi2 fa3 ju2
+成也萧何，败也萧何	cheng2 ye3 xiao1 he2 bai4 ye3 xiao1 he2
+成则为王，败则为寇	cheng2 ze2 wei2 wang2 bai4 ze2 wei2 kou4
 吃不到葡萄说葡萄酸	chi1 bu4 dao4 pu2 tao5 shuo1 pu2 tao5 suan1
+吃着碗里，看着锅里	chi1 zhe5 wan3 li3 kan4 zhe5 guo1 li3
+吃着碗里，瞧着锅里	chi1 zhe5 wan3 li3 qiao2 zhe5 guo1 li3
+尺有所短，寸有所长	chi3 you3 suo3 duan3 cun4 you3 suo3 chang2
+仇人相见，分外眼红	chou2 ren2 xiang1 jian4 fen4 wai4 yan3 hong2
+出其不意，攻其不备	chu1 qi2 bu4 yi4 gong1 qi2 bu4 bei4
 垂直和短距起落飞机	chui2 zhi2 he2 duan3 ju4 qi3 luo4 fei1 ji1
+聪明一世，糊涂一时	cong1 ming5 yi1 shi4 hu2 tu5 yi1 shi2
+聪明一世，懵懂一时	cong1 ming5 yi1 shi4 meng3 dong3 yi1 shi2
+打蛇不死，后患无穷	da3 she2 bu4 si3 hou4 huan4 wu2 qiong2
+打一巴掌，给个甜枣	da3 yi1 ba1 zhang5 gei3 ge4 tian2 zao3
+大处着眼，小处着手	da4 chu4 zhuo2 yan3 xiao3 chu4 zhuo2 shou3
 大湄公河次区域合作	da4 mei2 gong1 he2 ci4 qu1 yu4 he2 zuo4
+大事化小，小事化了	da4 shi4 hua4 xiao3 xiao3 shi4 hua4 liao3
+大勇若怯，大智若愚	da4 yong3 ruo4 qie4 da4 zhi4 ruo4 yu2
 当一天和尚撞一天钟	dang1 yi1 tian1 he2 shang5 zhuang4 yi1 tian1 zhong1
 档案转送存取及管理	dang4 an4 zhuan3 song4 cun2 qu3 ji2 guan3 li3
+道高一尺，魔高一丈	dao4 gao1 yi1 chi3 mo2 gao1 yi1 zhang4
+道高益安，势高益危	dao4 gao1 yi4 an1 shi4 gao1 yi4 wei1
+道格拉斯·麦克阿瑟	dao4 ge2 la1 si1 mai4 ke4 a1 se4
+道之所存，师之所存	dao4 zhi1 suo3 cun2 shi1 zhi1 suo3 cun2
 德意志学术交流中心	de2 yi4 zhi4 xue2 shu4 jiao1 liu2 zhong1 xin1
 第二次汉字简化方案	di4 er4 ci4 han4 zi4 jian3 hua4 fang1 an4
 电脑辅助设计与绘图	dian4 nao3 fu3 zhu4 she4 ji4 yu3 hui4 tu2
 东突厥斯坦解放组织	dong1 tu1 jue2 si1 tan3 jie3 fang4 zu3 zhi1
+读万卷书，行万里路	du2 wan4 juan4 shu1 xing2 wan4 li3 lu4
 对外贸易经济合作部	dui4 wai4 mao4 yi4 jing1 ji4 he2 zuo4 bu4
+耳听为虚，眼见为实	er3 ting1 wei2 xu1 yan3 jian4 wei2 shi2
+二虎相斗，必有一伤	er4 hu3 xiang1 dou4 bi4 you3 yi1 shang1
 法兰克福证券交易所	fa3 lan2 ke4 fu2 zheng4 quan4 jiao1 yi4 suo3
+法网灰灰，疏而不漏	fa3 wang3 hui1 hui1 shu1 er2 bu4 lou4
+放下屠刀，立地成佛	fang4 xia4 tu2 dao1 li4 di4 cheng2 fo2
 非对称式数据用户线	fei1 dui4 chen4 shi4 shu4 ju4 yong4 hu4 xian4
+分久必合，合久必分	fen1 jiu3 bi4 he2 he2 jiu3 bi4 fen1
+烽烟四起，战火纷飞	feng1 yan1 si4 qi3 zhan4 huo3 fen1 fei1
+弗洛伦蒂诺·佩雷斯	fu2 luo4 lun2 di4 nuo4 pei4 lei2 si1
+噶拉·多杰·仁波切	ga2 la1 duo1 jie2 ren2 bo1 qie4
 格林尼治本初子午线	ge2 lin2 ni2 zhi4 ben3 chu1 zi3 wu3 xian4
+耕当问奴，织当访婢	geng1 dang1 wen4 nu2 zhi1 dang1 fang3 bi4
+攻无不克，战无不胜	gong1 wu2 bu4 ke4 zhan4 wu2 bu4 sheng4
+瓜无滚圆，人无十全	gua1 wu2 gun3 yuan2 ren2 wu2 shi2 quan2
+怪人奥尔·扬科维奇	guai4 ren2 ao4 er3 yang2 ke1 wei2 qi2
 光纤分散式资料介面	guang1 xian1 fen1 san4 shi4 zi1 liao4 jie4 mian4
 国际奥林匹克委员会	guo2 ji4 ao4 lin2 pi3 ke4 wei3 yuan2 hui4
 国际米兰足球俱乐部	guo2 ji4 mi3 lan2 zu2 qiu2 ju4 le4 bu4
@@ -54292,45 +54549,208 @@ sort: by_weight
 国家经济贸易委员会	guo2 jia1 jing1 ji4 mao4 yi4 wei3 yuan2 hui4
 国家文物鉴定委员会	guo2 jia1 wen2 wu4 jian4 ding4 wei3 yuan2 hui4
 国语注音符号第一式	guo2 yu3 zhu4 yin1 fu2 hao4 di4 yi1 shi4
+过而能改，善莫大焉	guo4 er2 neng2 gai3 shan4 mo4 da4 yan1
+哈克贝利·芬历险记	ha1 ke4 bei4 li4 fen1 li4 xian3 ji4
+好好学习，天天向上	hao3 hao3 xue2 xi2 tian1 tian1 xiang4 shang4
+好借好还，再借不难	hao3 jie4 hao3 huan2 zai4 jie4 bu4 nan2
+和尚打伞，无法无天	he2 shang5 da3 san3 wu2 fa3 wu2 tian1
+呼之即来，挥之即去	hu1 zhi1 ji2 lai2 hui1 zhi1 ji2 qu4
 葫芦里卖的是什么药	hu2 lu5 li3 mai4 de5 shi4 shen2 me5 yao4
+机不可失，失不再来	ji1 bu4 ke3 shi1 shi1 bu4 zai4 lai2
+机不可失，时不再来	ji1 bu4 ke3 shi1 shi2 bu4 zai4 lai2
+及时处理，事半功倍	ji2 shi2 chu3 li3 shi4 ban4 gong1 bei4
+家累千金，坐不垂堂	jia1 lei3 qian1 jin1 zuo4 bu4 chui2 tang2
 加利福尼亚理工学院	jia1 li4 fu2 ni2 ya4 li3 gong1 xue2 yuan4
+甲之蜜糖，乙之砒霜	jia3 zhi1 mi4 tang2 yi3 zhi1 pi1 shuang1
+嫁鸡随鸡，嫁狗随狗	jia4 ji1 sui2 ji1 jia4 gou3 sui2 gou3
 金平苗瑶傣族自治县	jin1 ping2 miao2 yao2 dai3 zu2 zi4 zhi4 xian4
+金乌西坠，玉兔东升	jin1 wu1 xi1 zhui4 yu4 tu4 dong1 sheng1
+金玉其表，败絮其中	jin1 yu4 qi2 biao3 bai4 xu4 qi2 zhong1
+金玉其外，败絮其中	jin1 yu4 qi2 wai4 bai4 xu4 qi2 zhong1
 禁止核武器试验条约	jin4 zhi3 he2 wu3 qi4 shi4 yan4 tiao2 yue1
+精诚所加，金石为开	jing1 cheng2 suo3 jia1 jin1 shi2 wei4 kai1
+精诚所至，金石为开	jing1 cheng2 suo3 zhi4 jin1 shi2 wei4 kai1
 经济合作与发展组织	jing1 ji4 he2 zuo4 yu3 fa1 zhan3 zu3 zhi1
+旧的不去，新的不来	jiu4 de5 bu4 qu4 xin1 de5 bu4 lai2
+鞠躬尽瘁，死而后已	ju1 gong1 jin4 cui4 si3 er2 hou4 yi3
 巨细胞病毒视网膜炎	ju4 xi4 bao1 bing4 du2 shi4 wang3 mo2 yan2
+君子一言，驷马难追	jun1 zi3 yi1 yan2 si4 ma3 nan2 zhui1
+君子报仇，十年不晚	jun1 zi5 bao4 chou2 shi2 nian2 bu4 wan3
+看菜吃饭，量体裁衣	kan1 cai4 chi1 fan4 liang2 ti3 cai2 yi1
 抗耐甲氧西林金葡菌	kang4 nai4 jia3 yang3 xi1 lin2 jin1 pu2 jun1
+靠山吃山，靠水吃水	kao4 shan1 chi1 shan1 kao4 shui3 chi1 shui3
+可以意会，不可言传	ke3 yi3 yi4 hui4 bu4 ke3 yan2 chuan2
+苦海无边，回头是岸	ku3 hai3 wu2 bian1 hui2 tou2 shi4 an4
+库尔特·瓦尔德海姆	ku4 er3 te4 wa3 er3 de2 hai3 mu3
+来者不善，善者不来	lai2 zhe3 bu4 shan4 shan4 zhe3 bu4 lai2
+老骥伏枥，志在千里	lao3 ji4 fu2 li4 zhi4 zai4 qian1 li3
+老鼠过街，人人喊打	lao3 shu3 guo4 jie1 ren2 ren2 han3 da3
+老鼠拉龟，无从下手	lao3 shu3 la1 gui1 wu2 cong2 xia4 shou3
 老天爷饿不死瞎家雀	lao3 tian1 ye2 e4 bu4 si3 xia1 jia1 que4
+老王卖瓜，自卖自夸	lao3 wang2 mai4 gua1 zi4 mai4 zi4 kua1
+老吾老，以及人之老	lao3 wu2 lao3 yi3 ji2 ren2 zhi1 lao3
+两国相争，不斩来使	liang3 guo2 xiang1 zheng1 bu4 zhan3 lai2 shi3
+两虎相斗，必有一伤	liang3 hu3 xiang1 dou4 bi4 you3 yi1 shang1
+两虎相争，必有一伤	liang3 hu3 xiang1 zheng1 bi4 you3 yi1 shang1
+流水不腐，户枢不蠹	liu2 shui3 bu4 fu3 hu4 shu1 bu4 du4
+路见不平，拔刀相助	lu4 jian4 bu4 ping2 ba2 dao1 xiang1 zhu4
 路上比终点更有意义	lu4 shang5 bi3 zhong1 dian3 geng4 you3 yi4 yi4
+萝卜白菜，各有所爱	luo2 bo5 bai2 cai4 ge4 you3 suo3 ai4
+萝卜青菜，各有所爱	luo2 bo5 qing1 cai4 ge4 you3 suo3 ai4
+落花有意，流水无情	luo4 hua1 you3 yi4 liu2 shui3 wu2 qing2
+梅里亚姆·韦伯斯特	mei2 li3 ya4 mu3 wei2 bo2 si1 te4
+没有规矩，不成方圆	mei2 you3 gui1 ju5 bu4 cheng2 fang1 yuan2
 美国国家航空航天局	mei3 guo2 guo2 jia1 hang2 kong1 hang2 tian1 ju2
 美国国家航天航空局	mei3 guo2 guo2 jia1 hang2 tian1 hang2 kong1 ju2
 美国证券交易委员会	mei3 guo2 zheng4 quan4 jiao1 yi4 wei3 yuan2 hui4
 美国资讯交换标准码	mei3 guo2 zi1 xun4 jiao1 huan4 biao1 zhun3 ma3
+门庭冷落，门堪罗雀	men2 ting2 leng3 luo4 men2 kan1 luo2 que4
+靡不有初，鲜克有终	mi3 bu4 you3 chu1 xian3 ke4 you3 zhong1
+明枪好躲，暗箭难防	ming2 qiang1 hao3 duo3 an4 jian4 nan2 fang2
+明枪易躲，暗箭难防	ming2 qiang1 yi4 duo3 an4 jian4 nan2 fang2
+明修栈道，暗渡陈仓	ming2 xiu1 zhan4 dao4 an4 du4 chen2 cang1
+魔高一丈，道高一尺	mo2 gao1 yi1 zhang4 dao4 gao1 yi1 chi3
 莫霍洛维奇不连续面	mo4 huo4 luo4 wei2 qi2 bu4 lian2 xu4 mian4
+谋事在人，成事在天	mou2 shi4 zai4 ren2 cheng2 shi4 zai4 tian1
+男人不坏，女人不爱	nan2 ren2 bu4 huai4 nv3 ren2 bu4 ai4
+鸟不拉屎，鸡不生蛋	niao3 bu4 la1 shi3 ji1 bu4 sheng1 dan4
+鸟不生蛋，狗不拉屎	niao3 bu4 sheng1 dan4 gou3 bu4 la1 shi3
+宁为鸡头，不为凤尾	ning4 wei2 ji1 tou2 bu4 wei2 feng4 wei3
+宁做鸡头，不做凤尾	ning4 zuo4 ji1 tou2 bu4 zuo4 feng4 wei3
 欧洲安全和合作组织	ou1 zhou1 an1 quan2 he2 he2 zuo4 zu3 zhi1
 欧洲安全与合作组织	ou1 zhou1 an1 quan2 yu3 he2 zuo4 zu3 zhi1
+跑了和尚，跑不了寺	pao3 le5 he2 shang4 pao3 bu4 liao3 si4
+千军易得，一将难求	qian1 jun1 yi4 de2 yi1 jiang4 nan2 qiu2
+千里之堤，溃于蚁穴	qian1 li3 zhi1 di1 kui4 yu2 yi3 xue2
+千里之行，始于足下	qian1 li3 zhi1 xing2 shi3 yu2 zu2 xia4
+前不巴村，后不巴店	qian2 bu4 ba1 cun1 hou4 bu4 ba1 dian4
+前不着村，后不着店	qian2 bu4 zhao2 cun1 hou4 bu4 zhao2 dian4
+前门打虎，后门打狼	qian2 men2 da3 hu3 hou4 men2 da3 lang2
+前门拒虎，后门进狼	qian2 men2 ju4 hu3 hou4 men2 jin4 lang2
+前人栽树，后人乘凉	qian2 ren2 zai1 shu4 hou4 ren2 cheng2 liang2
+前事不忘，后事之师	qian2 shi4 bu4 wang4 hou4 shi4 zhi1 shi1
+窃钩者诛，窃国者侯	qie4 gou1 zhe3 zhu1 qie4 guo2 zhe3 hou2
+窃国者侯，窃钩者诛	qie4 guo2 zhe3 hou2 qie4 gou1 zhe3 zhu1
+取其精华，去其糟粕	qu3 qi2 jing1 hua2 qu4 qi2 zao1 po4
 全面禁止核试验条约	quan2 mian4 jin4 zhi3 he2 shi4 yan4 tiao2 yue1
+人不为己，天诛地灭	ren2 bu4 wei4 ji3 tian1 zhu1 di4 mie4
+人生短暂，学术无涯	ren2 sheng1 duan3 zan4 xue2 shu4 wu2 ya2
+人生一世，草木一春	ren2 sheng1 yi1 shi4 cao3 mu4 yi1 chun1
+人外有人，天外有天	ren2 wai4 you3 ren2 tian1 wai4 you3 tian1
+人为刀俎，我为鱼肉	ren2 wei2 dao1 zu3 wo3 wei2 yu2 rou4
+人无远虑，必有近忧	ren2 wu2 yuan3 lv4 bi4 you3 jin4 you1
+人有失手，马有失蹄	ren2 you3 shi1 shou3 ma3 you3 shi1 ti2
+仁者见仁，智者见智	ren2 zhe3 jian4 ren2 zhi4 zhe3 jian4 zhi4
+日出而作，日入而息	ri4 chu1 er2 zuo4 ri4 ru4 er2 xi1
+如人饮水，冷暖自知	ru2 ren2 yin3 shui3 leng3 nuan3 zi4 zhi1
 塞尔维亚克罗地亚语	sai1 er3 wei2 ya4 ke4 luo2 di4 ya4 yu3
+三人行，则必有我师	san1 ren2 xing2 ze2 bi4 you3 wo3 shi1
+三天不打，上房揭瓦	san1 tian1 bu4 da3 shang4 fang2 jie1 wa3
+三天打鱼，两天晒网	san1 tian1 da3 yu2 liang3 tian1 shai4 wang3
 桑地诺民族解放阵线	sang1 di4 nuo4 min2 zu2 jie3 fang4 zhen4 xian4
+山外有山，天外有天	shan1 wai4 you3 shan1 tian1 wai4 you3 tian1
+善有善报，恶有恶报	shan4 you3 shan4 bao4 e4 you3 e4 bao4
+上天无路，入地无门	shang4 tian1 wu2 lu4 ru4 di4 wu2 men2
+上有政策，下有对策	shang4 you3 zheng4 ce4 xia4 you3 dui4 ce4
 舍不得孩子套不住狼	she3 bu4 de5 hai2 zi5 tao4 bu4 zhu4 lang2
+神女有心，襄王无梦	shen2 nv3 you3 xin1 xiang1 wang2 wu2 meng4
+生命不息，战斗不止	sheng1 ming4 bu4 xi1 zhan4 dou4 bu4 zhi3
+失之东隅，收之桑榆	shi1 zhi1 dong1 yu2 shou1 zhi1 sang1 yu2
+失之毫厘，差以千里	shi1 zhi1 hao2 li2 cha4 yi3 qian1 li3
+失之毫厘，差之千里	shi1 zhi1 hao2 li2 cha4 zhi1 qian1 li3
+失之毫厘，谬以千里	shi1 zhi1 hao2 li2 miu4 yi3 qian1 li3
+食不厌精，脍不厌细	shi2 bu4 yan4 jing1 kuai4 bu4 yan4 xi4
+时代不同，风尚不同	shi2 dai4 bu4 tong2 feng1 shang4 bu4 tong2
 食品药品监督管理局	shi2 pin3 yao4 pin3 jian1 du1 guan3 li3 ju2
+食之无味，弃之不甘	shi2 zhi1 wu2 wei4 qi4 zhi1 bu4 gan1
+食之无味，弃之可惜	shi2 zhi1 wu2 wei4 qi4 zhi1 ke3 xi1
 世界维吾尔代表大会	shi4 jie4 wei2 wu2 er3 dai4 biao3 da4 hui4
 世界野生生物基金会	shi4 jie4 ye3 sheng1 sheng1 wu4 ji1 jin1 hui4
+守株待兔，缘木求鱼	shou3 zhu1 dai4 tu4 yuan2 mu4 qiu2 yu2
+树高千丈，落叶归根	shu4 gao1 qian1 zhang4 luo4 ye4 gui1 gen1
+树高千丈，叶落归根	shu4 gao1 qian1 zhang4 ye4 luo4 gui1 gen1
+水能载舟，亦能覆舟	shui3 neng2 zai4 zhou1 yi4 neng2 fu4 zhou1
 司马昭之心路人皆知	si1 ma3 zhao1 zhi1 xin1 lu4 ren2 jie1 zhi1
+四体不勤，五谷不分	si4 ti3 bu4 qin2 wu3 gu3 bu4 fen1
 苏黎世联邦理工学院	su1 li2 shi4 lian2 bang1 li3 gong1 xue2 yuan4
+太公钓鱼，愿者上钩	tai4 gong1 diao4 yu2 yuan4 zhe3 shang4 gou1
+螳螂捕蝉，黄雀在后	tang2 lang2 bu3 chan2 huang2 que4 zai4 hou4
 特克斯和凯科斯群岛	te4 ke4 si1 he2 kai3 ke1 si1 qun2 dao3
+天低吴楚，眼空无物	tian1 di1 wu2 chu3 yan3 kong1 wu2 wu4
+天外有天，人外有人	tian1 wai4 you3 tian1 ren2 wai4 you3 ren2
+天网恢恢，疏而不漏	tian1 wang3 hui1 hui1 shu1 er2 bu4 lou4
+天网恢恢，疏而不失	tian1 wang3 hui1 hui1 shu1 er2 bu4 shi1
 天下没有不散的筵席	tian1 xia4 mei2 you3 bu4 san4 de5 yan2 xi2
 天下没有不散的宴席	tian1 xia4 mei2 you3 bu4 san4 de5 yan4 xi2
+天下兴亡，匹夫有责	tian1 xia4 xing1 wang2 pi3 fu1 you3 ze2
+天要落雨，娘要嫁人	tian1 yao4 luo4 yu3 niang2 yao4 jia4 ren2
+听话听声，锣鼓听音	ting1 hua4 ting1 sheng1 luo2 gu3 ting1 yin1
 通用汉字标准交换码	tong1 yong4 han4 zi4 biao1 zhun3 jiao1 huan4 ma3
+头痛医头，脚痛医脚	tou2 tong4 yi1 tou2 jiao3 tong4 yi1 jiao3
+万事皆备，只欠东风	wan4 shi4 jie1 bei4 zhi3 qian4 dong1 feng1
+万事俱备，只欠东风	wan4 shi4 ju4 bei4 zhi3 qian4 dong1 feng1
+王婆卖瓜，自卖自夸	wang2 po2 mai4 gua1 zi4 mai4 zi4 kua1
+为富不仁，为仁不富	wei2 fu4 bu4 ren2 wei2 ren2 bu4 fu4
 委内瑞拉马脑炎病毒	wei3 nei4 rui4 la1 ma3 nao3 yan2 bing4 du2
 温布尔登网球公开赛	wen1 bu4 er3 deng1 wang3 qiu2 gong1 kai1 sai4
+物以类聚，人以群分	wu4 yi3 lei4 ju4 ren2 yi3 qun2 fen1
 物质文明和精神文明	wu4 zhi4 wen2 ming2 he2 jing1 shen2 wen2 ming2
 夏威夷火山国家公园	xia4 wei1 yi2 huo3 shan1 guo2 jia1 gong1 yuan2
+项庄舞剑，意在沛公	xiang4 zhuang1 wu3 jian4 yi4 zai4 pei4 gong1
+项庄舞剑，志在沛公	xiang4 zhuang1 wu3 jian4 zhi4 zai4 pei4 gong1
+小洞不堵，大洞吃苦	xiao3 dong4 bu4 du3 da4 dong4 chi1 ku3
+小洞不堵，大洞难补	xiao3 dong4 bu4 du3 da4 dong4 nan2 bu3
+小洞不堵，大洞受苦	xiao3 dong4 bu4 du3 da4 dong4 shou4 ku3
+小时了了，大未必佳	xiao3 shi2 liao3 liao3 da4 wei4 bi4 jia1
+小作怡情，大作伤身	xiao3 zuo4 yi2 qing2 da4 zuo4 shang1 shen1
+行不改姓，坐不改名	xing2 bu4 gai3 xing4 zuo4 bu4 gai3 ming2
+行不更名，坐不改姓	xing2 bu4 geng1 ming2 zuo4 bu4 gai3 xing4
+行千里路，读万卷书	xing2 qian1 li3 lu4 du2 wan4 juan4 shu1
+行万里路，读万卷书	xing2 wan4 li3 lu4 du2 wan4 juan4 shu1
 行万里路胜读万卷书	xing2 wan4 li3 lu4 sheng4 du2 wan4 juan3 shu1
+学而不厌，诲人不倦	xue2 er2 bu4 yan4 hui4 ren2 bu4 juan4
 寻甸回族彝族自治县	xun2 dian4 hui2 zu2 yi2 zu2 zi4 zhi4 xian4
+亚历山大·杜布切克	ya4 li4 shan1 da4 du4 bu4 qie1 ke4
+阎王好见，小鬼难当	yan2 wang2 hao3 jian4 xiao3 gui3 nan2 dang1
+言者无意，听者有心	yan2 zhe3 wu2 yi4 ting1 zhe3 you3 xin1
+言者无罪，闻者足戒	yan2 zhe3 wu2 zui4 wen2 zhe3 zu2 jie4
+眼观四处，耳听八方	yan3 guan1 si4 chu4 er3 ting1 ba1 fang1
+眼观四面，耳听八方	yan3 guan1 si4 mian4 er3 ting1 ba1 fang1
+眼见为实，耳听为虚	yan3 jian4 wei2 shi2 er3 ting1 wei2 xu1
+养兵千日，用兵一时	yang3 bing1 qian1 ri4 yong4 bing1 yi1 shi2
+养兵千日，用在一时	yang3 bing1 qian1 ri4 yong4 zai4 yi1 shi2
+要风得风，要雨得雨	yao4 feng1 de2 feng1 yao4 yu3 de2 yu3
+一波未平，一波又起	yi1 bo1 wei4 ping2 yi1 bo1 you4 qi3
+一分耕耘，一分收获	yi1 fen1 geng1 yun2 yi1 fen1 shou1 huo4
 一个幽灵在欧洲游荡	yi1 ge4 you1 ling2 zai4 ou1 zhou1 you2 dang4
+一个天南，一个地北	yi1 ge5 tian1 nan2 yi1 ge5 di4 bei3
+一人得道，鸡犬升天	yi1 ren2 de2 dao4 ji1 quan3 sheng1 tian1
+一日不见，如隔三秋	yi1 ri4 bu4 jian4 ru2 ge2 san1 qiu1
+一日为师，终身为父	yi1 ri4 wei2 shi1 zhong1 shen1 wei2 fu4
+一手交钱，一手交货	yi1 shou3 jiao1 qian2 yi1 shou3 jiao1 huo4
+一则以喜，一则以忧	yi1 ze2 yi3 xi3 yi1 ze2 yi3 you1
+一着不慎，满盘皆输	yi1 zhao1 bu4 shen4 man3 pan2 jie1 shu1
 医之好治不病以为功	yi1 zhi1 hao4 zhi4 bu4 bing4 yi3 wei2 gong1
+以言代法，以权压法	yi3 yan2 dai4 fa3 yi3 quan2 ya1 fa3
+以眼还眼，以牙还牙	yi3 yan3 huan2 yan3 yi3 ya2 huan2 ya2
+以直报怨，以德报德	yi3 zhi2 bao4 yuan4 yi3 de2 bao4 de2
+意存笔先，画尽意在	yi4 cun2 bi3 xian1 hua4 jin4 yi4 zai4
+有福同享，有祸同当	you3 fu2 tong2 xiang3 you3 huo4 tong2 dang1
+有福同享，有难同当	you3 fu2 tong2 xiang3 you3 nan4 tong2 dang1
+有借有还，再借不难	you3 jie4 you3 huan2 zai4 jie4 bu4 nan2
+有则改之，无则加勉	you3 ze2 gai3 zhi1 wu2 ze2 jia1 mian3
+幼吾幼，以及人之幼	you4 wu2 you4 yi3 ji2 ren2 zhi1 you4
+与人方便，自己方便	yu3 ren2 fang1 bian4 zi4 ji3 fang1 bian4
+欲加之罪，何患无辞	yu4 jia1 zhi1 zui4 he2 huan4 wu2 ci2
+战无不胜，攻无不克	zhan4 wu2 bu4 sheng4 gong1 wu2 bu4 ke4
+战无不胜，攻无不取	zhan4 wu2 bu4 sheng4 gong1 wu2 bu4 qu3
 丈二金刚摸不着头脑	zhang4 er4 jin1 gang1 mo1 bu5 zhao2 tou2 nao3
 正电子照射断层摄影	zheng4 dian4 zi3 zhao4 she4 duan4 ceng2 she4 ying3
+知彼知己，百战不殆	zhi1 bi3 zhi1 ji3 bai3 zhan4 bu4 dai4
+知己知彼，百战不殆	zhi1 ji3 zhi1 bi3 bai3 zhan4 bu4 dai4
+知人者智，自知者明	zhi1 ren2 zhe3 zhi4 zi4 zhi1 zhe3 ming2
+指挥有方，人人乐从	zhi3 hui1 you3 fang1 ren2 ren2 le4 cong2
+只知其一，不知其二	zhi3 zhi1 qi2 yi1 bu4 zhi1 qi2 er4
 中共中央纪委监察部	zhong1 gong4 zhong1 yang1 ji4 wei3 jian1 cha2 bu4
 中国国家原子能机构	zhong1 guo2 guo2 jia1 yuan2 zi3 neng2 ji1 gou4
 中国海洋石油总公司	zhong1 guo2 hai3 yang2 shi2 you2 zong3 gong1 si1
@@ -54339,19 +54759,28 @@ sort: by_weight
 中石油川东钻探公司	zhong1 shi2 you2 chuan1 dong1 zuan4 tan4 gong1 si1
 中远太平洋有限公司	zhong1 yuan3 tai4 ping2 yang2 you3 xian4 gong1 si1
 祖国和平统一委员会	zu3 guo2 he2 ping2 tong3 yi1 wei3 yuan2 hui4
+嘴上没毛，办事不牢	zui3 shang4 mei2 mao2 ban4 shi4 bu4 lao2
+嘴上无毛，办事不牢	zui3 shang4 wu2 mao2 ban4 shi4 bu4 lao2
 做一天和尚撞一天钟	zuo4 yi1 tian1 he2 shang5 zhuang4 yi1 tian1 zhong1
 阿克塞哈萨克族自治县	a1 ke4 sai4 ha1 sa4 ke4 zu2 zi4 zhi4 xian4
 安东尼与克莉奥佩特拉	an1 dong1 ni2 yu3 ke4 li4 ao4 pei4 te4 la1
 巴勒斯坦民族权力机构	ba1 le4 si1 tan3 min2 zu2 quan2 li4 ji1 gou4
 拜科努尔航天发射基地	bai4 ke1 nu3 er3 hang2 tian1 fa1 she4 ji1 di4
+北莱茵·威斯特法伦州	bei3 lai2 yin1 wei1 si1 te4 fa3 lun2 zhou1
+冰冻三尺，非一日之寒	bing1 dong4 san1 chi3 fei1 yi1 ri4 zhi1 han2
 波士尼亚与赫塞哥维纳	bo1 shi4 ni2 ya4 yu3 he4 se4 ge1 wei2 na4
 波斯尼亚和黑塞哥维那	bo1 si1 ni2 ya4 he2 hei1 sai4 ge1 wei2 na4
 布鲁克海文国家实验室	bu4 lu3 ke4 hai3 wen2 guo2 jia1 shi2 yan4 shi4
 不是一家人不进一家门	bu4 shi4 yi1 jia1 ren2 bu4 jin4 yi1 jia1 men2
+不以规矩，不能成方圆	bu4 yi3 gui1 ju5 bu4 neng2 cheng2 fang1 yuan2
 丑媳妇早晚也得见公婆	chou3 xi2 fu4 zao3 wan3 ye3 dei3 jian4 gong1 po2
+打掉门牙，往肚子里咽	da3 diao4 men2 ya2 wang3 du4 zi5 li3 yan4
 大学入学指定科目考试	da4 xue2 ru4 xue2 zhi3 ding4 ke1 mu4 kao3 shi4
 导弹武器技术控制制度	dao3 dan4 wu3 qi4 ji4 shu4 kong4 zhi4 zhi4 du4
+道所存者，乃师所存者	dao4 suo3 cun2 zhe3 nai3 shi1 suo3 cun2 zhe3
 东突厥斯坦伊斯兰运动	dong1 tu1 jue2 si1 tan3 yi1 si1 lan2 yun4 dong4
+躲过初一，躲不过十五	duo3 guo4 chu1 yi1 duo3 bu4 guo4 shi2 wu3
+古斯塔夫·施特雷泽曼	gu3 si1 ta3 fu1 shi1 te4 lei2 ze2 man4
 冠状动脉旁路移植手术	guan1 zhuang4 dong4 mai4 pang2 lu4 yi2 zhi2 shou3 shu4
 广东科学技术职业学院	guang3 dong1 ke1 xue2 ji4 shu4 zhi2 ye4 xue2 yuan4
 国家标准化管理委员会	guo2 jia1 biao1 zhun3 hua4 guan3 li3 wei3 yuan2 hui4
@@ -54364,12 +54793,22 @@ sort: by_weight
 和布克赛尔蒙古自治县	he2 bu4 ke4 sai4 er3 meng3 gu3 zi4 zhi4 xian4
 皇家加勒比海游轮公司	huang2 jia1 jia1 le4 bi3 hai3 you2 lun2 gong1 si1
 既要当婊子又要立牌坊	ji4 yao4 dang1 biao3 zi5 you4 yao4 li4 pai2 fang1
+姜太公钓鱼，愿者上钩	jiang1 tai4 gong1 diao4 yu2 yuan4 zhe3 shang4 gou1
 解放巴勒斯坦人民阵线	jie3 fang4 ba1 le4 si1 tan3 ren2 min2 zhen4 xian4
 救人一命胜造七级浮屠	jiu4 ren2 yi1 ming4 sheng4 zao4 qi1 ji2 fu2 tu2
 科学技术是第一生产力	ke1 xue2 ji4 shu4 shi4 di4 yi1 sheng1 chan3 li4
+雷公打豆腐，拣软的欺	lei2 gong1 da3 dou4 fu5 jian3 ruan3 de5 qi1
 类精神分裂型人格违常	lei4 jing1 shen2 fen1 lie4 xing2 ren2 ge2 wei2 chang2
+林子大了，什么鸟都有	lin2 zi5 da4 le5 shen2 me5 niao3 dou1 you3
+马尾穿豆腐，提不起来	ma3 wei3 chuan1 dou4 fu5 ti2 bu5 qi3 lai5
+没有规矩，何以成方圆	mei2 you3 gui1 ju5 he2 yi3 cheng2 fang1 yuan2
+米哈伊尔·普罗霍罗夫	mi3 ha1 yi1 er3 pu3 luo2 huo4 luo2 fu1
+牡丹虽好，全仗绿叶扶	mu3 dan5 sui1 hao3 quan2 zhang4 lv4 ye4 fu2
+那木巴尔·恩赫巴亚尔	na3 mu4 ba1 er3 en1 he4 ba1 ya4 er3
 南乔治亚岛和南桑威奇	nan2 qiao2 zhi4 ya4 dao3 he2 nan2 sang1 wei1 qi2
+泥菩萨过江，自身难保	ni2 pu2 sa4 guo4 jiang1 zi4 shen1 nan2 bao3
 宁洱哈尼族彝族自治县	ning2 er3 ha1 ni2 zu2 yi2 zu2 zi4 zhi4 xian4
+跑得了和尚，跑不了庙	pao3 de2 liao3 he2 shang4 pao3 bu4 liao3 miao4
 普列谢茨克卫星发射场	pu3 lie4 xie4 ci2 ke4 wei4 xing1 fa1 she4 chang3
 汽车夏利股份有限公司	qi4 che1 xia4 li4 gu3 fen4 you3 xian4 gong1 si1
 全国重点文物保护单位	quan2 guo2 zhong4 dian3 wen2 wu4 bao3 hu4 dan1 wei4
@@ -54378,6 +54817,10 @@ sort: by_weight
 圣文森特和格林纳丁斯	sheng4 wen2 sen1 te4 he2 ge2 lin2 na4 ding1 si1
 授人以鱼不如授人以渔	shou4 ren2 yi3 yu2 bu4 ru2 shou4 ren2 yi3 yu2
 授之以鱼不如授之以渔	shou4 zhi1 yi3 yu2 bu4 ru2 shou4 zhi1 yi3 yu2
+泰特斯·安德洛尼克斯	tai4 te4 si1 an1 de2 luo4 ni2 ke4 si1
+铁打的衙门，流水的官	tie3 da3 de5 ya2 men5 liu2 shui3 de5 guan1
+无事献殷勤，非奸即盗	wu2 shi4 xian4 yin1 qin2 fei1 jian1 ji2 dao4
+兄弟阋于墙，外御其侮	xiong1 di4 xi4 yu2 qiang2 wai4 yu4 qi2 wu3
 耶稣基督后期圣徒教会	ye1 su1 ji1 du1 hou4 qi1 sheng4 tu2 jiao4 hui4
 耶稣基督末世圣徒教会	ye1 su1 ji1 du1 mo4 shi4 sheng4 tu2 jiao4 hui4
 一颗老鼠屎坏了一锅汤	yi1 ke1 lao3 shu3 shi3 huai4 le5 yi1 guo1 tang1
@@ -54385,6 +54828,8 @@ sort: by_weight
 一粒老鼠屎坏了一锅粥	yi1 li4 lao3 shu3 shi3 huai4 le5 yi1 guo1 zhou1
 一年被蛇咬十年怕井绳	yi1 nian2 bei4 she2 yao3 shi2 nian2 pa4 jing3 sheng2
 又想当婊子又想立牌坊	you4 xiang3 dang1 biao3 zi5 you4 xiang3 li4 pai2 fang1
+欲善其事，必先利其器	yu4 shan4 qi2 shi4 bi4 xian1 li4 qi2 qi4
+丈二和尚，摸不着头脑	zhang4 er4 he2 shang5 mo1 bu5 zhao2 tou2 nao3
 正电子发射断层照相术	zheng4 dian4 zi3 fa1 she4 duan4 ceng2 zhao4 xiang1 shu4
 正电子发射计算机断层	zheng4 dian4 zi3 fa1 she4 ji4 suan4 ji1 duan4 ceng2
 正确处理人民内部矛盾	zheng4 que4 chu3 li3 ren2 min2 nei4 bu4 mao2 dun4
@@ -54400,27 +54845,99 @@ sort: by_weight
 中国人权民运信息中心	zhong1 guo2 ren2 quan2 min2 yun4 xin4 xi1 zhong1 xin1
 中国游艺机游乐园协会	zhong1 guo2 you2 yi4 ji1 you2 le4 yuan2 xie2 hui4
 中苏解决悬案大纲协定	zhong1 su1 jie3 jue2 xuan2 an4 da4 gang1 xie2 ding4
+阿不来提·阿不都热西提	a1 bu4 lai2 ti2 a1 bu4 du1 re4 xi1 ti2
+饱暖思淫欲，饥寒起盗心	bao3 nuan3 si1 yin2 yu4 ji1 han2 qi3 dao4 xin1
 北京汽车制造厂有限公司	bei3 jing1 qi4 che1 zhi4 zao4 chang3 you3 xian4 gong1 si1
+病来如山倒，病去如抽丝	bing4 lai2 ru2 shan1 dao3 bing4 qu4 ru2 chou1 si1
+不怕不识货，就怕货比货	bu4 pa4 bu4 shi2 huo4 jiu4 pa4 huo4 bi3 huo4
+不怕不识货，只怕货比货	bu4 pa4 bu4 shi2 huo4 zhi3 pa4 huo4 bi3 huo4
+不听老人言，吃亏在眼前	bu4 ting1 lao3 ren2 yan2 chi1 kui1 zai4 yan3 qian2
+不做亏心事，不怕鬼敲门	bu4 zuo4 kui1 xin1 shi4 bu4 pa4 gui3 qiao1 men2
+常在河边走，哪有不湿鞋	chang2 zai4 he2 bian1 zou3 na3 you3 bu4 shi1 xie2
 朝鲜民主主义人民共和国	chao2 xian3 min2 zhu3 zhu3 yi4 ren2 min2 gong4 he2 guo2
+撑死胆大的，饿死胆小的	cheng1 si3 dan3 da4 de5 e4 si3 dan3 xiao3 de5
+吃得苦中苦，方为人上人	chi1 de2 ku3 zhong1 ku3 fang1 wei2 ren2 shang4 ren2
+春生，夏长，秋收，冬藏	chun1 sheng1 xia4 zhang3 qiu1 shou1 dong1 cang2
 单端孢霉烯类毒素中毒症	dan1 duan1 bao1 mei2 xi1 lei4 du2 su4 zhong1 du2 zheng4
+单丝不成线，独木不成林	dan1 si1 bu4 cheng2 xian4 du2 mu4 bu4 cheng2 lin2
+躲得过初一，躲不过十五	duo3 de5 guo4 chu1 yi1 duo3 bu4 guo4 shi2 wu3
+儿不嫌母丑，狗不嫌家贫	er2 bu4 xian2 mu3 chou3 gou3 bu4 xian2 jia1 pin2
 发热伴血小板减少综合征	fa1 re4 ban4 xue4 xiao3 ban3 jian3 shao3 zong1 he2 zheng1
+饭后百步走，活到九十九	fan4 hou4 bai3 bu4 zou3 huo2 dao4 jiu3 shi2 jiu3
+饭后一支烟，赛过活神仙	fan4 hou4 yi1 zhi1 yan1 sai4 guo4 huo2 shen2 xian1
+公说公有理，婆说婆有理	gong1 shuo1 gong1 you3 li3 po2 shuo1 po2 you3 li3
+狗咬吕洞宾，不识好人心	gou3 yao3 lv3 dong4 bin1 bu4 shi2 hao3 ren2 xin1
 古根罕喷气推进研究中心	gu3 gen1 han3 pen1 qi4 tui1 jin4 yan2 jiu1 zhong1 xin1
+瓜田不纳履，李下不整冠	gua1 tian2 bu4 na4 lv3 li3 xia4 bu4 zheng3 guan1
 国防科学技术工业委员会	guo2 fang2 ke1 xue2 ji4 shu4 gong1 ye4 wei3 yuan2 hui4
 国际电报电话咨询委员会	guo2 ji4 dian4 bao4 dian4 hua4 zi1 xun2 wei3 yuan2 hui4
 国家军品贸易管理委员会	guo2 jia1 jun1 pin3 mao4 yi4 guan3 li3 wei3 yuan2 hui4
 国家留学基金管理委员会	guo2 jia1 liu2 xue2 ji1 jin1 guan3 li3 wei3 yuan2 hui4
 国家食品药品监督管理局	guo2 jia1 shi2 pin3 yao4 pin3 jian1 du1 guan3 li3 ju2
 国有资产监督管理委员会	guo2 you3 zi1 chan3 jian1 du1 guan3 li3 wei3 yuan2 hui4
+好事不出门，恶事传千里	hao3 shi4 bu4 chu1 men2 e4 shi4 chuan2 qian1 li3
+花有重开日，人无再少年	hua1 you3 chong2 kai1 ri4 ren2 wu2 zai4 shao4 nian2
+疾风知劲草，烈火见真金	ji2 feng1 zhi1 jin4 cao3 lie4 huo3 jian4 zhen1 jin1
+见人说人话，见鬼说鬼话	jian4 ren2 shuo1 ren2 hua4 jian4 gui3 shuo1 gui3 hua4
 金窝银窝不如自己的狗窝	jin1 wo1 yin2 wo1 bu4 ru2 zi4 ji3 de5 gou3 wo1
+君子坦荡荡，小人长戚戚	jun1 zi5 tan3 dang4 dang4 xiao3 ren2 chang2 qi1 qi1
 可擦写可编程只读存储器	ke3 ca1 xie3 ke3 bian1 cheng2 zhi1 du2 cun2 chu3 qi4
 拉鲁湿地国家自然保护区	la1 lu3 shi1 di4 guo2 jia1 zi4 ran2 bao3 hu4 qu1
+老鼠拖木锨，大头在后头	lao3 shu3 tuo1 mu4 xian1 da4 tou2 zai4 hou4 tou5
+礼轻人意重，千里送鹅毛	li3 qing1 ren2 yi4 zhong4 qian1 li3 song4 e2 mao2
 联合国气候变化框架公约	lian2 he2 guo2 qi4 hou4 bian4 hua4 kuang4 jia4 gong1 yue1
 临时澳门市政执行委员会	lin2 shi2 ao4 men2 shi4 zheng4 zhi2 xing2 wei3 yuan2 hui4
+临渊羡鱼，不如退而结网	lin2 yuan1 xian4 yu2 bu4 ru2 tui4 er2 jie2 wang3
+留得青山在，不怕没柴烧	liu2 de5 qing1 shan1 zai4 bu4 pa4 mei2 chai2 shao1
+路遥知马力，日久见人心	lu4 yao2 zhi1 ma3 li4 ri4 jiu3 jian4 ren2 xin1
+路易·皮埃尔·阿尔都塞	lu4 yi4 pi2 ai1 er3 a1 er3 dou1 sai1
 伦敦国际金融期货交易所	lun2 dun1 guo2 ji4 jin1 rong2 qi1 huo4 jiao1 yi4 suo3
+毛泽东·鲜为人知的故事	mao2 ze2 dong1 xian1 wei2 ren2 zhi1 de5 gu4 shi5
+明知山有虎，偏向虎山行	ming2 zhi1 shan1 you3 hu3 pian1 xiang4 hu3 shan1 xing2
+牡丹虽好，全凭绿叶扶持	mu3 dan5 sui1 hao3 quan2 ping2 lv4 ye4 fu2 chi2
+牡丹虽好，全仗绿叶扶持	mu3 dan5 sui1 hao3 quan2 zhang4 lv4 ye4 fu2 chi2
+牡丹虽好，终须绿叶扶持	mu3 dan5 sui1 hao3 zhong1 xu1 lv4 ye4 fu2 chi2
+男怕入错行，女怕嫁错郎	nan2 pa4 ru4 cuo4 hang2 nv3 pa4 jia4 cuo4 lang2
+内行看门道，外行看热闹	nei4 hang2 kan4 men2 dao5 wai4 hang2 kan4 re4 nao5
+宁拆十座庙，不毁一桩婚	ning2 chai1 shi2 zuo4 miao4 bu4 hui4 yi1 zhuang1 hun1
 农村家庭联产承包责任制	nong2 cun1 jia1 ting2 lian2 chan3 cheng2 bao1 ze2 ren4 zhi4
+平时不烧香，临时抱佛脚	ping2 shi2 bu4 shao1 xiang1 lin2 shi2 bao4 fo2 jiao3
+千里送鹅毛，礼轻情意重	qian1 li3 song4 e2 mao2 li3 qing1 qing2 yi4 zhong4
+千里送鹅毛，礼轻人意重	qian1 li3 song4 e2 mao2 li3 qing1 ren2 yi4 zhong4
+牵马到河易，强马饮水难	qian1 ma3 dao4 he2 yi4 qiang3 ma3 yin3 shui3 nan2
+前不见古人，后不见来者	qian2 bu4 jian4 gu3 ren2 hou4 bu4 jian4 lai2 zhe3
+人往高处爬，水往低处流	ren2 wang3 gao1 chu4 pa2 shui3 wang3 di1 chu4 liu2
+人往高处走，水往低处流	ren2 wang3 gao1 chu4 zou3 shui3 wang3 di1 chu4 liu2
+任凭风浪起，稳坐钓鱼台	ren4 ping2 feng1 lang4 qi3 wen3 zuo4 diao4 yu2 tai2
+若要人不知，除非己莫为	ruo4 yao4 ren2 bu4 zhi1 chu2 fei1 ji3 mo4 wei2
+三个臭皮匠，顶个诸葛亮	san1 ge4 chou4 pi2 jiang5 ding3 ge4 zhu1 ge3 liang4
+三个臭皮匠，赛过诸葛亮	san1 ge4 chou4 pi2 jiang5 sai4 guo4 zhu1 ge3 liang4
+三十年河东，三十年河西	san1 shi2 nian2 he2 dong1 san1 shi2 nian2 he2 xi1
+山中无老虎，猴子称大王	shan1 zhong1 wu2 lao3 hu3 hou2 zi5 cheng1 dai4 wang5
+少女露笑脸，婚事半成全	shao4 nv3 lu4 xiao4 lian3 hun1 shi4 ban4 cheng2 quan2
+谁笑到最后，谁笑得最好	shei2 xiao4 dao4 zui4 hou4 shei2 xiao4 de2 zui4 hao3
+谁笑在最后，谁笑得最好	shei2 xiao4 zai4 zui4 hou4 shei2 xiao4 de2 zui4 hao3
+师父领进门，修行在个人	shi1 fu5 ling3 jin4 men2 xiu1 xing2 zai4 ge4 ren2
+是骡子是马，拉出来遛遛	shi4 luo2 zi5 shi4 ma3 la1 chu1 lai5 liu4 liu5
+是骡子是马，牵出来遛遛	shi4 luo2 zi5 shi4 ma3 qian1 chu1 lai5 liu4 liu5
+世上无难事，只怕有心人	shi4 shang4 wu2 nan2 shi4 zhi3 pa4 you3 xin1 ren2
+台上一分钟，台下十年功	tai2 shang4 yi1 fen1 zhong1 tai2 xia4 shi2 nian2 gong1
+天下无难事，只怕有心人	tian1 xia4 wu2 nan2 shi4 zhi3 pa4 you3 xin1 ren2
+听君一席话，胜读十年书	ting1 jun1 yi1 xi2 hua4 sheng4 du2 shi2 nian2 shu1
+同一个世界，同一个梦想	tong2 yi1 ge4 shi4 jie4 tong2 yi1 ge4 meng4 xiang3
+吾生也有涯，而知也无涯	wu2 sheng1 ye3 you3 ya2 er2 zhi1 ye3 wu2 ya2
 西藏百万农奴解放纪念日	xi1 zang4 bai3 wan4 nong2 nu2 jie3 fang4 ji4 nian4 ri4
+秀才不出门，能知天下事	xiu4 cai5 bu4 chu1 men2 neng2 zhi1 tian1 xia4 shi4
+秀才不出门，全知天下事	xiu4 cai5 bu4 chu1 men2 quan2 zhi1 tian1 xia4 shi4
 压死骆驼的最后一根稻草	ya1 si3 luo4 tuo5 de5 zui4 hou4 yi1 gen1 dao4 cao3
+哑巴吃黄连，有苦说不出	ya3 ba5 chi1 huang2 lian2 you3 ku3 shuo1 bu5 chu1
 严重急性呼吸系统综合症	yan2 zhong4 ji2 xing4 hu1 xi1 xi4 tong3 zong1 he2 zheng4
+一瓶子不响，半瓶子晃荡	yi1 ping2 zi5 bu4 xiang3 ban4 ping2 zi5 huang4 dang5
+以小人之心，度君子之腹	yi3 xiao3 ren2 zhi1 xin1 duo2 jun1 zi3 zhi1 fu4
+在家靠父母，出门靠朋友	zai4 jia1 kao4 fu4 mu3 chu1 men2 kao4 peng2 you5
+在家靠父母，出外靠朋友	zai4 jia1 kao4 fu4 mu3 chu1 wai4 kao4 peng2 you5
+在家千日好，出门一时难	zai4 jia1 qian1 ri4 hao3 chu1 men2 yi1 shi2 nan2
+张三，李四，王五，赵六	zhang1 san1 li3 si4 wang2 wu3 zhao4 liu4
 中共中央纪律检查委员会	zhong1 gong4 zhong1 yang1 ji4 lv4 jian3 cha2 wei3 yuan2 hui4
 中国保险监督管理委员会	zhong1 guo2 bao3 xian3 jian1 du1 guan3 li3 wei3 yuan2 hui4
 中国国际贸易促进委员会	zhong1 guo2 guo2 ji4 mao4 yi4 cu4 jin4 wei3 yuan2 hui4
@@ -54429,27 +54946,82 @@ sort: by_weight
 中国石油和化学工业协会	zhong1 guo2 shi2 you2 he2 hua4 xue2 gong1 ye4 xie2 hui4
 中国石油天然气集团公司	zhong1 guo2 shi2 you2 tian1 ran2 qi4 ji2 tuan2 gong1 si1
 中国证券监督管理委员会	zhong1 guo2 zheng4 quan4 jian1 du1 guan3 li3 wei3 yuan2 hui4
+子不嫌母丑，狗不嫌家贫	zi3 bu4 xian2 mu3 chou3 gou3 bu4 xian2 jia1 pin2
+走自己的路，让人家去说	zou3 zi4 ji3 de5 lu4 rang4 ren2 jia1 qu4 shuo1
 奥林匹克运动会组织委员会	ao4 lin2 pi3 ke4 yun4 dong4 hui4 zu3 zhi1 wei3 yuan2 hui4
 创伤后心理压力紧张综合症	chuang1 shang1 hou4 xin1 li3 ya1 li4 jin3 zhang1 zong1 he2 zheng4
 电机及电子学工程师联合会	dian4 ji1 ji2 dian4 zi3 xue2 gong1 cheng2 shi1 lian2 he2 hui4
+黄鼠狼给鸡拜年，没安好心	huang2 shu3 lang2 gei3 ji1 bai4 nian2 mei2 an1 hao3 xin1
 加利福尼亚大学洛杉矶分校	jia1 li4 fu2 ni2 ya4 da4 xue2 luo4 shan1 ji1 fen1 xiao4
+罗伯特·路易斯·斯蒂文森	luo2 bo2 te4 lu4 yi4 si1 si1 di4 wen2 sen1
 密闭式循环再呼吸水肺系统	mi4 bi4 shi4 xun2 huan2 zai4 hu1 xi1 shui3 fei4 xi4 tong3
+千里马常有，而伯乐不常有	qian1 li3 ma3 chang2 you3 er2 bo2 le4 bu4 chang2 you3
+人不可貌相，海水不可斗量	ren2 bu4 ke3 mao4 xiang4 hai3 shui3 bu4 ke3 dou3 liang2
+人非生而知之者，孰能无惑	ren2 fei1 sheng1 er2 zhi1 zhi1 zhe3 shu2 neng2 wu2 huo4
 上海证券交易所综合股价指	shang4 hai3 zheng4 quan4 jiao1 yi4 suo3 zong1 he2 gu3 jia4 zhi3
 实践是检验真理的唯一标准	shi2 jian4 shi4 jian3 yan4 zhen1 li3 de5 wei2 yi1 biao1 zhun3
 苏维埃社会主义共和国联盟	su1 wei2 ai1 she4 hui4 zhu3 yi4 gong4 he2 guo2 lian2 meng2
 泰米尔伊拉姆猛虎解放组织	tai4 mi3 er3 yi1 la1 mu3 meng3 hu3 jie3 fang4 zu3 zhi1
+托马斯·斯特恩斯·艾略特	tuo1 ma3 si1 si4 te4 en1 si1 ai4 lve4 te4
 中国石油化工股份有限公司	zhong1 guo2 shi2 you2 hua4 gong1 gu3 fen4 you3 xian4 gong1 si1
 中国无线电频谱管理和监测	zhong1 guo2 wu2 xian4 dian4 pin2 pu3 guan3 li3 he2 jian1 ce4
 中国银行业监督管理委员会	zhong1 guo2 yin2 hang2 ye4 jian1 du1 guan3 li3 wei3 yuan2 hui4
 中航技进出口有限责任公司	zhong1 hang2 ji4 jin4 chu1 kou3 you3 xian4 ze2 ren4 gong1 si1
 波斯尼亚和黑塞哥维那共和国	bo1 si1 ni2 ya4 he2 hei1 sai4 ge1 wei2 na4 gong4 he2 guo2
+吃人家的嘴软，拿人家的手短	chi1 ren2 jia1 de5 zui3 ruan3 na2 ren2 jia1 de5 shou3 duan3
+刀不磨要生锈，人不学要落后	dao1 bu4 mo2 yao4 sheng1 xiu4 ren2 bu4 xue2 yao4 luo4 hou4
 公民权利和政治权利国际公约	gong1 min2 quan2 li4 he2 zheng4 zhi4 quan2 li4 guo2 ji4 gong1 yue1
+家丑不可外传，流言切莫轻信	jia1 chou3 bu4 ke3 wai4 chuan2 liu2 yan2 qie4 mo4 qing1 xin4
 经济社会及文化权利国际公约	jing1 ji4 she4 hui4 ji2 wen2 hua4 quan2 li4 guo2 ji4 gong1 yue1
+马无夜草不肥，人无外快不富	ma3 wu2 ye4 cao3 bu4 fei2 ren2 wu2 wai4 kuai4 bu4 fu4
+千里搭长棚，没有不散的宴席	qian1 li3 da1 chang2 peng2 mei2 you3 bu4 san4 de5 yan4 xi2
 全国人民代表大会常务委员会	quan2 guo2 ren2 min2 dai4 biao3 da4 hui4 chang2 wu4 wei3 yuan2 hui4
+三个臭皮匠，合成一个诸葛亮	san1 ge4 chou4 pi2 jiang5 he2 cheng2 yi1 ge4 zhu1 ge3 liang4
+三个臭皮匠，赛过一个诸葛亮	san1 ge4 chou4 pi2 jiang5 sai4 guo4 yi1 ge4 zhu1 ge3 liang4
+三个臭皮匠，胜过一个诸葛亮	san1 ge4 chou4 pi2 jiang5 sheng4 guo4 yi1 ge4 zhu1 ge3 liang4
+舍得一身剐，敢把皇帝拉下马	she3 de5 yi1 shen1 gua3 gan3 ba3 huang2 di4 la1 xia4 ma3
+士为知己者死，女为悦己者容	shi4 wei4 zhi1 ji3 zhe3 si3 nv3 wei4 yue4 ji3 zhe3 rong2
+水至清则无鱼，人至察则无徒	shui3 zhi4 qing1 ze2 wu2 yu2 ren2 zhi4 cha2 ze2 wu2 tu2
+天有不测风云，人有旦夕祸福	tian1 you3 bu4 ce4 feng1 yun2 ren2 you3 dan4 xi1 huo4 fu2
 消除对妇女一切形式歧视公约	xiao1 chu2 dui4 fu4 nv3 yi1 qie4 xing2 shi4 qi2 shi4 gong1 yue1
+虚心使人进步，骄傲使人落后	xu1 xin1 shi3 ren2 jin4 bu4 jiao1 ao4 shi3 ren2 luo4 hou4
+学而不思则罔，思而不学则殆	xue2 er2 bu4 si1 ze2 wang3 si1 er2 bu4 xue2 ze2 dai4
+一部二十四史，不知从何说起	yi1 bu4 er4 shi2 si4 shi3 bu4 zhi1 cong2 he2 shuo1 qi3
+又要马儿好，又要马儿不吃草	you4 yao4 ma3 r5 hao3 you4 yao4 ma3 r5 bu4 chi1 cao3
+又要马儿跑，又要马儿不吃草	you4 yao4 ma3 r5 pao3 you4 yao4 ma3 r5 bu4 chi1 cao3
+运筹帷幄之中，决胜千里之外	yun4 chou2 wei2 wo4 zhi1 zhong1 jue2 sheng4 qian1 li3 zhi1 wai4
+只许州官放火，不许百姓点灯	zhi3 xu3 zhou1 guan1 fang4 huo3 bu4 xu3 bai3 xing4 dian3 deng1
 中国共产党中央委员会宣传部	zhong1 guo2 gong4 chan3 dang3 zhong1 yang1 wei3 yuan2 hui4 xuan1 chuan2 bu4
 濒危野生动植物种国际贸易公约	bin1 wei1 ye3 sheng1 dong4 zhi2 wu4 zhong3 guo2 ji4 mao4 yi4 gong1 yue1
 国务院国有资产监督管理委员会	guo2 wu4 yuan4 guo2 you3 zi1 chan3 jian1 du1 guan3 li3 wei3 yuan2 hui4
 联合国难民事务高级专员办事处	lian2 he2 guo2 nan2 min2 shi4 wu4 gao1 ji2 zhuan1 yuan2 ban4 shi4 chu4
 普通高等学校招生全国统一考试	pu3 tong1 gao1 deng3 xue2 xiao4 zhao1 sheng1 quan2 guo2 tong3 yi1 kao3 shi4
+说是一回事，做又是另外一回事	shuo1 shi4 yi1 hui2 shi4 zuo4 you4 shi4 ling4 wai4 yi1 hui2 shi4
+不管白猫黑猫，捉住老鼠就是好猫	bu4 guan3 bai2 mao1 hei1 mao1 zhuo1 zhu4 lao3 shu3 jiu4 shi4 hao3 mao1
+曾经沧海难为水，除却巫山不是云	ceng2 jing1 cang1 hai3 nan2 wei2 shui3 chu2 que4 wu1 shan1 bu4 shi4 yun2
+车到山前必有路，船到桥头自然直	che1 dao4 shan1 qian2 bi4 you3 lu4 chuan2 dao4 qiao2 tou2 zi4 ran2 zhi2
+各人自扫门前雪，莫管他家瓦上霜	ge4 ren2 zi4 sao3 men2 qian2 xue3 mo4 guan3 ta1 jia1 wa3 shang4 shuang1
+酒不醉人人自醉，色不迷人人自迷	jiu3 bu4 zui4 ren2 ren2 zi4 zui4 se4 bu4 mi2 ren2 ren2 zi4 mi2
+老子英雄儿好汉，老子反动儿混蛋	lao3 zi5 ying1 xiong2 er2 hao3 han4 lao3 zi5 fan3 dong4 er2 hun2 dan4
+米格尔·德·塞万提斯·萨维德拉	mi3 ge2 er3 de2 sai1 wan4 ti2 si1 sa4 wei2 de2 la1
+你走你的阳关道，我过我的独木桥	ni3 zou3 ni3 de5 yang2 guan1 dao4 wo3 guo4 wo3 de5 du2 mu4 qiao2
+平生不做亏心事，半夜敲门心不惊	ping2 sheng1 bu4 zuo4 kui1 xin1 shi4 ban4 ye4 qiao1 men2 xin1 bu4 jing1
+钱不是万能的，没钱是万万不能的	qian2 bu4 shi4 wan4 neng2 de5 mei2 qian2 shi4 wan4 wan4 bu4 neng2 de5
+穷在闹市无人问，富在深山有远亲	qiong2 zai4 nao4 shi4 wu2 ren2 wen4 fu4 zai4 shen1 shan1 you3 yuan3 qin1
+书中自有黄金屋，书中自有颜如玉	shu1 zhong1 zi4 you3 huang2 jin1 wu1 shu1 zhong1 zi4 you3 yan2 ru2 yu4
+说是一回事，而做又是另外一回事	shuo1 shi4 yi1 hui2 shi4 er2 zuo4 you4 shi4 ling4 wai4 yi1 hui2 shi4
+踏破铁鞋无觅处，得来全不费工夫	ta4 po4 tie3 xie2 wu2 mi4 chu4 de2 lai2 quan2 bu4 fei4 gong1 fu5
+先天下之忧而忧，后天下之乐而乐	xian1 tian1 xia4 zhi1 you1 er2 you1 hou4 tian1 xia4 zhi1 le4 er2 le4
+一寸光阴一寸金，寸金难买寸光阴	yi1 cun4 guang1 yin1 yi1 cun4 jin1 cun4 jin1 nan2 mai3 cun4 guang1 yin1
+有仇不报非君子，有冤不伸枉为人	you3 chou2 bu4 bao4 fei1 jun1 zi3 you3 yuan1 bu4 shen1 wang3 wei2 ren2
+有意栽花花不发，无心插柳柳成阴	you3 yi4 zai1 hua1 hua1 bu4 fa1 wu2 xin1 cha1 liu3 liu3 cheng2 yin1
+鱼生火，肉生痰，青菜豆腐保平安	yu2 sheng1 huo3 rou4 sheng1 tan2 qing1 cai4 dou4 fu5 bao3 ping2 an1
+在天愿做比翼鸟，在地愿做连理枝	zai4 tian1 yuan4 zuo4 bi3 yi4 niao3 zai4 di4 yuan4 zuo4 lian2 li3 zhi1
+带着希望去旅行，比到达终点更美好	dai4 zhe5 xi1 wang4 qu4 lv3 xing2 bi3 dao4 da2 zhong1 dian3 geng4 mei3 hao3
+路易斯·伊纳西奥·卢拉·达席尔瓦	lu4 yi4 si1 yi1 na4 xi1 ao4 lu2 la1 da2 xi2 er3 wa3
+不怕神一样的对手，就怕猪一样的队友	bu4 pa4 shen2 yi1 yang4 de5 dui4 shou3 jiu4 pa4 zhu1 yi1 yang4 de5 dui4 you3
+好学近乎知，力行近乎仁，知耻近乎勇	hao4 xue2 jin4 hu1 zhi1 li4 xing2 jin4 hu1 ren2 zhi1 chi3 jin4 hu1 yong3
+老吾老，以及人之老，幼吾幼，以及人之幼	lao3 wu2 lao3 yi3 ji2 ren2 zhi1 lao3 you4 wu2 you4 yi3 ji2 ren2 zhi1 you4
+善有善报，恶有恶报，若然不报，时辰未到	shan4 you3 shan4 bao4 e4 you3 e4 bao4 ruo4 ran2 bu4 bao4 shi2 chen2 wei4 dao4
 中央人民政府驻香港特别行政区联络办公室	zhong1 yang1 ren2 min2 zheng4 fu3 zhu4 xiang1 gang3 te4 bie2 xing2 zheng4 qu1 lian2 luo4 ban4 gong1 shi4
+无一事而不学，无一时而不学，无一处而不得	wu2 yi1 shi4 er2 bu4 xue2 wu2 yi1 shi2 er2 bu4 xue2 wu2 yi1 chu4 er2 bu4 de2
