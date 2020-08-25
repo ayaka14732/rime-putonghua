@@ -11,7 +11,7 @@
 
 ---
 name: putonghua
-version: "2020.08.21-2"
+version: "2020.08.25"
 sort: by_weight
 vocabulary: essay-zh-hans
 import_tables:
@@ -36287,6 +36287,7 @@ import_tables:
 必有	bi4 you3
 避雨	bi4 yu3
 碧玉	bi4 yu4
+闭源	bi4 yuan2
 碧云	bi4 yun2
 避孕	bi4 yun4
 臂章	bi4 zhang1
@@ -107306,6 +107307,7 @@ import_tables:
 必由之路	bi4 you2 zhi1 lu4
 臂有四肘	bi4 you3 si4 zhou3
 毕雨箕风	bi4 yu3 ji1 feng1
+闭源软件	bi4 yuan2 ruan3 jian4
 闭着眼睛	bi4 zhe yan3 jing1
 必争之地	bi4 zheng1 zhi1 di4
 避之若浼	bi4 zhi1 ruo4 mei3
@@ -114799,6 +114801,7 @@ import_tables:
 供应过程	gong1 ying4 guo4 cheng2
 公用电话	gong1 yong4 dian4 hua4
 公用事业	gong1 yong4 shi4 ye4
+公有领域	gong1 you3 ling3 yu4
 公允价值	gong1 yun3 jia4 zhi2
 弓折刀尽	gong1 zhe2 dao1 jin4
 公正不阿	gong1 zheng4 bu4 e1
@@ -119808,6 +119811,7 @@ import_tables:
 开心农场	kai1 xin1 nong2 chang3
 开源节流	kai1 yuan2 jie2 liu2
 开源软件	kai1 yuan2 ruan3 jian4
+开源项目	kai1 yuan2 xiang4 mu4
 开云见日	kai1 yun2 jian4 ri4
 开云见天	kai1 yun2 jian4 tian1
 开展工作	kai1 zhan3 gong1 zuo4
@@ -138671,6 +138675,7 @@ import_tables:
 专用文件	zhuan1 yong4 wen2 jian4
 专用线路	zhuan1 yong4 xian4 lu4
 专有名词	zhuan1 you3 ming2 ci2
+专有软件	zhuan1 you3 ruan3 jian4
 专欲难成	zhuan1 yu4 nan2 cheng2
 专员公署	zhuan1 yuan2 gong1 shu3
 专制主义	zhuan1 zhi4 zhu3 yi4
@@ -142159,6 +142164,7 @@ import_tables:
 错误恢复过程	cuo4 wu4 hui1 fu4 guo4 cheng2
 错误预测模型	cuo4 wu4 yu4 ce4 mo2 xing2
 打肿脸充胖子	da3 zhong3 lian3 chong1 pang4 zi1
+大教堂与集市	da4 jiao4 tang2 yu3 ji2 shi4
 大开方便之门	da4 kai1 fang1 bian4 zhi1 men2
 大连理工大学	da4 lian2 li3 gong1 da4 xue2
 大屏幕显示器	da4 ping2 mu4 xian3 shi4 qi4
@@ -144045,6 +144051,7 @@ import_tables:
 凉山彝族自治州	liang2 shan1 yi2 zu2 zi4 zhi4 zhou1
 两强相遇勇者胜	liang3 qiang2 xiang1 yu4 yong3 zhe3 sheng4
 量化知识复杂度	liang4 hua4 zhi1 shi2 fu4 za2 du4
+林纳斯·托瓦兹	lin2 na4 si1 tuo1 wa3 zi1
 临夏回族自治州	lin2 xia4 hui2 zu2 zi4 zhi4 zhou1
 陵水黎族自治县	ling2 shui3 li2 zu2 zi4 zhi4 xian4
 留取丹心照汗青	liu2 qu3 dan1 xin1 zhao4 han4 qing1
@@ -144587,6 +144594,7 @@ import_tables:
 开发者合同管理员	kai1 fa1 zhe3 he2 tong2 guan3 li3 yuan2
 开放的数据库连接	kai1 fang4 de shu4 ju4 ku4 lian2 jie1
 开放体系结构框架	kai1 fang4 ti3 xi4 jie2 gou4 kuang1 jia4
+开放源代码促进会	kai1 fang4 yuan2 dai4 ma3 cu4 jin4 hui4
 抗恶劣环境计算机	kang4 e4 lie4 huan2 jing4 ji4 suan4 ji1
 可编程控制计算机	ke3 bian1 cheng2 kong4 zhi4 ji4 suan4 ji1
 可编程逻辑控制器	ke3 bian1 cheng2 luo2 ji2 kong4 zhi4 qi4
@@ -145068,6 +145076,7 @@ import_tables:
 中国国民党革命委员会	zhong1 guo2 guo2 min2 dang3 ge2 ming4 wei3 yuan2 hui4
 中国文学艺术界联合会	zhong1 guo2 wen2 xue2 yi4 shu4 jie4 lian2 he2 hui4
 紫云苗族布依族自治县	zi3 yun2 miao2 zu2 bu4 yi1 zu2 zi4 zhi4 xian4
+自由及开放源代码软件	zi4 you2 ji2 kai1 fang4 yuan2 dai4 ma3 ruan3 jian4
 爱之欲其生，恶之欲其死	ai4 zhi1 yu4 qi2 sheng1 e4 zhi1 yu4 qi2 si3
 拔一毛而利天下，不为也	ba2 yi4 mao2 er2 li4 tian1 xia4 bu4 wei2 ye3
 得道者多助，失道者寡助	de2 dao4 zhe3 duo1 zhu4 shi1 dao4 zhe3 gua3 zhu4
