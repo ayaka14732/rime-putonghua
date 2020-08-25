@@ -37,8 +37,17 @@ librime 需装配以下插件：
 
 ### Arch Linux
 
-1. 从 AUR 安装 `rime-putonghua`
-1. 将 `/usr/share/rime-data/rime.lua` 文件与 `/usr/share/rime-data/lua` 文件夹手动复制到 rime 用户文件夹中
+从 AUR 安装 [`rime-putonghua`](https://aur.archlinux.org/packages/rime-putonghua/)。
+
+### 使用 plum 安装
+
+确保 librime 装配了 [librime-lua](https://github.com/hchunhui/librime-lua) 插件，然后手动安装 [hchunhui/librime-cloud](https://github.com/hchunhui/librime-cloud)。 
+
+打开命令行，输入以下命令：
+
+```sh
+curl -fsSL https://git.io/rime-install | bash -s -- szc126/rime-liangfen stroke emoji sgalal/rime-symbolic-simp essay-simp ayaka14732/rime-putonghua custom:set:config=default,key=installed_from,value=ayaka14732/rime-putonghua custom:add:schema=putonghua
+```
 
 ## 数据来源
 
