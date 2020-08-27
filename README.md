@@ -33,7 +33,7 @@ librime 需装配以下插件：
 - [rime/rime-emoji](https://github.com/rime/rime-emoji)：Emoji 输入
 - [sgalal/rime-symbolic-simp](https://github.com/sgalal/rime-symbolic-simp)：符号输入
 - [rime/rime-essay-simp](https://github.com/rime/rime-essay-simp)：词频数据
-- [hchunhui/librime-cloud](https://github.com/hchunhui/librime-cloud)：百度云输入
+- [hchunhui/librime-cloud](https://github.com/hchunhui/librime-cloud)：百度云输入（非必需）
 
 ### Arch Linux
 
