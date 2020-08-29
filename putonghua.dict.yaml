@@ -11,7 +11,7 @@
 
 ---
 name: putonghua
-version: "2020.08.25"
+version: "2020.08.29"
 sort: by_weight
 vocabulary: essay-zh-hans
 import_tables:
@@ -32591,8 +32591,8 @@ import_tables:
 䦶	zheng4
 塣	zheng4
 奠	zheng4	0%
-帧	zheng4
-幀	zheng4
+帧	zheng4	0%
+幀	zheng4	0%
 徎	zheng4
 怔	zheng4	0%
 憕	zheng4
@@ -84991,6 +84991,7 @@ import_tables:
 真实	zhen1 shi2
 珍视	zhen1 shi4
 真是	zhen1 shi4
+帧数	zhen1 shu4
 榛树	zhen1 shu4
 真数	zhen1 shu4
 真率	zhen1 shuai4
@@ -92715,6 +92716,7 @@ import_tables:
 高邮县	gao1 you2 xian4
 高圆圆	gao1 yuan2 yuan2
 高增长	gao1 zeng1 zhang3
+高帧率	gao1 zhen1 lv4
 高质量	gao1 zhi4 liang4
 高中生	gao1 zhong1 sheng1
 高州市	gao1 zhou1 shi4
@@ -100312,6 +100314,7 @@ import_tables:
 数字段	shu4 zi4 duan4
 数字化	shu4 zi4 hua4
 数字式	shu4 zi4 shi4
+刷新率	shua1 xin1 lv4
 耍把戏	shua3 ba3 xi4
 耍笔杆	shua3 bi3 gan3
 耍单儿	shua3 dan1 er2
@@ -110116,6 +110119,7 @@ import_tables:
 垂直处理	chui2 zhi2 chu3 li3
 垂直分片	chui2 zhi2 fen1 pian4
 垂直绿化	chui2 zhi2 lv4 hua4
+垂直同步	chui2 zhi2 tong2 bu4
 吹竹弹丝	chui2 zhu2 dan4 si1
 春冰虎尾	chun1 bing1 hu3 wei3
 春风得意	chun1 feng1 de2 yi4
@@ -127799,6 +127803,7 @@ import_tables:
 时钟步进	shi2 zhong1 bu4 jin4
 时钟脉冲	shi2 zhong1 mai4 chong1
 时钟偏差	shi2 zhong1 pian1 cha1
+时钟频率	shi2 zhong1 pin2 lv4
 时钟周期	shi2 zhong1 zhou1 qi1
 十转九空	shi2 zhuan3 jiu3 kong1
 十捉九着	shi2 zhuo1 jiu3 zhe
@@ -127991,6 +127996,7 @@ import_tables:
 视觉冲击	shi4 jue2 chong1 ji1
 视觉模型	shi4 jue2 mo2 xing2
 视觉效果	shi4 jue2 xiao4 guo3
+视觉暂留	shi4 jue2 zan4 liu2
 狧穅及米	shi4 kan3 ji2 mi3
 适可而止	shi4 ke3 er2 zhi3
 市荔湾区	shi4 li4 wan1 qu1
