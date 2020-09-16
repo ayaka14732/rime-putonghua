@@ -118,7 +118,7 @@ translator:
     - xform v2 ǘ
     - xform v3 ǚ
     - xform v4 ǜ
-    - xform (?<=[nljqx])v ü
+    - xform v ü
 
 liangfen:
   tag: liangfen
